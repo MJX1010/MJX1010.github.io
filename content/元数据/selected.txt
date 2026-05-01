@@ -1,0 +1,203 @@
+﻿https://github.com/Cysharp/MemoryPack | Cysharp/MemoryPack: Zero encoding extreme performance binary serializer for C# and Unity.
+https://github.com/Cysharp/UniTask | Cysharp/UniTask: Provides an efficient allocation free async/await integration for Unity.
+https://github.com/EllanJiang/UnityGameFramework | EllanJiang/UnityGameFramework: This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.
+https://github.com/EsotericSoftware/spine-runtimes | EsotericSoftware/spine-runtimes: 2D skeletal animation runtimes for Spine.
+https://github.com/LiShengYang-yiyi/YIUI | LiShengYang-yiyi/YIUI: Unity3D UGUI Framework, 基于UI数据事件绑定为核心 数据驱动的UGUI框架, ETUI框架, ET框架官方推荐UI框架
+https://github.com/Siccity/Dialogue | Siccity/Dialogue: Node based dialogue system
+https://github.com/Siccity/xNode | Siccity/xNode: Unity Node Editor: Lets you view and edit node graphs inside Unity
+https://github.com/Unity-Technologies/com.unity.cinemachine | Unity-Technologies/com.unity.cinemachine: Smart camera tools for passionate creators
+https://github.com/Unity-Technologies/UnityCsReference | Unity-Technologies/UnityCsReference: Unity C# reference source code.
+https://github.com/XINCGer/UnityToolchainsTrick | XINCGer/UnityToolchainsTrick: 提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the UnityEditor toolchain)
+https://github.com/ad313/SourceGenerator.Template | ad313/SourceGenerator.Template: C# Source Generator，easy to generate code using templates
+https://github.com/egametang/ET | egametang/ET: Unity3D Client And C# Server Framework
+https://github.com/fairygui/FairyGUI-unity | fairygui/FairyGUI-unity: A flexible UI framework for Unity
+https://github.com/focus-creative-games/hybridclr | focus-creative-games/hybridclr: HybridCLR是一个特性完整、零成本、高性能、低内存的Unity全平台原生c#热更新解决方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.
+https://github.com/focus-creative-games/hybridclr_trial | focus-creative-games/hybridclr_trial: HybridCLR 示例项目
+https://github.com/focus-creative-games/hybridclr_unity | focus-creative-games/hybridclr_unity: Unity package for HybridCLR
+https://github.com/focus-creative-games/luban | focus-creative-games/luban: luban是一个强大、易用、优雅、稳定的游戏配置解决方案。luban is a powerful, easy-to-use, elegant and stable game configuration solution.
+https://github.com/focus-creative-games/luban_examples | focus-creative-games/luban_examples: luban example projects
+https://github.com/focus-creative-games/luban_unity | focus-creative-games/luban_unity: unity package for luban
+https://github.com/googleads/googleads-mobile-unity | googleads/googleads-mobile-unity: Official Unity Plugin for the Google Mobile Ads SDK
+https://github.com/minitap-ai/mobile-use | minitap-ai/mobile-use: AI agents can now use real Android and iOS apps, just like a human.
+https://github.com/musistudio/claude-code-router | musistudio/claude-code-router: Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+https://github.com/snailyp/gemini-balance | snailyp/gemini-balance: Gemini polling proxy service （gemini轮询代理服务）
+https://github.com/thekiwicoder0/UnityBehaviourTreeEditor | thekiwicoder0/UnityBehaviourTreeEditor: Behaviour Tree Editor for Unity built with UIToolkit
+https://github.com/toponteam/TPN-Unity-Demo | toponteam/TPN-Unity-Demo
+https://github.com/tuyoogame/YooAsset | tuyoogame/YooAsset: unity3d resources management system
+https://bytetech.info/articles/7542770770641223690#AE50dC9ylooJUsxWi9gc59Wqn3e | Android Hook技术全面解析：从原理到实践 - 文章 - ByteTech
+https://bytedance.larkoffice.com/wiki/RioNwVFDdiKzZwkFvy9cRAJKnBc?sheet=V62m5h | YIUI基础组件 - 飞书云文档
+https://bytetech.info/videos/set/7288660699621359674/7288640177994465292 | ECS : Entity Component System 架构设计介绍 - 合辑 - ByteTech
+https://bytetech.info/videos/7134694941254483976 | Unity il2cpp 编译流程分享 - 视频 - ByteTech
+https://bytetech.info/videos/7134657562808418340 | Unity il2cpp 编译流程分享 （下） - 视频 - ByteTech
+https://bytetech.info/videos/set/7581092880536125483/7574343259054178331 | iOS内存工具分享与实践 - 合辑 - ByteTech
+https://bytetech.info/videos/set/7581092880536125483/7579539088949182516 | 小游戏&直播客户端内存优化实践 - 合辑 - ByteTech
+https://ai.feishu.cn/wiki/ES7Gwz4EAiVGKSkotY5cRbTznuh | YIUI - 飞书云文档
+https://github.com/doocs/awesome-ai | doocs/awesome-ai: 🤗 AI Tools Collection | AI 工具集汇总，欢迎补充
+https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-10/sdk | What's new in the SDK and tooling for .NET 10 | Microsoft Learn
+https://www.trae.ai/solo | Solo | TRAE - Collaborate with Intelligence
+https://moonton.feishu.cn/wiki/wikcnwnb8nMXa7P6eXagUk18rRd | iPhone/iPad苹果设备型号对应常用名称列表 - 飞书云文档
+https://developer.android.com/studio?hl=zh-cn | 下载 Android Studio 和应用工具 - Android 开发者  |  Android Developers
+https://learn.microsoft.com/en-us/visualstudio/modeling/map-dependencies-across-your-solutions?view=vs-2022 | Visualize dependencies with code maps - Visual Studio (Windows) | Microsoft Learn
+https://agent.minimaxi.com/ | MiniMax Agent: 简单指令, 无限可能
+https://aistudio.google.com/u/0/api-keys | Google AI Studio
+https://unity.com/cn/features/cinemachine | Cinemachine
+https://developer.apple.com/documentation/signinwithapple/bringing-new-apps-and-users-into-your-team | Bringing new apps and users into your team | Apple Developer Documentation
+https://docs.unity3d.com/cn/2022.3/Manual/ExecutionOrder.html | 事件函数的执行顺序 - Unity 手册
+https://catlikecoding.com/unity/tutorials/ | Unity C# and Shader Tutorials
+https://docs.unity3d.com/6000.2/Documentation/ScriptReference/Playables.PlayableDirector.html
+https://developer.android.com/?hl=zh-cn&authuser=1 | Android 移动应用开发者工具 – Android 开发者  |  Android Developers
+https://moonton.feishu.cn/wiki/ZCGwwX5YYiDWO6kUkKMcmyvhnDc | 龙2 luban 策划使用简要指南 - 飞书云文档
+https://docs.unity.com/zh-cn/grow/ads/ios-sdk/ios14/att-compliance | 应用追踪透明度的合规性 • Unity Grow • Unity Docs
+https://moonton.feishu.cn/wiki/ZRgPwmk7aijKUGkIRUmcHhsMnhf | iOS审核反馈记录 - 飞书云文档
+https://developer.apple.com/documentation/gamekit/initializing-and-configuring-game-center | Initializing and configuring Game Center | Apple Developer Documentation
+https://developer.android.com/games/engines/unity/unity-on-android?hl=zh-cn#16-kb-page-support | 使用 Unity 制作游戏  |  Android game development  |  Android Developers
+https://portal.toponad.net/m/sdk/download?type=Unity | TopOn
+https://fmod.com/docs/2.03/unity/welcome.html | FMOD - Welcome to FMOD for Unity
+https://ai-bot.cn/ | AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全
+https://docs.unity3d.com/Manual/index.html | Unity - Manual: Unity 6.2 User Manual
+https://developer.android.com/studio?hl=zh-cn#command-tools | 下载 Android Studio 和应用工具 - Android 开发者  |  Android Developers
+https://firebase.google.com/docs/unity/setup?hl=zh-cn#analytics-not-enabled | 将 Firebase 添加到您的 Unity 项目  |  Firebase for Unity
+https://unity.com/cn/community | 通过我们的社区平台增强您的内容能力 | Unity
+https://docs.unity3d.com/6000.1/Documentation/Manual/android-requirements-and-compatibility.html?utm_source=chatgpt.com | Unity - Manual: Android requirements and compatibility
+https://moonton.feishu.cn/wiki/wikcnLzQ1RjXCV0t1lTHXZc91zf | 线上jumpserver用户手册 - 飞书云文档
+https://moonton.feishu.cn/wiki/EILww9qG2iHB00klvAPcHD3onlf | HELA监控用户手册 - 飞书云文档
+https://moonton.feishu.cn/wiki/wikcnDiZExE8IEBLZPgkX4kC7Ia | 镜像仓库使用手册 - 飞书云文档
+https://firebase.google.com/docs/unity/setup?hl=zh-cn | 将 Firebase 添加到您的 Unity 项目  |  Firebase for Unity
+https://developer.android.com/studio/releases?hl=zh-cn#android_gradle_plugin_and_android_studio_compatibility | Android Studio Otter | 2025.2.1  |  Android Developers
+https://developer.android.com/studio?utm_source=android-studio&hl=zh-cn | 下载 Android Studio 和应用工具 - Android 开发者  |  Android Developers
+https://developer.android.com/build/agp-upgrade-assistant?hl=zh-cn | 使用 Android Gradle 插件升级助理  |  Android Studio  |  Android Developers
+https://github.com/CorentinTh/it-tools | CorentinTh/it-tools: Collection of handy online tools for developers, with great UX.
+https://moonton.feishu.cn/wiki/Uy7wwSgqGiCIAVk5tsJcOzKWnyb | 龙骑士国内线上运维操作文档 - 飞书云文档
+https://moonton.feishu.cn/wiki/G2wswFHZMiZn7fkb1ifcnuX2nMh | Crashlytics 功能 - GPM - 飞书云文档
+https://moonton.feishu.cn/wiki/GX7ewKq2YihpFUkLhgwcmpbmnKe | 验证服操作流程 - 飞书云文档
+https://ai-bot.cn/firebase-studio/ | Firebase Studio - 谷歌推出的AI编程工具，一站式开发全栈应用 | AI工具集
+https://ai-bot.cn/sites/53.html | Codex - OpenAI 推出的 AI 编程工具 | AI工具集
+https://ai-bot.cn/sites/60584.html | Qoder - 阿里巴巴推出的 AI Agentic 编程工具 | AI工具集
+https://developers.google.com/unity/packages?hl=zh-cn#firebase | 探索适用于 Unity 的 Google 软件包  |  Google for Developers
+https://portal.toponad.net/m/app | TopOn
+https://developer.android.com/guide/practices/page-sizes?hl=zh-cn | 支持 16 KB 的页面大小  |  Compatibility  |  Android Developers
+https://developer.apple.com/account/resources/certificates/list | Certificates, Identifiers & Profiles - Apple Developer
+https://developer.apple.com/cn/help/app-store-connect/reference/app-information | App 信息 - 参考 - App Store Connect - 帮助 - Apple Developer
+https://ai-bot.cn/daily-ai-news/ | 每日AI资讯、热点、动态、融资、产品发布 | AI工具集
+https://ai-bot.cn/ai-tutorials-2025100401/ | Anthropic发布《AI Agent 上下文工程指南》 | AI工具集
+https://docs.unity3d.com/2021.3/Documentation/Manual/handling-IL2CPP-additional-args.html | Unity - Manual: Handling platform specific settings for IL2CPP additional arguments
+https://github.com/mob-sakai/CSharpCompilerSettingsForUnity | mob-sakai/CSharpCompilerSettingsForUnity: Change the C# compiler (csc) used on your Unity project, as you like!
+https://github.com/toponteam/TPN-Unity-Demo/tree/main/AnyThinkUnityTpnSDK/Assets/ExternalDependencyManager/Editor | TPN-Unity-Demo/AnyThinkUnityTpnSDK/Assets/ExternalDependencyManager/Editor at main · toponteam/TPN-Unity-Demo
+https://docs.unity3d.com/2019.4/Documentation/ScriptReference/Android.AndroidExternalToolsSettings.html | Unity - Scripting API: AndroidExternalToolsSettings
+https://developer.apple.com/account/resources/devices/list | Certificates, Identifiers & Profiles - Apple Developer
+https://github.com/focus-creative-games/luban/releases | Releases · focus-creative-games/luban
+https://aistudio.google.com/api-keys | Google AI Studio
+https://developer.apple.com/account/resources/identifiers/bundleId/edit/MN97WP43P9 | Certificates, Identifiers & Profiles - Apple Developer
+https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer | Process Explorer - Sysinternals | Microsoft Learn
+https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite | Sysinternals Suite - Sysinternals | Microsoft Learn
+https://aistudio.google.com/apikey | Google AI Studio
+https://github.com/tuyoogame/YooAsset/issues | Issues · tuyoogame/YooAsset
+https://github.com/tuyoogame/YooAsset/blob/dev/Assets/YooAsset/Samples~/Test%20Sample/Runtime/T2_TestBuldinFileSystem/TestBundleEncryption.cs | YooAsset/Assets/YooAsset/Samples~/Test Sample/Runtime/T2_TestBuldinFileSystem/TestBundleEncryption.cs at dev · tuyoogame/YooAsset
+https://flowgame.feishu.cn/wiki/LoRewZQ1iipwVpkBxpUc2kO4nTb | 验证服操作流程 - 飞书云文档
+https://github.com/egametang/ET/blob/release9.0/Book/2.1CSharp%E7%9A%84%E5%8D%8F%E7%A8%8B.md | ET/Book/2.1CSharp的协程.md at release9.0 · egametang/ET
+https://unity.com/cn/blog/engine-platform/understanding-unitys-serialization-language-yaml | 了解Unity的序列化语言：YAML
+https://docs.unity3d.com/Manual/SmartMerge.html | Unity - Manual: Smart merge
+https://unity.com/cn/resources/ultimate-guide-to-profiling-unity-games
+https://unity.com/cn/how-to/improve-qa-testing-debugging-debug-class
+https://unity.com/resources/level-up-your-code-with-game-programming-patterns | Level up your code with game programming patterns | Unity
+https://unity.com/resources/user-interface-design-and-implementation-in-unity | User interface design and implementation in Unity
+https://unity.com/cn/blog/games/optimize-your-mobile-game-performance-tips-on-profiling-memory-and-code-architecture-from | 优化移动游戏性能：来自Unity顶级工程师的性能分析、内存与代码架构小贴士
+https://github.com/egametang/ET/blob/release9.0/Book/6.1AI%E6%A1%86%E6%9E%B6.md | ET/Book/6.1AI框架.md at release9.0 · egametang/ET
+https://ai-bot.cn/ai%e5%bf%ab%e8%ae%af/ | AI快讯 | AI工具集
+https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/ | C# 语言参考 | Microsoft Learn
+https://unity.com/releases/editor/whats-new/6000.0.33#installs | Unity 6000.0.33
+https://docs.unity3d.com/cn/2022.3/Manual/SL-Offset.html | ShaderLab 命令：Offset - Unity 手册
+https://github.com/egametang/ET/tree/release8.1 | egametang/ET at release8.1
+https://learn.microsoft.com/en-us/answers/questions/649005/error-while-serializing | Error while serializing - Microsoft Q&A
+https://learn.microsoft.com/en-us/dotnet/standard/serialization/examples-of-xml-serialization | Examples of XML Serialization - .NET | Microsoft Learn
+https://learn.microsoft.com/en-us/dotnet/standard/native-interop/comwrappers-source-generation | ComWrappers source generation - .NET | Microsoft Learn
+https://docs.unity3d.com/cn/2020.2/Manual/class-AssemblyDefinitionImporter.html | 程序集定义 (Assembly Definition) 属性 - Unity 手册
+https://learn.microsoft.com/en-us/dotnet/api/system.string.substring?view=net-9.0 | String.Substring Method (System) | Microsoft Learn
+https://learn.microsoft.com/zh-cn/dotnet/standard/assembly/ | .NET 中的程序集 | Microsoft Learn
+https://learn.microsoft.com/zh-cn/dotnet/api/system.reflection.assembly?view=net-8.0 | Assembly 类 (System.Reflection) | Microsoft Learn
+https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.2/manual/FontAssetsDynamicFonts.html | Dynamic fonts assets | TextMeshPro | 3.2.0-pre.10
+https://docs.unity3d.com/Packages/com.unity.textmeshpro@4.0/manual/FontAssetsCreator.html | Font Asset Creator | TextMeshPro | 4.0.0-pre.2
+https://learn.microsoft.com/en-us/dotnet/api/system.string.compare?view=net-8.0 | String.Compare Method (System) | Microsoft Learn
+https://learn.microsoft.com/en-us/dotnet/api/system.collections.concurrent.concurrentdictionary-2?view=net-8.0 | ConcurrentDictionary<TKey,TValue> Class (System.Collections.Concurrent) | Microsoft Learn
+https://learn.microsoft.com/zh-cn/dotnet/standard/threading/foreground-and-background-threads | 前台和后台线程 - .NET | Microsoft Learn
+https://learn.microsoft.com/zh-cn/dotnet/csharp/roslyn-sdk/get-started/syntax-analysis | 语法分析 (Roslyn API) 入门 - C# | Microsoft Learn
+https://github.com/Cysharp/MemoryPack?tab=readme-ov-file#streaming-serialization | Cysharp/MemoryPack: Zero encoding extreme performance binary serializer for C# and Unity.
+https://github.com/Cysharp/MemoryPack#unity | Cysharp/MemoryPack: Zero encoding extreme performance binary serializer for C# and Unity.
+https://learn.microsoft.com/zh-cn/nuget/quickstart/install-and-use-a-package-in-visual-studio | 快速入门：在 Visual Studio 中安装和使用 NuGet 包（仅适用于 Windows） | Microsoft Learn
+https://github.com/Cysharp/MemoryPack?path=src/MemoryPack.Unity/Assets/MemoryPack.Unity | MemoryPack/src/MemoryPack.Unity/Assets/MemoryPack.Unity at main · Cysharp/MemoryPack
+https://unity.com/cn/blog/engine-platform/serialization-in-unity | Unity 中的序列化
+https://github.com/Cysharp/UniTask?tab=readme-ov-file | Cysharp/UniTask: Provides an efficient allocation free async/await integration for Unity.
+https://firebase.google.com/docs/crashlytics/ndk-reports?hl=zh-cn | 获取 Android NDK 崩溃报告  |  Firebase Crashlytics
+https://learn.microsoft.com/zh-cn/dotnet/csharp/roslyn-sdk/source-generators-overview | 源生成器 - C# | Microsoft Learn
+https://unity.com/releases/editor/archive | Download Archive
+https://unity.com/cn/how-to/use-memory-profiling-unity | 如何使用 Unity 的内存性能分析工具 | Unity
+https://github.com/focus-creative-games/luban_unity/blob/main/README_zh.md | luban_unity/README_zh.md at main · focus-creative-games/luban_unity
+https://docs.unity3d.com/cn/2019.4/Manual/ExecutionOrder.html | 事件函数的执行顺序 - Unity 手册
+https://unity.com/cn/blog/engine-platform/il2cpp-full-generic-sharing-in-unity-2022-1-beta | Feature preview: IL2CPP Full Generic Sharing in Unity 2022.1 beta
+https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1?view=net-8.0 | IEqualityComparer<T> Interface (System.Collections.Generic) | Microsoft Learn
+https://learn.microsoft.com/zh-cn/dotnet/standard/managed-code | 什么是托管代码？ - .NET | Microsoft Learn
+https://docs.unity3d.com/Packages/com.unity.editorcoroutines@0.0/manual/index.html | About Editor Coroutines | Package Manager UI website
+https://unity.com/cn/blog | Unity Blog
+https://unity.com/cn/blog/engine-platform/unity-muse-ai-capabilities-in-editor-plus-new-updates | All Unity Muse capabilities are now available in the Editor, plus 3 new updates
+https://learn.microsoft.com/zh-cn/dotnet/standard/clr | 公共语言运行时 (CLR) 概述 - .NET | Microsoft Learn
+https://github.com/EsotericSoftware/spine-runtimes/issues/1304 | [unity] Arbitrary frame animation preview in Scene · Issue #1304 · EsotericSoftware/spine-runtimes · GitHub
+https://docs.unity3d.com/ScriptReference/EditorUtility.html | Unity - Scripting API: EditorUtility
+https://docs.unity3d.com/2019.4/Documentation/ScriptReference/Serializable.html | Unity - Scripting API: Serializable
+https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/statements/lock | lock 语句 - 同步对共享资源的访问 - C# reference | Microsoft Learn
+https://fmod.com/docs/2.00/unity/api-runtimemanager.html#createinstance | FMOD - Scripting API Reference | RuntimeManager (createinstance)
+https://fmod.com/docs/2.00/unity/api.html | FMOD - Scripting API Reference
+https://docs.unity3d.com/Packages/com.unity.editorcoroutines@0.0/api/Unity.EditorCoroutines.Editor.EditorCoroutineUtility.html | Class EditorCoroutineUtility | Package Manager UI website
+https://docs.unity3d.com/2019.4/Documentation/ScriptReference/Camera.html | Unity - Scripting API: Camera
+https://docs.unity3d.com/ScriptReference/ExecuteInEditMode.html | Unity - Scripting API: ExecuteInEditMode
+https://docs.unity3d.com/ScriptReference/ExecuteAlways.html | Unity - Scripting API: ExecuteAlways
+https://docs.unity3d.com/ScriptReference/SceneView.CameraSettings.html | Unity - Scripting API: CameraSettings
+https://docs.unity3d.com/cn/2019.4/Manual/UnderstandingAutomaticMemoryManagement.html | 了解自动内存管理 - Unity 手册
+https://docs.unity3d.com/cn/2019.4/Manual/TextureTypes.html | 纹理类型 - Unity 手册
+https://docs.unity3d.com/cn/2019.4/Manual/TextureTypes.html#Default | 纹理类型 - Unity 手册
+https://docs.unity3d.com/ScriptReference/Quaternion.Euler.html | Unity - Scripting API: Quaternion.Euler
+https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/value-tuples | 元组类型 - C# reference | Microsoft Learn
+https://docs.unity3d.com/ScriptReference/GUIStyle-fontSize.html | Unity - Scripting API: GUIStyle.fontSize
+https://developer.android.com/topic/performance/vitals/anr?hl=zh-cn | ANR  |  App quality  |  Android Developers
+https://docs.unity3d.com/ScriptReference/Undo.RecordObject.html | Unity - Scripting API: Undo.RecordObject
+https://docs.unity3d.com/ScriptReference/EditorApplication.html | Unity - Scripting API: EditorApplication
+https://docs.unity3d.com/ScriptReference/SceneView-size.html | Unity - Scripting API: SceneView.size
+https://docs.unity3d.com/2019.4/Documentation/Manual/pack-safe.html | Unity - Manual: Verified packages
+https://docs.unity3d.com/Packages/com.unity.quicksearch@2.1/manual/search-syntax.html | The Great QuickSearch Syntax Cheat Sheet | Quick Search | 2.1.0-preview.5
+https://docs.unity3d.com/2019.4/Documentation/ScriptReference/Selection.html | Unity - Scripting API: Selection
+https://github.com/focus-creative-games/hybridclr_unity/blob/main/RELEASELOG.md | hybridclr_unity/RELEASELOG.md at main · focus-creative-games/hybridclr_unity
+https://docs.unity3d.com/ScriptReference/Animator.Play.html | Unity - Scripting API: Animator.Play
+https://developer.android.com/build/manage-manifests?hl=zh-cn | 管理清单文件  |  Android Studio  |  Android Developers
+https://docs.unity3d.com/ScriptReference/EditorWindow.html | Unity - Scripting API: EditorWindow
+https://github.com/Unity-Technologies/UnityCsReference/tree/master | Unity-Technologies/UnityCsReference: Unity C# reference source code.
+https://docs.unity3d.com/cn/2019.4/Manual/TreeViewAPI.html | TreeView - Unity 手册
+https://docs.unity3d.com/cn/2019.4/Manual/ExtendingTheEditor.html | 扩展编辑器 - Unity 手册
+https://docs.unity3d.com/2019.4/Documentation/Manual/script-Serialization.html | Unity - Manual: Script Serialization
+https://github.com/Siccity/xNode/wiki/Getting%20Started | Getting Started · Siccity/xNode Wiki
+https://github.com/Siccity/xNodeGroups | Siccity/xNodeGroups: A small addon for xNode that lets you add groups to your graphs
+https://learn.microsoft.com/en-us/dotnet/api/system.weakreference?view=net-8.0 | WeakReference Class (System) | Microsoft Learn
+https://docs.unity3d.com/ScriptReference/Networking.CertificateHandler.ValidateCertificate.html | Unity - Scripting API: Networking.CertificateHandler.ValidateCertificate
+https://docs.unity3d.com/cn/2020.3/Manual/script-Serialization-Custom.html | 自定义序列化 - Unity 手册
+https://github.com/Siccity/xNode/wiki/Node-Editors | Node Editors · Siccity/xNode Wiki
+https://github.com/XINCGer/UnityToolchainsTrick?tab=readme-ov-file | XINCGer/UnityToolchainsTrick: 提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the UnityEditor toolchain)
+https://catlikecoding.com/unity/tutorials/editor/ | Unity C# Editor Tutorials
+https://docs.unity3d.com/2019.3/Documentation/Manual/bolt-flow.html | Unity - Manual: Flow Graphs
+https://docs.unity3d.com/Manual/UIElements.html | Unity - Manual: UI Toolkit
+https://github.com/Siccity/xNode/wiki | Home · Siccity/xNode Wiki
+https://docs.unity3d.com/2019.4/Documentation/Manual/BuildSettingsiOS.html | Unity - Manual: iOS build settings
+https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/how-to-initialize-a-dictionary-with-a-collection-initializer | 如何使用集合初始值设定项初始化字典 - C# 编程指南 - C# | Microsoft Learn
+https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members | 静态类和静态类成员 - C# 编程指南 - C# | Microsoft Learn
+https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers | 对象和集合初始值设定项 - C# 编程指南 - C# | Microsoft Learn
+https://docs.unity3d.com/ScriptReference/Application-backgroundLoadingPriority.html | Unity - Scripting API: Application.backgroundLoadingPriority
+https://learn.microsoft.com/en-us/dotnet/api/system.func-2?view=net-8.0 | Func<T,TResult> Delegate (System) | Microsoft Learn
+https://unity.com/cn/how-to/programming-unity | 适用于资深C#和C++程序员的Unity脚本编写教程
+https://docs.unity3d.com/Packages/com.unity.memoryprofiler@0.7/manual/memory-breakdowns.html | Memory Breakdowns | Memory Profiler | 0.7.1-preview.1
+https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics | C++ 模板与 C# 泛型的区别 - C# 编程指南 - C# | Microsoft Learn
+https://docs.unity3d.com/Manual/class-TextureImporterOverride.html | Unity - Manual: Recommended, default, and supported texture formats, by platform
+https://docs.unity3d.com/cn/2019.4/Manual/class-SpriteAtlas.html | 精灵图集 - Unity 手册
+https://docs.unity3d.com/Manual/editor-EditorWindows.html | Unity - Manual: Editor Windows
+https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-copy-directories | How to: Copy directories - .NET | Microsoft Learn
+https://docs.unity3d.com/Packages/com.unity.ugui@2.0/manual/HOWTO-UIFitContentSize.html | Making UI elements fit the size of their content | Unity UI | 2.0.0
+https://learn.microsoft.com/en-us/dotnet/api/system.string.substring?view=net-8.0 | String.Substring Method (System) | Microsoft Learn
+https://github.com/egametang/ET?tab=readme-ov-file | egametang/ET: Unity3D Client And C# Server Framework
+https://firebase.google.cn/docs/android/setup?hl=zh-cn | 将 Firebase 添加到您的 Android 项目  |  Firebase for Android
+https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-write-text-to-a-file | How to: Write text to a file - .NET | Microsoft Learn
