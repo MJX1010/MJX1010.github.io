@@ -1,0 +1,1703 @@
+﻿https://github.com/821869798/excel_merge | 821869798/excel_merge: excel merge diff tools，excel对比合并工具，把excel转成csv格式，然后调用像beyond compare第三方工具来对比以及合并。合并之后会把csv数据写回excel这样就能完成excel合并
+https://github.com/AsehesL/USubWindow | AsehesL/USubWindow: EditorWindow的多子窗口实现
+https://github.com/Bian-Sh/Dotween-Animation-Provider | Bian-Sh/Dotween-Animation-Provider: Dotween Extension for better preview experience
+https://github.com/CCLBStudio/DOTweenBuilder | CCLBStudio/DOTweenBuilder: A tool for the Unity DOTween plugin, allowing you to easily create complex effects without coding anything.
+https://github.com/Cysharp/MemoryPack | Cysharp/MemoryPack: Zero encoding extreme performance binary serializer for C# and Unity.
+https://github.com/Cysharp/NativeMemoryArray | Cysharp/NativeMemoryArray: Utilized native-memory backed array for .NET and Unity - over the 2GB limitation and support the modern API(IBufferWriter, ReadOnlySequence, scatter/gather I/O, etc...).
+https://github.com/Cysharp/UniTask | Cysharp/UniTask: Provides an efficient allocation free async/await integration for Unity.
+https://github.com/DangoRyn/UnityGameFramework_HybridCLR | DangoRyn/UnityGameFramework_HybridCLR: UnityGameFramework框架，目标整合HybridCLR和luban提供完整热更和配置表演示。
+https://github.com/DevToys-app/DevToys | DevToys-app/DevToys: A Swiss Army knife for developers.
+https://github.com/DeviceFarmer/stf | DeviceFarmer/stf: Control and manage Android devices from your browser.
+https://github.com/ET-Packages/cn.etetet.core | ET-Packages/cn.etetet.core
+https://github.com/EllanJiang/UnityGameFramework | EllanJiang/UnityGameFramework: This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.
+https://github.com/Enanyy/Frame | Enanyy/Frame: 帧同步demo，包含了服务器和客户端，实现了LockStep和乐观帧同步两种模式
+https://github.com/EsotericSoftware/spine-runtimes | EsotericSoftware/spine-runtimes: 2D skeletal animation runtimes for Spine.
+https://github.com/EsotericSoftware/spine-scripts | EsotericSoftware/spine-scripts: Scripts to export from PhotoShop and other tools to Spine's JSON data format.
+https://github.com/InCerryGit/WhoIsFastest-Serialization | InCerryGit/WhoIsFastest-Serialization: Compare. NET common serialization protocols to find out which is the best and fastest
+https://github.com/It-Life/Deer_GameFramework_Wolong | It-Life/Deer_GameFramework_Wolong: 基于GameFramework框架衍生的一个Wolong (huatuo)热更框架,接入luban配表工具,项目里包含例子工程,可直接写项目！
+https://github.com/LeahLee13/UnityCameraSystem_CC | LeahLee13/UnityCameraSystem_CC: 基于Cinemachine的第一/三人称过肩/自由/斜45度/俯视角摄像机系统（本摄像机系统基于Cinemachine的Virtual Camara实现，实现了锁定、旋转、缩放、移动、鼠标显示/隐藏、摄像机位置复位、限制摄像机角度、动态挂载跟随目标、切换视角、遮挡透视等功能，并自带摄像机碰撞，防止穿墙）
+https://github.com/LeahLee13/UnityCameraSystem_RB | LeahLee13/UnityCameraSystem_RB: 基于Cinemachine的第一/三人称过肩/自由/斜45度/俯视角摄像机系统（本摄像机系统基于Cinemachine的Virtual Camara实现，实现了锁定、旋转、缩放、移动、鼠标显示/隐藏、摄像机位置复位、限制摄像机角度、动态挂载跟随目标、切换视角、遮挡透视等功能，并自带摄像机碰撞，防止穿墙）
+https://github.com/LiShengYang-yiyi/YIUI | LiShengYang-yiyi/YIUI: Unity3D UGUI Framework, 基于UI数据事件绑定为核心 数据驱动的UGUI框架, ETUI框架, ET框架官方推荐UI框架
+https://github.com/LiuOcean/AsyncTutorial | LiuOcean/AsyncTutorial
+https://github.com/LiuOcean/CliToolkit | LiuOcean/CliToolkit
+https://github.com/LiuOcean/Luban_Example | LiuOcean/Luban_Example: Luban 工具的示例仓库
+https://github.com/LiuOcean/Luban_Unity_GUI | LiuOcean/Luban_Unity_GUI: Luban Unity GUI 工具
+https://github.com/LiuOcean/UnityAppFlavor | LiuOcean/UnityAppFlavor: Unity SDK 多渠道管理
+https://github.com/LiuOcean/UnityPerformanceTuningBible_CN | LiuOcean/UnityPerformanceTuningBible_CN
+https://github.com/LiuOcean/ValueTypes_Memory_Encrypt | LiuOcean/ValueTypes_Memory_Encrypt
+https://github.com/MJX1010/ET_Unity_Luban_Serialize | MJX1010/ET_Unity_Luban_Serialize: In ET Framework, Serialize Unity ScriptObject to Luban Bean
+https://github.com/MJX1010/GeekTimeLearning | MJX1010/GeekTimeLearning: 学习记录
+https://github.com/MJX1010/MyNotesRepo | MJX1010/MyNotesRepo
+https://github.com/MJX1010/SVNRepoWindow | MJX1010/SVNRepoWindow: SVN Repository Manager Window
+https://github.com/MJX1010/UGUI-Editor | MJX1010/UGUI-Editor: Unity UGUI editor tools,improve the efficiency of ui development.
+https://github.com/MJX1010/unilic | MJX1010/unilic: nice to have
+https://github.com/Misaka-Mikoto-Tech/MonoHook | Misaka-Mikoto-Tech/MonoHook: hook C# method at runtime without modify dll file (such as UnityEditor.dll), works on Windows, Mac, Android il2cpp(armv7a and armv8a)
+https://github.com/NibbleByte/UnityWiseSVN | NibbleByte/UnityWiseSVN: Simple but powerful SVN Integration for Unity 3D
+https://github.com/No78Vino/gameplay-ability-system-for-unity | No78Vino/gameplay-ability-system-for-unity: Gameplay-Ability-System For Unity
+https://github.com/NullStackSuger/ET-OWDemo | NullStackSuger/ET-OWDemo
+https://github.com/Siccity/Dialogue | Siccity/Dialogue: Node based dialogue system
+https://github.com/Siccity/xNode | Siccity/xNode: Unity Node Editor: Lets you view and edit node graphs inside Unity
+https://github.com/TeamSirenix/odin-serializer | TeamSirenix/odin-serializer: Fast, robust, powerful and extendible .NET serializer built for Unity
+https://github.com/Unity-Technologies/com.unity.cinemachine | Unity-Technologies/com.unity.cinemachine: Smart camera tools for passionate creators
+https://github.com/Unity-Technologies/megacity-metro | Unity-Technologies/megacity-metro: Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, demonstrating how to craft engaging multiplayer games.
+https://github.com/Unity-Technologies/UnityCsReference | Unity-Technologies/UnityCsReference: Unity C# reference source code.
+https://github.com/Viagi/LandlordsCore | Viagi/LandlordsCore: ET斗地主Demo，ET开源链接：https://github.com/egametang/ET
+https://github.com/X1a0He/StarUML-SourceCode | X1a0He/StarUML-SourceCode: StarUML asar extract source code
+https://github.com/XINCGer/UnityToolchainsTrick | XINCGer/UnityToolchainsTrick: 提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the UnityEditor toolchain)
+https://github.com/XuToWei/GameDevelopmentKit | XuToWei/GameDevelopmentKit: Unity双端开发工具，UnityGameFramework+ET+Luban+HybridCLR+UniTask，努力提供方便开发的工具
+https://github.com/YouwantLee/Joker_Unity_SkillEditor | YouwantLee/Joker_Unity_SkillEditor: Joker 老师的 《ARPG系列课程》-->Unity技能编辑器源码，同步课程内容更新（已经Joker老师同意开源代码）
+https://github.com/a327ex/SNKRX | a327ex/SNKRX: A replayable arcade shooter where you control a snake of heroes.
+https://github.com/ad313/SourceGenerator.Template | ad313/SourceGenerator.Template: C# Source Generator，easy to generate code using templates
+https://github.com/akof1314/Unity-EditorInternalsVisibleDemo | akof1314/Unity-EditorInternalsVisibleDemo: Unity Editor Internals Visible
+https://github.com/allfake/Dotween-Simple-Timeline | allfake/Dotween-Simple-Timeline
+https://github.com/bodong1987/pdb2mdb | bodong1987/pdb2mdb: I create a new version of pdb2mdb.exe, you can use it to convert .pdb to .mdb, this version of pdb2mdb.exe can fix some exceptions in the old version. for example:Microsoft.Cci.Pdb.PdbDebugException: Invalid signature. (sig=1919117645)
+https://github.com/egametang/ET | egametang/ET: Unity3D Client And C# Server Framework
+https://github.com/fairygui/FairyGUI-unity | fairygui/FairyGUI-unity: A flexible UI framework for Unity
+https://github.com/fanslead/Learn-SourceGenerator | fanslead/Learn-SourceGenerator: 学习SourceGenerator代码仓库
+https://github.com/focus-creative-games/Excel2TextDiff | focus-creative-games/Excel2TextDiff: 将xlsx之类的文件转成text然后再调用diff工具对比变化，非常适合替换TortoiseGit,TortoiseSvn之类的默认diff命令。 convert excel file(xls,xlsx,xlm etc) to text then launch diff tool(TortoiseDiff) to show differences.
+https://github.com/focus-creative-games/hybridclr | focus-creative-games/hybridclr: HybridCLR是一个特性完整、零成本、高性能、低内存的Unity全平台原生c#热更新解决方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.
+https://github.com/focus-creative-games/hybridclr_trial | focus-creative-games/hybridclr_trial: HybridCLR 示例项目
+https://github.com/focus-creative-games/hybridclr_unity | focus-creative-games/hybridclr_unity: Unity package for HybridCLR
+https://github.com/focus-creative-games/luban | focus-creative-games/luban: luban是一个强大、易用、优雅、稳定的游戏配置解决方案。luban is a powerful, easy-to-use, elegant and stable game configuration solution.
+https://github.com/focus-creative-games/luban_examples | focus-creative-games/luban_examples: luban example projects
+https://github.com/focus-creative-games/luban_unity | focus-creative-games/luban_unity: unity package for luban
+https://github.com/gkjolin/UIEditor | gkjolin/UIEditor: Unity UGUI编辑器扩展工具集，提高界面开发效率，欢迎pull request或提需求哈
+https://github.com/googleads/googleads-mobile-unity | googleads/googleads-mobile-unity: Official Unity Plugin for the Google Mobile Ads SDK
+https://github.com/hakusai22/System_Architect | hakusai22/System_Architect: 🐍 2024年软考 (杭州e类+租房补贴)系统架构设计师资料整理复习(软考高级) 二战 20天备考通过🎉🎉🎉2024年5月份的上半年系统架构师(压线过 52/46/45) 语雀文章总结体验 https://www.yuque.com/hakusai/el7lwd
+https://github.com/hl845740757/BigCat | hl845740757/BigCat: BigCat(大猫)是一个游戏工具和MMO框架项目，项目目标是像大型猫科动物一样优秀！高代码质量，高运行速度，高开发效率 -- 这也许将是你见过的代码质量最好的项目。
+https://github.com/hwaet/UnityProjectCloner | hwaet/UnityProjectCloner: A tool to let the user to create a duplicate project that links back to the original, for multiplayer testing
+https://github.com/ihaiucom/learn.AStarPathfinding | ihaiucom/learn.AStarPathfinding: A* Pathfinding Project Pro
+https://github.com/leotyndale/AppArchitecture | leotyndale/AppArchitecture: 《移动开发架构设计实战》源码
+https://github.com/medvejut/dotween-timeline | medvejut/dotween-timeline: Timeline component for DOTween Pro
+https://github.com/minitap-ai/mobile-use | minitap-ai/mobile-use: AI agents can now use real Android and iOS apps, just like a human.
+https://github.com/musistudio/claude-code-router | musistudio/claude-code-router: Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+https://github.com/niepp/Sync | niepp/Sync: 基于Unity2019的状态同步技术demo
+https://github.com/qq362946/Fantasy | qq362946/Fantasy: C # Game Framework, but not limited to games. Can be used for non game business development
+https://github.com/rafal-dot/xlsxDiff | rafal-dot/xlsxDiff: Compare two Excel .xlsx files
+https://github.com/scriban/scriban | scriban/scriban: A fast, powerful, safe and lightweight scripting language and engine for .NET
+https://github.com/sindresorhus/github-markdown-css | sindresorhus/github-markdown-css: The minimal amount of CSS to replicate the GitHub Markdown style
+https://github.com/snailyp/gemini-balance | snailyp/gemini-balance: Gemini polling proxy service （gemini轮询代理服务）
+https://github.com/sschmid/Entitas | sschmid/Entitas: Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
+https://github.com/stucampbell/AssemblyComparer | stucampbell/AssemblyComparer: Simple utility to help compare .NET assemblies
+https://github.com/sunsvip/GF_X | sunsvip/GF_X: Unity GameFramework + HybridCLR，Obfuz代码加固，支持WebGL(小游戏)热更。高效率、高性能、懒人必备、防加班神器、简单易用、规范化、自动化的开发工作流。
+https://github.com/sunsvip/PSD2UGUI_X | sunsvip/PSD2UGUI_X: Convert psd file to ugui prefab, text, image, raw image, button, slider, scroll view, dropdown, toggle, textmeshpro...
+https://github.com/susices/NativeCollection | susices/NativeCollection: Native Collection library in c#
+https://github.com/thekiwicoder0/UnityBehaviourTreeEditor | thekiwicoder0/UnityBehaviourTreeEditor: Behaviour Tree Editor for Unity built with UIToolkit
+https://github.com/tinyantstudio/SimpleTimeLineWindow | tinyantstudio/SimpleTimeLineWindow: Ready to Make Simple Unity's TimeLine Style Extension tools
+https://github.com/toponteam/TPN-Unity-Demo | toponteam/TPN-Unity-Demo
+https://github.com/tuyoogame/YooAsset | tuyoogame/YooAsset: unity3d resources management system
+https://github.com/vovgou/loxodon-framework | vovgou/loxodon-framework: An MVVM & Databinding framework that can use C# and Lua to develop games
+https://github.com/wy-luke/All-Chinese-Character-Set | wy-luke/All-Chinese-Character-Set: 致力于维护一个包含全部中文字符（汉字+符号）的字符集，包罗万象，含3500 / 7000 常用汉字集、常用符号集。A Charater Set contains all Chinese charaters.
+https://github.com/xasset/xasset | xasset/xasset: 提升你的生产力。
+https://github.com/xoofx/kalk | xoofx/kalk: kalk is a powerful command line calculator app for developers.
+https://github.com/yukuyoulei/ConfigAuto | yukuyoulei/ConfigAuto: 【ConfigAuto】Unity编辑器下通过配置匿名类，自动生成C#类并填充数据，省去序列化和反序列化的消耗。以前是不能热更，不往这方面想，能热更了为啥lua能当配置表C#就不行
+https://github.com/yukuyoulei/ConfigExcel | yukuyoulei/ConfigExcel: 【ConfigExcel】 excel导出成C#类并填充数据，省去序列化和反序列化的消耗。以前是不能热更，不往这方面想，能热更了为啥lua能当配置表C#就不行
+https://github.com/yukuyoulei/Unity-GUI-Game-In-Single-File | yukuyoulei/Unity-GUI-Game-In-Single-File: Write Games In A Single Script File With Unity.
+https://github.com/zbuzhi/diff-excel | zbuzhi/diff-excel: Excel文件对比工具
+https://bytetech.info/ | 首页 - ByteTech
+https://bytetech.info/articles/7542770770641223690#AE50dC9ylooJUsxWi9gc59Wqn3e | Android Hook技术全面解析：从原理到实践 - 文章 - ByteTech
+https://github.com/hl845740757/BigCat?tab=readme-ov-file#readme | hl845740757/BigCat: BigCat(大猫)是一个游戏工具和MMO框架项目，项目目标是像大型猫科动物一样优秀！高代码质量，高运行速度，高开发效率 -- 这也许将是你见过的代码质量最好的项目。
+https://bytedance.larkoffice.com/wiki/WKe3whQNKilYLjkATiRcMNJqnDf | 养成界面，技能、宝石.xlsx - 飞书云文档
+https://bytedance.larkoffice.com/wiki/LvZTw3pj6iZtgOkQeozcA3Rxntg | PR1技能搭配交互文档 - 飞书云文档
+https://bytedance.larkoffice.com/wiki/RioNwVFDdiKzZwkFvy9cRAJKnBc?sheet=V62m5h | YIUI基础组件 - 飞书云文档
+https://bytedance.larkoffice.com/wiki/YsnIwnC6zi4lG8ksjEKcujA2nFe | YIUI TODO - 飞书云文档
+https://bytetech.info/videos/set/7288660699621359674/7288640177994465292 | ECS : Entity Component System 架构设计介绍 - 合辑 - ByteTech
+https://bytetech.info/videos/7134694941254483976 | Unity il2cpp 编译流程分享 - 视频 - ByteTech
+https://bytetech.info/videos/7134657562808418340 | Unity il2cpp 编译流程分享 （下） - 视频 - ByteTech
+https://bytetech.info/videos/set/7581092880536125483/7574343259054178331 | iOS内存工具分享与实践 - 合辑 - ByteTech
+https://bytetech.info/videos/set/7581092880536125483/7579539088949182516 | 小游戏&直播客户端内存优化实践 - 合辑 - ByteTech
+https://zhuanlan.zhihu.com/p/1983829640641524143 | (99+ 封私信 / 80 条消息) 游戏开发：资源管理与YooAsset分析(上) - 知乎
+https://ai.feishu.cn/wiki/ES7Gwz4EAiVGKSkotY5cRbTznuh | YIUI - 飞书云文档
+https://www.holgerscode.com/ | Holger's Code
+https://github.com/pty819/csharpbooks | pty819/csharpbooks
+https://github.com/doocs/awesome-ai | doocs/awesome-ai: 🤗 AI Tools Collection | AI 工具集汇总，欢迎补充
+https://bytedance.larkoffice.com/docx/GbXQd2hx8ob79bxZInIcGs2Unme
+https://moonton.feishu.cn/wiki/TfjGwdLo0ikYzjksRcicQ9hxn2f
+https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-10/sdk | What's new in the SDK and tooling for .NET 10 | Microsoft Learn
+https://et-framework.cn/d/23-github | 收集的大佬博客/Github - ET社区
+https://www.yuque.com/et-xd/docs/outline | 目录
+https://www.yuque.com/et-xd/docs/ukb8fl | 数学和物理
+https://moonton.feishu.cn/wiki/VVrawhs6tiS8FykzAv6cWFNGnyc | PR1技能搭配交互文档 - 飞书云文档
+https://moonton.feishu.cn/drive/shared/ | 云盘 - 飞书云文档
+https://www.trae.ai/account-setting?user_id=7522780555588305937&username=Juxing%2520Mao#subscription | Account Setting | TRAE - Collaborate with Intelligence
+http://10.60.129.167:8080/ | 工作台 [Jenkins]
+https://project.feishu.cn/dragonpow/story/detail/6511301726?tabKey=detail#detail | project.feishu.cn/dragonpow/story/detail/6511301726?tabKey=detail#detail
+http://10.60.128.129:8080/job/Build-QA-release/configure | Build-QA-release Config [Jenkins]
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1844200590775432&trace_event=LBrj66R5Nk&lane_id=master | ‎
+https://store.steampowered.com/wishlist/profiles/76561198130872631/?min_discount=any | 满头包 的愿望单
+https://www.datable.cn/docs/beginner/streamandcolumnformat#%E6%B5%81%E5%BC%8F%E6%A0%BC%E5%BC%8F%E4%B8%80%E4%B8%AA%E5%8D%95%E5%85%83%E6%A0%BC%E4%BD%BF%E7%94%A8%E5%88%86%E5%89%B2%E7%AC%A6%E5%88%86%E5%89%B2%E5%90%8E%E6%8C%89%E9%A1%BA%E5%BA%8F%E8%AF%BB%E5%8F%96 | 使用列限定与紧凑格式 | Luban
+https://www.zhihu.com/question/536400200 | 在 Windows11 中是否应该勾选Beta版：使用 Unicode UTF-8 提供全球语言支持？ - 知乎
+http://10.60.128.129:8080/job/luban_export/build?delay=0sec | Jenkins
+https://moonton.feishu.cn/wiki/MWGzw4MF8ix3K2kS7r7cyjvEncc?table=tbl1ybvIA70ynpQj&view=vewb1ovaJ8 | 客户端工作内容 - 飞书云文档
+https://moonton.feishu.cn/wiki/Dv01wdTXsiF98ekVKdHculRxngd | 客户端研讨会 - 飞书云文档
+https://www.ruanyifeng.com/blog/2025/11/trae-solo.html | 终于有人做了 Subagent，TRAE 国内版 SOLO 模式来了 - 阮一峰的网络日志
+https://github.com/ruanyf/weekly/blob/master/docs/issue-375.md | weekly/docs/issue-375.md at master · ruanyf/weekly
+https://www.ruanyifeng.com/blog/ | 阮一峰的网络日志
+https://www.trae.ai/solo | Solo | TRAE - Collaborate with Intelligence
+http://10.60.129.166:8060/ | 内网自动化构建系统
+https://moonton.feishu.cn/wiki/JrPpwPrKmiKCfYkjTOcc9RzznQf | 宠物碎片商店功能文档.xlsx - 飞书云文档
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1845981061627001&trace_event=-iim9EjrOr&lane_id=master | ‎
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1846003178699001&trace_event=BzZa_Lsj7Z&lane_id=master | ‎
+https://www.infoq.com/ | InfoQ: Software Development News, Trends & Best Practices - InfoQ
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1850476752336904&trace_event=LEAvGzNFbq&lane_id=master | ‎
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1849921259592723&trace_event=ZxgV6klmcT&lane_id=master | ‎
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1850091263038680&trace_event=TYgyOKDrOR&lane_id=master | ‎
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1849382319833235&trace_event=uFkIPV9nju&lane_id=master | ‎
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1849475862107155&trace_event=MX2wzyps_v&lane_id=master | ‎
+https://moonton.feishu.cn/wiki/wikcnwnb8nMXa7P6eXagUk18rRd | iPhone/iPad苹果设备型号对应常用名称列表 - 飞书云文档
+https://moonton.feishu.cn/wiki/wikcn0tQUjyf2lfMXnZ7XDlvtVe | ‍‬​‍﻿​‌​﻿​​⁣‍⁡⁡⁣​⁣​‌⁣‌​​⁣‌⁢⁡⁢⁤⁣⁡‌﻿‌⁣‬⁣⁤​‬​⁣⁡⁢⁤‍‬‍⁡FPS服务端AI系统 - 飞书云文档
+http://10.60.129.167:8080/view/Build_Sea_Flow/job/Build-Patch-SEA-QA-Pipeline-Sea-Flow-2022/ | Build-Patch-SEA-QA-Pipeline-Sea-Flow-2022 [Jenkins]
+https://open.feishu.cn/open-apis/authen/v1/authorize?app_id=cli_a60f80805659900b&redirect_uri=https%3A%2F%2Fpointsshop.moontonapp.net%2Fapi%2Fauth%3Fredirect%3Dhttps%253A%252F%252Fpointsshop.moontonapp.net%252Fzh%252Fuser%252Fpoints&scope=auth%3Auser.id%3Aread&state=RANDOMSTATE | 飞书授权
+https://moonton.feishu.cn/wiki/G6epwqCXBigEAZk6d4mctSjgnYf | ⁣​​‍​‌​⁡⁤⁤‍​​‌⁤​⁢‍﻿⁡﻿‬‬‌⁢​⁢‬‌﻿​‍​⁤⁣⁡​​‬​​⁡‍​‬﻿⁡​‍表格hotfix填写参考 - 飞书云文档
+https://www.datable.cn/docs/manual/commandtools | 命令行工具 | Luban
+https://www.trae.ai/pricing?fromPage=https://www.trae.ai/fission/invitee?code=m816mgrBmATDmgf8mgT5nAz8lgn6cAfDlgaUh9qvnsP4XveZYfqBWNGvWsOIZwWaaD&userName=Juxing+Mao | Pricing | TRAE - Collaborate with Intelligence
+https://mp.weixin.qq.com/s/sNa2TkfeTalYS7n2flFxxQ | 再见，微信读书
+https://readest.com/ | Readest — Where You Read, Digest and Get Insight
+https://github.com/readest/readest/releases | Releases · readest/readest
+https://blog.csdn.net/Leemin_ios/article/details/77714784 | iOS In-App Purchase 内购之 验证订单是沙盒环境还是真实环境_uniapp 苹果支付 怎么判断是否为沙盒-CSDN博客
+https://play.google.com/console/u/0/developers/8136317215480941953/app/4975103616423259851/releases/overview | 最新版本和 app bundle | 吞吞龍大冒險
+https://help.ldmnq.com/docs/LD9adbserver | 雷电模拟器9连接adb教程-常见问题客服中心_新手指南FAQ_雷电模拟器
+https://blog.csdn.net/weixin_44499065/article/details/132260751 | Android Studio调试的时候Logcat不显示日志了_android studio不输出日志了-CSDN博客
+https://developer.android.com/studio?hl=zh-cn | 下载 Android Studio 和应用工具 - Android 开发者  |  Android Developers
+https://www.reddit.com/r/csharp/comments/1cbwg0n/how_do_you_effectively_read_and_understand/?tl=zh-hans | 你怎样才能有效地阅读和理解复杂的 C# 代码库？ : r/csharp
+https://marketplace.visualstudio.com/items?itemName=VisualCppDevLabs.SolutionDependencyViewer | Solution Dependency Viewer - Visual Studio Marketplace
+https://learn.microsoft.com/en-us/visualstudio/modeling/map-dependencies-across-your-solutions?view=vs-2022 | Visualize dependencies with code maps - Visual Studio (Windows) | Microsoft Learn
+https://www.jetbrains.com/help/rider/Architecture__Project_Dependencies_Exploration.html | Explore project dependency diagram | JetBrains Rider Documentation
+http://10.60.129.167:8080/job/Upload_oss/ | Upload_oss [Jenkins]
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1849284274569355&trace_event=M9JP8d-TP-&lane_id=master | 知识平台
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1848580859756744&trace_event=jPmirZFe7T&lane_id=master | 知识平台
+https://agent.minimaxi.com/ | MiniMax Agent: 简单指令, 无限可能
+https://aistudio.google.com/u/0/api-keys | Google AI Studio
+https://moonton.feishu.cn/wiki/Q6wJwxm6giGuYLkdYiecrNWknhc?fromScene=spaceOverview | ‍⁢⁡‬⁤⁤⁢‍﻿⁣‬⁣⁤⁡⁢​​⁡‌‌⁤​⁡‌‌‬​⁣​⁢​⁣﻿⁣⁢﻿⁣⁡‌⁤⁡⁢⁡‬﻿⁣﻿﻿⁣⁢后处理剔除开发笔记 - 飞书云文档
+http://10.60.129.167:8080/job/Build-Patch-SEA-QA-Pipeline-Sea-Flow-2022/ | Build-Patch-SEA-QA-Pipeline-Sea-Flow-2022 [Jenkins]
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgx3ufx6eiu?keyword=UWA | 知识平台
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1849107281734984&lane_id=master&trace_event=BjPHVTlrc4 | 知识平台
+https://unity.com/cn/features/cinemachine | Cinemachine
+https://midwayjs.org/docs/extensions/code_dye | 代码染色 | Midway
+https://developer.apple.com/documentation/signinwithapple/bringing-new-apps-and-users-into-your-team | Bringing new apps and users into your team | Apple Developer Documentation
+https://docs.unity3d.com/cn/2022.3/Manual/ExecutionOrder.html | 事件函数的执行顺序 - Unity 手册
+https://technology.riotgames.com/ | Riot Games Technology
+https://catlikecoding.com/unity/tutorials/ | Unity C# and Shader Tutorials
+https://moonton.feishu.cn/wiki/WLMWwPxOKir5nqkF4aHcsx9Knzf | 心流SDK替换海外雷霆SDK - 飞书云文档
+https://moonton.feishu.cn/wiki/wikcnutTa38qzIY7mHBTok3Kgwh | 寻路的那些事（一） - 飞书云文档
+https://moonton.feishu.cn/wiki/MDSfwFUtFiE2CTkYfj3cwH5knrg | Wwise跨工程数据转移工具_说明书_中文.pdf - 飞书云文档
+https://assetstore.unity.com/packages/tools/animation/slate-cinematic-sequencer-56558 | Slate Cinematic Sequencer | 动画 工具 | Unity Asset Store
+https://moonton.feishu.cn/drive/me/ | 云盘 - 飞书云文档
+https://moonton.feishu.cn/docx/R1hOduotxoJGsLxVo2zcuE13n5e | 测试一些C# Json库反序列化时字段默认赋值规则 - 飞书云文档
+https://moonton.feishu.cn/wiki/CpMAwnNCMi1v2xkkbR1c2CKCnNL | 上线检查项 - 飞书云文档
+https://bytedance.larkoffice.com/wiki/OqGHw9mjlihz1JksRK2c5qGXnJ6?sheet=4qvGfo&table=tbl6hEmVy4wMI48x&view=vewAQe0mFy | 心光流美数据服务切换工作项拆解及时间规划 - 飞书云文档
+https://docs.unity3d.com/6000.2/Documentation/ScriptReference/Playables.PlayableDirector.html
+https://moonton.feishu.cn/wiki/MxY9wELEfiWZldkJojTczzQFnqh?table=tbltYjxOHdQ40kRc&view=vewMnpNgGD&skip_html_cache=1
+https://developer.android.com/?hl=zh-cn&authuser=1 | Android 移动应用开发者工具 – Android 开发者  |  Android Developers
+https://juejin.cn/
+https://www.harmonyos.com/ | 华为HarmonyOS智能终端操作系统官网 | 应用设备分布式开发者生态
+https://developer.huawei.com/consumer/cn/forum/?ha_linker=eyJ0cyI6MTc2Mzk3MDgwNDgyMiwiaWQiOiJjZjA1MDU3OThlNzhiZjU4NjUzNjI2M2UwY2E4MDRkYSJ9 | 问答专区-华为/鸿蒙开发者论坛-华为开发者联盟
+https://zhuanlan.zhihu.com/p/333229693 | (99+ 封私信 / 80 条消息) 除了Fiddler工具之外，其他常见的抓包工具（Charles、Wireshark） - 知乎
+https://support.dun.163.com/documents/15588074449563648?docId=989347548106215424 | Android 加固_开发文档_Android 手游加固_Android 手游—Unity_网易易盾
+https://qa.fmod.com/t/android-ios-error-err-format-unsupported-file-or-audio-format/18057 | Android/IOS Error, ERR_FORMAT : Unsupported file or audio format - Unity - FMOD Forums
+https://qa.fmod.com/t/why-the-import-type-asset-bundle-generate-textasset-is-only-1kb/18828/3 | Why the import type Asset Bundle generate TextAsset is only 1kb? - Unity - FMOD Forums
+https://www.bilibili.com/video/BV11L4y1u7rS/?vd_source=5aeec11224a2dcfe0ebe94495dda445e | 基于状态帧同步的战斗系统-技能预测/回滚演示_游戏热门视频
+https://www.bilibili.com/video/BV1GbkBBKEDo/?spm_id_from=333.1007.tianma.3-1-7.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e | 超详细的网络游戏同步系统教学_哔哩哔哩_bilibili
+https://www.bilibili.com/video/av70422751/?vd_source=5aeec11224a2dcfe0ebe94495dda445e&spm_id_from=333.788.player.switch&p=3 | LT_02_LockstepDeveolpAdvice_哔哩哔哩_bilibili
+https://community.uwa4d.com/search?keyword=ET&scope=1 | UWA-社区
+https://www.voidtools.com/zh-cn/downloads/ | 下载 - voidtools
+https://mp.weixin.qq.com/s/avj32k5yOtYNpHOsnWpcRQ | 科技爱好者周刊#373：数据模型是新产品的核心
+https://github.com/Cookee24/PairTranslate?tab=readme-ov-file | Cookee24/PairTranslate: A browser extension for side-by-side translation of web pages
+https://github.com/halo-dev/upage?tab=readme-ov-file | halo-dev/upage: 🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。
+https://github.com/MagicMirrorOrg/MagicMirror?tab=readme-ov-file | MagicMirrorOrg/MagicMirror: MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
+https://github.com/aristocratos/btop/releases | Releases · aristocratos/btop
+https://github.com/ruanyf | ruanyf (Ruan YiFeng)
+https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md | javascript-algorithms/README.zh-CN.md at master · trekhleb/javascript-algorithms
+https://gitlab.xgjoy.games/cattrick/client-team
+https://moonton.feishu.cn/wiki/wikcn5hQAlYNtAdT86ua3PGSwLe | 首页 - 飞书云文档
+https://moonton.feishu.cn/wiki/wikcnNULBGpUUNbG1EP7gzeHiHe
+https://moonton.feishu.cn/wiki/TEFdwZuhgi56drkJ5arcLZXJnQh | FlowSDK接入备忘 - 飞书云文档
+https://moonton.feishu.cn/sheets/Hz3Esgg3ahKi9RtNX4occiehnvh | 龙骑士海外引继邮箱后缀汇总 - 飞书云文档
+https://moonton.feishu.cn/wiki/ZCGwwX5YYiDWO6kUkKMcmyvhnDc | 龙2 luban 策划使用简要指南 - 飞书云文档
+https://moonton.feishu.cn/wiki/HToowSAHUi6L6MkkWJjc1Z1anCg
+https://moonton.feishu.cn/wiki/RwSLwfQK2iyTD7kXlgtcthM0nzc | Docs
+https://docs.unity.com/zh-cn/grow/ads/ios-sdk/ios14/att-compliance | 应用追踪透明度的合规性 • Unity Grow • Unity Docs
+https://juejin.cn/post/7085554955062345759 | aar的解压与重打包在工程中有时候会遇到不同的arr包中包含了相同的so，导致so文件冲突的问题。解决方法除了在buil - 掘金
+https://moonton.feishu.cn/wiki/ZRgPwmk7aijKUGkIRUmcHhsMnhf | iOS审核反馈记录 - 飞书云文档
+https://developer.apple.com/documentation/gamekit/initializing-and-configuring-game-center | Initializing and configuring Game Center | Apple Developer Documentation
+https://developer.android.com/games/engines/unity/unity-on-android?hl=zh-cn#16-kb-page-support | 使用 Unity 制作游戏  |  Android game development  |  Android Developers
+https://dun.163.com/product/ios-reinforce | iOS应用加固_iOS加固_代码混淆_字符串加密_字符混淆_网易易盾
+https://support.dun.163.com/download/2017121302?productName=SDK%20%E5%8A%A0%E5%9B%BA&parentName=%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8 | SDK及工具下载_帮助中心_网易易盾
+https://support.dun.163.com/search?keyword=io.github.yidun%3Acrashreport&pageNum=1&pageSize=20&t=1762494164461 | 搜索_网易易盾
+https://support.dun.163.com/documents/391676076156063744?docId=751981686785015808 | 实人信息认证_开发文档_活体检测_RGB活体（SDK接入）_Android_网易易盾
+https://portal.toponad.net/m/sdk/download?type=Unity | TopOn
+https://mvnrepository.com/artifact/io.github.yidun/crashreport | Maven Repository: io.github.yidun » crashreport
+https://github.com/MJX1010/MyNotesRepo# | MJX1010/MyNotesRepo
+https://zhuanlan.zhihu.com/p/425830762
+https://devblogs.microsoft.com/pix/ | PIX on Windows
+https://www.zhihu.com/people/litmin-53/posts
+https://www.fmod.com/download#fmodforunity
+https://fmod.com/docs/2.03/unity/welcome.html | FMOD - Welcome to FMOD for Unity
+https://ai-bot.cn/ | AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全
+https://blog.csdn.net/strggle_bin/article/details/135343735 | Windows安装部署nginx_nginx windows-CSDN博客
+https://nginx.org/en/download.html | nginx: download
+https://juejin.cn/post/7158737002160979998 | jenkins 配置触发远程构建一、前言 在执行Jenkins的项目构建的时候，一般都是通过web管理界面中的”构建”来 - 掘金
+https://docs.unity3d.com/Manual/index.html | Unity - Manual: Unity 6.2 User Manual
+https://adoptium.net/zh-CN/download?link=https%3A%2F%2Fgithub.com%2Fadoptium%2Ftemurin8-binaries%2Freleases%2Fdownload%2Fjdk8u472-b08%2FOpenJDK8U-jdk_x64_windows_hotspot_8u472b08.zip&vendor=Adoptium | Thanks for your Download! | Adoptium
+https://developer.android.com/studio?hl=zh-cn#command-tools | 下载 Android Studio 和应用工具 - Android 开发者  |  Android Developers
+https://firebase.google.com/docs/unity/setup?hl=zh-cn#analytics-not-enabled | 将 Firebase 添加到您的 Unity 项目  |  Firebase for Unity
+https://unity.com/cn/community | 通过我们的社区平台增强您的内容能力 | Unity
+https://docs.unity3d.com/6000.1/Documentation/Manual/android-requirements-and-compatibility.html?utm_source=chatgpt.com | Unity - Manual: Android requirements and compatibility
+https://www.hybridclr.cn/docs/basic/install#%E4%BB%8Egit-url%E5%AE%89%E8%A3%85 | 安装 | HybridCLR
+https://moonton.feishu.cn/wiki/GQWzwqzLaiug9ukwWmrcGhGJnVc | Docs
+https://moonton.feishu.cn/wiki/WxBPww8i0iSgVBkiLFNcYuNNn9b | 沐瞳龙骑士部署 - 飞书云文档
+https://moonton.feishu.cn/wiki/wikcnLzQ1RjXCV0t1lTHXZc91zf | 线上jumpserver用户手册 - 飞书云文档
+https://moonton.feishu.cn/wiki/EILww9qG2iHB00klvAPcHD3onlf | HELA监控用户手册 - 飞书云文档
+https://moonton.feishu.cn/wiki/wikcnDiZExE8IEBLZPgkX4kC7Ia | 镜像仓库使用手册 - 飞书云文档
+https://moonton.feishu.cn/wiki/A2egwDd5Bi5FYekHkfrcD8v5nuc | 资源申请 - 飞书云文档
+https://github.com/android/ndk/wiki/Unsupported-Downloads | Unsupported Downloads · android/ndk Wiki
+https://blog.csdn.net/mmy545237835/article/details/122339415 | 使用命令行减小.svn文件夹大小_svn cleanup --vacuum-pristines-CSDN博客
+https://stackoverflow.com/questions/21027326/reducing-the-size-of-the-svn-folder | Reducing the size of the .svn folder - Stack Overflow
+https://firebase.google.com/docs/unity/setup?hl=zh-cn | 将 Firebase 添加到您的 Unity 项目  |  Firebase for Unity
+https://github.com/firebase/firebase-unity-sdk/issues?q=is%3Aissue%20state%3Aopen%20FirebaseSessions | Issues · firebase/firebase-unity-sdk
+https://mvnrepository.com/artifact/com.google.gms/google-services | Maven Repository: com.google.gms » google-services
+https://developer.android.com/studio/releases?hl=zh-cn#android_gradle_plugin_and_android_studio_compatibility | Android Studio Otter | 2025.2.1  |  Android Developers
+https://developer.android.com/studio?utm_source=android-studio&hl=zh-cn | 下载 Android Studio 和应用工具 - Android 开发者  |  Android Developers
+https://services.gradle.org/distributions/ | Gradle Distributions
+https://developer.android.com/build/agp-upgrade-assistant?hl=zh-cn | 使用 Android Gradle 插件升级助理  |  Android Studio  |  Android Developers
+https://gradle.org/releases/ | Gradle | Releases
+https://nice-vibrations.moremountains.com/ | Nice Vibrations, the best way to add vibrations to your Unity game, for iOS, Android, gamepad rumble, by More Mountains
+https://assetstore.unity.com/packages/tools/particles-effects/feel-183370?aid=1011lKhG#description | Feel | Particles/Effects | Unity Asset Store
+https://feel-docs.moremountains.com/ | Feel Documentation | Feel Documentation
+https://feel-docs.moremountains.com/API/namespace_lofelt_1_1_nice_vibrations.html | Feel: Lofelt.NiceVibrations Namespace Reference
+https://feel-docs.moremountains.com/how-to-install.html | How to install Feel? | Feel Documentation
+https://stackoverflow.com/questions/79786225/how-can-i-fix-apk-does-not-support-16-kb-devices-4-kb-load-section-alignmen | android - How can I fix “APK does not support 16 KB devices” / “4 KB LOAD section alignment” warning in React Native build? - Stack Overflow
+https://moonton.feishu.cn/wiki/HOkKw0V7xidtbTkgwtxcUfmanee | 龙骑士开发虚拟机 - 飞书云文档
+https://moonton.feishu.cn/wiki/YmDKwDQk6iYLcmkW2pGcAIeYnxe | 飞书云文档
+https://it-tools.tech/ | IT Tools - Handy online tools for developers
+https://github.com/CorentinTh/it-tools | CorentinTh/it-tools: Collection of handy online tools for developers, with great UX.
+https://moonton.feishu.cn/wiki/ClL8wf30fidXc9k0dcpcTZUDnu4 | 迁移沐瞳流程 - 飞书云文档
+https://moonton.feishu.cn/wiki/KaCbwLsDGi7VtrkDLz2cjPyenl1 | Docs
+https://moonton.feishu.cn/wiki/Uy7wwSgqGiCIAVk5tsJcOzKWnyb | 龙骑士国内线上运维操作文档 - 飞书云文档
+https://moonton.feishu.cn/wiki/G2wswFHZMiZn7fkb1ifcnuX2nMh | Crashlytics 功能 - GPM - 飞书云文档
+https://moonton.feishu.cn/wiki/XhMHwtAIUiaTVckxef0cHRgbnkf?fromScene=spaceOverview&table=tblMSKMpSKz2eUDB&view=vew1gLAgE5 | OB版本客户端战斗跑测 - 飞书云文档
+https://moonton.feishu.cn/wiki/GX7ewKq2YihpFUkLhgwcmpbmnKe | 验证服操作流程 - 飞书云文档
+https://play.google.com/console/u/1/developers/8136317215480941953/app/4973967350100736478/managed-products | 应用内商品 | Dragon POW!
+https://console.firebase.google.com/u/1/project/jpdragonpow/settings/general/ios:com.fblqs.or.ios | jpdragonpow - 项目设置 - 常规 - Firebase 控制台
+https://moonton.feishu.cn/wiki/MVW6w60CKiVghKkipXocmNc2nNg | 龙骑士-线上资源 - 飞书云文档
+https://ai-bot.cn/firebase-studio/ | Firebase Studio - 谷歌推出的AI编程工具，一站式开发全栈应用 | AI工具集
+https://ai-bot.cn/sites/53.html | Codex - OpenAI 推出的 AI 编程工具 | AI工具集
+https://ai-bot.cn/sites/60584.html | Qoder - 阿里巴巴推出的 AI Agentic 编程工具 | AI工具集
+https://www.kimi.com/?utm_source=ai-bot.cn | Kimi - 更强大的 AI 助手
+https://blog.csdn.net/yu265096/article/details/108834590 | TopOn广告平台遇见的问题_topon 4001-CSDN博客
+https://blog.csdn.net/qq_39451645/article/details/145560159 | 荣耀手机，Android Studio调试时Logcat没有日志的解决办法_android studio logcat不打印日志-CSDN博客
+https://help.ldmnq.com/docs/NXRKoK | 模拟器如何开启或关闭ROOT权限-常见问题客服中心_新手指南FAQ_雷电模拟器
+https://blog.csdn.net/abbiz/article/details/126183874 | 【烂笔头】各厂商手机手动抓log_三星平板sys dump菜单-CSDN博客
+https://moonton.feishu.cn/wiki/ObjewJrasiypxNkY3BFcsjJ3nff | sdk管理平台配置 - 飞书云文档
+https://moonton.feishu.cn/wiki/RhOjw4nY8i2UPmk5hxacr45Anng | ⁣‬‬​⁡⁤‍‌⁤⁤﻿​⁤​⁣⁣‍⁤⁣​⁣⁢​﻿‬⁣‌⁣⁢‌‍⁡‌⁡⁣⁣​‍⁡⁤‍​⁢​‬‌‬﻿沐瞳心流龙骑士海外包_Google正式签名文件 - 飞书云文档
+https://moonton.feishu.cn/wiki/LpshwTms1iMbuekXH3zcGZWgndb | 龙1海外迁移整理 - 飞书云文档
+https://moonton.feishu.cn/wiki/NbYPw8wmzikK65kQT0KcZrSXnqc?sheet=n144ys | 龙骑士 Appstore 证书 - 飞书云文档
+https://www.mob.com/mobService/sharesdk | ShareSDK-社会化分享登陆组件,一键分享登陆-MobTech
+https://www.mob.com/developer/login?login_return=https%3A%2F%2Fnew.dashboard.mob.com | 全球领先的数据智能科技平台-MobTech袤博
+https://moonton.feishu.cn/wiki/X7bOwZD1kiFGtKk8w0fceiwinDf | 龙骑士海外公测云配置梳理 - 飞书云文档
+https://developer.unity.cn/projects/6854c4fcedbc2ada96ddb533 | Unity 项目支持 Android 16 KB 的方案 - 技术专栏 - Unity官方开发者社区
+https://moonton.feishu.cn/wiki/wikcnCJc7p1uvs3Zk1mhimefuDf | 发行知识库信息导览 - 飞书云文档
+https://www.cnclash.net/108.html | 2024最新Clash Meta for Android使用教程配置从入门到精通-Clash中文教程
+https://developers.google.com/unity/packages?hl=zh-cn#firebase | 探索适用于 Unity 的 Google 软件包  |  Google for Developers
+https://patch-prod.longqs.muyinetwork.com/protocal/20250731%20%E6%9C%8D%E5%8A%A1%E6%9D%A1%E6%AC%BE%E5%92%8C%E6%9D%A1%E4%BB%B6.html | patch-prod.longqs.muyinetwork.com/protocal/20250731 服务条款和条件.html
+https://it-tools.tech/json-prettify | JSON prettify and format - IT Tools
+http://platform01.xgjoy.org:18081/file/
+https://play.google.com/console/u/1/developers/8136317215480941953/app/4975103616423259851/app-dashboard | 信息中心 | 吞吞龍大冒險
+https://console.firebase.google.com/u/1/project/dragon-pow-40830551/settings/general/android:com.dragonpow.android?hl=zh-cn | Dragon POW - 项目设置 - 常规 - Firebase 控制台
+https://appstoreconnect.apple.com/teams/e5d3a83d-dfcd-46e6-abe9-463c233f14e5/apps/6752633375/testflight/ios | App Store Connect
+https://moonton.feishu.cn/wiki/NbYPw8wmzikK65kQT0KcZrSXnqc?sheet=zjb9AF | 龙骑士 Appstore 证书 - 飞书云文档
+https://moonton.feishu.cn/wiki/NbYPw8wmzikK65kQT0KcZrSXnqc?sheet=4de33c | 龙骑士 Appstore 证书 - 飞书云文档
+https://www.alibabacloud.com/help/en/oss/developer-reference/ossbrowser-2-0-overview/?spm=a2c63.p38356.0.i0 | ossbrowser 2.0 overview - Object Storage Service - Alibaba Cloud Documentation Center
+https://www.alibabacloud.com/help/en/oss/developer-reference/oss-tools | Overview of OSS management tools - Object Storage Service - Alibaba Cloud Documentation Center
+https://moonton.feishu.cn/base/HvNBbPqCjaxX9qsTHyXcSU70nlb?table=tblBhEm4knIzhpOG&view=vewSr9wTTq | 心流SDK系统反馈收集文档 - 飞书云文档
+https://moonton.feishu.cn/wiki/DOPhwvCvKiNprqklOPvcbJPinHe | 《飞吧龙骑士》海外主体变更隐私协议需求 - 飞书云文档
+https://portal.toponad.net/m/app | TopOn
+https://help.toponad.net/cn/docs/hd01b0 | TopOn Unity3D 插件(2.0.0+)导入说明-TopOn | 帮助中心
+https://kubernetes.io/zh-cn/docs/tasks/tools/install-kubectl-windows/ | 在 Windows 上安装 kubectl | Kubernetes
+https://kubernetes.io/releases/download/#binaries | Download Kubernetes | Kubernetes
+https://developer.android.com/guide/practices/page-sizes?hl=zh-cn | 支持 16 KB 的页面大小  |  Compatibility  |  Android Developers
+https://developer.unity.cn/projects/687efd5fedbc2aa66b703c86 | Android适配16 KB Page Size，看这一篇就够了！ | 优测云真 - 技术专栏 - Unity官方开发者社区
+https://www.ip138.com/ | iP地址查询--手机号码查询归属地 | 邮政编码查询 | iP地址归属地查询 | 身份证号码验证在线查询网
+http://47.236.177.40:8080/
+http://10.50.128.33:8080/ | 工作台 [Jenkins]
+https://moonton.feishu.cn/wiki/HH2QwhExSi19f1kMOAocOFvHnSc | sdk 龙骑士参数获取 - 飞书云文档
+https://blog.csdn.net/qq_37611096/article/details/118030549 | google pay（谷歌支付） 开发者账号配置的坑_the current user has insufficient permissions to p-CSDN博客
+https://console.cloud.google.com/enable-mfa?redirectTo=%2Fwelcome%3Finv%3D1%26invt%3DAb5xpw%26project%3Ddragondashtest&inv=1&invt=Ab5xpw&project=dragondashtest | Google Cloud Console
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadhj7i5loihu | 知识平台
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1846000577876249&trace_event=i4-OAi3KAw&lane_id=master | 知识平台
+https://appstoreconnect.apple.com/login | App Store Connect
+https://developer.apple.com/account/resources/certificates/list | Certificates, Identifiers & Profiles - Apple Developer
+http://kubernetes-dashboard.xgjoy.org/#/error?namespace=dgsdk-dev-en | Kubernetes Dashboard
+http://admin-en-cattrick.xgjoy.games/#/goods/1000/index | 商品管理 - SDK管理平台
+https://mail.126.com/js6/main.jsp?sid=TFJvvMiinwyavsbKlyEgvjriSDShlPrn&df=webmail126#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%2288%3A1tbiWAPj5GjqNaf5ggAAs3%22%2C%22fid%22%3A1%7D | (980封未读) 网易邮箱6.0版
+https://appstoreconnect.apple.com/apps/6749144661/distribution/iaps | App Store Connect
+https://developer.apple.com/cn/help/app-store-connect/reference/app-information | App 信息 - 参考 - App Store Connect - 帮助 - Apple Developer
+https://cloud.tencent.com/developer/article/2260249 | 上传了ipa但在苹果App Store中没有看到构建版本的问题-腾讯云开发者社区-腾讯云
+https://feel-docs.moremountains.com/contents.html | Contents of the asset | Feel Documentation
+https://blog.csdn.net/magicbaby810/article/details/78812689 | adb install 指定设备安装-CSDN博客
+https://github.com/gptbmw/wildcard | gptbmw/wildcard: 最新野卡wildcard虚拟信用卡使用指南：wildcard注册教程，如何开通野卡信用卡？如何为野卡充值和提现？
+https://discussions.unity.com/t/how-do-i-use-gameobject-find-to-find-an-inactive-object/638045/10 | How do I use GameObject.Find("") to find an inactive object. - Unity Engine - Unity Discussions
+https://www.suijidaquan.com/credit-card-generator | 信用卡生成器 - 随机大全
+https://discussionschinese.apple.com/thread/255719581?sortBy=rank | 美区 Apple ID 能绑定国内招行的VIS… - Apple 社区
+https://zhuanlan.zhihu.com/p/1890837311668868989 | (99+ 封私信 / 80 条消息) 苹果美区ID如何绑定支付方式？绕过限制绑定信用卡完整指南 - 知乎
+https://feiyangka.com/vc_web/main.html#/login | 登录
+https://www.reddit.com/r/LifeProTips/comments/rrvgjt/lpt_if_youre_traveling_to_america_and_youre_asked/?tl=zh-hans | 生活小贴士：如果你去美国旅行，当你用卡时被要求提供邮政编码，那就是00000 : r/LifeProTips
+https://zhuanlan.zhihu.com/p/476434200 | (99+ 封私信 / 80 条消息) 手把手教你购买充值，美区Apple ID礼品卡 - 知乎
+https://blog.csdn.net/qq_17105113/article/details/138872076 | VISA信用卡海外支付，Zip/Postal Code怎么填？_zippostal code怎么填-CSDN博客
+https://kqusa.blogspot.com/2018/01/google-play-gift-card.html | 美國Google Play Gift Card儲值教學
+https://mp.weixin.qq.com/s/Y9cWr5GjwRAbtGXYeCNQHQ | 科技爱好者周刊#368：不要这样管理软件团队
+https://www.yunedit.com/xueyuan/jx/ioscert010 | ios的p12证书和cer证书有什么区别_香蕉云编
+https://zhuanlan.zhihu.com/p/604552552 | IOS 证书制作及p12文件制作 - 知乎
+https://moonton.feishu.cn/docx/JqtGdERdxoAjjcxny5XcIpISnXe | 工具收集 - 飞书云文档
+https://paint.sumo.app/?lang=zh | Paint
+https://blog.csdn.net/m0_54267904/article/details/137041967 | Windows安装chocolatey过程_chocolatey包管理器cmd安装-CSDN博客
+https://docs.chocolatey.org/en-us/choco/setup/#more-install-options | Chocolatey Software Docs | Setup / Install
+https://translate.google.com/?sl=auto&tl=zh-CN&text=repository&op=translate | Google 翻译
+https://ai-bot.cn/daily-ai-news/ | 每日AI资讯、热点、动态、融资、产品发布 | AI工具集
+https://ai-bot.cn/ai-tutorials-2025100401/ | Anthropic发布《AI Agent 上下文工程指南》 | AI工具集
+https://github.com/codeflicker-ai | CodeFlicker
+https://www.bilibili.com/ | 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/video/BV1XTuBzeEPg/?spm_id_from=333.337.search-card.all.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e | 「掌握Trae IDE」 第十五课：围巾哥萧尘 | Trae AI + Unity MCP 配置指南 🚀_哔哩哔哩_bilibili
+https://blog.csdn.net/qq_33067629/article/details/136914801 | Xcode清理缓存-CSDN博客
+https://moonton.feishuapp.cn/ae/apps/package31__c/package31__c__app_aadep3xmkpecq?embeddedRecordId_6pc1y1rn9emq84=1768040626593927&lane_id=develop | 权限中心
+https://discussions.unity.com/t/il2cpp-build-target-clang-arguments/942288/5 | IL2CPP build target, clang arguments - Unity Engine - Unity Discussions
+https://docs.unity3d.com/2021.3/Documentation/Manual/handling-IL2CPP-additional-args.html | Unity - Manual: Handling platform specific settings for IL2CPP additional arguments
+https://zhuanlan.zhihu.com/p/623274986 | (99+ 封私信 / 80 条消息) Unity 之Burst 底层原理 - 知乎
+https://blog.csdn.net/l773575310/article/details/145948218 | Unity Burst编译-CSDN博客
+https://www.reddit.com/r/gamedev/comments/bd1rqh/how_fast_could_burst_compiled_a_be/?tl=zh-hans | Burst 编译的 A* 能有多快？ : r/gamedev
+https://github.com/SeriousCache/UABE | SeriousCache/UABE: Asset Bundle Extractor. No longer supported. Consider using https://github.com/nesrak1/UABEA
+https://bitbucket.org/doggygo/url/src/main/ | doggygo / url — Bitbucket
+https://github.com/sucong426/VPN | sucong426/VPN: 快速搭建个人VPN/科学上网/翻墙/教程/ssr/ss/bbr/梯子搭建/自建机场/自由上网/代理服务/VPN/2023最新教程
+https://www.epicgames.com/id/login?client_id=b31a9e178ab84b21ad7435a53e4da4af&response_type=code&state=udn%7C%2Fs%2Ffeature-topics | Epic Games
+https://github.com/mob-sakai/CSharpCompilerSettingsForUnity | mob-sakai/CSharpCompilerSettingsForUnity: Change the C# compiler (csc) used on your Unity project, as you like!
+https://w.dg6.im/#/knowledge | 狗狗加速.com
+http://kubernetes-dashboard.xgjoy.org/#/log/dgsdk-dev-en/dgsdk-release-9996687f-hmlwd/pod?namespace=dgsdk-dev-en&container=sdk | Kubernetes Dashboard
+https://help.toponad.net/cn | TopOn | 帮助中心
+https://github.com/toponteam/TPN-Unity-Demo/tree/main/AnyThinkUnityTpnSDK/Assets/ExternalDependencyManager/Editor | TPN-Unity-Demo/AnyThinkUnityTpnSDK/Assets/ExternalDependencyManager/Editor at main · toponteam/TPN-Unity-Demo
+https://www.mob.com/wiki/list | 集成文档中心-MobTech
+https://www.mob.com/wiki/detailed?wiki=552&id=14 | MobTech集成文档-MobTech
+https://github.com/MobClub/New-Unity-For-ShareSDK/tree/master | MobClub/New-Unity-For-ShareSDK: New sample of ShareSDK for Unity, including ios and android.
+http://10.50.128.33:8080/job/Build-Trunk-Pipeline-SEA-14/ | Build-Trunk-Pipeline-SEA-14 [Jenkins]
+http://10.50.128.35:8080/job/Build-IOS-Trunk-Pipeline-SEA-14/ | Build-IOS-Trunk-Pipeline-SEA-14 [Jenkins]
+https://blog.csdn.net/m0_37679113/article/details/80363642 | Unity使用ShareSDK分享功能，包括自定义分享界面，Android以及IOS分享配置。_unity实现屏幕共享包括ui界面-CSDN博客
+https://blog.csdn.net/Wrinkle2017/article/details/127518571 | Unity 分享 功能 用Unity Native Share Plugin 实现链接、图片、视频等文件的分享+ 安卓 Ios 都可以，代码图文详解_unity分享功能-CSDN博客
+https://zhuanlan.zhihu.com/p/409479682 | Unity OdinInspector全特性介绍（总结篇） - 知乎
+https://zhuanlan.zhihu.com/p/409403629 | Unity OdinInspector全特性介绍（五） - 知乎
+https://docs.unity3d.com/2019.4/Documentation/ScriptReference/Android.AndroidExternalToolsSettings.html | Unity - Scripting API: AndroidExternalToolsSettings
+https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-zh-cn.pdf | 现代 C++ 教程：高速上手 C++11/14/17/20
+https://developer.apple.com/account/resources/devices/list | Certificates, Identifiers & Profiles - Apple Developer
+https://www.tapd.cn/tapd_fe/my/work | 我的工作-TAPD平台
+https://dev.weixin.qq.com/docs/framework/dev/framework/operation/build/exportoptions-plist.html | 获取ExportOptions.plist
+https://lib9kmxvq7k.feishu.cn/wiki/ES7Gwz4EAiVGKSkotY5cRbTznuh | 总览 - 飞书云文档
+https://moonton.feishu.cn/wiki/ZYjrw7MfxivtbukUeqkcZKDHnQc | sdk架构说明书 - 飞书云文档
+https://moonton.feishu.cn/wiki/USBtwUGp2iodV5kKrbPcbOpPnob | 【龙骑士】服务器维护对接文档 副本 - 飞书云文档
+https://github.com/focus-creative-games/luban/releases | Releases · focus-creative-games/luban
+https://moonton.feishu.cn/wiki/WgH1w5YHzinqkAkAGlzchtfQnnh?sheet=ll6BM5 | 龙骑士海外公测云配置 - 飞书云文档
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1843019885864987&trace_event=_HYgakq68U&lane_id=master | 知识平台
+https://moonton.feishu.cn/wiki/Mrmpwq8CJixvunkanwccTy7Dnmf | 局内外性能优化小记-20250922 - 飞书云文档
+https://moonton.feishu.cn/docx/GxwkdVJjFoi3BxxTplQcp5MXngb | XASSET计数问题 - 飞书云文档
+https://app.holopixai.art/ | Holopix AI: AI Game Art Creation Platform & Community
+https://aistudio.google.com/api-keys | Google AI Studio
+https://blog.csdn.net/dengjiangszhan/article/details/120023414 | Associated Domains 配置注意-CSDN博客
+https://juejin.cn/post/7455240780862668851 | 苹果Universal Link 完整配置流程1. 配置 App ID 正确操作： 登录 Apple Developer - 掘金
+https://www.aibase.com/zh | AIbase基地 - 让更多人看到未来 通往AGI之路
+https://holopix.cn/image/3634 | Holopix AI - 游戏美术设计神器 丨 低门槛、高可控的AI设计解决方案
+https://it-tools.tech/base64-string-converter | Base64 string encoder/decoder - IT Tools
+https://www.tapd.cn/tapd_fe/my/work?dialog_preview_id=story_1162234685001019406 | 我的工作-TAPD平台
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadhldmvffyby?topicId=1841578505499819&trace_event=2qdTQGTy--&lane_id=master&knowledgId=1841593511506970 | 知识平台
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1841559344017481&trace_event=qMqppna8VU&lane_id=master | ‎
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1841493302922427&lane_id=master&trace_event=6aqHleSiUo | ‎
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1841690123233412&lane_id=master&trace_event=B0FZSsO5a0 | 知识平台
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1842054964028554&lane_id=master&trace_event=YfVv-1lhDG | ‎
+https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&path=%2Faccount%2Fresources%2Fprofiles%2Flist&rv=1 | 登录 - Apple
+https://play.google.com/console/u/0/developers/7653397044992870122/app/4973911388399145086/keymanagement | 应用签名 | DragonDashTest
+https://help.toponad.net/cn/docs/wHwXTU | 集成基础说明-TopOn | 帮助中心
+https://moonton.feishu.cn/wiki/OKXzwUHeFipZCXkqFEycmVCan4d | 账号关系梳理 - 飞书云文档
+https://moonton.feishu.cn/wiki/Ce29wVEwBiDPAyksWXYcOQE4n6b | Android内存埋点数据分析方法 - 飞书云文档
+https://moonton.feishu.cn/wiki/AgWtwDWqLir23Pkv8CPcQVPwng1 | 性能问题排查-20250910 - 飞书云文档
+https://moonton.feishu.cn/wiki/MGOtwy2QqiQHSvk4vwocsw8CnTb | 龙2-Luban配表TodoList - 飞书云文档
+https://www.mermaidchart.com/app/projects/af0ae843-7ef6-48c6-8375-68d9f7ac3300/diagrams/389dda11-577d-4237-bc90-2e2e9454e6a3/version/v0.1/edit | Untitled diagram | Mermaid Chart
+https://www.mermaidchart.com/app/projects/af0ae843-7ef6-48c6-8375-68d9f7ac3300/diagrams/6cb14102-6bf2-4c7e-b88e-384c57c664c8/version/v0.1/edit | Untitled diagram | Mermaid Chart
+https://developer.apple.com/account/resources/identifiers/bundleId/edit/MN97WP43P9 | Certificates, Identifiers & Profiles - Apple Developer
+https://stackoverflow.com/questions/417142/what-is-the-maximum-length-of-a-url-in-different-browsers | http - What is the maximum length of a URL in different browsers? - Stack Overflow
+https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer | Process Explorer - Sysinternals | Microsoft Learn
+https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite | Sysinternals Suite - Sysinternals | Microsoft Learn
+https://github.com/MichealWayne/books | MichealWayne/books: 一些前端/设计相关的书籍（电子书）
+https://github.com/stevenli91748/System-Design?tab=readme-ov-file | stevenli91748/System-Design
+https://help.yank-note.com/introduction.html | Yank Note 介绍 | Yank Note Help
+https://www.bilibili.com/?spm_id_from=333.337.0.0 | 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://space.bilibili.com/302188068/lists/959448?type=season | 小白debug的个人空间-小白debug个人主页-哔哩哔哩视频
+https://moonton.feishu.cn/wiki/LNX6wpT89ixSMZkxDDAcERHTn5c | Sdk服务器账号引继流程 - 飞书云文档
+https://moonton.feishu.cn/wiki/Jvrzw2jFGimuydkLSJUcvMQQnRB?sheet=GOyRSp | ⁣‍‬⁢‌⁣‬⁡﻿﻿‌⁡‬‬⁣​‬‬⁤⁤‬‍﻿⁡‍⁡⁡​‍​​‬​﻿⁢⁣‌⁤‍‌⁣​‌⁢​​⁡​​心光海外引继策划案 - 飞书云文档
+https://it-tools.tech/url-parser | URL parser - IT Tools
+https://github.com/toponteam/TopOn-Unity-Demo-test/tree/master/AnyThinkUnitySDK/Assets/Editor/IOS | TopOn-Unity-Demo-test/AnyThinkUnitySDK/Assets/Editor/IOS at master · toponteam/TopOn-Unity-Demo-test
+https://service.cocos.com/document/zh/toponad.html | TopOn (聚合广告) · GitBook
+https://www.toponad.net/ | TopOn | Boost Your Monetization Revenue of Mobile Ads
+https://aistudio.google.com/apikey | Google AI Studio
+https://platform.openai.com/api-keys | API keys - OpenAI API
+https://x.ai/api | API | xAI
+https://docs.x.ai/docs/key-information/using-management-api | Using Management API | xAI Docs
+https://console.x.ai/team/9b02f000-441e-4603-bf23-5bdee3cc95fc/api-keys/create | Create API key | xAI Cloud Console
+https://grok.com/?referrer=website | Grok
+https://openrouter.ai/settings/keys | OpenRouter
+https://openai.com/zh-Hans-CN/codex/ | Codex | OpenAI
+https://chatgpt.com/checkout/openai_llc/cs_live_a121QUxAcId3olDB7q2Gm4WJZMjDnfRDSliwfMXSwdCEpuIi2QJzJMXAm9 | ChatGPT
+https://blog.csdn.net/qq_34035956/article/details/126033776 | Unity加速编译小技巧_unity 脚本即时编译-CSDN博客
+https://zhuanlan.zhihu.com/p/601065788 | 【Unity】引擎编译时间优化 - 知乎
+https://github.com/IvanMurzak/Unity-ImageLoader | IvanMurzak/Unity-ImageLoader: Asynchronous image loading from remote or local destination. It has two layers of configurable cache system: RAM and Disk.
+https://playbooks.com/dashboard | Your playbooks dashboard
+https://mp.weixin.qq.com/s/xj_J-umz8UFLOtN3uRwvpQ | 系统解耦：从耦合到涌现的游戏设计方法论
+https://blog.csdn.net/zhizhengguan/article/details/121269908 | CPU流水线优化：控制冒险、分支预测与性能提升-CSDN博客
+https://chengxumiaodaren.com/docs/performance/branch-predict/ | CPU分支预测原理：if-else性能优化指南 | 性能优化 | C++ 编程指南
+https://blog.csdn.net/a5292301/article/details/121465249 | 暴击的伪随机算法--PRD算法【转载】-CSDN博客
+https://zhuanlan.zhihu.com/p/381859536 | (99+ 封私信 / 80 条消息) 【笔记】Unity内存分配和回收的底层原理 - 知乎
+https://blog.csdn.net/qq_42437783/article/details/137157059 | 一文读懂Unity性能分析工具：MemoryProfiler，教你轻松分析项目性能瓶颈_unity memory profiler-CSDN博客
+https://learn.u3d.cn/tutorial/bolt-mstudio?chapterId=63562b29edca72001f21d183&sectionId=60389634bed13a002239eabd | Bolt可视化编程工具 | Unity 中文课堂
+https://upr.unity.cn/instructions/test-automation | UPR - Unity专业性能优化工具
+https://www.tzsucai.com/softdetail/62.html | [亲测可用]Photoshop cc【PScc中文版】软件免费下载与安装方法-TZ素材网
+https://juejin.cn/post/7362203195051769919 | 超级笔记神器：Yank Note超级笔记神器：Yank Note Yank Note：编码思维，极致记录- 精选真开源， - 掘金
+https://juejin.cn/post/7038164174538539039 | Yank Note 系列 03 - 同内存泄露的艰难战斗！在前一篇文章里，我讲述了给 Yank Note 做性能优化的一 - 掘金
+https://blog.csdn.net/chengling3991/article/details/100833813 | Beyond Compare比较表格小窍门-CSDN博客
+http://www.008ct.top/blog/2020/10/04/%E4%BD%BF%E7%94%A8Spreadsheet-Compare%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94Excel%E6%96%87%E4%BB%B6%E5%B7%AE%E5%BC%82/ | 使用Spreadsheet Compare工具对比Excel文件差异 | Albert World
+https://support.microsoft.com/en-us/office/vlookup-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1 | VLOOKUP function - Microsoft Support
+https://support.microsoft.com/zh-cn/office/vlookup-%E5%87%BD%E6%95%B0-0bbc8083-26fe-4963-8ab8-93a18ad188a1 | VLOOKUP 函数 - Microsoft 支持
+https://moonton.feishu.cn/wiki/wikcnlzOSMowAWF6gkyYYyPADMd | 知识库使用需知 - 飞书云文档
+https://moonton.feishu.cn/wiki/MxY9wELEfiWZldkJojTczzQFnqh?table=tbltYjxOHdQ40kRc&view=vewMnpNgGD | 🛠️ 导表工具需求管理 - 飞书云文档
+https://blog.csdn.net/github_37499193/article/details/149047821 | 第一篇：入门篇：借助 GEMINI.md，将你的 AI 协作提升到新高度-CSDN博客
+https://blog.csdn.net/github_37499193/article/details/149047973?spm=1011.2415.3001.5331 | 第二篇：实战篇：精通 GEMINI.md 语法，打造你的专属 AI 工程师_md语法 ai-CSDN博客
+https://blog.csdn.net/github_37499193/article/details/149048181 | 第三篇：精通篇：高级技巧与团队协作，释放 GEMINI.md 的全部潜力-CSDN博客
+https://blog.csdn.net/u014451778/article/details/149072924 | 【笔记】Windows 安装 Gemini CLI_germini cli在windows-CSDN博客
+https://yank-note.com/zh-CN#pricing | Yank Note: 一款强大可扩展的 Markdown 编辑器
+https://zhuanlan.zhihu.com/p/409166888 | (99+ 封私信 / 80 条消息) Unity OdinInspector全特性介绍（四） - 知乎
+https://zhuanlan.zhihu.com/p/408785062 | Unity OdinInspector全特性介绍（三） - 知乎
+https://zhuanlan.zhihu.com/p/408380221 | Unity OdinInspector全特性介绍（二） - 知乎
+https://zhuanlan.zhihu.com/p/408002569 | (99+ 封私信 / 80 条消息) Unity OdinInspector全特性介绍（一） - 知乎
+https://www.zhihu.com/people/hsdkdf-7/posts | (99+ 封私信 / 80 条消息) 我比企鹅长得高 - 知乎
+https://www.zhihu.com/question/330064919 | (99+ 封私信 / 80 条消息) 中国人如何开通PayPal账号？ - 知乎
+https://www.reddit.com/r/expats/comments/107gni8/whats_the_best_american_phone_number_app_that/?tl=zh-hans | 哪个美国电话号码应用最好用，能真正收发短信？ : r/expats
+https://my.openphone.com/signup?_gl=1*w3iptz*_ga*MTgyMDA0NDYxOS4xNzU2NTI0Mzcz*_ga_WX1XYTKSR5*czE3NTY1MjQzNzMkbzEkZzAkdDE3NTY1MjQzNzMkajYwJGwwJGgw | Sign up and start your free trial | OpenPhone
+https://my.openphone.com/onboarding/verify | OpenPhone - Phone for startups and small businesses
+https://github.com/workwayfi/sms-jiema?tab=readme-ov-file | workwayfi/sms-jiema: 汇总国外1000个免费手机号接码 - 国外免费手机号验证平台
+https://blog.csdn.net/qq_39574690?type=blog | 两水先木示-CSDN博客
+https://blog.csdn.net/qq_39574690/article/details/145554860?spm=1001.2014.3001.5502 | 【Unity3D】UGUI的anchoredPosition锚点坐标_unity anchoredposition-CSDN博客
+https://blog.csdn.net/qq_39574690/article/details/149902246?spm=1001.2014.3001.5502
+https://blog.csdn.net/qq_39574690/article/details/150393509?spm=1001.2014.3001.5502
+https://eu-central-1.run.claw.cloud/ | ClawCloud Run
+https://notebooklm.google/ | Google NotebookLM | AI 研究工具与思考伙伴
+https://notebooklm.google.com/notebook/42825b46-5a30-4acb-a338-e13374a24104 | Data Structures and Algorithms 3: Sorting Fundamentals - NotebookLM
+https://zhuanlan.zhihu.com/p/673637699 | (99+ 封私信 / 80 条消息) [UE5]性能优化-PGO和LTO（不改动代码时我们能做什么优化） - 知乎
+https://blog.csdn.net/weixin_45029839/article/details/122732568 | CLR Via C# 读书笔记-第23章（程序集加载和反射）_可以处理处理各种插件和package代码中使用反射接口加载assembly(程序集)导致的mem-CSDN博客
+https://developer.valvesoftware.com/wiki/Zh/Dota_2_Workshop_Tools/Scripting/Abilities_Data_Driven | 数据驱动类技能 - Valve Developer Community
+https://zhuanlan.zhihu.com/p/384160632 | 代码优化利器 LTO 介绍 - 知乎
+http://10.50.128.190:8000/config
+https://answer.uwa4d.com/ | UWA问答 | 游戏开发者互动问答社区 | 侑虎科技
+https://edu.uwa4d.com/ | UWA学堂 | Unity和Unreal游戏引擎的从业者学习交流平台
+https://www.bilibili.com/video/BV1b17QzsE3k/?spm_id_from=333.337.search-card.all.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e | UnityMCP+Trae AI工作流初体验_哔哩哔哩_bilibili
+https://blog.csdn.net/LINBEI_GUGUBIRD/article/details/148388589?fromshare=blogdetail&sharetype=blogdetail&sharerId=148388589&sharerefer=PC&sharesource=LINBEI_GUGUBIRD&sharefrom=from_link | Unity MCP之Unity + Trae-CSDN博客
+https://blog.csdn.net/final5788/article/details/130114695 | 【Unity编辑器扩展】(一)PSD转UGUI Prefab, Aspose.PSD和Harmony库的使用-CSDN博客
+https://www.bilibili.com/video/BV1aa4y1r75T/?spm_id_from=333.788.videopod.sections&bvid=BV1aa4y1r75T&vd_source=5aeec11224a2dcfe0ebe94495dda445e | 解放UI程序/美术? psd文件一键转ui prefab 支持所有ui类型 支持textmeshpro_哔哩哔哩_bilibili
+https://github.com/focus-creative-games | Code Philosophy(代码哲学)
+https://blog.csdn.net/qq_45548042/article/details/121011915 | Unity之UI_unity ui-CSDN博客
+https://note.wiz.cn/wapp/recent/122b7cf1-d23d-4eea-b029-0ac21ea5272c?docGuid=3bca98e5-1f3f-4571-ac2d-30e1f7533e4c | 为知笔记 | Sec
+https://moonton.feishuapp.cn/ae/apps/v3/package_fd672b__c/pc/aadgxvox46gca?knowledgeId=1837794100750372&trace_event=-d8CuSH6Dw&lane_id=master | 知识平台
+https://www.bilibili.com/video/BV1k9JtzUEfF/?buvid=XUD3EA0D4638DB0CF3A5EFF30DBE362F5CF18&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=tYAtzRqVuOL8Gd1dLNXLvg%3D%3D&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=4e138af6-e545-4fad-88d7-cba502f7b870&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1747865860&unique_k=sE1Y0gM&up_id=173991951&vd_source=5aeec11224a2dcfe0ebe94495dda445e | Unity教程｜从零开始构建《杀戮尖塔》｜系列视频-P1_游戏热门视频
+https://moonton.feishu.cn/docx/NNqedLAeso1DTixnAIOc4USxn3f | 龙1局外海外宏使用情况 - 飞书云文档
+https://moonton.feishu.cn/wiki/SnRnwvmkoif6RVkFH4tcAjIzn4c | 公司安全管控详情 - 飞书云文档
+https://www.cnblogs.com/bycw/p/17927416.html | Unity3D MVC框架和MVVM框架优缺点详解 - 游戏开发阿博 - 博客园
+https://www.cnblogs.com/OceanEyes/p/unity3d_framework_designing_get_started_with_mvvm_part1.html | Unity应用架构设计(1)—— MVVM 模式的设计和实施(Part 1) - 木宛哥说编程 - 博客园
+https://www.cnblogs.com/qinganning/p/18974824 | C#之MVVM篇快速入门 - 清安宁 - 博客园
+https://www.cnblogs.com/mingupupu/p/18218027 | WPF/C#：理解与实现WPF中的MVVM模式 - mingupupup - 博客园
+https://stackoverflow.com/questions/43127642/understanding-mvvm-how-to-bind-data-view-%E2%86%94-viewmodel-catch-key-pressed-on-vi | c# - Understanding MVVM - How to bind data view ↔ ViewModel + catch Key pressed on view and start function in viewModel - Stack Overflow
+https://create-bbs.reckfeng.com/forum.php?mod=viewthread&tid=413 | lua 动态绑定 类似mvvm - 技术交流 - Y3编辑器论坛 - Powered by Discuz!
+https://github.com/gerich-home/lui | gerich-home/lui: Lui is a lua MVVM framework based on IUP gui library and Lockout.lua (Knockout port)
+https://discussions.unity.com/t/mvvm-and-databinding-for-unity3d/711555 | MVVM and Databinding for Unity3d - Community Showcases - Unity Discussions
+https://blog.codingnow.com/ | 云风的 BLOG
+https://withpinbox.com/items | Pinbox - 跨平台收藏工具
+https://luban.doc.code-philosophy.com/docs/3.x/beginner/usecustomtype | 使用自定义类型 | Luban
+https://github.com/search?q=luban&type=repositories&p=5 | Repository search results
+https://github.com/Me-Maped/Gameframework-at-FairyGUI | Me-Maped/Gameframework-at-FairyGUI: UnityGameFramework+FairyGUI+YooAsset+HybridCLR+Luban+UniTask
+https://github.com/IcePower/X-ET7 | IcePower/X-ET7: X-ET 是一个融合了 ET, FairyGUI, luban, YooAsset 的缝合怪。
+https://github.com/Alex-Rachel/GameFramework-Next | Alex-Rachel/GameFramework-Next: GameFramework-Next
+https://github.com/FlameskyDexive/ETPlus | FlameskyDexive/ETPlus: ET8.1加强版，EUI+Luban+YooAsset
+https://github.com/GameFrameX/GameFrameX | GameFrameX/GameFrameX: Unity前后端+管理端一体化解决方案-HybridCLR+YooAssets+LuBan+ProtoBuff+FairyGUI+DoTween+GameAnalytics+LitJson+UniTask+GameFramework+GeekServer+Admin.Net。
+https://developer.unity.cn/ask/question/685cb61bedbc2a001dbef2f8 | unity报错：Access is denied. - 技术问答 - Unity官方开发者社区
+https://www.bilibili.com/video/BV1cz4y1s7QS/?spm_id_from=333.788.videopod.episodes&vd_source=5aeec11224a2dcfe0ebe94495dda445e&p=11 | 无限循环列表 LoopScrollRect_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1z5G5zpEfo/?spm_id_from=333.337.search-card.all.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e | 🚀当Cursor和Claude Code拥有了记忆！编程能力倍增！Graphiti MCP Server让AI编程助手实现持久超强记忆！时序知识图谱让效率倍增_哔哩哔哩_bilibili
+https://elearning.feishu.cn/student/ | Learning
+https://moonton.feishu.cn/wiki/WqWBwL9M1iqMUBkAkhAcWZ7AnJh?open_in_browser=true | 龙2ET框架指南 - 飞书云文档
+https://edu.uwa4d.com/lesson-detail/79/99/0?isPreview=0 | 2丨WillRenderCanvases源码解读_UGUI深度研究之源码鉴赏_UWA学堂
+https://weread.qq.com/ | 微信读书
+https://blog.uwa4d.com/archives/EDU_Primary.html | UWA学堂 | 初级课程汇总 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://www.cnblogs.com/as3Gui/p/16885346.html | LayaBox引擎3D源码阅读(一、从继承链开始学习) - 小雄(416731103) - 博客园
+https://www.newtonsoft.com/json/help/html/DatesInJSON.htm | Serializing Dates in JSON
+https://ldc2.layabox.com/doc/?language=zh&nav=zh-ts-0-3-4 | 如何使用及维护Github的LayaAir引擎源码__LAYABOX技术文档
+https://ty-chen.github.io/lua-linux/ | Lua源码剖析（一）开篇 | Ty-Chen's Home
+https://blog.csdn.net/qq_41166022/article/details/136097129 | 图形引擎实战：Spine动画性能优化-CSDN博客
+https://blog.csdn.net/qq_37310110/article/details/90268792 | 【工具篇】Unity使用Spine2D动画，代码控制_spine2d unity-CSDN博客
+https://blog.uwa4d.com/archives/USparkle_UE4Shader.html | UE4 Shader编译以及变种实现 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://blog.csdn.net/qq_33060405/article/details/136463570 | Unity着色器编译全流程与优化指南_着色器编译技术-CSDN博客
+https://aicodewith.com/dashboard/installation/windows | Claude Code Dashboard
+https://blog.csdn.net/qq_43437874/article/details/120007499 | Sentinel系列(12) - Sentinel之实时监控_sentinelone会监控电脑内容吗-CSDN博客
+https://updateoss.leiting.com/longqs/version/publish/210009 | updateoss.leiting.com/longqs/version/publish/210009
+https://juejin.cn/post/7347000319983386643 | 8.7K+ Star！快速搭建个人在线工具箱it-tools —— 一个为开发人员提供方便的在线工具集合的开源项目，包含 - 掘金
+https://juejin.cn/post/7326378145573535755 | 开发者的瑞士军刀！一款适用于开发者的工具集合！DevToys —— 号称是开发人员的“瑞士军刀”，一款适用于开发者的工具 - 掘金
+https://devtoys.app/download | DevToys - Download
+https://github.com/search?q=IT%20Tool&type=repositories | Repository search results
+https://www.nuget.org/packages?q=Tags%3A%22devtoys-app%22+json&includeComputedFrameworks=true&prerel=true&sortby=relevance | NuGet Gallery | Packages matching Tags:"devtoys-app" json
+https://www.nuget.org/packages/DevToys.JsonToCsharp#readme-body-tab | NuGet Gallery | DevToys.JsonToCsharp 1.1.0
+https://github.com/Devbeat-io/devtoys-extensions/tree/main | Devbeat-io/devtoys-extensions: Devbeat provide a number of free to use extensions for Devtoys.
+https://github.com/GlitchEnzo/NuGetForUnity | GlitchEnzo/NuGetForUnity: A NuGet Package Manager for Unity
+https://github.com/bdovaz/UnityNuGet | bdovaz/UnityNuGet: Provides a service to install NuGet packages into a Unity project via the Unity Package Manager
+https://blog.csdn.net/zigzagbomb/article/details/101212111 | 【Python】Python与C#的消息传递_c# python json-CSDN博客
+https://et-framework.cn/ | ET社区
+https://space.bilibili.com/237873456/favlist?fid=147503656&ftype=create | dayelongshe的个人空间-dayelongshe个人主页-哔哩哔哩视频
+https://www.bilibili.com/video/BV1cz4y1s7QS?spm_id_from=333.788.videopod.episodes&vd_source=5aeec11224a2dcfe0ebe94495dda445e&p=11 | 无限循环列表 LoopScrollRect_哔哩哔哩_bilibili
+https://github.com/LiShengYang-yiyi?tab=repositories | LiShengYang-yiyi (LiShengYang-yiyi) / Repositories
+https://github.com/erincatto/box2d | erincatto/box2d: Box2D is a 2D physics engine for games
+https://github.com/falseeeeeeeeee/ShaderLibrary | falseeeeeeeeee/ShaderLibrary: 希望开源能够帮到所有人
+https://zhuanlan.zhihu.com/p/672946199
+https://www.yooasset.com/docs/guide-editor/AssetBundleBuilder | 资源构建 | YooAsset
+https://github.com/tuyoogame/YooAsset/issues | Issues · tuyoogame/YooAsset
+https://uos.unity.cn/doc/cdn/yoo-asset | CDN 资源管理 YooAsset
+https://github.com/tuyoogame/YooAsset/blob/dev/Assets/YooAsset/Samples~/Test%20Sample/Runtime/T2_TestBuldinFileSystem/TestBundleEncryption.cs | YooAsset/Assets/YooAsset/Samples~/Test Sample/Runtime/T2_TestBuldinFileSystem/TestBundleEncryption.cs at dev · tuyoogame/YooAsset
+https://luban.doc.code-philosophy.com/ | Luban | Luban
+https://www.luban3d.com/
+https://xasset.cc/ | xasset | 专业 Unity 构建工具
+https://blog.csdn.net/weixin_41292299/article/details/137928358 | [Unity 3D] 盘点 Github 上的那些 AssetBundle 框架_yooasset xasset-CSDN博客
+https://github.com/EllanJiang/GameFramework/tree/master | EllanJiang/GameFramework: This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.
+https://github.com/mr-kelly/KSFramework/tree/master/KSFramework/Assets/KSFramework/KEngine/KEngine/CoreModules | KSFramework/KSFramework/Assets/KSFramework/KEngine/KEngine/CoreModules at master · mr-kelly/KSFramework
+https://developer.unity.cn/projects/67a5b8ccedbc2a3e3b46c8cf | Unity社群周报20250201- 技术交流FAQ - 技术专栏 - Unity官方开发者社区
+https://github.com/killop/anything_about_game | killop/anything_about_game: A wonderful list of Game Development resources.
+https://www.docker.com/ | Docker: Accelerated Container Application Development
+https://blog.csdn.net/xinshou_zhu/article/details/140175599 | 使用Windows11系统自带的虚拟机准备Linux环境_win11安装linux虚拟机-CSDN博客
+https://www.bilibili.com/video/BV1cz4y1s7QS/?spm_id_from=333.788.videopod.episodes&vd_source=5aeec11224a2dcfe0ebe94495dda445e&p=3 | 初始化项目_哔哩哔哩_bilibili
+https://github.com/DeviceFarmer/stf?tab=readme-ov-file | DeviceFarmer/stf: Control and manage Android devices from your browser.
+https://www.reddit.com/?feed=home | Reddit - The heart of the internet
+https://moonton.feishu.cn/wiki/RbojwvUyviA7BjkYpBecB2OinHl | Unity引擎 - 飞书云文档
+https://crashsight.qq.com/crash-reporting/errors/d81b71c2ff?pid=2&status=2&start=0&exceptionCategoryList=ERROR&sortOrder=desc&sortField=uploadTime&version=1.0.49.8%3B1.0.50.1%3B1.0.51.1 | 错误列表-飞吧龙骑士
+https://gamefromscratch.com/unity-now-forcing-cloud-projects/ | Unity Now Forcing Cloud Projects – GameFromScratch.com
+https://discussions.unity.com/t/cloud-project-linking-an-explanation-and-some-changes/1662525 | Cloud Project Linking: An Explanation and Some Changes - Unity Engine - Unity Discussions
+https://cursor.com/downloads | Downloads | Cursor - The AI Code Editor
+https://cursor.com/dashboard | Cursor - The AI Code Editor
+https://cursor.com/loginDeepPage | Auth | Cursor - The AI Code Editor
+https://www.trae.ai/login?redirect_url=https://www.trae.ai/pricing | Log In | Trae - Collaborate with Intelligence
+https://moonton.feishu.cn/wiki/ | 知识库 - 飞书云文档
+https://flowgame.feishu.cn/wiki/wikcnFb18SluqNbQp8NWiy8m2sc?fromScene=spaceOverview | 猫戏法Wiki首页 - 飞书云文档
+https://flowgame.feishu.cn/wiki/wikcnuxs2oKNd2dSap0H1Nh9Pqf | 使用神经网络来控制代理对威胁做出反应 - 飞书云文档
+https://dev.epicgames.com/portal/zh-Hans/boltray-games?trackingId=b033d258e0a14eb69a005558fbbe9b89 | 控制面板 — Epic Online Services | 开发者门户
+https://weread.qq.com/web/reader/78c32900813ab9613g016259k8d5321302938d5e957f2c0d | C# 10核心技术指南 - 14.2 线程 - [澳]约瑟夫·阿坝哈瑞 - 微信读书
+https://weread.qq.com/web/reader/f813245071a1234ef810220k3c5327902153c59dc0488e1 | C#并发编程经典实例 - 1.1 并发编程简介 - 克利里 - 微信读书
+https://weread.qq.com/web/reader/8b742203643425f433849396a65396b7033497936747736737a335139384b488e8 | 《精通c#（第6版）》.pdf - - 微信读书
+https://blog.uwa4d.com/archives/EDU_Senior.html | UWA学堂 | 高级课程汇总 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://www.uwa4d.com/main/projectDetail.html?projectGroupId=2781&platform=1&metaType=GOT_ONLINE%3Aoverview | dragondash-项目详情
+https://www.uwa4d.com/u/got/perfanalysis.html/report?dataKey=20250627114701estf828overview420&project=2781&engine=1 | dragondash - GOT Online 总体性能趋势
+https://www.uwa4d.com/u/got/perfanalysis.html/report?dataKey=20250627180838estf828overview692&project=2781&engine=1 | dragondash - GOT Online 总体性能趋势
+https://community.uwa4d.com/search?scope=2&keyword=%E5%A0%86%E5%86%85%E5%AD%98 | UWA-社区
+https://zhuanlan.zhihu.com/p/142234137 | (99+ 封私信 / 80 条消息) APP&游戏需要关注Jank卡顿吗？ - 知乎
+https://flowgame.feishu.cn/wiki/wikcn4qjEt9xaZSJDcFXGHljIag | 验证服排查问题解决方案 - 飞书云文档
+https://flowgame.feishu.cn/wiki/wikcnTmdeJgQmQiEA65Y4j7lwuc | Tap测验证服 - 一致性排错 - 飞书云文档
+https://flowgame.feishu.cn/wiki/wikcnnRm91NMx5poD1YBYZoJGU1 | 验证服环境说明 & 环境负责人 & 技术流程 - 飞书云文档
+https://flowgame.feishu.cn/wiki/LoRewZQ1iipwVpkBxpUc2kO4nTb | 验证服操作流程 - 飞书云文档
+https://flowgame.feishu.cn/wiki/D8BGws85QicyClkpA4HcLebFnjh | 验证服/验证服工具（全日志等）文档 - 飞书云文档
+https://flowgame.feishu.cn/wiki/wikcnIACsRk0f7cb0uz8Ee1ro6g | 验证服 - 一致性工具 - 使用说明 - 飞书云文档
+https://flowgame.feishu.cn/wiki/LeT4wFPxgiLWSqk2goIcD9Jjnue | 组队玩法 - 验证服方案 - 飞书云文档
+https://flowgame.feishu.cn/wiki/SfbXwTXZZiGmmhk0Rmucc7Tonee | 全日志验证服务 - 飞书云文档
+https://flowgame.feishu.cn/wiki/YqCfwI9csiNEY4koFnFcAwSFn6X | 必读：验证服错题表 - 飞书云文档
+https://flowgame.feishu.cn/wiki/wikcnyecrxAYjNf3mDmPIzmCJPe | 验证服 - 飞书云文档
+https://flowgame.feishu.cn/wiki/wikcn4lbAc3M7pkdfZp9nRpizFb | 验证流程 - 飞书云文档
+https://flowgame.feishu.cn/wiki/Y4pRwWy8qiPctOkch25coV1hnmf | 验证流程 - 飞书云文档
+https://flowgame.feishu.cn/wiki/ZWlMwdpBZif1tVkMuDmcRLgNnPf | 何路平 - 飞书云文档
+https://flowgame.feishu.cn/wiki/wikcnWDd981j9735OpRYsfq5S0b | 验证服排查问题服务端需求 - 飞书云文档
+https://flowgame.feishu.cn/wiki/Nt4iwMMLTij4uwk9pcvcGuL3nGd | 账号密码 - 飞书云文档
+http://kubernetes-dashboard.xgjoy.org/#/statefulset?namespace=dragondash-obqa | Kubernetes Dashboard
+http://kuboard.xgjoy.org:7080/sso/auth/ldap?req=nuillsd672xdggzsh4cjdvlo4 | Kuboard
+https://flowgame.feishu.cn/wiki/GrgXw8qHDiUutTkT0FkcX51Rnid | 验证服不一致查修手册 - 飞书云文档
+https://localsend.org/zh-CN/download?os=windows | LocalSend - 下载
+https://github.com/localsend/localsend | localsend/localsend: An open-source cross-platform alternative to AirDrop
+https://www.xuanyusong.com/contact | 联系站长 | 雨松MOMO程序研究院
+https://www.xuanyusong.com/ | 雨松MOMO程序研究院|专注移动互联网与Unity3D游戏开发的技术博客 — xuanyusong.com
+https://github.com/egametang/ET/blob/release9.0/Book/2.1CSharp%E7%9A%84%E5%8D%8F%E7%A8%8B.md | ET/Book/2.1CSharp的协程.md at release9.0 · egametang/ET
+https://www.zhihu.com/column/c_1886352766663909941?share_code=18Ta1PaeNL0ui&utm_psn=1903817349515179169 | (99+ 封私信 / 80 条消息) 游戏开发-战斗系统 - 知乎
+https://github.com/megaease | MegaEase
+https://www.youware.com/home | YouWare | First AI Coding Community Where Creators Build
+https://lizhi.shop/category/windows?os_types=2&is_pro_dis=1 | Windows 专区 - 荔枝软件商店
+https://lizhi.shop/products/adguard | AdGuard - 多平台广告拦截软件 - 荔枝软件商店
+https://lizhi.shop/products/xunjie-pdf-converter | 迅捷 PDF 转换器 - PDF 转 Word 批量文件格式转换 - 荔枝软件商店
+https://lizhi.shop/products/iobit-uninstaller-pro | IObit Uninstaller 14 Pro - 专业软件卸载清理工具 - 荔枝软件商店
+https://lizhi.shop/products/advanced-systemcare-pro | Advanced SystemCare 18 Pro - PC 系统清理优化工具 - 荔枝软件商店
+https://clashios.com/how-about-doggy-cloud/ | 狗狗加速怎么样？狗狗加速机场节点体验-Clash 爱好者
+https://clashios.com/ | Clash 机场推荐（2025 最佳 Clash、Shadowrocket 节点）
+https://www.cnblogs.com/zhaoqingqing/p/14837474.html | Unity Editor自定义菜单排序(MenuItem Order) - 赵青青 - 博客园
+https://blog.redbluegames.com/guide-to-extending-unity-editors-menus-b2de47a746db | Guide to Extending Unity Editor’s Menus | by Edward Rowe | Red Blue Games
+http://redbluegames.com/ | Sparklite
+https://medium.com/ | Medium
+https://login.unity.com/en/sign-in | Unity ID Account Login | Sign in
+https://flowgame.feishu.cn/wiki/LTUkwaVHdim5IXkulfecn3hWnVe?open_in_browser=true | 客户端研讨会 - 飞书云文档
+https://flowgame.feishu.cn/wiki/XCNqwgY7xiOaMKk8bLVcIhJXnxg?table=tblomKLvk2KutDBS&view=vewb1ovaJ8 | 客户端工作内容 - 飞书云文档
+https://www.audiokinetic.com/zh/learning/teach-wwise/ | Wwise 教学 | Audiokinetic
+https://blog.csdn.net/Topdandan/article/details/88046765 | 关于栈区、堆区、全局区(静态区)，常量区、代码区的说明&visual studio 声明数组太大，导致栈溢出的原因解释_visual studio 数组常量值怎么解决-CSDN博客
+https://zhuanlan.zhihu.com/p/16534167796 | 编译UE5.2工程时遇到的MSVC和SDK版本问题 - 知乎
+https://www.cnblogs.com/lanyelinxiang/p/18751850 | 虚幻unreal4.27源码编译编辑器流程与问题汇总 - 昂流 - 博客园
+https://zhuanlan.zhihu.com/p/470725496 | UnLua框架解析-UE引擎Lua框架解决方案 (下) - 知乎
+https://zhuanlan.zhihu.com/p/470691391 | UnLua框架解析-UE引擎Lua框架解决方案 (上) - 知乎
+https://discussions.unity.com/t/open-source-websocket-client/944630 | Open Source WebSocket client - Community Showcases - Unity Discussions
+https://github.com/mikerochip/unity-websocket | mikerochip/unity-websocket: Easiest-to-use WebSocket client for Unity, probably
+https://yangwc.com/2020/01/10/Octree/ | 空间管理Space management：四叉树 & 八叉树 | YangWC's Blog
+https://www.reddit.com/r/Unity3D/ | Unity 3D - News, Help, Resources, and Showcase
+https://unity.com/cn/blog/engine-platform/understanding-unitys-serialization-language-yaml | 了解Unity的序列化语言：YAML
+https://docs.unity3d.com/Manual/SmartMerge.html | Unity - Manual: Smart merge
+https://mattchen730.wordpress.com/2016/12/09/%E5%A6%82%E4%BD%95%E6%8A%8Aunity-5%E6%8F%90%E4%BE%9B%E7%9A%84yaml-merge-tool-%E6%95%B4%E5%90%88%E8%87%B3tortorisesvn/ | 如何把unity 5提供的YAML merge tool 整合至TortoriseSVN – mattchen730
+https://zhuanlan.zhihu.com/p/47869981 | (99+ 封私信 / 80 条消息) 史上最全的C++/游戏开发面试问题总结（一）——C++基础 - 知乎
+https://www.cnblogs.com/jiahuafu/p/9389954.html | Lua面试题目 - jiahuafu - 博客园
+https://zhuanlan.zhihu.com/p/383994942 | 2021最新Lua面试题汇总 - 知乎
+https://www.cnblogs.com/zblade/p/8819609.html | Lua中table的实现-《Lua设计与实现》 - zblade - 博客园
+https://zhuanlan.zhihu.com/p/97830462 | (99+ 封私信 / 80 条消息) 深入Lua：Table的实现 - 知乎
+https://mp.weixin.qq.com/s/_gYmoOIt5tRIrwmW0KvXxw | 史上最全的C++/游戏开发面试问题总结（一）——C++基础
+https://blog.csdn.net/halaoda/article/details/78778477
+https://edu.uwa4d.com/lesson-detail/126/2706/0?isPreview=0
+https://edu.uwa4d.com/lesson-detail/172/962/0?isPreview=0
+https://edu.uwa4d.com/course-intro/0/281?purchased=true&entrance=4
+https://edu.uwa4d.com/course-intro/0/189?purchased=true&entrance=4
+https://edu.uwa4d.com/lesson-detail/432/2126/0?isPreview=0
+https://www.jianshu.com/p/3bab26d25d2e
+https://github.com/MultiplayerBook/MultiplayerBook/tree/master
+https://github.com/iohao/ioGame
+https://github.com/jzyong/ugk-server
+https://gist.github.com/baymaxium/194d2d348431c3f7e7922052766240d3
+https://pmlpml.github.io/unity3d-learning/ | 目录 | 3D Game Programming & Design
+https://gitcode.com/Universal-Tool/b4af1/?utm_source=article_gitcode_universal&index=top&type=card&
+https://github.com/huazi1234/BOOK | huazi1234/BOOK
+https://blog.csdn.net/JMW1407/article/details/108243316 | C++类的虚函数表和虚函数在内存中的位置-CSDN博客
+https://blog.csdn.net/renwen1579/article/details/124833273 | Unity用新版本VS调试总是卡住很长时间_unity 调试 慢-CSDN博客
+https://unity.com/cn/resources/ultimate-guide-to-profiling-unity-games
+https://unity.com/cn/how-to/improve-qa-testing-debugging-debug-class
+https://unity.com/resources/level-up-your-code-with-game-programming-patterns | Level up your code with game programming patterns | Unity
+https://unity.com/resources/user-interface-design-and-implementation-in-unity | User interface design and implementation in Unity
+https://www.zhihu.com/column/p/31176417 | 使用Mono.Cecil实现IL代码注入 - 知乎
+https://blog.csdn.net/Long_xu/article/details/128365646 | Lua编程：深入理解Upvalue和闭包_lua upvalue-CSDN博客
+https://flowgame.feishu.cn/wiki/Svc4wjbF4iRQeSkwW3Pch0dWnzh
+https://zhuanlan.zhihu.com/p/346380000 | (99+ 封私信 / 80 条消息) 用lua实现mvvm界面框架 - 知乎
+https://blog.csdn.net/weixin_43945471/article/details/132980886 | 数据结构——八叉树_八叉树数据结构-CSDN博客
+https://blog.csdn.net/hitwhylz/article/details/23089415 | A星算法详解(个人认为最详细,最通俗易懂的一个版本)-CSDN博客
+https://github.com/Unity-Technologies/uGUI/blob/main/com.unity.ugui/Documentation~/EventSystem.md | uGUI/com.unity.ugui/Documentation~/EventSystem.md at main · Unity-Technologies/uGUI
+https://weread.qq.com/web/reader/c4032270727da196c40104a | 设计模式的艺术 - 刘伟 - 微信读书
+https://weread.qq.com/web/reader/bf432a807212b5eebf4cca9k36632a30310636660e59e6c | 多人在线游戏架构实战：基于C++的分布式游戏编程 - 1.4 阻塞式网络编程 - 彭放 - 微信读书
+https://weread.qq.com/web/reader/5c632a50716c1f555c67eafk9cf32d102e29cfdf10e885f | Unity3D网络游戏实战（第2版） - 4.4.1 为什么会有大端小端之分 - 罗培羽 - 微信读书
+https://weread.qq.com/web/reader/0aa32990716ce7dc0aa4410 | 游戏架构：核心技术与面试精粹 - 樊松阳 - 微信读书
+https://weread.qq.com/web/reader/1b732050726c2a771b729b6 | 百万在线：大型游戏服务端开发 - 罗培羽 - 微信读书
+https://weread.qq.com/web/reader/6b932b607159a2116b93835 | 游戏编程模式 - Robert Nystrom - 微信读书
+https://www.runoob.com/mysql/mysql-python-intro.html | MySQL Python 连接与使用 | 菜鸟教程
+https://mp.weixin.qq.com/s/y0Cm-DzDW8KYlIiOAsTUJQ | 聊聊FlaUI：让Windows UI自动化测试优雅起飞！
+https://github.com/FlaUI/FlaUI | FlaUI/FlaUI: UI automation library for .Net
+https://mp.weixin.qq.com/s/vBcC2-7Sj99h-iuMaE-R4A | 《HelloGitHub》第 110 期
+https://github.com/nothke/ProtoGUI | nothke/ProtoGUI: Simple, quick and good looking GUI windows for Unity, intended for prototyping and debugging
+https://rider-support.jetbrains.com/hc/en-us/articles/360006365380-How-Antivirus-Software-Affects-Rider-s-Performance-on-Windows | How Antivirus Software Affects Rider's Performance (on Windows) – Rider Support | JetBrains
+https://blog.csdn.net/renfufei/article/details/105851728 | Linux系统命令 - 查看内存使用情况_查看服务器内存使用情况命令-CSDN博客
+https://blog.csdn.net/peixin_huang/article/details/104185337 | PyQt5打包生成exe文件_pyqt5打包成exe-CSDN博客
+https://developer.unity.cn/ask/question/63cdea40edbc2a0555bb0fab | 各位大佬看一下这个怎么解决啊，这个设置里面也找不到 - 技术问答 - Unity官方开发者社区
+https://flowgame.feishu.cn/docx/Ako7dQ9vaoMlGwxqF5Icd0TVnXf | 龙2ET框架指南 - 飞书云文档
+https://blog.uwa4d.com/archives/UnityVersion16.html | Unity版本使用情况统计（更新至2025年5月） - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://blog.uwa4d.com/archives/TechSharing_294.html | Unity性能优化分析思路 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://www.cnblogs.com/timlly/p/10463467.html | 移动游戏性能优化通用技法 - 0向往0 - 博客园
+https://blog.uwa4d.com/archives/EDU_Performance3.html | Unity移动端游戏性能优化简谱之 以引擎模块为划分的CPU耗时调优 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://edu.uwa4d.com/course-intro/1/197 | Unity移动游戏项目优化案例分析（上）_UWA学堂
+https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote/blob/main/MyUWA2020Note/Unity%E7%A7%BB%E5%8A%A8%E6%B8%B8%E6%88%8F%E9%A1%B9%E7%9B%AE%E4%BC%98%E5%8C%96%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%EF%BC%88%E4%B8%8A%EF%BC%89.md | MyStudyNote/MyUWA2020Note/Unity移动游戏项目优化案例分析（上）.md at main · HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote
+https://github.com/HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote/tree/main/Test | MyStudyNote/Test at main · HHHHHHHHHHHHHHHHHHHHHCS/MyStudyNote
+https://blog.uwa4d.com/archives/1577.html | Unity 5.x AssetBundle零冗余解决方案 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://unity.com/cn/blog/games/optimize-your-mobile-game-performance-tips-on-profiling-memory-and-code-architecture-from | 优化移动游戏性能：来自Unity顶级工程师的性能分析、内存与代码架构小贴士
+https://docs.unity.cn/cn/2020.3/Manual/ExecutionOrder.html | 事件函数的执行顺序 - Unity 手册
+https://blog.uwa4d.com/archives/EDU_Performance2.html | Unity移动端游戏性能优化简谱之 常见游戏内存控制 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://edu.uwa4d.com/lesson-detail/430/2108/0?isPreview=false | 1｜前言_Unity移动端游戏性能优化简谱_UWA学堂
+https://edu.uwa4d.com/course-intro/0/121 | 自动化规范Unity资源的实践_UWA学堂
+https://zhuanlan.zhihu.com/p/683333641 | UWA学堂汇总，看这一篇就够啦！ - 知乎
+https://www.cnblogs.com/schbook/archive/2012/08/02/2619820.html | C#+XAML的Metro应用开发入门（二） - schbook - 博客园
+https://flowgame.feishu.cn/wiki/wikcn1H9wkkMLdIjvcUPgz9TD0e | 批量建号工具 - 飞书云文档
+https://www.qmjianli.com/content/guide/3466 | UE4游戏开发工程师简历范文【全民简历】
+https://flowgame.feishu.cn/wiki/UrSXwFSzOipZCAkAsIpcflasn1c | ⁤⁤﻿⁡‌⁣​⁣⁤‬​⁢⁢⁡​⁤​‍⁤⁡​‌⁡⁤‬⁣⁡​​⁡﻿⁣‌​⁢⁢‍⁡​⁢⁢‬⁤﻿⁣‍‍⁣⁣GM面板使用说明 - 飞书云文档
+https://dragonop-qa-base-china.gateway.xgjoy.org/#/activity/40/list | 活动列表 - 运营平台
+https://www.tapd.cn/tapd_fe/62234685/bug/detail/1162234685001044478 | 【BUG】【抽卡】卡池预告问题-飞吧龙骑士-TAPD平台
+https://flowgame.feishu.cn/wiki/wikcnY6uCzM0Y6m7EPa5Xqgruwg | Buff系统重构 - 飞书云文档
+https://flowgame.feishu.cn/wiki/LTUkwaVHdim5IXkulfecn3hWnVe | 客户端研讨会 - 飞书云文档
+https://flowgame.feishu.cn/wiki/OCv9wy5wliSMdqkaCx1cB8dGnsg | UGUI 和 UIToolkit 和NoesisGUI 区别和优劣对比.md - 飞书云文档
+https://www.jacksondunstan.com/articles/4749 | JacksonDunstan.com | IL2CPP Output for Iterators, Switch, and Using
+https://gafferongames.com/ | Gaffer On Games
+https://www.cnblogs.com/lwqlun/p/9671611.html | .NET Core中的性能测试工具BenchmarkDotnet - LamondLu - 博客园
+https://testerhome.com/ | 测试之家
+https://harttle.land/2016/08/08/vim-search-in-file.html | 在 Vim 中优雅地查找和替换 | Harttle Land
+https://www.bilibili.com/video/BV1s44y1F7aZ/?spm_id_from=333.337.search-card.all.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e | ET接入YIUI教程_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1mD4y1i7oG/?spm_id_from=333.337.search-card.all.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e | 字母哥ET框架MMORPG技能管线分享_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1s1421z7Za/?spm_id_from=333.788.videopod.sections&vd_source=5aeec11224a2dcfe0ebe94495dda445e | ET框架环境设置_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1kd4y1k7co/?spm_id_from=333.337.search-card.all.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e | 【框架开发】用ET还是LT？- 基于epoll的Reactor_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1yb4y1A7PA/?spm_id_from=333.337.search-card.all.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e | 猫大直播Unity ET框架;20240125_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1dz4y1C7G6/?spm_id_from=333.337.search-card.all.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e | 【ET框架课程】01-框架介绍_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1XC8yejETS/?spm_id_from=333.1387.homepage.video_card.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e | Unity 状态帧同步+技能系统 Demo_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1WM4y1A7GY/?spm_id_from=333.337.search-card.all.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e | 【ET框架】ET框架6.0版本视频课程正式上线！！！_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1wP4y197Ej/?spm_id_from=333.337.search-card.all.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e | 【UWA学堂】ET框架 - C#全栈式网络游戏开发框架（入门篇）_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1rhYyeKExP/?spm_id_from=333.1387.favlist.content.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e | Unity ET框架从基础到精通_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1cz4y1s7QS/?spm_id_from=333.1387.homepage.video_card.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e | Unity UGUI框架 YIUI_哔哩哔哩_bilibili
+https://flowgame.feishu.cn/wiki/ItBqwb6THim5KKkcycOc0tCKnl1 | 公会冲榜活动策划文档.xlsx - 飞书云文档
+https://www.youtube.com/watch?v=pG4UxqRMNX0 | Developing 'Hi-Fi RUSH' Backwards and Finding Our Positive Gameplay Loop - YouTube
+https://mp.weixin.qq.com/s/Fk7niD9XmXak8SecaYp1Gw | 让你的电脑「好看又好用」，我们帮你找了这 12 个让系统更「顺手」的软件工具
+https://www.youtube.com/@ChernoUnplugged | Cherno Unplugged - YouTube
+https://github.com/egametang/ET/blob/release9.0/Book/6.1AI%E6%A1%86%E6%9E%B6.md | ET/Book/6.1AI框架.md at release9.0 · egametang/ET
+https://weread.qq.com/web/reader/2ee32890728a99af2ee90e6 | Unity3D高级编程:主程手记 - 陆泽西 - 微信读书
+https://edu.uwa4d.com/lesson-detail/179/990/1?isPreview=false | 1｜图形渲染的流水线_深入理解移动 GPU 和性能优化_UWA学堂
+https://www.zhihu.com/people/mao-xiao-tian-97/collections | (99+ 封私信 / 81 条消息) 小笑毛 - 知乎
+https://zhuanlan.zhihu.com/p/371400090 | 子网掩码是什么？有什么作用？ - 知乎
+https://zhuanlan.zhihu.com/c_1375456344322056192 | 计算机网络基础 - 知乎
+https://www.liuocean.com/archives/luban-gua-pei-memorypack | Luban 适配 MemoryPack | L's Blog
+https://stackoverflow.com/questions/26559566/the-requested-operation-caused-a-stack-overflow | c# - The requested operation caused a stack overflow - Stack Overflow
+https://flowgame.feishu.cn/wiki/wikcnu6w8S9ffeVCS5PxZnp0cOd | 锁帧 & 一致性工作 - 飞书云文档
+https://www.bilibili.com/video/BV1cz4y1s7QS/?spm_id_from=333.788.player.switch&vd_source=5aeec11224a2dcfe0ebe94495dda445e&p=3 | 初始化项目_哔哩哔哩_bilibili
+https://nieyong.github.io/wiki_cpu/CPU%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84-DMA.html | CPU体系架构-DMA
+https://flowgame.feishu.cn/docx/AulNdq0FOofDLYx26NrcOB43nP4 | 程序集结构 - 飞书云文档
+https://weread.qq.com/web/reader/78c32900813ab9613g016259 | C# 10核心技术指南 - [澳]约瑟夫·阿坝哈瑞 - 微信读书
+https://flowgame.feishu.cn/wiki/DvLTwLYTWi2BVOkmIG3cW0TYnfd | 轻度服龙神赐福优化.xlsx - 飞书云文档
+https://space.bilibili.com/32104339 | egametang的个人空间-egametang个人主页-哔哩哔哩视频
+https://www.bilibili.com/video/BV1g95jzHEKd/?spm_id_from=333.1387.homepage.video_card.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e | callback_ettask_哔哩哔哩_bilibili
+https://zhuanlan.zhihu.com/p/562570278 | 像《红警》里的大兵那样找路（上）——全局向量场寻路 - 知乎
+https://github.com/neuecc/UniRx | neuecc/UniRx: Reactive Extensions for Unity
+https://github.com/Cysharp/R3 | Cysharp/R3: The new future of dotnet/reactive and UniRx.
+https://github.com/LeahLee13?tab=repositories | LeahLee13 (LeahLee13) / Repositories
+https://github.com/PxGame?page=2&tab=repositories | PxGame (PxGame) / Repositories
+https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project | unity3d-jp/UnityChanToonShaderVer2_Project: UnityChanToonShaderVer2 Project / v.2.0.9 Release
+https://github.com/PxGame | PxGame (PeterXiang)
+https://sqlmother.yupi.icu/#/learn | SQL之母 - 免费SQL自学网站 by 程序员鱼皮
+https://github.com/JiepengTan/GamesTanTools?tab=readme-ov-file | JiepengTan/GamesTanTools: 个人的 Unity 小工具箱，含一些个人比较常用的代码
+https://github.com/Unity-Technologies/PostProcessing/tree/v2/PostProcessing | PostProcessing/PostProcessing at v2 · Unity-Technologies/PostProcessing
+https://blog.csdn.net/qq_15020543/article/details/88203599 | ET篇：ETBook笔记(3.4 事件机制EventSystem)-CSDN博客
+https://blog.csdn.net/qq_15020543/category_8624340.html | ET_烟雨迷离半世殇的博客-CSDN博客
+https://blog.csdn.net/qq_15020543/article/details/89397347 | ET篇：ETBook笔记(5.6 数值组件设计)_numericcomponent-CSDN博客
+https://blog.csdn.net/qq_48512649/article/details/139926567 | ET实现游戏中邮件系统逻辑思路（服务端）_游戏邮件系统设计-CSDN博客
+https://www.yuque.com/et-xd/docs/uyuiu287k19do200 | ET.Core 之 EventSystem
+https://zhuanlan.zhihu.com/p/604020302 | 通过ET7实现双端游戏开发(一)之入坑 - 知乎
+https://www.zhihu.com/column/p/32476061 | ET框架1：C#服务器 unity3d客户端 开源 github - 知乎
+https://github.com/EdisonLeeeee/Awesome-Learning-Resource | EdisonLeeeee/Awesome-Learning-Resource: A curated list of all kinds of learning resources, blogs, books, videos and so on.
+https://github.com/EdisonLeeeee/Awesome-Learning-Resource/blob/master/README.md?plain=1 | Awesome-Learning-Resource/README.md at master · EdisonLeeeee/Awesome-Learning-Resource
+https://www.cnblogs.com/flamesky/p/17413160.html | ET介绍——强大的基于.dotnet7+Unity3d的双端C#开源游戏框架 - Flamesky - 博客园
+https://github.com/ihaiucom?tab=repositories | ihaiucom (ihaiucom) / Repositories
+https://github.com/ihaiucom?tab=following | ihaiucom (ihaiu) / Following
+https://github.com/GameFrameX | GameFrameX
+https://www.dropbox.com/home/_2021 | _2021 - Dropbox
+https://www.cnblogs.com/skywang12345/p/3520840.html | UML系列05之 基本流程图 - 如果天空不死 - 博客园
+https://www.cnblogs.com/wolf-sun/p/3432135.html | [UML]UML系列——活动图activity diagram - wolfy - 博客园
+https://www.cnblogs.com/wwjwb/p/18514093 | (oﾟvﾟ)ノ Hi - Follow + WeWe RSS 订阅微信公众号
+https://et-framework.cn/?q=roslynanalyzer | 全部主题 - ET社区
+https://github.com/fex-team/kityminder | fex-team/kityminder: 百度脑图
+https://github.com/NaoTu/DesktopNaotu | NaoTu/DesktopNaotu: 桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS. (A cross-platform multilingual Mind Map Tool)
+https://ls-ai.cn/ | 类视搜图 - AI本地图片视频搜索软件｜让搜索更智能
+https://www.yxzhi.com/ | 鸭先知 - 专注分享优质软件应用、技术教程等资源！
+https://github.com/it-ebooks-0/geektime-books | it-ebooks-0/geektime-books: :books: 极客时间电子书
+https://lalalaji.xyz/proxy/clash/ | Clash 内核配置和使用详解 | 🪜无障碍网上冲浪指南🪜
+https://mygeektime.anyfun.tech/#/task/list | 我的课程
+https://www.docker.com/get-started/ | Get Started | Docker
+https://stackoverflow.com/questions/14007405/how-create-a-new-deep-copy-clone-of-a-listt | c# - How create a new deep copy (clone) of a List<T>? - Stack Overflow
+https://www.cnblogs.com/zhaoqingqing/p/5541798.html | Hash MD5 CRC 知识 - 赵青青 - 博客园
+https://github.com/PegasusWang/booknotes/blob/master/docs/%E7%BD%91%E7%AB%99%E6%9E%B6%E6%9E%84%E5%BE%AE%E6%9C%8D%E5%8A%A1/microservices_patterns_%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/book.md | booknotes/docs/网站架构微服务/microservices_patterns_微服务架构设计模式/book.md at master · PegasusWang/booknotes
+https://www.cnblogs.com/OtusScops/p/17814155.html | (oﾟvﾟ)ノ Hi - Unity ET框架小记
+https://blog.csdn.net/u013559309/article/details/129098681 | 如何确认电脑USB口哪个快（USB 3.0 3.2 Gen1 Gen2）_电脑如何查看usb接口速度-CSDN博客
+https://blog.csdn.net/yupu56/article/details/106993157 | Unity 游戏框架之GameFramework和ET对比_unity et框架-CSDN博客
+https://flowgame.feishu.cn/wiki/wikcnVdKH79WWI0VFWeZoY15aic | 服务端架构简介 - 飞书云文档
+https://flowgame.feishu.cn/wiki/UbpFw6l0EiAng8kBH1Dcujv2nyf | 龙骑士内网patch上传 - 飞书云文档
+https://flowgame.feishu.cn/wiki/wikcn8QIZ4wfelmneQQ8Frlsmb3 | 运营部署框架 - 飞书云文档
+https://flowgame.feishu.cn/docx/R4aedwzGyo8NaOxiqJNcSzB1nTh | 运营平台手册 - 飞书云文档
+https://github.com/CoderGamester/mcp-unity | CoderGamester/mcp-unity: MCP Server to integrate Unity Editor game engine with different AI Model clients (e.g. Claude Desktop, Windsurf, Cursor)
+https://www.anthropic.com/app-unavailable-in-region | App unavailable \ Anthropic
+https://www.reddit.com/r/Unity3D/comments/1jzhr13/help_with_physics_overlap_box/
+https://github.com/Leopotam/ecslite-unity-ugui/blob/master/Editor.meta | ecslite-unity-ugui/Editor.meta at master · Leopotam/ecslite-unity-ugui
+https://github.com/Unity-Technologies/UIElementsExamples | Unity-Technologies/UIElementsExamples: Unity project containing examples to use UIElements in the Editor
+https://github.com/Unity-Technologies/ui-toolkit-manual-code-examples | Unity-Technologies/ui-toolkit-manual-code-examples: Unity UI Toolkit documentation code examples
+https://github.com/arimger/Unity-Editor-Toolbox | arimger/Unity-Editor-Toolbox: Tools, custom attributes, drawers, hierarchy overlay, and other extensions for the Unity Editor.
+https://github.com/Eastrall/Rosalina | Eastrall/Rosalina: Rosalina is a code generation tool for Unity's UI documents. It generates C# code-behind script based on a UXML template.
+https://www.unite.ai/zh-CN/ | 人工智能新闻和机器人新闻 - Unite.AI
+https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/ | 10 个最佳 AI 代码生成器（2025 年 XNUMX 月）- Unite.AI
+https://blog.jetbrains.com/zh-hans/dotnet/2023/08/07/debug-source-generators-in-jetbrains-rider/ | 在 JetBrains Rider 中调试源生成器 | The .NET Tools Blog
+https://github.com/keycastr/keycastr | keycastr/keycastr: KeyCastr, an open-source keystroke visualizer
+https://www.tomlooman.com/animating-in-cpp-curves-and-easing-functions/ | Animating in C++: Curves and Easing Functions - Tom Looman
+https://x.com/home?lang=en | Home / X
+https://ai-bot.cn/ai%e5%bf%ab%e8%ae%af/ | AI快讯 | AI工具集
+https://zhuanlan.zhihu.com/p/380603333 | c# struct 灵魂拷问 - 知乎
+https://mp.weixin.qq.com/cgi-bin/loginpage?url=%2Fcgi-bin%2Fhome%3Ft%3Dhome%2Findex%26lang%3Dzh_CN%26token%3D526300025 | 微信公众平台
+https://zhuanlan.zhihu.com/p/360022233 | 推荐.Net、C# 逆向反编译四大工具利器 - 知乎
+https://blog.csdn.net/weixin_39816448/article/details/117944646 | 科学计算机怎么用10次方,计算器里10次方怎么按-CSDN博客
+https://hellodk.cn/ | Allen Hua 的网络博客 Allen Hua 的网络博客
+https://wizardforcel.gitbooks.io/effective-csharp/content/2.html | 原则2：偏爱 readonly 而不是 const | Effective C# 改善C#程序的50种方法
+https://blog.csdn.net/qq_38721111/article/details/104018839 | Unity中Animator动画的正播、倒播和暂停_unity控制动画animator的speed为-1-CSDN博客
+https://discussions.unity.com/t/what-does-has-exit-time-do-in-the-animator-controller/161398 | What does "Has Exit Time" do in the Animator Controller? - Questions & Answers - Unity Discussions
+https://blog.51cto.com/u_14137942/4946065 | 【Unity3D】Animation 和 Animator 动画重置到起始帧的方法_51CTO博客_unity animation动画切换
+https://github.com/freddiewalchwmf25/JieMa | freddiewalchwmf25/JieMa: 2025年最新国外短信接码平台推荐（免费+付费）
+https://lovable.dev/ | Lovable
+https://ima.qq.com/?utm_source=ai-bot.cn | ima.copilot-腾讯智能工作台
+https://blog.csdn.net/weixin_44487231/article/details/119331204 | 【unity】如何循环播放动画_unity动画循环播放-CSDN博客
+https://steven-giesel.com/blogPost/50b84029-4f1e-4e6d-8fd1-0311b0605562 | Does readonly make your code faster?
+https://flowgame.feishu.cn/docx/HgGBdeb3EoBpsDx9oZKcZMoknuh?open_in_browser=true | 怎么稳定使用DeepseekR1 - 飞书云文档
+https://console.volcengine.com/auth/login/?coze_env=release&new_entry=1&redirectURI=https%3A%2F%2Fsignin.volcengine.com%2Fapi%2Fpassport%2Fsso%2FOIDCAuth%3Fclient_id%3D490362313be302cd4bf07a084b99dbdf%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fsignin.volcengine.com%252Fapi%252Fpassport%252FcloudIdentity%252Fpassport%252Fcallback%26state%3D%25257B%252522platform%252522%25253A%252522eps_cloud_identity%252522%25252C%252522navigatePath%252522%25253A%252522%25252F%252522%25252C%252522type%252522%25253A%252522login%252522%25257D%253D%2526redirect_uri%253Dhttps%25253A%25252F%25252Fsignin-saas.volccloudidentity.com%25252Fapi%25252Fcloudidentity%25252Fauthorize%25252FfederateOAuth%25253Fclient_id%25253D9836804098%252526coze_env%25253Drelease%252526new_entry%25253D1%252526redirect_uri%25253Dhttps%2525253A%2525252F%2525252Fwww.coze.cn%2525252Fauth%2525252Fcallback%252526response_type%25253Dcode%252526scenario%25253Dcoze%252526state%25253D%2525257B%25252522platform%25252522%2525253A%25252522eps_cloud_identity%25252522%2525252C%25252522navigatePath%25252522%2525253A%25252522%2525252F%25252522%2525252C%25252522type%25252522%2525253A%25252522login%25252522%2525257D%2526client_id%253D9836804098%2526scenario%253Dcoze%26scenario%3Dcoze%26utm_source%3Dcoze%26utm_medium%3Dcoze_fusion%26utm_term%3Dcoze_signin%26utm_campaign%3Dfrom_coze%26utm_content%3Dcoze_signin%26new_entry%3D1%26coze_env%3Drelease%26auto_confirm%3D1&scenario=coze&utm_campaign=from_coze&utm_content=coze_signin&utm_medium=coze_fusion&utm_source=coze&utm_term=coze_signin | 账号登录-火山引擎
+https://chatgpt.com/ | ChatGPT
+https://github.com/amis92/csharp-source-generators?tab=readme-ov-file | amis92/csharp-source-generators: A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.
+https://www.cnblogs.com/zhaoqingqing | 赵青青 - 博客园
+https://flowgame.feishu.cn/wiki/CHmVw2z2AiCa0pkf61FcGjoSn6d | 私服报错机器人部署 - 飞书云文档
+https://www.cnblogs.com/zhaotianff/p/9408695.html | C#压缩和解压文件 - zhaotianff - 博客园
+https://mp.weixin.qq.com/s/2GejzQ9oegJ7SxFmusKOEg | 推荐7 款Windows 绿色免费软件
+https://joplinapp.org/ | Joplin
+https://zhuanlan.zhihu.com/p/55763910 | 开始使用 Joplin 吧，一款开源笔记应用 - 知乎
+https://www.dropbox.com/home?_tk=web_left_nav_bar&di=left_nav | Dropbox
+https://www.cnblogs.com/lixiang-share/p/5025662.html | Unity Shader入门 - jiuguang - 博客园
+https://www.taikr.com/ | 泰课在线 -- 志存高远，稳如泰山 - 国内专业的在线学习平台|Unity3d培训|Unity教程|Unity教程 Unreal 虚幻 AR|移动开发|美术CG - Powered By EduSoho
+https://ke.qq.com/user/index/index.html#/plan/cid=3139969&term_id=103265889 | 腾讯课堂
+https://onevcat.com/2013/07/shader-tutorial-1/ | 猫都能学会的Unity3D Shader入门指南（一） | OneV's Den
+https://github.com/cquestor/Cloud-classroom-of-Netease | cquestor/Cloud-classroom-of-Netease: 支持所有类型的网易云课堂视频下载，收费课程要购买后才能下载
+https://github.com/PyJun/Mooc_Downloader | PyJun/Mooc_Downloader: 学无止下载器，慕课下载器，Mooc网课下载，中国大学慕课，网易云课堂，有道精品课，有道领世，腾讯课堂，B站课堂，中公网校，新东方在线，新东方云教室，伯索云，爱问云，高途，途途，研途，学浪，抖音课堂，千聊，兴趣岛，橙啦，超星学习通，学银在线，智慧职教，职教云，知到智慧树，学堂在线，爱课程；支持视频课件同时下载
+https://github.com/Zhengfangxing/Book/blob/master/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D-%E4%B8%AD%E6%96%87%E7%89%88.pdf | Book/人月神话-中文版.pdf at master · Zhengfangxing/Book
+https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B | 自建v2ray服务器教程 · Alvin9999/new-pac Wiki
+https://www.bookstack.cn/explore?cid=45 | [发现] Unity - 最新发布 - 书栈网 · BookStack
+https://www.bookstack.cn/books/QFramework | 《Unity 游戏框架 QFramework》 - 书栈网 · BookStack
+https://www.bookstack.cn/read/QFramework/6dc7fa9ab0ef2ca2.md | Unity 游戏框架搭建 - 8.减少加班利器-QLog - 《Unity 游戏框架 QFramework》 - 书栈网 · BookStack
+https://petergao.blog.csdn.net/article/details/144153689 | C#结合.NET框架快速构建和部署AI应用_c#如何部署ai-CSDN博客
+https://xiaoy.blog.csdn.net/article/details/122626334?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EOPENSEARCH%7EPaidSort-1-122626334-blog-122725539.235%5Ev43%5Epc_blog_bottom_relevance_base2&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EOPENSEARCH%7EPaidSort-1-122626334-blog-122725539.235%5Ev43%5Epc_blog_bottom_relevance_base2&utm_relevant_index=1 | 2024年Unity 面试题 |五萬字 二佰道| Unity面试题大全，面试题总结【全网最全，收藏一篇足够面试】-CSDN博客
+https://www.banlikanban.com/index | 板栗看板
+https://top.aibase.com/ranking/cnrank | 2024年12月国内AI产品排行榜 - 探索国内最好AI工具网站
+https://github.com/deepseek-ai/DeepSeek-V3?ref=top.aibase.com | deepseek-ai/DeepSeek-V3 at top.aibase.com
+https://www.tapd.cn/62234685/bugtrace/bugs/view/1162234685001044286 | 【BUG】登录流程拆分增加步骤-飞吧龙骑士-TAPD平台
+https://uuyc.163.com/ | 网易UU远程（原GameViewer远程）_专业游戏串流远程控制软件
+https://adl.netease.com/d/g/uuremote/c/gw?type=pc | 网易游戏下载
+https://blog.csdn.net/qq_38721111/category_7539620.html | Unity_画个小圆儿的博客-CSDN博客
+https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/ | C# 语言参考 | Microsoft Learn
+https://blog.csdn.net/lwbeyond/article/details/7591415 | 详解C++ friend关键字_c++ string friend关键字无法识别-CSDN博客
+https://blog.csdn.net/sindyra/article/details/134614650 | Unity编译报错Copying Assembly-CSharp.dll问题解决_unity copying assembly from-CSDN博客
+https://zhuanlan.zhihu.com/p/454232924 | 面向数据设计与Unity3d ECS笔记 - 知乎
+https://drinker.site/2020/11/01/DecipheringLayaSourceCode0.html | 逆袭，从0开始解读Laya源代码（零） - 俊客的博客 | JUNKE Blog
+https://github.com/caosonglin/MyDocument/blob/master/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%2B%E4%B8%AD%E6%96%87%2Bpdf.pdf | MyDocument/游戏开发中的人工智能+中文+pdf.pdf at master · caosonglin/MyDocument
+https://odininspector.com/tutorials/getting-started/how-to-create-a-custom-inspector-with-odin- | How to Create a Custom Inspector with Odin? | Odin Inspector for Unity
+https://www.pangui.io/# | PanGui - A cross-platform UI library with a razor sharp focus on performance, simplicity and expressive power
+https://github.com/Unity-Technologies/ml-agents | Unity-Technologies/ml-agents: The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
+https://github.com/ikamei/GameMechanic | ikamei/GameMechanic
+https://zhuanlan.zhihu.com/p/32476061 | ET框架1：C#服务器 unity3d客户端 开源 github - 知乎
+https://www.zhihu.com/search?type=content&q=ET | (99+ 封私信 / 81 条消息) ET - 搜索结果 - 知乎
+https://unity.com/releases/editor/whats-new/6000.0.33#installs | Unity 6000.0.33
+https://flowgame.feishu.cn/wiki/Uh9Awwe6cixaRCkS1MYczt39nSd | LubanSer使用-Luban序列化UnityScriptObject - 飞书云文档
+https://ourpalm.github.io/ILRuntime/public/v1/guide/reflection.html | ILRuntime中的反射 — ILRuntime
+https://www.cnblogs.com/rainy-night/p/16064439.html | GitHub如何选择合适的license(许可证) - 初见雨夜 - 博客园
+https://account.geekbang.org/dashboard/info | 基本信息 - 极客邦科技
+https://blog.csdn.net/h824612113/article/details/127674761?spm=1001.2014.3001.5502 | 使用TextMeshPro实现打字机效果_textmeshpro 打字效果-CSDN博客
+https://stackoverflow.com/questions/618535/difference-between-decimal-float-and-double-in-net | floating point - Difference between decimal, float and double in .NET? - Stack Overflow
+https://blog.csdn.net/weixin_43129170/article/details/121122275 | Unity UGUI Rect_unity recttransform.rect 有时是负数-CSDN博客
+https://blog.csdn.net/tom_221x/article/details/105971630 | Unity3D RectTransform使用详解：布局、属性、方法、设计_unity recttransform offsetmax-CSDN博客
+https://blogml.top/2023/01/17/ugui-anchor-and-canvas/ | UGUI中的anchor和canvas(屏幕适配) - 雁过留声
+https://kuroha.vip/unity/unity_rect_transform.html | 😰 w(ﾟДﾟ)w 页面崩溃啦!
+https://docs.unity3d.com/cn/2022.3/Manual/SL-Offset.html | ShaderLab 命令：Offset - Unity 手册
+https://appnhs24wp41a8c38064.blob.core.windows.net/blobappnhs24wp41a8c38064/wp-content/uploads/2023/03/12-long-covid-brain-fog-jan-22-chinese-simplified.pdf | 12-long-covid-brain-fog-jan-22-chinese-simplified.pdf
+https://github.com/Unity-Technologies/EntityComponentSystemSamples?tab=readme-ov-file | Unity-Technologies/EntityComponentSystemSamples
+https://github.com/davyxu/cellnet | davyxu/cellnet: High performance, simple, extensible golang open source network library
+https://www.cnblogs.com/zhaoqingqing/p/11760117.html | c#_sort排序函数的返回值 - 赵青青 - 博客园
+https://blog.csdn.net/xzjxylophone/article/details/6832160 | C#计算一段程序运行时间的三种方法_c# 统计方法执行时间-CSDN博客
+https://www.worldlabs.ai/blog | Generating Worlds
+https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/ | Genie 2: A large-scale foundation world model - Google DeepMind
+https://github.com/qiankanglai/LoopScrollRect | qiankanglai/LoopScrollRect: These scripts will make your UGUI ScrollRect reusing cells, to improve performance, loading time and draw calls.
+https://www.cnblogs.com/Can-daydayup/p/17908305.html | [.NET开发者的福音]一个方便易用的在线.NET代码编辑工具.NET Fiddle - 追逐时光者 - 博客园
+https://dotnetfiddle.net/ | C# Online Compiler | .NET Fiddle
+https://tonytang1990.github.io/2020/05/29/%E6%95%B0%E5%AD%A6%E4%B8%8E%E7%BC%93%E5%8A%A8/ | 数学与缓动 | 走停人生路
+https://gist.github.com/ManeFunction/9f2d437fca6ccf31e4a48fec0584e21a | Easing Functions for Unity3D
+https://github.com/TonyTang1990/EaseAnimationComponent | TonyTang1990/EaseAnimationComponent: 数学与插值动画的学习和运用
+https://easings.net/ | Easing Functions Cheat Sheet
+https://github.com/ai/easings.net | ai/easings.net: Easing Functions Cheat Sheet
+https://github.com/liangddyy/TweenUtil | liangddyy/TweenUtil: 一个极简、易用的 Unity 动画插件。
+https://github.com/foldcc/MintAnimation | foldcc/MintAnimation: 一款高效易用的Unity插值动画系统，可以快速制作UI动画
+https://zhuanlan.zhihu.com/p/161106076 | Unity Dotween曲线介绍 Ease曲线 Ease图表 Ease效果示例 - 知乎
+https://withpinbox.com/items?category=all | Pinbox - 跨平台收藏工具
+https://github.com/Hengle/unity-ugui-XCharts/tree/master/Documentation~/zh | unity-ugui-XCharts/Documentation~/zh at master · Hengle/unity-ugui-XCharts
+https://github.com/Tyrrrz/CliWrap?open_in_browser=true | Tyrrrz/CliWrap: Library for running command-line processes
+https://github.com/LiuOcean/Luban_Unity_GUI/blob/f36e1bf471b9f996320040729b773a6c775b572a/Assets/Editor/LubanExportConfig_GenCommand.cs?open_in_browser=true | Luban_Unity_GUI/Assets/Editor/LubanExportConfig_GenCommand.cs at f36e1bf471b9f996320040729b773a6c775b572a · LiuOcean/Luban_Unity_GUI
+https://lib9kmxvq7k.feishu.cn/wiki/VbwdwzF2WiO6BckdyO8clKmjnCb?open_in_browser=true | 一键创建Luban模版 - 飞书云文档
+https://lib9kmxvq7k.feishu.cn/wiki/EvVNwgJjiiadTJk5LQUcvI1anHg?open_in_browser=true | 基础配置 - 飞书云文档
+https://lib9kmxvq7k.feishu.cn/wiki/Nxd0wfYogitBGokjsdec321onzg | 层级 - 飞书云文档
+https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/about-github-copilot-free | About GitHub Copilot Free - GitHub Docs
+https://www.psdly.to/odin-inspector-and-serializer | Odin Inspector And Serializer V3.3.1.10
+https://fileaxa.com/download
+https://changkun.de/modern-cpp/zh-cn/00-preface/ | 序言 现代 C++ 教程: 高速上手 C++ 11/14/17/20 - Modern C++ Tutorial: C++ 11/14/17/20 On the Fly
+https://flowgame.feishu.cn/wiki/UWICwsbjhimx8skmQB8cpestnNf | 龙2 - 从So到Luban的序列化工具 - 飞书云文档
+https://www.cnblogs.com/zeroone/p/3639561.html | “无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性 “之解决 z - 武胜-阿伟 - 博客园
+https://www.dllme.com/dll/files/scriban/versions?sort=upload&arch= | Versions : Scriban.dll : Downloads
+https://github.com/scriban/scriban/blob/master/doc/runtime.md | scriban/doc/runtime.md at master · scriban/scriban
+https://github.com/scriban/scriban/tree/master | scriban/scriban: A fast, powerful, safe and lightweight scripting language and engine for .NET
+https://blog.csdn.net/UWA4D/article/details/129622492 | Unity开发实战经验分享_unity项目实战-CSDN博客
+https://edu.uwa4d.com/lesson-detail/432/2123/0?isPreview=0 | 1｜HybridCLR——划时代的Unity原生C#热更新技术_HybridCLR(wolong) C# 热更新_UWA学堂
+https://www.nuget.org/packages/Scriban/5.11.0#releasenotes-body-tab | NuGet Gallery | Scriban 5.11.0
+https://odininspector.com/tutorials | Tutorials | Learn how to improve your workflow in Unity using Odin Inspector
+https://github.com/egametang/ET/tree/release8.1 | egametang/ET at release8.1
+https://www.yuque.com/u28961999/yms0nt/gv6i5g | [ET0003] EntityClassDeclarationAnalyzer
+https://github.com/dotnet/roslyn/issues/47087 | Source Generators support .NET Standard 2.1? · Issue #47087 · dotnet/roslyn
+https://sourcegen.dev/
+https://dotnet.microsoft.com/en-us/download/dotnet/8.0 | Download .NET 8.0 (Linux, macOS, and Windows)
+https://blog.csdn.net/qq_37061368/article/details/118730409 | x86 x64 arm64 安装包的区别_maven的jar包分x86和arm吗-CSDN博客
+https://et-framework.cn/d/2098-etunity/5 | 关于ET中Unity部分工作流思考和建议 - ET社区
+https://www.yuque.com/et-xd/docs/qkxfz8 | 10.5消息加密
+https://github.com/dotnet/roslyn | dotnet/roslyn: The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+https://zh.wikipedia.org/wiki/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8 | 通用规范汉字表 - 维基百科，自由的百科全书
+https://github.com/kteong1012/luban_fork/tree/lazy_load | kteong1012/luban_fork at lazy_load
+https://github.com/scriban/scriban/releases | Releases · scriban/scriban
+https://www.cnblogs.com/mondol/p/18059560/scriban | Scriban语言手册中文版 - Frank.Cui - 博客园
+https://blog.csdn.net/lwpoor123/article/details/78350212 | 关于 未能加载文件或程序集“”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 的解决办法-CSDN博客
+https://stackoverflow.com/questions/11107536/convert-string-to-type-in-c-sharp | .net - Convert String to Type in C# - Stack Overflow
+https://blog.csdn.net/AAA123524457/article/details/53242877 | C#反射-Assembly.Load、LoadFrom与LoadFile详细例子用法_assembly.loadfrom-CSDN博客
+https://github.com/dotnet/roslyn/blob/main/docs/wiki/How-To-Write-a-C%23-Analyzer-and-Code-Fix.md | roslyn/docs/wiki/How-To-Write-a-C#-Analyzer-and-Code-Fix.md at main · dotnet/roslyn
+https://learn.microsoft.com/en-us/answers/questions/649005/error-while-serializing | Error while serializing - Microsoft Q&A
+https://learn.microsoft.com/en-us/dotnet/standard/serialization/examples-of-xml-serialization | Examples of XML Serialization - .NET | Microsoft Learn
+https://github.com/dotnet/roslyn/issues/70922 | Impossible to implement Source Generators for projects targeting .NET 8 · Issue #70922 · dotnet/roslyn
+https://github.com/dotnet/roslyn/issues/45162 | Don't limit Source Generators to "netstandard2.0" target framework · Issue #45162 · dotnet/roslyn
+https://github.com/christianhelle/refitter/issues/310 | Source generator does not work in .Net 8 · Issue #310 · christianhelle/refitter
+https://blog.lindexi.com/post/%E5%B0%9D%E8%AF%95-IIncrementalGenerator-%E8%BF%9B%E8%A1%8C%E5%A2%9E%E9%87%8F-Source-Generator-%E7%94%9F%E6%88%90%E4%BB%A3%E7%A0%81.html | 尝试 IIncrementalGenerator 进行增量 Source Generator 生成代码
+https://www.cnblogs.com/Weilence/p/16152763.html | Source Generator实战 - weilence - 博客园
+https://andrewlock.net/exploring-the-dotnet-8-preview-using-the-new-configuration-binder-source-generator/ | Using the new configuration binder source generator
+https://learn.microsoft.com/en-us/dotnet/standard/native-interop/comwrappers-source-generation | ComWrappers source generation - .NET | Microsoft Learn
+https://dotnet.microsoft.com/zh-cn/download/visual-studio-sdks?cid=getdotnetsdk | 适用于 Visual Studio 的 .NET SDK
+https://www.bilibili.com/v/popular/rank/all/ | 哔哩哔哩排行榜
+https://blog.csdn.net/fangyu723/article/details/118783975?open_in_browser=true | c# 调用CMD窗口执行命令（ 阻塞执行；防阻塞+异步回显）_c# 调用cmd窗口显示-CSDN博客
+https://tortoisegit.org/download/ | Download – TortoiseGit – Windows Shell Interface to Git
+https://docs.unity3d.com/cn/2020.2/Manual/class-AssemblyDefinitionImporter.html | 程序集定义 (Assembly Definition) 属性 - Unity 手册
+https://www.yooasset.com/ | Hello from YooAsset | YooAsset
+https://learn.microsoft.com/en-us/dotnet/api/system.string.substring?view=net-9.0 | String.Substring Method (System) | Microsoft Learn
+https://learn.microsoft.com/zh-cn/dotnet/standard/assembly/ | .NET 中的程序集 | Microsoft Learn
+https://www.yanfukun.com/read/csharp/programcoll | 程序集 - 《C#编程指南》 - 严富坤的知识库专栏(yanfukun.com)
+https://www.cnblogs.com/zhaoyl9/p/12036037.html | C# 程序集（Assembly） - 智者见智 - 博客园
+https://blog.csdn.net/f363641380/article/details/88213011 | C#程序集Assembly添加友元程序集_[assembly: internalsvisibleto("system.runtime.wind-CSDN博客
+https://learn.microsoft.com/zh-cn/dotnet/api/system.reflection.assembly?view=net-8.0 | Assembly 类 (System.Reflection) | Microsoft Learn
+https://www.cnblogs.com/gavin-num1/p/5494826.html | C#反射Assembly 详细说明 - gavin_l - 博客园
+https://blog.csdn.net/carcarrot/article/details/108241506 | C#动态代码执行-CSDN博客
+https://docs.pingcode.com/ask/16867.html | CR LF和LF有什么区别 – PingCode
+https://www.cnblogs.com/nele/p/7613324.html | c#中的弱引用:WeakReference - nele - 博客园
+https://www.zhihu.com/question/29097415/answer/3114826149?utm_psn=1852822384358334464&open_in_browser=true | (99+ 封私信 / 81 条消息) Unity有哪些让做项目事半功倍的插件值得推荐？ - 知乎
+https://zhuanlan.zhihu.com/p/409479682?utm_psn=1852822503833092096&open_in_browser=true | Unity OdinInspector全特性介绍（总结篇） - 知乎
+https://assetstore.unity.com/packages/tools/utilities/ultimate-screenshot-creator-82008?srsltid=AfmBOooHC2xZo8PYQVOpYJRFlGh5DRwkZgoL8lhr7G4aAVGmXZ9o8wO7 | Ultimate Screenshot Creator | 实用工具 工具 | Unity Asset Store
+https://www.pangui.io/ | PanGui - A cross-platform UI library with a razor sharp focus on performance, simplicity and expressive power
+https://crashsight.qq.com/crash-reporting/crashes/17641a1975?pid=1&status=0%2C2&start=20&exceptionCategoryList=CRASH&sortOrder=desc&sortField=uploadTime | 崩溃列表-飞吧龙骑士
+https://crashsight.qq.com/crash-reporting/crashes/17641a1975/115BE34C18E63F51B679903A0D40BE05?pid=1 | 问题详情-飞吧龙骑士
+https://crashsight.qq.com/crash-reporting/crashes/17641a1975/7441A7F86064390367D30EB69EB8033E?pid=1 | Tencent CrashSight
+https://crashsight.qq.com/crash-reporting/preferences/dsyms/17641a1975?pid=1 | 符号表管理-飞吧龙骑士
+https://flowgame.feishu.cn/wiki/IKtlwkmcciGvLAkB77tcB60mnnh?open_in_browser=true | 幻化羁绊养成系统交互文档 - 飞书云文档
+https://flowgame.feishu.cn/wiki/MhBWw1UpFikZ0Ckmfc1c61GKnzg | 幻化羁绊养成系统.xlsx - 飞书云文档
+https://www.tapd.cn/62234685/prong/stories/view/1162234685001018482 | 【Week66 11.14】【系统】【BattlePass】购买弹窗界面优化-飞吧龙骑士-TAPD平台
+https://leiting.feishu.cn/base/HDujbdnN7aO664s6r0wcKB9Dnjf?table=tblE0XjAkKNHOfLJ&view=vew1zzbUhs | 《龙骑士》Bug Report - 飞书云文档
+https://www.banlikanban.com/kanban/67307b836d25756c8b6e5260 | 游戏工具开发_团队协作工具 - 板栗看板
+https://ke.qq.com/ | 腾讯课堂_专业的在线教育平台
+https://www.youtube.com/@TheCherno | The Cherno - YouTube
+https://xiexuewu.github.io/ | 玩转C语言和数据结构（入门教程、编程软件）
+https://blog.csdn.net/qq_40026009/article/details/118934109 | Rider For Unreal 常用快捷键与基础操作整理-CSDN博客
+https://blog.csdn.net/m0_47975736/article/details/124780758 | Rider或IDEA在使用中的一些可以加快开发效率的设置_rider 全局搜索-CSDN博客
+https://et-framework.cn/d/316-vs2019-net-6client-serversln | 记录：由于 vs2019 不支持 .NET 6，在[生成解决方案]"Client-Server.sln"解决方案时会发生的报错 - ET社区
+https://github.com/ | GitHub
+https://blog.csdn.net/u011529386?type=sub&spm=1001.2101.3001.5348 | MJX1010-CSDN博客
+https://www.mianshiya.com/ | 面试鸭 - 程序员求职面试刷题神器，高频编程题目免费刷
+https://www.laoyujianli.com/ | 写简历从未如此简单 - 简历模板在线制作 - 老鱼简历
+https://github.com/gonglei007/GameDevMind/blob/main/mds/3.%E7%A0%94%E5%8F%91%E8%83%BD%E5%8A%9B/3.%E7%A0%94%E5%8F%91%E8%83%BD%E5%8A%9B.md | GameDevMind/mds/3.研发能力/3.研发能力.md at main · gonglei007/GameDevMind
+https://assetstore.unity.com/packages/essentials/tutorial-projects/happy-harvest-2d-sample-project-259218 | Happy Harvest - 2D Sample Project | 视频教程项目资源 | Unity Asset Store
+https://assetstore.unity.com/packages/essentials/tutorial-projects/lost-crypt-2d-sample-project-158673 | Lost Crypt - 2D Sample Project | 视频教程项目资源 | Unity Asset Store
+https://blog.csdn.net/chy555chy/article/details/51889311 | 点阵字体（也叫位图字体或光栅字体）、矢量字体_如何理解字体点整数据的概念-CSDN博客
+https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.2/manual/FontAssetsDynamicFonts.html | Dynamic fonts assets | TextMeshPro | 3.2.0-pre.10
+https://blog.csdn.net/qq_27489007/article/details/127567194 | Unity技术文档-Text与TextMeshPro原理解析，性能分析_unitytext和textmeshpro-CSDN博客
+https://www.fantsida.com/d/350 | 手把手教，Unity 使用 TextMeshPro - 幻想社区
+https://www.cnblogs.com/alanshreck/p/16925603.html | unity 使用TextMeshPro创建SpriteAssets精灵资源 - 伊凡晴天 - 博客园
+https://www.cnblogs.com/onecyl/p/17648346.html | Unity TextMeshPro使用自建中文字体 - onecyl - 博客园
+https://jsdocunity.jsopy.com/UGUI/U7.html | UGUI TextMeshPro 控件详解 | Unity3D 学习汇总
+https://www.cnblogs.com/myfqm/articles/12993203.html | C# 单元测试 基础入门 - delafqm - 博客园
+https://docs.unity3d.com/Packages/com.unity.textmeshpro@4.0/manual/FontAssetsCreator.html | Font Asset Creator | TextMeshPro | 4.0.0-pre.2
+https://groups.google.com/g/tw.bbs.comp.sources/c/5myrwuZh9oQ | 如何取得所有中文字????
+https://gist.github.com/shhider/38b43db6abe31b551384372254c5ac79 | 中文汉字和常见英文数字等的 unicode 编码范围.md
+https://www.zhangxinxu.com/study/201611/chinese-language-unicode-range.html | 中文汉字和常见英文数字等的unicode编码范围 » 张鑫旭-鑫空间-鑫生活
+https://learn.microsoft.com/en-us/dotnet/api/system.string.compare?view=net-8.0 | String.Compare Method (System) | Microsoft Learn
+https://www.cnblogs.com/VisualStudio/archive/2008/10/17/1313509.html | Effective C# 小心GetHashCode函数所存在的陷阱 - 瞪着你的小狗 - 博客园
+https://www.cnblogs.com/VisualStudio/category/157661.html | 【C#】 - 随笔分类 - 瞪着你的小狗 - 博客园
+https://www.cnblogs.com/duanxz/p/5038471.html | Thread之三：Thread Join()的用法 - duanxz - 博客园
+https://www.cnblogs.com/ittranslator/p/14161651.html | C# 中 ConcurrentDictionary 一定线程安全吗？ - 技术译民 - 博客园
+https://learn.microsoft.com/en-us/dotnet/api/system.collections.concurrent.concurrentdictionary-2?view=net-8.0 | ConcurrentDictionary<TKey,TValue> Class (System.Collections.Concurrent) | Microsoft Learn
+https://www.cnblogs.com/tomorrow0/p/14491344.html | Dictionary 线程不安全实例代码 - 温故纳新 - 博客园
+https://www.cnblogs.com/tomorrow0/p/14491138.html | C# ConcurrentDictionary扩展方法导致线程不安全 - 温故纳新 - 博客园
+https://www.cnblogs.com/tomorrow0/p/14214144.html | C# Task与async/await异步任务异常处理 - 温故纳新 - 博客园
+https://dotblogs.com.tw/yc421206/2011/01/04/20574 | [C#.NET][Thread] 背景執行緒與前景執行緒的差別 | 余小章 @ 大內殿堂 - 點部落
+https://blog.csdn.net/qq_39847278/article/details/127537155 | C#多线程之Thread，ThreadPool，Task，Parallel_c# parallel-CSDN博客
+https://blog.gkarch.com/threading/part4.html | C#中的多线程 - 高级多线程 - GKarch
+https://www.albahari.com/threading/ | Threading in C# - Free E-book
+https://learn.microsoft.com/zh-cn/dotnet/standard/threading/foreground-and-background-threads | 前台和后台线程 - .NET | Microsoft Learn
+https://www.cnblogs.com/tanghuimin0713/p/4029541.html | pthread_cond_wait避免线程空转 - tanghuimin0713 - 博客园
+https://threads.whuanle.cn/1.thread_basic/1.thread.html | 1.1 Thread 基础 · C# 多线程与异步 - 痴者工良
+https://ericlippert.com/2009/03/06/locks-and-exceptions-do-not-mix/ | Locks and exceptions do not mix | Fabulous adventures in coding
+https://blog.csdn.net/qq_43719791/article/details/116231477 | 探究Lock控制的代码块出现异常后线程是否会自动释放锁_lock异常会释放锁吗-CSDN博客
+https://stackoverflow.com/questions/35138229/are-class-member-enums-thread-safe | c# - Are class member enums thread safe? - Stack Overflow
+https://flowgame.feishu.cn/wiki/wikcnt2u80mV1qHtOLwbpLrXjpe | UE体验评估标准 - 飞书云文档
+https://flowgame.feishu.cn/wiki/wikcnOvKDC5e9vyamJMbyaOR1gf | 工具&编辑器 - 飞书云文档
+https://learn.microsoft.com/zh-cn/dotnet/csharp/roslyn-sdk/get-started/syntax-analysis | 语法分析 (Roslyn API) 入门 - C# | Microsoft Learn
+https://flowgame.feishu.cn/wiki/wikcnv2CE2msPU95jXlUX7HOfjf | 每期奖励 - 飞书云文档
+https://blog.csdn.net/qqrrjj2011/article/details/140815011 | MemoryPack：C# Unity极致性能二进制序列化-CSDN博客
+https://blog.csdn.net/qqrrjj2011/category_12558126.html | unity C#设计模式详解_极致人生-010的博客-CSDN博客
+https://blog.csdn.net/qqrrjj2011/article/details/135960395 | Unity 模板方法模式（实例详解）_unity模板模式-CSDN博客
+https://github.com/Cysharp/MemoryPack?tab=readme-ov-file#streaming-serialization | Cysharp/MemoryPack: Zero encoding extreme performance binary serializer for C# and Unity.
+https://github.com/Cysharp/MemoryPack#unity | Cysharp/MemoryPack: Zero encoding extreme performance binary serializer for C# and Unity.
+https://learn.microsoft.com/zh-cn/nuget/quickstart/install-and-use-a-package-in-visual-studio | 快速入门：在 Visual Studio 中安装和使用 NuGet 包（仅适用于 Windows） | Microsoft Learn
+https://github.com/Cysharp/MemoryPack?path=src/MemoryPack.Unity/Assets/MemoryPack.Unity | MemoryPack/src/MemoryPack.Unity/Assets/MemoryPack.Unity at main · Cysharp/MemoryPack
+https://www.cnblogs.com/InCerry/p/Dotnet-Perf-Opt-Serialization-Protocol.html | .NET性能优化-是时候换个序列化协议了 - InCerry - 博客园
+https://github.com/neuecc | neuecc (Yoshifumi Kawai)
+https://benchmarkdotnet.org/articles/guides/troubleshooting.html#debugging-benchmarks | Troubleshooting | BenchmarkDotNet
+https://github.com/Zuoqiu-Yingyi/siyuan-publish | Zuoqiu-Yingyi/siyuan-publish: 思源笔记在线发布工具 | Siyuan Notes online publishing tool.
+https://blog.csdn.net/Fredomyan?type=blog | 万里鲲-CSDN博客
+https://blog.csdn.net/Fredomyan/article/details/133842030?spm=1001.2014.3001.5502 | 【Unity引擎核心-Object，序列化，资产管理，内存管理】_uobject 手动序列化-CSDN博客
+https://learn.unity.com/tutorial/assets-resources-and-assetbundles# | Learn game development w/ Unity | Courses & tutorials in game design, VR, AR, & Real-time 3D | Unity Learn
+https://unity.com/cn/blog/engine-platform/serialization-in-unity | Unity 中的序列化
+https://blog.csdn.net/Fredomyan/article/details/52674583?spm=1001.2014.3001.5502 | 【Uniy3d之EnhanceScollView选择角色3D循环滚动效果实现】_unity animationcurve-CSDN博客
+https://www.aboutcg.org/openList | ABOUTCG影视动画制作和游戏美术等CG软件视频公开课
+https://www.aboutcg.org/courseDetails/1214/introduce | Unreal Engine 4连接分布式MMORPG服务器第三季-地图编辑器| ABOUTCG视频教程
+https://www.bilibili.com/video/BV1cz4y1s7QS?vd_source=5aeec11224a2dcfe0ebe94495dda445e&spm_id_from=333.788.videopod.episodes&p=2 | 安装_哔哩哔哩_bilibili
+https://github.com/Cysharp/UniTask?tab=readme-ov-file | Cysharp/UniTask: Provides an efficient allocation free async/await integration for Unity.
+https://github.com/Cysharp | Cysharp, Inc.
+https://wordbee.com/wordbee-translator/ | Translation Management for Professionals • Wordbee
+https://luban.doc.code-philosophy.com/docs/manual/extendluban | 扩展Luban实现 | Luban
+https://luban.doc.code-philosophy.com/docs/manual/types | 类型系统 | Luban
+https://www.cnblogs.com/Firepad-magic/p/17150487.html | Luban小试牛刀 - 世纪末の魔术师 - 博客园
+https://reubensun.com/engine/UnityLuban/ | Unity Luban - ReubenSun
+https://blog.csdn.net/weiqifa0/article/details/117049827 | Qt 开源作品 | 小伙子，给你的 Linux 系统写个 Launcher 吧-CSDN博客
+https://www.wxwidgets.org/ | wxWidgets: Cross-Platform GUI Library
+https://www.electronjs.org/ | Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron
+https://medium.com/@noumanmustafa741/how-to-create-an-executable-exe-file-from-a-python-gui-calculator-6414602907bd | How to Create an Executable (.exe) File from a Python GUI Calculator | by Noumanmustafa | Medium
+https://github.com/It-Life/Deer_GameFramework_Wolong/tree/2021.3.1f1New | It-Life/Deer_GameFramework_Wolong: 基于GameFramework框架衍生的一个Wolong (huatuo)热更框架,接入luban配表工具,项目里包含例子工程,可直接写项目！
+https://blog.csdn.net/xufeng0991/article/details/107893550 | 导表工具开发(支持 JSON，Python，Lua，JS)_lua导表-CSDN博客
+https://www.lfzxb.top/et7-fgui-yooasset-luban-huatuo/ | ET7+FariyGUI+huatuo+luban+yooasset接入教程 | 登峰造极者，殊途亦同归。
+https://github.com/kteong1012/LubanEditor | kteong1012/LubanEditor: Luban较为通用的编辑器工具
+https://github.com/LiuOcean/Luban_Example/tree/main | LiuOcean/Luban_Example: Luban 工具的示例仓库
+https://github.com/LiuOcean?page=2&tab=repositories | LiuOcean (LiuOcean) / Repositories
+https://github.com/kisence-mian/MyUnityFrameWork | kisence-mian/MyUnityFrameWork: 我的Unity框架，包含资源加载，配置加载，数据加载，UI管理，日志管理，动画系统，特效系统
+https://blog.csdn.net/P_newbie/article/details/132261025 | 强力配置工具Luban使用教程-CSDN博客
+https://www.cnblogs.com/AlanDu | AlanDu - 博客园
+https://github.com/hanxi/blog | hanxi/blog: 涵曦的博客
+https://blog.hanxi.cc/ | 涵曦 ~ 博客
+https://github.com/DangoRyn | DangoRyn (Dango)
+https://blog.csdn.net/u012373281/article/details/91410698 | UTF-8的BOM是什么意思-CSDN博客
+https://itmyhome.com/git/branching.html | Git 参考手册
+https://blog.csdn.net/Fiverya/article/details/129691776 | Excel小技巧记录_excel2021 regexreplace-CSDN博客
+https://regex101.com/ | regex101: build, test, and debug regex
+https://unity.cn/releases/lts/2022 | Unity 2022.x 长期支持版本下载 | Unity中国官网
+https://stackoverflow.com/questions/39010338/java-home-supplied-via-org-gradle-java-home-is-invalid-invalid-directory-us | Java home supplied via 'org.gradle.java.home' is invalid. Invalid directory: /usr/local/java/jdk1.8.0_05 - Stack Overflow
+https://stackoverflow.com/questions/62147493/minimum-supported-gradle-version-is-6-1-1-current-version-is-5-6-4 | android studio 4.0 - Minimum supported Gradle version is 6.1.1. Current version is 5.6.4 - Stack Overflow
+https://blog.csdn.net/weixin_43686259/article/details/140848106 | Ubuntu系统下，截图软件（飞书，flameshot等）无法正常截图与编辑-CSDN博客
+https://github.com/firebase/quickstart-unity/issues/745 | Android crash report not symbolicated after uploading cSYM file · Issue #745 · firebase/quickstart-unity
+https://firebase.google.com/docs/crashlytics/ndk-reports?hl=zh-cn | 获取 Android NDK 崩溃报告  |  Firebase Crashlytics
+https://www.sohu.com/a/321475357_204728 | 揭秘莉莉丝《AFK》的“上瘾”机制 | 游戏陀螺_Arena
+https://www.cnblogs.com/indream/p/3667279.html | C#的泛型的类型参数可以有带参数的构造函数的约束方式吗？ - Indream Luo - 博客园
+https://github.com/THUDM/ChatGLM-6B | THUDM/ChatGLM-6B: ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+https://go.dev/dl/ | All releases - The Go Programming Language
+https://mp.weixin.qq.com/s/w3jqP12eTj7l_-098fGmMQ | 七个虚幻引擎游戏迁移案例
+https://flowgame.feishu.cn/wiki/TQ86wYSYbioWhLkuFn5ceam0nJb | SourceGenerator - 飞书云文档
+https://github.com/amis92/csharp-source-generators | amis92/csharp-source-generators: A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.
+https://learn.microsoft.com/zh-cn/dotnet/csharp/roslyn-sdk/source-generators-overview | 源生成器 - C# | Microsoft Learn
+https://www.cnblogs.com/chenyishi/p/18073694 | .Net Core 你必须知道的source-generators - chester·chen - 博客园
+https://www.cnblogs.com/fanshaoO/p/18101185 | 学习Source Generators之HelloWorld - 饭勺oO - 博客园
+https://www.cnblogs.com/ | 博客园 - 开发者的网上家园
+https://www.cnblogs.com/cmt/p/18453394 | 11年之后双11之前：终于要做一个决定，是否要换一朵云 - 博客园团队 - 博客园
+https://www.bilibili.com/video/BV1XP4y1n7jK/?spm_id_from=333.788.video.desc.click&vd_source=f862735d84408c217a7da2f91c52ebc9 | 2021年，这依然是最好的卡组构建游戏——杀戮尖塔卡牌设计解析（一）_杀戮尖塔
+https://flowgame.feishu.cn/wiki/VDfmwZZ9Ji3qnHkXZSgc5naancg | 龙2 客户端工作梳理 - 飞书云文档
+https://115.com/?goto=http%3A%2F%2F115.com%2F%3Fmode%3Dwangpan | 115科技官网_首页_115，一生相伴
+https://kirby.fandom.com/zh/wiki/Category:%E5%A4%8D%E5%88%B6%E8%83%BD%E5%8A%9B | 分类:复制能力 | 星之卡比 Wiki | Fandom
+https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md | How-To-Ask-Questions-The-Smart-Way/README-zh_CN.md at master · FredWe/How-To-Ask-Questions-The-Smart-Way
+https://withpinbox.com/collection/998970?category=all&name=%E4%B9%A6%E7%B1%8D%E8%B5%84%E6%96%99 | Pinbox - 跨平台收藏工具
+https://github.com/KiyanYang/DotVast.HashTool.WinUI/releases | Releases · KiyanYang/DotVast.HashTool.WinUI
+https://github.com/tylearymf/UniHacker | tylearymf/UniHacker: Patch all versions of Unity3D and UnityHub for Windows, MacOS, Linux and Docker.
+https://github.com/tylearymf/UniHacker/issues/78 | 关于Legacy License移除后的验证逻辑重构 · Issue #78 · tylearymf/UniHacker
+https://github.com/tylearymf/UniHacker/issues/198 | 重构Unity License注入方式 · Issue #198 · tylearymf/UniHacker
+https://github.com/parhelia512/Uni-HubHacker | parhelia512/Uni-HubHacker
+https://unity.com/releases/editor/archive | Download Archive
+https://www.youtube.com/watch?v=ulIqgmwJVC4 | 【PDD】魔兽RPG：澄海3c耍起来！300斤恶魔猎手在线指挥团战！ - YouTube
+https://gradle.com/developer-productivity-engineering/handbook/?utm_campaign=prospecting-rsa-us-dpe-handbook&utm_medium=ad-cpc&utm_source=google&utm_content=brand-exact-2&source=adwords&medium=cpc&campaignid=20674543139&adgroupid=153420131214&keyword=gradle&matchtype=b&network=g&device=c&utm_lsd=paid-media&gad_source=1&gclid=CjwKCAjwvKi4BhABEiwAH2gcwz7plJdjyF1mnP-RN8Q1oJU88Smvop7Jbmmdvf6GxIGg84YAdpv-kxoCa2oQAvD_BwE | The Developer Productivity Engineering Handbook | Develocity
+https://blog.csdn.net/youngwah292/article/details/110734407 | gradle不同版本下载太慢---腾讯做了国内镜像可以直接下载-CSDN博客
+https://mirrors.cloud.tencent.com/gradle/ | Index of /gradle/
+https://zhuanlan.zhihu.com/p/611590737 | 关于“鸢尾花书”的问答 - 知乎
+https://blog.csdn.net/andyqingliu/article/details/54600961 | Unity UGUI源码调试与修改_unity ugui dll-CSDN博客
+https://bitbucket.org/Unity-Technologies/workspace/repositories/ | Unity-Technologies / Repositories — Bitbucket
+https://github.com/Unity-Technologies | Unity Technologies
+https://blog.csdn.net/enternalstar/article/details/140423818#comments_33928040 | UI框架与MVC模式详解（3）——MVC\MVP\MVVM_界面开发 mvc-CSDN博客
+https://blog.csdn.net/enternalstar/category_11301464.html | 游戏设计与实现_永恒星的博客-CSDN博客
+https://blog.csdn.net/enternalstar/article/details/140423818 | UI框架与MVC模式详解（3）——MVC\MVP\MVVM_界面开发 mvc-CSDN博客
+https://blog.csdn.net/enternalstar/article/details/125089653 | 复杂嵌套的对象池(1)——先进先出的队列结构_c++对象池的扩容和缩容策略-CSDN博客
+https://github.com/EpicGames/UnrealEngine | EpicGames/UnrealEngine: Unreal Engine source code
+https://github.com/godotengine/godot | godotengine/godot: Godot Engine – Multi-platform 2D and 3D game engine
+https://www.young40.com/post/2021-12-26-ugui-source-reading-01/ | UGUI源码分析(一): Image的渲染 - 杨世玲的博客
+https://juejin.cn/post/6844904039902085134 | 适合程序员的UML绘图工具市面上的绘图工具琳琅满目，桌面版与在线版本都不少。选择多了，团队成员使用的工具也难统一，有vs - 掘金
+https://plantuml.com/zh/ | 使用简单的文字描述画UML图的开源工具。
+https://plantuml.com/zh/class-diagram | 类图的语法和功能
+https://plantuml.com/zh/stdlib | PlantUML Standard Library
+https://github.com/Roemer/plantuml-office | Roemer/plantuml-office: Office Icons for PlantUML
+https://plantuml-editor.kkeisuke.com/ | PlantUML Editor
+https://zhuanlan.zhihu.com/p/714918279 | Unity2019 Play Asset Delivery与TargetSDK34的兼容 - 知乎
+https://github.com/apachecn/apachecn-c-cpp-zh/blob/master/docs/master-cpp-game-dev/01.md | apachecn-c-cpp-zh/docs/master-cpp-game-dev/01.md at master · apachecn/apachecn-c-cpp-zh
+https://time.geekbang.org/column/article/41013 | 06 | 链表（上）：如何实现LRU缓存淘汰算法?-数据结构与算法之美-极客时间
+https://weread.qq.com/web/reader/86d32bb0813ab841dg010118kc20321001cc20ad4d76f5ae | CPU眼里的C/C++ - 1.3 CPU眼里的汇编语言 - 阿布编程 - 微信读书
+https://www.cnblogs.com/buxiangxin/p/8336022.html | TCP协议详解 - 王先生架构 - 博客园
+https://www.cnblogs.com/mengwang024/p/4445163.html | 《TCP/IP详解卷1：协议》第11章 UDP：用户数据报协议-读书笔记 - QingLiXueShi - 博客园
+https://zhuanlan.zhihu.com/p/584073651 | KCP协议 - 知乎
+https://gohugo.io/getting-started/usage/ | Basic usage | Hugo
+https://mjx1010.github.io/ | 橘子知曰记
+https://github.com/MJX1010/MJX1010.github.io | MJX1010/MJX1010.github.io: my blog
+https://dnspod.cloud.tencent.com/ | 域名注册_免费智能DNS_域名交易_域名购买申请 - DNSPod - 腾讯云官网
+https://cloud.tencent.com/login?s_url=https%3A%2F%2Fbuy.cloud.tencent.com%2Fdomain%2Fbuy%3Fdomain%3Djuzi1010%26tlds%3D.com%26from%3DdnspodEntrance | 登录 - 腾讯云
+https://buy.cloud.tencent.com/domain/buy?domain=mjx1010&tlds=.com&from=dnspodEntrance | 域名注册购买_域名注册选购 - 腾讯云
+https://cn.aliyun.com/search?from_alibabacloud=&spm=5176.28508143.J_XmGx2FZCDAeIy2ZCWL7sW.1.5421154aFHFNGm&k=%E5%9F%9F%E5%90%8D&scene=all&scm=20140722.KW_%E5%9F%9F%E5%90%8D.P_128-R_SearchHintWords2.MO_2076-ST_8458-V_1-ID_%E5%9F%9F%E5%90%8D-OR_rec | 阿里云-搜索推荐页
+https://wanwang.aliyun.com/domain?spm=5176.21213303.J_qCOwPWspKEuWcmp8qiZNQ.23.792e2f3dAAxxoG&scm=20140722.S_card%40%40%E4%BA%A7%E5%93%81%40%403417315.S_card0.ID_card%40%40%E4%BA%A7%E5%93%81%40%403417315-RL_%E5%9F%9F%E5%90%8D-LOC_search%7EUND%7Ecard%7EUND%7Eitem-OR_ser-V_3-RE_cardOld-P0_0 | 域名注册_域名查询_域名申请_域名购买_域名续费_国际域名-万网-阿里云品牌
+https://wanwang.aliyun.com/domain/searchresult/?keyword=juzi1010&suffix=.com | 域名查询结果_域名信息_域名交易-万网-阿里云旗下品牌
+https://medium.com/@apocalyps26/linq-exploration-and-its-compatibility-with-unity-engine-a7cf5b521e51
+https://blog.uwa4d.com/archives/UWA_Pipeline36.html | C#代码优化：斩断伸向堆内存的“黑手” - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://wnhub.io/zh/news/engines/item-44558 | 在Unity游戏中使用LINQ技术 | WN Hub
+https://www.cnblogs.com/zerobeyond/p/17740762.html | Unity性能优化总结 - ZERO_BEYOND - 博客园
+https://segmentfault.com/a/1190000041978404 | Unity C# 反射性能优化 - 冰封百度的学习笔记 - SegmentFault 思否
+https://www.potatoyz.tech/Posts/Unity%E6%B8%B8%E6%88%8F%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96%E2%80%94%E2%80%94%E4%BB%A5TileMatch%E4%B8%BA%E4%BE%8B | Unity游戏内存优化——以TileMatch为例
+https://blog.csdn.net/backlighting2015?type=blog | 游戏开发小Y-CSDN博客
+http://www.u3d8.com/ | U3D8技术博客,网虫虫
+https://unity.com/cn/how-to/use-memory-profiling-unity | 如何使用 Unity 的内存性能分析工具 | Unity
+https://itmonon.github.io/posts/unity3d-game/Unity3D%E5%BC%80%E5%8F%91%E5%B0%8F%E6%B8%B8%E6%88%8F-%E8%B4%AA%E5%90%83%E8%9B%87-Unity%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B | 【Unity3D开发小游戏】《贪吃蛇》Unity开发教程 · 764424567
+https://github.com/MetaZhi/unity-learning-path | MetaZhi/unity-learning-path: Unity最佳学习路径、教程推荐
+https://www.cnblogs.com/crj8812/p/4461823.html | 《Unity3D 游戏开发经典教程》 第一第二章学习 - crj8812 - 博客园
+https://github.com/lengly/UnityGame | lengly/UnityGame: 《Unity游戏开发入门经典》
+https://github.com/TastSong/GameProgrammerStudyNotes/blob/master/GameProgrammingPatterns/Command.md | GameProgrammerStudyNotes/GameProgrammingPatterns/Command.md at master · TastSong/GameProgrammerStudyNotes
+https://github.com/TastSong | TastSong (Tast Song)
+https://github.com/TastSong/CrazyCar | TastSong/CrazyCar: 网络联机游戏解决方案---Unity制作的联机赛车游戏，服务端为SpringBoot + Mybatis Plus；后台为Vue + Element；游戏端采用QFramework框架，Addressable+HybridCLR实现热更新，支持KCP和WebSocket网络。
+https://blog.csdn.net/linxinfa/article/details/114659827 | 【游戏开发实战】（完结）使用Unity 2019制作仿微信小游戏飞机大战：良心教程，共十三篇，附素材、工程源码_unity小游戏制作教程和素材-CSDN博客
+https://blog.csdn.net/linxinfa/article/details/108894280 | Unity游戏开发——新发教你做游戏（三）：3种资源加载方式_unity游戏开发——新发教你做游戏(三):3种资源加载方式-CSDN博客
+https://blog.csdn.net/zcc9618/article/details/83788719 | C#开根号函数：math.pow()函数-CSDN博客
+https://www.cnblogs.com/phonk/p/17436139.html | C#学习笔记 -- 数组: 一维数组、矩形数组 - 老菜农 - 博客园
+https://blog.csdn.net/EverNess010/article/details/124813909 | 关于 Unity 2019.2 版本升级到 Unity 2019.4 后导出 Android 工程的记录_unity maintemplate和launchertemplate区别-CSDN博客
+https://discussions.unity.com/t/cant-build-for-android-sdk-34/927940/35 | Can't build for Android SDK 34 - Unity Engine - Unity Discussions
+https://www.cnblogs.com/wzihan/p/14868855.html | C#将每个单词首字母大写 - 奥兰王子 - 博客园
+https://blog.csdn.net/weixin_42072896/article/details/115141335 | Unity菜单树模糊查询_unity 模糊查询一层一层查询-CSDN博客
+https://blog.walterlv.com/post/generate-csharp-source-using-roslyn-source-generator | 使用 Source Generator 在编译你的 .NET 项目时自动生成代码 - walterlv
+https://github.com/dotnet/roslyn/blob/main/docs/features/source-generators.cookbook.md | roslyn/docs/features/source-generators.cookbook.md at main · dotnet/roslyn
+https://www.cnblogs.com/mondol/p/18059560/scriban#:~:text=Scriban%E8%AF%AD%E8%A8%80%E6%89%8B | Scriban语言手册中文版 - Frank.Cui - 博客园
+https://godbolt.org/ | Compiler Explorer
+https://github.com/agentbillwh/unilic | agentbillwh/unilic
+https://zhuanlan.zhihu.com/p/666933008?utm_psn=1811738211485093888 | 腾讯天美 游戏客户端面经 一面面经 - 知乎
+https://translate.google.com/?sl=auto&tl=en&text=%E5%80%92%E7%BD%AE&op=translate | Google 翻译
+https://github.com/focus-creative-games/luban_unity/blob/main/README_zh.md | luban_unity/README_zh.md at main · focus-creative-games/luban_unity
+https://www.udemy.com/course/unity-urp/?couponCode=SKILLS4SALEB | A Complete Guide to Unity's Universal Render Pipeline, URP | Udemy
+https://issuetracker.unity3d.com/issues/macos-dynamic-font-character-breaks-the-other-fonts-and-is-invisible-in-the-unity-editor | Unity Issue Tracker - [MacOS] Dynamic font character breaks the other fonts and is invisible in the Unity Editor
+https://answer.uwa4d.com/question/5c3c51ee050b697811b11e7d | iphone dynamic font texture 尺寸涨到4096以上，andriod上没出现该问题 -- UWA问答 | 游戏开发者互动问答社区 | 侑虎科技
+https://www.cnblogs.com/kevinWu7/p/10163441.html | VS 断点不会命中的情况 - birdhumen鸟人 - 博客园
+https://unique849997563.github.io/2019/03/06/Unity%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E6%89%A9%E5%B1%95%EF%BC%8CMenuItem%E7%9A%84%E4%BD%BF%E7%94%A8%E6%95%B4%E7%90%86/ | Unity编辑器的扩展，MenuItem的使用整理 | 禾文的博客
+https://www.cnblogs.com/movin2333/p/14401591.html | unity编辑器扩展学习 - movin2333 - 博客园
+https://www.fantsida.com/d/613 | Unity 编辑器篇 |（二）GenericMenu 自定义弹出式菜单 - 幻想社区
+https://blog.csdn.net/aaa27987/category_11145046.html | Unity编辑器拓展_ssuper41的博客-CSDN博客
+https://blog.csdn.net/egostudio/article/details/118360117 | Unity发布aab(Android App Bundle)详解(一)Unity .aab支持情况_unity aab-CSDN博客
+https://blog.csdn.net/egostudio/article/details/118787073 | Unity发布Android App Bundle详解(四)Addressables+Play Asset Delivery分发_unity play asset delivery-CSDN博客
+https://blog.csdn.net/dou_being/article/details/126569008 | 安卓aab包安装方式_aab文件怎么安装-CSDN博客
+https://github.com/google/bundletool/releases | Releases · google/bundletool
+https://github.com/Enanyy?tab=repositories | Enanyy (Enanyy) / Repositories
+https://github.com/QianMo/Unity-Design-Pattern | QianMo/Unity-Design-Pattern: :tea: All Gang of Four Design Patterns written in Unity C# with many examples. And some Game Programming Patterns written in Unity C#. | 各种设计模式的Unity3D C#版本实现
+https://blog.csdn.net/linpeijieaini/article/details/117572607 | 外网访问内网svn服务器_svn服务器外地访问-CSDN博客
+https://blog.uwa4d.com/archives/BlueBook_2023.html | UWA发布 | Unity手游性能年度蓝皮书 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://blog.uwa4d.com/archives/UWAPPLcase3.html | 再也不用焦虑特效造成的性能问题了 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://community.uwa4d.com/search?keyword=urp&scope=1 | UWA-社区
+https://edu.uwa4d.com/course-intro/0/489 | URP管线修改落地实战_UWA学堂
+https://edu.uwa4d.com/lesson-detail/196/1091/1?isPreview=0 | 1｜前言及《黑神话·悟空》Demo展示_Console级写实画面游戏的技术探索之路_UWA学堂
+https://docs.unity3d.com/cn/2019.4/Manual/ExecutionOrder.html | 事件函数的执行顺序 - Unity 手册
+https://unity.com/cn/blog/engine-platform/il2cpp-full-generic-sharing-in-unity-2022-1-beta | Feature preview: IL2CPP Full Generic Sharing in Unity 2022.1 beta
+https://blog.lujun.co/2019/08/27/unity_canvas_components/ | Unity Canvas 自适应探究
+https://blog.lujun.co/2019/07/09/unity_script_execution_order/ | 挖一挖 Unity 中脚本的执行顺序
+https://blog.csdn.net/hello_1995/article/details/121474259 | Unity 渲染原理_unity渲染原理-CSDN博客
+https://blog.csdn.net/hello_1995/article/details/121164188 | Unity 射线碰撞检测_unity射线检测碰撞-CSDN博客
+https://www.cnblogs.com/xiaolincoding/p/12571184.html | 20 张图解： ping 的工作原理 - 小林coding - 博客园
+https://www.cnblogs.com/xiaolincoding/p/16661452.html | 服务端挂了，客户端的 TCP 连接还在吗？ - 小林coding - 博客园
+https://xiaolincoding.com/ | 小林coding
+https://blog.csdn.net/qq_23369807?type=blog | 人宅-CSDN博客
+https://blog.lujun.co/ | 卢俊的Blog
+https://github.com/linxinfa/Unity-RpgGameDemo | linxinfa/Unity-RpgGameDemo: Unity RpgGameDemo
+https://blog.csdn.net/linxinfa/article/details/108886459 | Unity游戏开发——新发教你做游戏（一）：打开游戏开发新世界的大门_林新发 unity 操作汇总-CSDN博客
+https://flowgame.feishu.cn/wiki/wikcne3C2Dt5sWXmOtcQmPDuBeW | 【关卡编辑器v1/v2/v3】关卡编辑器功能文档 - 飞书云文档
+https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1?view=net-8.0 | IEqualityComparer<T> Interface (System.Collections.Generic) | Microsoft Learn
+https://blog.csdn.net/qq_37310110/article/details/86139130 | 【Unity开发小技巧】Unity随机概率扩展（概率可调控）_unity 概率控制算法-CSDN博客
+https://www.cnblogs.com/juzi1010/p/11726631.html | [unity]-Unity5.6.3f1使用Gradle打Android包-填坑 - MJX1010 - 博客园
+https://github.com/sandboxie-plus/Sandboxie | sandboxie-plus/Sandboxie: Sandboxie Plus & Classic
+https://flowgame.feishu.cn/wiki/wikcnaQ7Vygxw4AAt94FmP1Dzcd | WaveEditor关卡编辑器 - 飞书云文档
+https://flowgame.feishu.cn/wiki/wikcnDy0fjxKRSKQ1bW7zhi6qTc | 客户端周会 - 飞书云文档
+https://flowgame.feishu.cn/wiki/wikcnmcmMnJJ3XbrYKoOmCHAJLb | LevelManager & WaveManager逻辑梳理 - 飞书云文档
+https://3.jetbra.in/ | JETBRA.IN CHECKER | IPFS
+https://blog.csdn.net/weixin_45029839/article/details/118437953?spm=1001.2014.3001.5502 | GC垃圾回收机制_unity gc回收机制-CSDN博客
+https://github.com/hanxu11580/UGUI-Exercise/tree/main | hanxu11580/UGUI-Exercise
+https://github.com/XINCGer/Unity3DTraining/tree/master/UGUITraining | Unity3DTraining/UGUITraining at master · XINCGer/Unity3DTraining
+https://blog.csdn.net/weixin_45029839/article/details/123574983?spm=1001.2014.3001.5502 | InjectFix原理学习(实现修复加法的热更)-CSDN博客
+https://zhuanlan.zhihu.com/p/260216935 | 使用ILRuntime遇到的一些问题 - 知乎
+https://github.com/sandin/InjectFixSample | sandin/InjectFixSample: InjectFixSample
+https://blog.csdn.net/qq992817263/article/details/54925472 | Unity UGUI自定义树形菜单（TreeView）_unity 折叠菜单-CSDN博客
+https://wanderer.blog.csdn.net/?type=blog | 神码编程-CSDN博客
+https://wanderer.blog.csdn.net/article/details/79654398?spm=1001.2014.3001.5502 | Unity编辑器开发（三）：实战、开发一个AB包编辑器工具_unity ab包重命名-CSDN博客
+https://blog.csdn.net/Herishwater/article/details/123673030 | JVM系列之：关于即时编译器的那些事_即使编译的代码缓存区-CSDN博客
+https://blog.csdn.net/herishwater/category_11612867.html | 深入学习JVM_hresh的博客-CSDN博客
+https://blog.csdn.net/Herishwater/article/details/123316531 | JVM系列之：JVM是如何实现反射的_java inflation-CSDN博客
+https://www.cnblogs.com/guanghe/p/11880577.html | Java虚拟机解释器与JIT编译器 - 光何 - 博客园
+https://www.cnblogs.com/guanghe/p/11935379.html
+https://www.cnblogs.com/dzhou/p/9550007.html
+https://learn.microsoft.com/zh-cn/dotnet/standard/managed-code | 什么是托管代码？ - .NET | Microsoft Learn
+https://www.cnblogs.com/sifenkesi/p/9780122.html | 通过反射调用Unity编辑器提供的各种功能 - 斯芬克斯 - 博客园
+https://www.cnblogs.com/sifenkesi/category/343593.html?page=1 | Unity3D - 随笔分类 - 斯芬克斯 - 博客园
+https://www.cnblogs.com/sifenkesi/p/12258842.html | C# Job System - 斯芬克斯 - 博客园
+https://bbbbbbion.github.io/2015/09/16/Unity3D%E9%80%9A%E8%BF%87%E5%8F%8D%E5%B0%84%E5%AE%9E%E7%8E%B0%E5%AE%89%E5%8D%93%E7%9A%84%E4%BB%A3%E7%A0%81%E7%83%AD%E6%9B%B4%E6%96%B0/ | Unity3D通过反射实现安卓的代码热更新 | 六饼
+https://juejin.cn/user/1636540751808119/posts | 无幻_ 的个人主页 - 文章 - 掘金
+https://juejin.cn/post/6985885996676022286 | Unity 预览窗口预览窗口 在 Unity 编辑器界面上可以看到除了 Game 视图、Scene 视图，其他的视图也会 - 掘金
+https://juejin.cn/column/6975345209529860110 | Unity 杂谈 - 无幻_的专栏 - 掘金
+https://juejin.cn/post/6975839508751188005 | Unity Sprite Packer Overview 图集总览工具Unity Sprite Packer Overv - 掘金
+https://github.com/akof1314/UnitySpritePackerOverview | akof1314/UnitySpritePackerOverview: Unity Sprite Packer Overview
+https://juejin.cn/post/6975840258764046366 | Unity 快速切换 Game 视图分辨率原因 Unity Game 视图是下拉切分辨率，在编辑 UI 时不方便进行切换 - 掘金
+https://juejin.cn/post/6976242067508985864 | Unity 扩展弹出菜单窗口原因 Unity 编辑器下提供了系统级的菜单弹窗，会阻塞消息，卡住渲染，以及不能进行搜索等功 - 掘金
+https://juejin.cn/post/6984027210730438669 | Unity Hierarchy窗口的右键菜单增加项目的 实现在Hierarchy窗口的右键菜单增加项，来快速实现一些功能 - 掘金
+https://juejin.cn/post/6976242002551799822 | Unity App 与编辑器进行通信目的 实现与 Unity Profiler 一样可以连接手机进行通信，来接收 App - 掘金
+https://juejin.cn/post/6984027121668587550 | Unity 编辑器枚举值的获取和设置原因 在 Unity 中为脚本的枚举变量做编辑器时，如果枚举定义不是按顺序的，那么就 - 掘金
+https://juejin.cn/post/6986086221415972872 | Unity 粒子特效预览工具原因 在使用 Unity 制作完成粒子特效预制后，保存到工程统一的特效目录里，待到需要使用的 - 掘金
+https://github.com/akof1314/UnityParticleSystemPreview | akof1314/UnityParticleSystemPreview: Unity ParticleSystem Preview 粒子预览插件
+https://juejin.cn/post/6985110450329518116 | Unity 获取手机键盘弹出高度目的 在手机上进行聊天时，键盘弹起会盖住聊天窗口，所以需要键盘弹起的时候，将界面也进行上 - 掘金
+https://juejin.cn/post/7012230951841300494 | Unity DragonBones 龙骨隐藏指定插槽目的 根据等级之类的来显隐龙骨上的插槽，以丰富表现。 实现 尝试了S - 掘金
+https://juejin.cn/post/6999589419904663583 | Unity Scene场景拾取可视UI控件游戏画面由多个UI界面组成，当在场景进行拾取UI控件时，往往会先选中最外层的R - 掘金
+https://juejin.cn/post/6986100268400115720 | Unity 曲线编辑扩展菜单功能Unity AnimationCurvePopupMenu Unity 曲线编辑扩展菜单 - 掘金
+https://www.cnblogs.com/OceanEyes/p/sharing_data_between_viewmodels.html | Unity应用架构设计(5)——ViewModel之间如何共享数据 - 木宛城主 - 博客园
+https://www.cnblogs.com/OceanEyes/p/17429291.html | 代码坏味道（一） - 木宛城主 - 博客园
+https://docs.unity3d.com/Packages/com.unity.editorcoroutines@0.0/manual/index.html | About Editor Coroutines | Package Manager UI website
+https://flowgame.feishu.cn/docx/EiMyd9VlHoCnOnx86aIcnhA3nVd | ET学习 - 飞书云文档
+https://github.com/MirrorNetworking/Mirror | GitHub - MirrorNetworking/Mirror: #1 Open Source Unity Networking Library
+https://gameprogrammingpatterns.com/ | Game Programming Patterns
+https://chatgpt.com/gpts | Explore GPTs
+https://gafferongames.com/post/fixing_the_internet_for_games/ | Fixing the Internet for Games | Gaffer On Games
+https://news.ycombinator.com/ | Hacker News
+https://www.aihub.cn/tools/llm/ | 100+国内外AI大模型合集及详细介绍 - AIHub | AI导航
+https://www.aihub.cn/tools/chatbot/gpt-4o/ | GPT-4o：OpenAI最新发布的多模态AI大模型，可实时推理音频、视觉和文本 - AIHub | AI导航
+https://syzs.qq.com/blog/news/20230324A0AG8000 | NS能玩14款《卡比》，各具特色，每一款都值得！
+https://blog.csdn.net/qgy1677/article/details/78871685 | unity求两点间的 单位向量 及 距离_unity计算两个向量的距离‘-CSDN博客
+https://github.com/zoloypzuo/Sandbox | GitHub - zoloypzuo/Sandbox: 《Lua游戏AI开发指南》源码魔改
+https://weread.qq.com/web/reader/980323707159a161980085c | Lua游戏AI开发指南 - David Young - 微信读书
+https://wenku.csdn.net/doc/34y8fvq4bi | 2019年游戏开发AI经典指南：第3版详解 - CSDN文库
+https://blog.csdn.net/qq_44119541/article/details/107397494 | Unity Dotween曲线介绍 Ease曲线 Ease图表 Ease效果示例_dotween ease-CSDN博客
+https://stackoverflow.com/questions/47380738/dont-pause-affect-particles-with-time-timescale | c# - Don't pause/affect particles with Time.timescale - Stack Overflow
+https://blog.csdn.net/cuijiahao/article/details/120504968 | Unity动画系统Animator动态添加事件_unity代码创建动画事件-CSDN博客
+https://zhuanlan.zhihu.com/p/362941227 | Unity的内存管理与性能优化 - 知乎
+https://zhuanlan.zhihu.com/p/35677228 | UGUI 3D界面/Z轴位移 分批失效的处理方法 - 知乎
+https://www.cnblogs.com/netdady/articles/16139983.html | 【Unity】Image(UGUI)组件和SpriteRender组件的渲染层级z轴对其影响的不同 - NetDady - 博客园
+https://unity.com/cn/blog | Unity Blog
+https://unity.com/cn/blog/engine-platform/unity-muse-ai-capabilities-in-editor-plus-new-updates | All Unity Muse capabilities are now available in the Editor, plus 3 new updates
+https://github.com/boonyifei/ScrollList/tree/master/Assets/Scripts | ScrollList/Assets/Scripts at master · boonyifei/ScrollList
+https://www.drflower.top/posts/aad79bf1/#RectMask2D | UGUI性能优化总结 | 无境
+https://www.zhihu.com/question/43606447/answer/542927104?utm_psn=1774218967915356160 | (99+ 封私信 / 80 条消息) 游戏客户端开发，如何提高自己？ - 知乎
+https://opsive.com/downloads/?pid=803 | Downloads - Opsive
+https://opsive.com/videos/?pid=803 | Videos - Opsive
+https://weread.qq.com/web/reader/c4032270727da196c40104ak1f032c402131f0e3dad99f3? | 设计模式的艺术 - 第10章 处理多维度变化——桥接模式 - 刘伟 - 微信读书
+https://learn.microsoft.com/zh-cn/dotnet/standard/clr | 公共语言运行时 (CLR) 概述 - .NET | Microsoft Learn
+https://zh.esotericsoftware.com/forum/d/11084-play-an-animation-on-editor-mode/3 | Play an animation on editor mode - Spine Forum
+https://defold.com/extension-spine/ | Spine animation in Defold
+https://github.com/EsotericSoftware/spine-runtimes/issues/1304 | [unity] Arbitrary frame animation preview in Scene · Issue #1304 · EsotericSoftware/spine-runtimes · GitHub
+https://zh.esotericsoftware.com/ | Spine官网: 专注于游戏的2D动画软件
+https://zhuanlan.zhihu.com/p/449478798 | C# in out ref关键字 - 知乎
+https://blog.unity.com/cn/games/part-2-optimize-game-performance-with-camera-usage | 如何在摄像机上优化游戏性能：第二部 | Unity Blog
+https://discussions.unity.com/t/putting-user-defined-struct-in-unity-editor/16435/3 | Putting user defined struct in Unity Editor - Questions & Answers - Unity Discussions
+https://docs.unity3d.com/ScriptReference/EditorUtility.html | Unity - Scripting API: EditorUtility
+https://docs.unity3d.com/2019.4/Documentation/ScriptReference/Serializable.html | Unity - Scripting API: Serializable
+https://github.com/liuhaopen/UGUI-Editor | liuhaopen/UGUI-Editor: Unity UGUI editor tools,improve the efficiency of ui development.
+https://github.com/liuhaopen?tab=repositories | liuhaopen (liuhaopen) / Repositories
+https://github.com/jesenzhang/unity-ui-extensions/tree/master | jesenzhang/unity-ui-extensions
+https://unity-ui-extensions.github.io/ | Unity UI Extensions README | Unity-UI-Extensions.GitHub.io
+https://blog.csdn.net/zouxin_88/article/details/115325355 | C#.net通过宏条件编译dll_c# dll 中 使用了宏 怎么用-CSDN博客
+https://naotu.baidu.com/file/b41f0f4392ccb13bc21692fd2052c579 | 翻译《什么是设计模式？》 - 百度脑图
+https://time.geekbang.org/column/article/177444 | 19 | 理论五：控制反转、依赖反转、依赖注入，这三者有何区别和联系？-设计模式之美-极客时间
+https://stackoverflow.com/questions/36554891/unity-crash-on-os-x-unitygfxdeviceworker-thread-crashed | macos - Unity crash on OS X: UnityGfxDeviceWorker thread crashed - Stack Overflow
+https://discussions.unity.com/t/gfx-device-intialization-failed-and-crash-on-ios-since-unity-5-5-0f03/178528 | gfx device intialization failed and crash on iOS since Unity 5.5.0f03 - Questions & Answers - Unity Discussions
+https://blog.csdn.net/fdyshlk/article/details/77603287 | c# Conditional用法详解-CSDN博客
+https://blog.csdn.net/fdyshlk?type=blog | BlueBones_fan-CSDN博客
+https://blog.csdn.net/fdyshlk/article/details/72667814?spm=1001.2014.3001.5502 | Unity协程（一）：彻底了解yield return null 和 yield return new WaitForSeconds-CSDN博客
+https://blog.csdn.net/fdyshlk/article/details/80963187?spm=1001.2014.3001.5502 | 轻度干眼症-CSDN博客
+https://justgetflux.com/news/pages/v4/welcome/ | Welcome to f.lux
+https://forum.unity.com/threads/general-problem-with-scripts-the-associated-script-cannot-be-loaded.185994/ | General problem with scripts: The associated script cannot be loaded - Unity Forum
+https://gwb.tencent.com/community/detail/118285 | 使 Spine忽略 TimeScale 的影响-腾讯游戏学堂
+https://blog.csdn.net/lq1340817945/article/details/123528604 | Unity TimeLine和Spine动画不受timeScale时间影响的解决办法_unity timeline暂停的时候spine也暂停-CSDN博客
+https://zh-hans.esotericsoftware.com/forum/d/23919-skeletongraphic-and-skeletonanimation-appear-differently | Spine Forum
+https://blog.csdn.net/qq_25969985/article/details/120088236 | unity通过代码快速展开Hierarchy中物体层级_unity 代码展开hierarchy-CSDN博客
+https://blog.csdn.net/qq_35385242/article/details/126588018 | Inspector界面组件一键展开和收起_unity 组 全部展开-CSDN博客
+https://dragonop-qa-base-china.gateway.xgjoy.org/#/activity/51/audit | 审核列表 - 运营平台
+https://blog.csdn.net/u011484013/article/details/85267298 | UGUI Image快速创建帧动画_ugimgf-CSDN博客
+https://blog.csdn.net/qq826364410/article/details/88320136 | Unity--AnimationCurve动画曲线-CSDN博客
+https://zh.esotericsoftware.com/forum/d/14292-optimize-animations | Optimize Animations - Spine Forum
+https://zh.esotericsoftware.com/forum/d/13648-how-to-get-bounds-of-spine-animation-object/2 | How to get Bounds of Spine Animation object - Spine Forum
+https://zh.esotericsoftware.com/forum/d/11797-getting-the-size-of-a-spineanimation-gameobject | Getting the size of a SpineAnimation GameObject - Spine Forum
+https://zh.esotericsoftware.com/forum/d/14896-a-way-to-know-spine-bounds | A way to know spine bounds - Spine Forum
+https://blog.csdn.net/flj135792468/article/details/120654391 | ❤️UNITY实战进阶-三维AABB包围盒详解-6-CSDN博客
+https://zh.esotericsoftware.com/forum/u/RalphYDY | RalphYDY - Spine Forum
+https://gwb.tencent.com/community/detail/102092 | Unity如何实现Component属性“复制粘贴”功能-腾讯游戏学堂
+https://linuxtools-rst.readthedocs.io/zh-cn/latest/tool/scp.html | 18. scp 跨机远程拷贝 — Linux Tools Quick Tutorial
+https://www.cnblogs.com/johnnyzen/p/13256602.html | [Linux]scp/sshpass:物理主机与虚拟机的文件传输 - 千千寰宇 - 博客园
+https://experienceleague.adobe.com/zh-hans/docs/experience-cloud-kcs/kbarticles/ka-14765 | 在Windows上使用OpenSSH安装SFTP/SSH服务器 | Adobe Campaign
+https://blog.csdn.net/microsoftMSDNNET/article/details/49334453 | DOTween-Ease缓动函数_dotween animationcurve.easeinout-CSDN博客
+https://club.gamersky.com/activity/611754?club=2 | 随谈弹反机制：行走在刀尖上的的舞蹈_游戏大杂烩|游民星空
+https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/statements/lock | lock 语句 - 同步对共享资源的访问 - C# reference | Microsoft Learn
+https://www.cnblogs.com/ivan-xu/p/4661039.html | (转)组合优于继承---设计模式之策略模式 - 应辉 - 博客园
+https://blog.csdn.net/qq_39108767/article/details/109027304 | 【Unity】监听Animator的动画播放结束/判断动画切换_unity animator 判断动画结束-CSDN博客
+https://github.com/skywind3000/kcp | skywind3000/kcp: :zap: KCP - A Fast and Reliable ARQ Protocol
+https://zhuanlan.zhihu.com/p/374548946 | 精心整理了50个Excel技巧，需要的可以收藏起来 - 知乎
+https://www.runoob.com/regexp/regexp-syntax.html | 正则表达式 – 语法 | 菜鸟教程
+https://blog.csdn.net/VIP099/article/details/123242861 | 正则表达式系列：匹配正数、负数和小数 (正负整数)_正则匹配负整数-CSDN博客
+https://www.zhihu.com/question/295447824/answer/495337064 | Visual Studio Code 如何选中复制被正则匹配到的结果？ - 知乎
+https://jingyan.baidu.com/article/3a2f7c2e26531a67aed6113a.html | VsCode在选定的每行末尾插入光标添加内容-百度经验
+https://www.fmod.com/docs/2.00/unity/user-guide.html | FMOD - User Guide
+https://blog.uwa4d.com/archives/TechSharing_202.html | FMOD热更新在安卓下的堆内存占用 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://www.cnblogs.com/yuyu666/p/9733583.html | 流的概念及基本分类 - 尐鱼儿 - 博客园
+https://fmod.com/docs/2.00/unity/api-runtimemanager.html#createinstance | FMOD - Scripting API Reference | RuntimeManager (createinstance)
+https://fmod.com/docs/2.00/unity/api.html | FMOD - Scripting API Reference
+https://blog.csdn.net/linjf520/article/details/112861542 | unity - UGUI 上使用 Particle System 带Mask功能，解决方案：绕过 Canvas.RenderSubBatch 之后 stencil buffer 被重置的问题-CSDN博客
+https://blog.csdn.net/linjf520/article/details/118574058 | Unity - 搬砖日志 - RenderDoc 分析为何 UGUI ScrollView 下 Stencil 不能与 其他 3D 层的对象有交互？(Mask 组件的问题)_renderdoc 点击stencil-CSDN博客
+https://blog.csdn.net/wetest_tencent/article/details/107006329 | Perfdog玩转内存泄漏_normalized性能狗-CSDN博客
+https://blog.csdn.net/qq_14838361/article/details/78458434 | Unity中的数值问题_mathf.epsilon-CSDN博客
+https://qa.fmod.com/t/err-event-notfound-the-requested-event-bus-or-vca-could-not-be-found/15391/6 | ERR_EVENT_NOTFOUND The requested event, bus or vca could not be found - Unity - FMOD Forums
+https://www.fmod.com/download#fmodstudio | fmod.com/download#fmodstudio
+https://assetstore.unity.com/packages/tools/audio/fmod-for-unity-161631 | FMOD for Unity | 音效 | Unity Asset Store
+https://qa.fmod.com/t/can-unity-check-if-certain-fmod-event-is-playing/15342/7 | Can unity Check if certain fmod event is playing? - Unity - FMOD Forums
+https://www.fmod.com/docs/2.00/unity/api-studioeventemitter.html#studioeventemitter_isplaying | FMOD - Scripting API Reference | StudioEventEmitter (studioeventemitter isplaying)
+https://cloud.tencent.com/developer/article/1670989 | C#字符串截取-腾讯云开发者社区-腾讯云
+https://blog.csdn.net/dreamsnow127/article/details/44047287 | uGUi和Spine同时使用时，关于深度排序问题_spine的排序-CSDN博客
+https://blog.uwa4d.com/archives/UWA_Pipeline20.html | 纹理优化：让你的纹理也“瘦”下来 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://blog.uwa4d.com/archives/UWA_Pipeline12.html | 那些年给性能埋过的坑，你跳了吗？ - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://blog.uwa4d.com/archives/UWA_Pipeline13.html | 那些年给性能埋过的坑，你跳了吗？（第二弹） - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://blog.uwa4d.com/archives/UWA_Pipeline14.html | 【性能黑榜】掌握了这些规则，你已经战胜了80%的对手！ - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://www.jianshu.com/p/08f1c0a21b82 | Unity UGUI层级 - 简书
+https://dotween.demigiant.com/documentation.php | DOTween - Documentation
+https://docs.unity3d.com/Packages/com.unity.editorcoroutines@0.0/api/Unity.EditorCoroutines.Editor.EditorCoroutineUtility.html | Class EditorCoroutineUtility | Package Manager UI website
+https://docs.unity3d.com/2019.4/Documentation/ScriptReference/Camera.html | Unity - Scripting API: Camera
+https://github.com/ShirenY/Unity-Scene-Camera-Tool/blob/master/SceneCameraTool.cs | Unity-Scene-Camera-Tool/SceneCameraTool.cs at master · ShirenY/Unity-Scene-Camera-Tool · GitHub
+https://blog.csdn.net/weixin_40583225/article/details/123908122 | Unity-UI控件在不同设备等比例缩放显示_unity分辨率等比例缩放-CSDN博客
+https://blog.csdn.net/u013774978/article/details/130278485 | Unity DrawCall优化 - UGUI优化_unity drawcall怎么看-CSDN博客
+https://docs.unity3d.com/ScriptReference/ExecuteInEditMode.html | Unity - Scripting API: ExecuteInEditMode
+https://docs.unity3d.com/ScriptReference/ExecuteAlways.html | Unity - Scripting API: ExecuteAlways
+https://docs.unity3d.com/ScriptReference/SceneView.CameraSettings.html | Unity - Scripting API: CameraSettings
+https://stackoverflow.com/questions/69006681/about-the-maximum-size-of-enum-flag | c# - About the maximum size of Enum Flag - Stack Overflow
+https://docs.unity3d.com/cn/2019.4/Manual/UnderstandingAutomaticMemoryManagement.html | 了解自动内存管理 - Unity 手册
+https://blog.csdn.net/Nbin_Newby/article/details/131537227 | Unity内存分析与优化实践_如何查看unity 当期内存使用总数-CSDN博客
+https://github.com/Mitul-Joby/Monopoly/blob/main/src/player.h | Monopoly/src/player.h at main · Mitul-Joby/Monopoly · GitHub
+https://www.zhaoshijun.com/archives/2043 | Unity3D：关于Texture2D和byte字节互转的坑 | 大腿Plus
+https://www.jianshu.com/p/39b468d9c20b | Unity 通过代码快速将Texture（图片）设置成Sprite - 简书
+https://blog.csdn.net/lsjsoft/article/details/95257070 | Unity的坑:Texture2D.alphaIsTransparency_alpha is transparency-CSDN博客
+https://blog.csdn.net/WPAPA/article/details/123547020 | 关于 Alpha is Transparency 到底需不需要勾的最终结论-CSDN博客
+https://docs.unity3d.com/cn/2019.4/Manual/TextureTypes.html | 纹理类型 - Unity 手册
+https://docs.cocos.com/creator/3.8/manual/zh/asset/texture.html | 纹理贴图资源（Texture） | Cocos Creator
+https://github.com/shellingfordly/unity/blob/main/unity_md/Unity%E6%A0%B8%E5%BF%83.md | unity/unity_md/Unity核心.md at main · shellingfordly/unity · GitHub
+https://docs.unity3d.com/cn/2019.4/Manual/TextureTypes.html#Default | 纹理类型 - Unity 手册
+https://blog.csdn.net/avi9111/article/details/124024495 | visualstudio编译dll库文件后同时生成事件以及如何复制到多个目录_vs 生成的dll同时放到两个路径下-CSDN博客
+https://blog.csdn.net/qq_30460949/article/details/120842970 | VS预生成事件/生成后事件_vs2015预先生成事件-CSDN博客
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.6-windows-x64-installer | Download .NET 8.0 Desktop Runtime (v8.0.6) - Windows x64 Installer
+https://flowgame.feishu.cn/wiki/AM13wJ4nHiIW5HkDPAtcwePMnJh | ‌⁡﻿⁤﻿⁤⁤​​⁣‍‌‍​‍‍​​﻿⁡⁣​⁢⁢​⁤⁡‬﻿⁢​⁣​‌⁡﻿⁣‍⁢⁢﻿⁤⁢​⁤‬‌⁡⁤﻿系统工具集合 - 飞书云文档
+https://forum.unity.com/threads/egl-unable-to-create-context.334924/ | [EGL] Unable to create context - Unity Forum
+https://design-patterns.readthedocs.io/zh-cn/latest/read_uml.html | 看懂UML类图和时序图 — Graphic Design Patterns
+https://flowgame.feishu.cn/wiki/ZpJDwasaOidjeZkuZZVcnr2Mn1c | 大富翁活动方案.xlsx - 飞书云文档
+https://blog.csdn.net/Voioer/article/details/106858477 | 【Unity】 结合DoTween制作抛物线效果_dotween 抛物线-CSDN博客
+https://blog.csdn.net/weixin_45836718/article/details/120058081 | Unity DoTween 抛物线运动-CSDN博客
+https://docs.unity3d.com/ScriptReference/Quaternion.Euler.html | Unity - Scripting API: Quaternion.Euler
+https://discussions.unity.com/t/how-can-i-custom-inspector-a-enum-like-as-component-light/151203 | How can I custom inspector a enum like as component Light - Questions & Answers - Unity Discussions
+https://stackoverflow.com/questions/60864308/how-to-make-an-enum-like-unity-inspector-drop-down-menu-from-a-string-array-with | How to make an enum-like Unity inspector drop-down menu from a string array with C#? - Stack Overflow
+https://github.com/SolidAlloy/UnityDropdown | SolidAlloy/UnityDropdown: A better dropdown window for Unity Editor
+https://blog.csdn.net/cooledi/article/details/54645174 | c# 获得方法的调用者的调用者的类名，方法名_c# 获取方法的调用者-CSDN博客
+https://blog.csdn.net/qq_49093974/article/details/120989896 | Uml工具StarUML破解_umlstar-CSDN博客
+https://www.zhihu.com/question/465493452/answer/1995776802 | (99+ 封私信 / 80 条消息) 请问Unity不同的渲染管线的区别是什么？ - 知乎
+https://mod.3dmgame.com/mod/63500 | 游戏Mod工具 DnSpy DLL反编译工具 一个可以编辑dll文件的软件 官方中文版 Mod V6.4.1 下载- 3DM Mod站
+https://github.com/akof1314/Unity-EditorInternalsVisibleDemo/tree/main | akof1314/Unity-EditorInternalsVisibleDemo: Unity Editor Internals Visible
+https://blog.uwa4d.com/archives/USparkle_RedPoint.html | 用树实现客户端红点系统 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://www.cnblogs.com/persistentsnail/p/3294842.html | 游戏中的AOI（Area of Interest）算法 - persistentsnail - 博客园
+https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=21.%20multithreaded_rendering/21.%20multithreaded_rendering.md | 21. 多线程渲染 | 游戏引擎 浅入浅出 | 游戏人生
+https://www.cnblogs.com/hwx0000/p/16947459.html | Unity的Reorderable List用法 - 弹吉他的小刘鸭 - 博客园
+https://www.imxqy.com/gdev/unity/ueditor-clst.html | 在EditorWindow上显示自定义类型列表 - 雪千渔Blog
+https://blog.csdn.net/qq_35361471/article/details/84715930 | Unity 编辑器扩展总结 七：数组或list集合的显示方式_editorguilayout展示list-CSDN博客
+https://blog.csdn.net/dirk_cong/article/details/104981346 | base64 图片 前缀处理_图片转base64 缺少前缀-CSDN博客
+https://tool.oschina.net/regex | 在线正则表达式测试
+https://stackoverflow.com/questions/16100/convert-a-string-to-an-enum-in-c-sharp | Convert a string to an enum in C# - Stack Overflow
+https://blog.csdn.net/WuLex/article/details/81667617 | C#反射设置属性值和获取属性值_c# 反射设置属性值-CSDN博客
+https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/value-tuples | 元组类型 - C# reference | Microsoft Learn
+https://docs.unity3d.com/ScriptReference/GUIStyle-fontSize.html | Unity - Scripting API: GUIStyle.fontSize
+https://forum.unity.com/threads/advice-on-mesh-can-not-have-more-than-65000-vertices-error.1174868/ | Resolved - Advice on "Mesh can not have more than 65000 vertices" error - Unity Forum
+https://juejin.cn/post/6971327652468621326 | 干货：ANR日志分析全面解析 - 掘金
+https://www.cnblogs.com/xiaopin/archive/2011/01/08/1930540.html | C# HashSet 用法 - PPDev - 博客园
+https://crashsight.wetest.net/crash-reporting/blocks/d39a073ad1?pid=1&status=0%2C2 | ANR列表-龙骑士欧美安卓
+https://crashsight.wetest.net/crash-reporting/blocks/d39a073ad1/3CABFBEC2EA85A12085D2F4C3BA00E55?pid=1 | 问题详情-龙骑士欧美安卓
+https://forum.unity.com/threads/anr-in-crashlytics-console-android-os-messagequeue-nativepollonce.1301154/ | Question - ANR in crashlytics console: android.os.MessageQueue.nativePollOnce - Unity Forum
+https://forum.unity.com/threads/what-is-input-dispatching-timed-out-and-how-to-solve-it.833515/#post-8333103 | What is "Input dispatching timed out" and how to solve it ? - Unity Forum
+https://github.com/AppLovin/AppLovin-MAX-Unity-Plugin/issues/346 | ANR · Issue #346 · AppLovin/AppLovin-MAX-Unity-Plugin · GitHub
+https://cloud.tencent.com/developer/ask/sof/107529485 | AppLovinSdk：[DataCollector]无法收集谷歌广告ID-腾讯云开发者社区-腾讯云
+https://github.com/henleylee/Proguard | GitHub - henleylee/Proguard: Android 代码混淆规则
+https://github.com/firebase/firebase-android-sdk/issues/3300 | ANR executing service com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService · Issue #3300 · firebase/firebase-android-sdk · GitHub
+https://github.com/firebase/firebase-android-sdk/issues/2387 | FirebaseAuthFallbackService memory leak · Issue #2387 · firebase/firebase-android-sdk · GitHub
+https://github.com/firebase/flutterfire/issues/11550 | 🐛 [Firebase Crashlytics] ANR not getting reported · Issue #11550 · firebase/flutterfire · GitHub
+https://developer.android.com/topic/performance/vitals/anr?hl=zh-cn | ANR  |  App quality  |  Android Developers
+https://forum.unity.com/threads/saving-scriptable-object-that-was-changed-in-edit-mode-by-script.927254/ | Saving scriptable object that was changed in edit mode by script - Unity Forum
+https://docs.unity3d.com/ScriptReference/Undo.RecordObject.html | Unity - Scripting API: Undo.RecordObject
+https://docs.unity3d.com/ScriptReference/EditorApplication.html | Unity - Scripting API: EditorApplication
+https://www.zhihu.com/tardis/zm/art/112442341?source_id=1003 | 在网络中狂奔：KCP协议
+https://github.com/taoqiongxing/Dice-Rolls | GitHub - taoqiongxing/Dice-Rolls: 掷n个不同面数的骰子，以最大点数为最终点数，求每个可能的最终点数的概率（刷爆难题-8）
+https://blog.uwa4d.com/archives/allinone.html | Unity性能优化大合集，All In One !（更新至8.18） - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://github.com/evskii/UnityFishingMinigame | GitHub - evskii/UnityFishingMinigame: Package and Sample Project of a Stardew Valley fishing minigame I wrote for Unity.
+https://github.com/topics/level-editor | level-editor · GitHub Topics · GitHub
+http://www.luzexi.com/2019/08/05/Unity3D%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E4%B9%8B%E8%BF%9B%E9%98%B6%E4%B8%BB%E7%A8%8B-%E5%9C%B0%E5%9B%BE%E4%B8%8E%E5%AF%BB%E8%B7%AF3 | 《Unity3D高级编程之进阶主程》第十章，地图与寻路(三) 地图编辑器 - 技术人生 - 编程技术 - JESSE人生
+https://www.cnblogs.com/wayneWy/p/13087940.html | [Unity]自定义地图编辑器(Scene视图下,EditorWindow的简单应用) - wayneWy - 博客园
+https://www.xuanyusong.com/archives/category/unity/unity3deditor | 【Unity3D拓展编辑器】 | 雨松MOMO程序研究院
+https://freegeektime.com/posts/ | Posts - 极客时间已完结课程限时免费阅读
+https://github.com/NotWoods/unity-polygon-2d-editor | GitHub - NotWoods/unity-polygon-2d-editor: Uses the collider of a PolygonCollider2D to generate a mesh for a Unity GameObject.
+https://github.com/Bullrich/Unity-5-2D-Tile-Map-Editor/tree/master | GitHub - Bullrich/Unity-5-2D-Tile-Map-Editor: 2D Tile Map Editor for Unity
+https://github.com/Unity-Technologies/2d-extras | GitHub - Unity-Technologies/2d-extras: Fun 2D Stuff that we'd like to share!
+https://forum.unity.com/threads/spriteatlasmanager-atlasrequested-wasnt-listened-to-while-fx-requested.511598/ | SpriteAtlasManager.atlasRequested wasn't listened to while FX requested. - Unity Forum
+https://www.cnblogs.com/zhaoqingqing/p/3801342.html | [cb]SceneView 获取鼠标位置 - 赵青青 - 博客园
+https://blog.csdn.net/LIQIANGEASTSUN/article/details/124413387 | Unity 世界坐标、屏幕坐标、UGUI 坐标 相互转换_unity 屏幕坐标转ui坐标-CSDN博客
+https://docs.unity3d.com/ScriptReference/SceneView-size.html | Unity - Scripting API: SceneView.size
+https://forum.unity.com/threads/mouse-position-in-scene-view.250399/ | Mouse position in Scene view - Unity Forum
+https://forum.unity.com/threads/world-mouse-position-in-editorwindow.460917/ | World mouse position in EditorWindow - Unity Forum
+https://docs.unity3d.com/2019.4/Documentation/Manual/pack-safe.html | Unity - Manual: Verified packages
+https://github.com/focus-creative-games/huatuo | focus-creative-games/huatuo: HybridCLR 是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix
+https://code-philosophy.com/ | 代码哲学官网 – 代码哲学官网
+https://space.bilibili.com/237873456?spm_id_from=333.337.0.0 | dayelongshe的个人空间-dayelongshe个人主页-哔哩哔哩视频
+https://blog.csdn.net/bdmh/article/details/22398077 | C#中动态执行代码_c＃动态执行方法名-CSDN博客
+https://support.unity.com/hc/zh-cn/articles/205637689-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E5%BE%97%E5%88%B0%E4%B8%80%E4%B8%AA-%E6%89%80%E6%9C%89%E7%9A%84%E7%BC%96%E8%AF%91%E5%99%A8%E9%94%99%E8%AF%AF%E5%BF%85%E9%A1%BB%E8%A7%A3%E5%86%B3-%E6%82%A8%E6%89%8D%E5%8F%AF%E4%BB%A5%E8%BF%9B%E5%85%A5%E8%BF%90%E8%A1%8C%E6%A8%A1%E5%BC%8F-%E7%9A%84%E6%8A%A5%E9%94%99 | 为什么我得到一个“所有的编译器错误必须解决，您才可以进入运行模式！ ”的报错？ – Unity
+https://github.com/Unity-Technologies/com.unity.webrtc/issues/201 | [BUG] "All compiler errors have to be fixed before you can enter playmode!" on OSX · Issue #201 · Unity-Technologies/com.unity.webrtc
+https://www.i3dtt.com/104248.html | Unity怎么改界面字体大小 - 3D天堂网(i3dtt.com)
+https://www.zhihu.com/question/64264346 | 目前国内除了贴吧还有哪些值得去的游戏论坛、社区？ - 知乎
+https://cowlevel.net/ | 欢迎来到 奶牛关 CowLevel - 玩游戏就要有追求
+https://blog.csdn.net/qq_15572445/article/details/108082813 | C# 反射替换原本的方法_c# 反射替换方法-CSDN博客
+https://github.com/yasirkula/UnityRuntimePreviewGenerator | yasirkula/UnityRuntimePreviewGenerator: Generate preview textures (thumbnails) for your GameObject's or materials on the fly in Unity
+https://www.jianshu.com/p/e8d54facf4af | Unity Prefab 缩略图全黑无法预览 - 简书
+https://developer.unity.cn/ask/question/62386ec2edbc2a00183f8d83 | 如何将一个Prefab预制体导出为PNG图片？ - 技术问答 - Unity官方开发者社区
+https://juejin.cn/post/7087748966397247524 | 【UnityEditor】通过PrefabStage监听打开/关闭Prefab编辑场景事件，通过PrefabStageUtility获取当前正在编辑的Prefab - 掘金
+https://www.cnblogs.com/luxishi/p/7641733.html | 获取unity prefab的预览图像 - 露夕逝 - 博客园
+https://blog.51cto.com/u_15077548/3544863 | 为Unity的新版ugui的Prefab生成预览图_51CTO博客_unity ugui
+https://docs.unity3d.com/Packages/com.unity.quicksearch@2.1/manual/search-syntax.html | The Great QuickSearch Syntax Cheat Sheet | Quick Search | 2.1.0-preview.5
+https://blog.csdn.net/qq_42672770/article/details/107285591 | GameObject.Find()、Transform.Find查找游戏对象的方法总结-CSDN博客
+https://docs.unity.cn/2021.1/Documentation/Manual/search-filters.html | Unity - Manual: Filtering searches
+https://gist.github.com/nukadelic/47474c7e5d4ee5909462e3b900f4cb82#file-editorfontsize-cs | Unity Editor Font Size Changer -- EditorStyles
+https://gist.github.com/nukadelic | nukadelic’s gists
+https://docs.unity3d.com/2019.4/Documentation/ScriptReference/Selection.html | Unity - Scripting API: Selection
+https://forum.unity.com/threads/getmanagerfromcontext-pointer-to-object-of-manager-monomanager-is-null.1056650/ | GetManagerFromContext: pointer to object of manager 'MonoManager' is NULL - Unity Forum
+https://forum.unity.com/threads/deallocating-excessively-large-block-too-large-an-allocation-ios.1384209/ | Bug - Deallocating excessively large block. Too large an allocation? iOS - Unity Forum
+https://issuetracker.unity3d.com/issues/ios-player-crashes-on-ios-16-devices-when-unityframework-dot-framework-is-added-in-link-binary-with-libraries | Unity Issue Tracker - [iOS] Player crashes on iOS 16 devices when “UnityFramework.framework” is added in “Link Binary With Libraries”
+https://crashsight.wetest.net/crash-reporting/crashes/b07048974f?pid=2&status=0%2C2 | 崩溃列表-龙骑士台韩ios
+https://github.com/RenderHeads/UnityPlugin-AVProVideo/issues | Issues · RenderHeads/UnityPlugin-AVProVideo
+https://hybridclr.doc.code-philosophy.com/docs/other/changelog | 改动日志 | HybridCLR
+https://github.com/focus-creative-games/hybridclr_unity/blob/main/RELEASELOG.md | hybridclr_unity/RELEASELOG.md at main · focus-creative-games/hybridclr_unity
+https://hybridclr.doc.code-philosophy.com/docs/beginner/quickstart | 快速上手 | HybridCLR
+https://blog.csdn.net/weixin_39766005/article/details/135161327 | Unity | HybridCLR 热更新（Windows端）_unity hybrid-CSDN博客
+https://gitee.com/focus-creative-games/hybridclr | hybridclr: HybridCLR是零成本、高性能的unity c#的热更新方案。 Zero-cost, high-performance unity c# hot update solution
+https://gitee.com/explore/game-dev | 游戏开发 - 游戏开发 - 开源软件 - Gitee.com
+https://blog.csdn.net/roler_/article/details/36420429 | Visual studio如何使用“调用堆栈窗口”查看调试信息_vscode 怎么打开调用栈信息-CSDN博客
+https://docs.unity3d.com/ScriptReference/Animator.Play.html | Unity - Scripting API: Animator.Play
+https://blog.csdn.net/hyy_sui_yuan/article/details/80157217 | unity实现机器拆解与组装的动画（animation与animator）二_unity制作装配动画-CSDN博客
+https://blog.csdn.net/lengyoumo/article/details/110957550 | Unity Animation Event 动画事件使用教程 及事件无法触发不触发的解决办法_animationevent-CSDN博客
+https://www.cnblogs.com/zhw511006/archive/2010/07/09/1774591.html | StringComparison枚举 - 周宏伟 - 博客园
+https://www.cnblogs.com/mq0036/p/7302605.html | 基于C#的UDP协议的同步实现 - jack_Meng - 博客园
+https://developer.android.com/build/manage-manifests?hl=zh-cn | 管理清单文件  |  Android Studio  |  Android Developers
+https://docs.python.org/3/installing/index.html | Installing Python Modules — Python 3.12.3 documentation
+https://blog.csdn.net/weixin_43319713/article/details/107110480 | C#基础②——数据类型（decimal和float、double的区别）_c# decimal-CSDN博客
+https://www.cnblogs.com/QuincyYi/p/12663284.html | c#中decimal ,double,float的区别（转载和总结） - QuincyYi - 博客园
+https://www.jianshu.com/p/02fcf0bec4c9 | Unity - 记录打包成android，处理应用名多语言 - 简书
+https://www.cnblogs.com/fanfan-90/p/14145694.html | c#：时区、DateTime和DateTimeOffset - .Neterr - 博客园
+https://blog.csdn.net/ba_wang_mao/article/details/118155763 | C#日期、时间验证的正则表达式_c# 正则表达式 日期时间验证-CSDN博客
+https://stackoverflow.com/questions/62151/datetime-now-vs-datetime-utcnow | .net - DateTime.Now vs. DateTime.UtcNow - Stack Overflow
+https://www.c-sharpcorner.com/UploadFile/c63ec5/use-params-keyword-in-C-Sharp/ | Params Keyword in C#
+https://www.cnblogs.com/EffectL/p/6675939.html | Unity 获取按键 - EffectL - 博客园
+https://blog.csdn.net/DoyoFish/article/details/81167556 | 如何监听InputField的选中与离开_unity inputfield onselect-CSDN博客
+https://docs.unity3d.com/ScriptReference/EditorWindow.html | Unity - Scripting API: EditorWindow
+https://github.com/Unity-Technologies/UnityCsReference/tree/master | Unity-Technologies/UnityCsReference: Unity C# reference source code.
+https://docs.unity3d.com/cn/2019.4/Manual/TreeViewAPI.html | TreeView - Unity 手册
+https://docs.unity3d.com/cn/2019.4/Manual/ExtendingTheEditor.html | 扩展编辑器 - Unity 手册
+https://blog.unity.com/engine-platform/imgui-and-editor-customization | Going deep with IMGUI and Editor customization | Unity Blog
+https://www.cnblogs.com/sun-shadow/p/15111419.html | Unity Odin笔记 - sun_dust_shadow - 博客园
+https://www.zhihu.com/question/29097415/answer/118682475 | (99+ 封私信 / 80 条消息) Unity有哪些让做项目事半功倍的插件值得推荐？ - 知乎
+https://tonytang1990.github.io/2019/05/15/Odin%E6%8F%92%E4%BB%B6/ | Odin插件 | 走停人生路
+https://docs.unity3d.com/2019.4/Documentation/Manual/script-Serialization.html | Unity - Manual: Script Serialization
+https://blog.uwa4d.com/archives/2025.html | Unity插件开发基础—浅谈序列化系统 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://zhuanlan.zhihu.com/p/364501563 | Unity编辑器扩展：使用xNode制作自己的可视化工具（2） - 知乎
+https://github.com/Siccity/xNode/wiki/Getting%20Started | Getting Started · Siccity/xNode Wiki
+https://github.com/Siccity/xNodeGroups | Siccity/xNodeGroups: A small addon for xNode that lets you add groups to your graphs
+https://www.zhihu.com/people/levelpp_edu/posts | (99+ 封私信 / 80 条消息) 皮皮关 - 知乎
+https://learn.microsoft.com/en-us/dotnet/api/system.weakreference?view=net-8.0 | WeakReference Class (System) | Microsoft Learn
+https://www.cnblogs.com/echizen/p/11120799.html | 【技巧篇】C# 打开Excel、定位到某个Sheet、定位到某个单元格 - 藤原豆腐店の張さん - 博客园
+https://zhuanlan.zhihu.com/p/133375078 | 一篇文章让你彻底弄懂SSL/TLS协议 - 知乎
+https://stackoverflow.com/questions/4015324/send-http-post-request-in-net | c# - Send HTTP POST request in .NET - Stack Overflow
+https://docs.unity3d.com/ScriptReference/Networking.CertificateHandler.ValidateCertificate.html | Unity - Scripting API: Networking.CertificateHandler.ValidateCertificate
+https://developers.weixin.qq.com/minigame/dev/guide/open-ability/lock-step.html | 开放能力 / 游戏服务 / 帧同步
+https://github.com/wechat-miniprogram/minigame-lockstep-demo | wechat-miniprogram/minigame-lockstep-demo
+https://discussions.unity.com/t/fatal-error-size-overflow-in-allocator-please-help/200015 | Fatal Error! Size Overflow in allocator Please Help! - Questions & Answers - Unity Discussions
+https://blog.csdn.net/qq_35206244/article/details/106635333 | c#当前程序已使用了Windows管理器对象的系统允许的所有句柄_system.reflection.targetinvocationexception: excep-CSDN博客
+https://forum.unity.com/threads/prefabs-randomly-losing-references-throughout-our-project-reimport-fixes-it.910610/ | Bug - Prefabs randomly losing references throughout our project - reimport fixes it - Unity Forum
+https://forum.unity.com/threads/addressing-issues-with-missing-references.890923/ | Official - Addressing issues with missing references - Unity Forum
+https://blog.csdn.net/qq_39108767/article/details/87194778 | 【Unity】修改Inspector面板序列化数组时元素的显示名称(Element)_unity inspector 数组标题-CSDN博客
+https://blog.csdn.net/qq_21397217/article/details/89212607 | 【Unity】自定义字段在Inspector中显示的名称_unity inspectorname-CSDN博客
+https://www.cnblogs.com/linyisonger/p/15322378.html | Unity 自定义属性面板字段名称 - 林一怂儿 - 博客园
+https://docs.unity3d.com/cn/2020.3/Manual/script-Serialization-Custom.html | 自定义序列化 - Unity 手册
+https://stonelzp.github.io/unity-serialization/ | Unity-Serialization理解 | StoneのBLOG
+https://www.fantsida.com/d/617 | Unity 编辑器篇 |（三）Attribute 特性 - 幻想社区
+https://zhuanlan.zhihu.com/p/34234315 | 「Unity3D」(10)自定义属性面板Inspector详解 - 知乎
+https://dullsword.github.io/2021/03/03/Unity-SerializeField%E5%92%8CSerializable/ | Unity SerializeField和Serializable - DullSword's Blog
+https://www.jianshu.com/p/68e95a2cca68 | xNode的魔改记录 - 简书
+https://github.com/Siccity/xNode/wiki/Node-Editors | Node Editors · Siccity/xNode Wiki
+https://blog.csdn.net/su9257/article/details/103159330 | Odin Inspector 系列教程 --- Dictionary Drawer Settings Attribute-CSDN博客
+https://odininspector.com/attributes/searchable-attribute | Searchable Attribute for Unity with Odin Inspector
+https://www.lfzxb.top/nodegraphprocesssor-and-odin/ | NodeGraphProcessor整合Odin | 登峰造极者，殊途亦同归。
+https://aihailan.com/archives/912 | Odin Inspector 系列教程 - Odin工具箱【一键批量更改Raycast Target选项】 - 个人技术笔记
+https://www.cnblogs.com/msxh/p/12987632.html | 【Unity游戏开发】马三的游戏性能优化自留地 - 马三小伙儿 - 博客园
+https://zhuanlan.zhihu.com/p/362259030 | 【次时代节点编辑器】NodeGraphProcessor整合Odin - 知乎
+https://cloud.tencent.com/developer/article/1335545 | 【Unity编辑器】UnityEditor多重弹出窗体与编辑器窗口层级管理-腾讯云开发者社区-腾讯云
+https://blog.csdn.net/qq_18192161/article/details/107867320 | Unity通过代码实现多个窗体排版_unity 如何创建多个window-CSDN博客
+https://stackoverflow.com/questions/57461413/unity-dock-an-editor-window-above-the-game-view | c# - Unity - Dock an editor window above the game view - Stack Overflow
+https://www.lfzxb.top/unity-editor-crash-course/ | （译）快速入门Unity编辑器拓展（IMGUI） | 登峰造极者，殊途亦同归。
+https://www.xuanyusong.com/archives/3889 | Unity3D研究院编辑器之Editor的GUI的事件拦截（二十一） | 雨松MOMO程序研究院
+https://blog.csdn.net/linxinfa/article/details/105248351 | 反编译UnityEditor.dll，查看引擎窗口的GUI代码，比如查看Profiler窗口的GUI代码-CSDN博客
+https://github.com/icsharpcode/ILSpy/releases | Releases · icsharpcode/ILSpy
+https://github.com/ChuKuang/Unity-Dev-Tools?tab=readme-ov-file | ChuKuang/Unity-Dev-Tools: 收集各种Unity开发的库
+https://zhuanlan.zhihu.com/p/591864923 | 大佬帮你做游戏之GitHub - 知乎
+https://zhuanlan.zhihu.com/p/563472021 | github 给力的unity编辑器扩展案例项目 - 知乎
+https://github.com/XINCGer/UnityToolchainsTrick?tab=readme-ov-file | XINCGer/UnityToolchainsTrick: 提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the UnityEditor toolchain)
+https://blog.csdn.net/m0_51776409/article/details/127876213 | [Unity] GraphView 可视化节点的事件行为树（序章 项目Github下载）_unity graphview 行为树-CSDN博客
+https://github.com/sugarzo/Unity_GraphView_EventBDTree | sugarzo/Unity_GraphView_EventBDTree: Config files for my GitHub profile.
+https://tonytang1990.github.io/2022/02/20/UnityEditor%E7%9F%A5%E8%AF%86/ | UnityEditor知识 | 走停人生路
+https://catlikecoding.com/unity/tutorials/editor/ | Unity C# Editor Tutorials
+https://docs.unity3d.com/2019.3/Documentation/Manual/bolt-flow.html | Unity - Manual: Flow Graphs
+https://assetstore.unity.com/zh-CN?q=graphic&orderBy=4 | graphic - Asset Store
+https://auniquepig.com/2021/06/27/Story-Editor2/ | Unity编辑器扩展：使用xNode制作自己的可视化工具（2） | ydwj的游戏开发日记
+https://docs.unity3d.com/Manual/UIElements.html | Unity - Manual: UI Toolkit
+https://github.com/Siccity/xNode/wiki | Home · Siccity/xNode Wiki
+https://www.cnblogs.com/Damon-3707/p/11319901.html | Unity键位输入及Input类（借鉴大神，作为笔记） - C#初学者—Damon - 博客园
+https://www.bytehide.com/blog/decimal-csharp | Decimal in C# : How and Where to Use It? (2024)
+https://moonapi.com/news/28257.html | C# |构造函数中的继承 开发文档
+https://docs.unity3d.com/2019.4/Documentation/Manual/BuildSettingsiOS.html | Unity - Manual: iOS build settings
+https://warl.top/posts/Unity-Manual-Attribute/ | Warl-G's Blog - Unity手册—Attribute汇总说明
+http://www.codegize.com/post/38.html | CodeGize-Unity编辑器开发，使用CustomPropertyDrawer实现枚举中文显示
+https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/how-to-initialize-a-dictionary-with-a-collection-initializer | 如何使用集合初始值设定项初始化字典 - C# 编程指南 - C# | Microsoft Learn
+https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members | 静态类和静态类成员 - C# 编程指南 - C# | Microsoft Learn
+https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/object-and-collection-initializers | 对象和集合初始值设定项 - C# 编程指南 - C# | Microsoft Learn
+https://forum.unity.com/register/genesis?state=lhcrp4A3khbEPJumlMUBqU51MELlMTecVt3yg0fl%3B%2Fthreads%2Fwhat-reasons-could-cause-script-must-derive-from-monobehaviour-when-it-already-does-code-shown.588853%2F&error=login_required | Error - Unity Forum
+https://docs.unity3d.com/ScriptReference/Application-backgroundLoadingPriority.html | Unity - Scripting API: Application.backgroundLoadingPriority
+https://learn.microsoft.com/en-us/dotnet/api/system.func-2?view=net-8.0 | Func<T,TResult> Delegate (System) | Microsoft Learn
+https://blog.csdn.net/weixin_45029839?type=blog | Ha啤酒来大杯的-CSDN博客
+https://time.geekbang.org/ | 极客时间-轻松学习，高效学习-极客邦
+https://edu.uwa4d.com/course-intro/0/430?purchased=false&entrance=3 | Unity移动端游戏性能优化简谱_UWA学堂
+https://www.banlikanban.com/kanban/6502beee4891201c53da2246 | 龙骑士_团队协作工具 - 板栗看板
+https://support.unity.com/hc/zh-cn/articles/210452343-%E5%A6%82%E4%BD%95%E4%BB%8E%E8%84%9A%E6%9C%AC%E5%81%9C%E6%AD%A2%E8%87%AA%E5%8A%A8%E7%BC%96%E8%AF%91 | 如何从脚本停止自动编译 – Unity
+https://github.com/GameArki/UnityDirtyCompiler | GameArki/UnityDirtyCompiler: 🛠 【UnityDirtyCompiler 脏脚本编译工具】修改脚本后，使用此工具进行编译，Unity只会编译脚本所在的程序集。编译速度大约能快8秒以上。
+https://blog.unity.com/cn/engine-platform/speed-up-your-programmer-workflows | 加快编程流程 | Unity Blog
+https://unity.com/cn/how-to/programming-unity | 适用于资深C#和C++程序员的Unity脚本编写教程
+https://zhuanlan.zhihu.com/p/667866773 | 使用静态织入技术（Fody）简化和优化你的Unity代码 - 知乎
+https://nuysoft.gitbooks.io/unity-manual/content/Manual/ExecutionOrder.html | 事件函数执行顺序 · Unity-Manual
+https://blog.csdn.net/leonwei/article/details/54972653 | Unity3d中渲染到RenderTexture的原理，几种方式以及一些问题_unity 将3d 角色渲染到render texture上-CSDN博客
+https://www.zhihu.com/question/534297314/answer/2817560398 | (99+ 封私信 / 80 条消息) 如何评价Unity的C#热更方案huatuo与ILRuntime的区别和优缺点？ - 知乎
+https://github.com/Siccity?tab=repositories | Siccity (Siccity) / Repositories
+https://www.pythonguis.com/tutorials/creating-your-first-pyqt-window/ | Create your first Python GUI with PyQt5 — A simple Hello world app
+https://chrome.google.com/webstore/detail/chphlpgkkbolifaimnlloiipkdnihall | 
+https://mp.weixin.qq.com/cgi-bin/loginpage?url=%2Fcgi-bin%2Fsettingpage%3Ft%3Dsetting%2Findex%26action%3Dindex%26token%3D978172073%26lang%3Dzh_CN | 微信公众平台
+https://developers.weixin.qq.com/minigame/dev/guide/game-engine/unity-webgl-transform.html | 游戏引擎 / Unity WebGL微信小游戏适配
+https://www.vishalchovatiya.com/what-is-design-pattern/ | What Is Design Pattern? – Vishal Chovatiya
+http://www.luzexi.com/ | 技术人生 - 编程技术 - JESSE人生 - 编程技术与人生
+https://mp.weixin.qq.com/s/Tq2LNqqJSeuInLeQgBHXGA | 图解游戏引擎 - Unity动画原理（1）
+http://www.luzexi.com/2013/01/26/%E4%BD%BF%E7%94%A8%E8%A1%8C%E4%B8%BA%E6%A0%91(Behavior-Tree)%E5%AE%9E%E7%8E%B0%E6%B8%B8%E6%88%8FAI | 使用行为树(Behavior Tree)实现游戏AI - 技术人生 - 编程技术 - JESSE人生
+https://www.cnblogs.com/msxh/p/12199226.html | 【年终总结】马三京沪漂流记之2019年总结 - 马三小伙儿 - 博客园
+https://github.com/XINCGer | XINCGer (马三小伙儿)
+https://github.com/new | New repository
+https://time.geekbang.org/dashboard/course | 极客时间-轻松学习，高效学习-极客邦
+https://time.geekbang.org/opencourse/intro/100069501 | Go语言编程模式实战_Go_编程模式_错误处理_Visitor_Pipeline-极客时间
+https://time.geekbang.org/column/article/8445 | 第7讲 | ICMP与ping：投石问路的侦察兵
+https://naotu.baidu.com/home | 百度脑图－便捷的思维工具
+https://www.topgoer.com/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/go%E7%9A%84%E5%AE%89%E8%A3%85.html | Go的安装 · Go语言中文文档
+https://github.com/hanxu11580?tab=repositories | hanxu11580 (hanxu11580) / Repositories
+https://www.liwenzhou.com/posts/Go/rpc/ | RPC原理与Go RPC | 李文周的博客
+https://www.cnblogs.com/wang_yb/p/18019802 | 跨界协作：借助gRPC实现Python数据分析能力的共享 - wang_yb - 博客园
+https://blog.csdn.net/liweizhao?type=blog | 阿赵3D-CSDN博客
+https://blog.codingnow.com/2018/08/lockstep.html | 云风的 BLOG: lockstep 网络游戏同步方案
+https://unity.cn/instantgame/docs/WechatMinigame/InstallUnity/ | 下载与安装 | Unity小游戏
+https://zhuanlan.zhihu.com/p/31240395 | Unity 游戏框架搭建 2017 (九) 减少加班利器-QConsole - 知乎
+https://zhuanlan.zhihu.com/p/84700094 | Unity游戏开发——TextMeshPro的使用 - 知乎
+https://www.moonsharp.org/ | MoonSharp
+https://beian.miit.gov.cn/#/Integrated/index | ICP/IP地址/域名信息备案管理系统
+https://blog.csdn.net/jsryin/article/details/123304582 | Vmware虚拟机Linux配置固定IP地址（详细版）_虚拟机固定ip-CSDN博客
+https://account.mongodb.com/account/login?signedOut=true&n=https%3A%2F%2Fcloud.mongodb.com%2Fv2%2F65dd40c38e1140634d2527fd#/overview | Cloud: MongoDB Cloud
+https://www.mongobooster.com/downloads | Downloads - NoSQLBooster for MongoDB
+https://juejin.cn/post/7163571595117035534 | unity加载场景、协程 - 掘金
+https://m-ansley.medium.com/asynchronous-operations-unity-and-threading-ba2c56c1b34a
+https://www.cnblogs.com/October2018/p/16120681.html | 三种同步方式：状态同步、帧同步、状态帧同步 - 十月的大橘 - 博客园
+https://github.com/SouthBegonia/Luban_Unity_Tutorial | SouthBegonia/Luban_Unity_Tutorial: Luban导表工具在Unity中的使用示例
+https://www.cnblogs.com/iwiniwin/p/14878498.html | 聊一聊Unity协程背后的实现原理 - iwiniwin - 博客园
+https://www.tapd.cn/62234685/prong/stories/view/1162234685001017103 | 【暂未规划】【战斗】【工具】BuffStats分表工具-飞吧龙骑士-TAPD平台
+https://blog.csdn.net/vrmogui/article/details/124106217 | UnityWebRequest的初步使用及常用方法解析-CSDN博客
+https://edu.uwa4d.com/course-intro/1/93?purchased=true&entrance=4 | Unity引擎渲染、UI、逻辑代码模块的量化分析和优化方法_UWA学堂
+https://edu.uwa4d.com/lesson-detail/432/2122/0?isPreview=false | 1｜HybridCLR——划时代的Unity原生C#热更新技术_HybridCLR(wolong) C# 热更新_UWA学堂
+https://edu.uwa4d.com/lesson-detail/158/784/0?isPreview=0 | 2 | 任务系统（Job System）和高性能C# 介绍_DOTS深度研究之原理分析篇_UWA学堂
+https://stackoverflow.com/questions/3070628/difference-between-object-and-object | c# - Difference between Object and object - Stack Overflow
+https://docs.unity3d.com/Packages/com.unity.memoryprofiler@0.7/manual/memory-breakdowns.html | Memory Breakdowns | Memory Profiler | 0.7.1-preview.1
+https://blog.uwa4d.com/ | UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://blog.uwa4d.com/archives/QA_Memory-1.html | 关于Unity内存优化，你可能遇到这些问题 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://blog.uwa4d.com/archives/ABTheory.html | 你应该知道的AssetBundle管理机制 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://blog.uwa4d.com/archives/optimzation_memory_2.html | 性能优化，进无止境---内存篇（下） - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://blog.uwa4d.com/archives/optimzation_memory_1.html | 性能优化，进无止境-内存篇（上） - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技
+https://1024114.xyz/posts/4a5d44c0/ | 《Unity性能优化》-- 5. 性能优化实战 | 不特别周のBlog
+https://www.cnblogs.com/cqpanda/p/16690994.html | C#教程 - 泛型（Generic Types） - 重庆熊猫 - 博客园
+https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/generics/differences-between-cpp-templates-and-csharp-generics | C++ 模板与 C# 泛型的区别 - C# 编程指南 - C# | Microsoft Learn
+https://developer.aliyun.com/article/1412174 | Unity 数据读取|（四）Json文件解析（Newtonsoft.Json ，Litjson，JsonUtility，SimpleJSON）-阿里云开发者社区
+https://gist.github.com/onionmk2/d2e3e4cca27a37a89796e084e05de212 | Json.Net ( Newtonsoft.Json ) in Unity
+https://www.cnblogs.com/msxh/p/12541159.html | 【Unity游戏开发】跟着马三一起魔改LitJson - 马三小伙儿 - 博客园
+https://www.cnblogs.com/moegarn/p/15655979.html | Unity JSON性能对比(LitJson、NewtonsoftJson、SimpleJSON) - 锤子猫 - 博客园
+https://segmentfault.com/a/1190000019731298 | c# - Unity JSON性能对比(LitJson、NewtonsoftJson、SimpleJSON) - 冰封百度的学习笔记 - SegmentFault 思否
+https://github.com/xasset/xasset?tab=readme-ov-file | xasset/xasset: 专业 Unity 资产系统。提供开箱即用的资产打包、分包、加密、热更和加载等技术方案。让 Unity 项目开发更轻松！
+https://tinax.corala.space/ | TinaX Framework - Delightful Unity-based Framework
+https://github.com/leinlin/Miku-LuaProfiler | leinlin/Miku-LuaProfiler
+https://github.com/Unity-Technologies/EntityComponentSystemSamples | Unity-Technologies/EntityComponentSystemSamples
+https://stackoverflow.com/questions/858904/can-i-convert-long-to-int | c# - Can I convert long to int? - Stack Overflow
+https://english.stackexchange.com/questions/523319/which-one-is-correct-the-last-or-last | grammar - Which one is correct? the last or last - English Language & Usage Stack Exchange
+https://zhuanlan.zhihu.com/p/461415252 | Unity资源层的封装之接入xasset pro - 知乎
+https://referencesource.microsoft.com/#mscorlib/system/collections/generic/list.cs,dbcc8a668882c0db | list.cs
+https://developer.aliyun.com/article/898812 | Google序列化库FlatBuffers 1.1发布，及与protobuf的比较-阿里云开发者社区
+https://zhuanlan.zhihu.com/p/580937734 | GDC总结 - 3A大厂是如何设计工具和工作流的 - 知乎
+https://zhuanlan.zhihu.com/p/574901620 | 关于修bug这件事的阶段性经验总结 - 知乎
+https://forum.unity.com/threads/introducing-the-editor-iteration-profiler.908390/ | Official - Introducing the Editor Iteration Profiler - Unity Forum
+https://github.com/Unity-Technologies/com.unity.editoriterationprofiler | Unity-Technologies/com.unity.editoriterationprofiler: Assists in capturing frames from the Profiler of Domain Reloads in the Unity Editor. Compatible with Unity 2019.3+.
+https://github.com/Githaojiejie/unity3D-tutorial | Githaojiejie/unity3D-tutorial
+https://blog.csdn.net/Le_Sam/article/details/122884370 | Unity编辑模式下找prefab内的标签_unity在代码中查找指定名称的标签-CSDN博客
+https://forum.unity.com/threads/scrollview-scroll-position.463048/ | Scrollview scroll position - Unity Forum
+https://github.com/sun6boys/Books/blob/master/%E9%87%8D%E6%9E%84-%E6%94%B9%E5%96%84%E6%97%A2%E6%9C%89%E4%BB%A3%E7%A0%81%E7%9A%84%E8%AE%BE%E8%AE%A1%5B%E5%86%8D%E7%89%88.%E5%AE%8C%E6%95%B4%E4%B9%A6%E7%AD%BE%5D.(Refactoring.Improving.the.Design.of.Existing.Code).Martin.Fowler.pdf | Books/重构-改善既有代码的设计[再版.完整书签].(Refactoring.Improving.the.Design.of.Existing.Code).Martin.Fowler.pdf at master · sun6boys/Books
+https://book-refactoring2.ifmicro.com/docs/ch3.html#34-%E8%BF%87%E9%95%BF%E5%8F%82%E6%95%B0%E5%88%97%E8%A1%A8%EF%BC%88long-parameter-list%EF%BC%89 | 第 3 章 代码的坏味道 · 重构: 改善既有代码的设计
+https://www.r2coding.com/#/README?id=%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f | Road 2 Coding
+https://www.bilibili.com/read/cv24628888/ | Unity项目多开（同时打开多个编辑器） - 哔哩哔哩
+https://withpinbox.com/search?q=c#%20this%E8%AE%BF%E9%97%AE%E5%99%A8 | Pinbox - 跨平台收藏工具
+https://blog.csdn.net/u011926026/article/details/74002399 | unity3d 为什么清晰的图片会变模糊_unity图片质量和什么相关-CSDN博客
+https://bbs.huaweicloud.com/blogs/293517 | Unity 解决包体过大问题记录和纹理相关知识点-云社区-华为云
+https://docs.unity3d.com/Manual/class-TextureImporterOverride.html | Unity - Manual: Recommended, default, and supported texture formats, by platform
+https://developer.nvidia.com/astc-texture-compression-for-game-assets | Using ASTC Texture Compression for Game Assets | NVIDIA Developer
+https://blog.51cto.com/itMonon/3749533 | 【Unity3D-UGUI系列】（二）Text文本组件详解_51CTO博客_unity ugui
+https://docs.unity3d.com/cn/2019.4/Manual/class-SpriteAtlas.html | 精灵图集 - Unity 手册
+https://blog.csdn.net/gtncwy/article/details/118735792 | Unity Sprite Atlas使用-CSDN博客
+https://github.com/needle-tools/compilation-visualizer | needle-tools/compilation-visualizer: Unity Tool showing a timeline of assembly compilation. This is especially helpful when trying to optimize compile times and dependencies between assemblies. Besides showing a graphical view of compilation, selecting an assembly shows both dependencies and dependents of that assembly.
+https://developercommunity.visualstudio.com/t/visual-studio-crashes-when-debugging-mixed-mode-an/1356008 | Visual Studio crashes when debugging mixed mode and hitting a breakpoint in native code - Developer Community
+https://cloud.tencent.com/developer/ask/sof/72679/answer/102102462 | 在C#中，ToUpper()和ToUpperInvariant()有什么不同？-腾讯云开发者社区-腾讯云
+https://forum.unity.com/threads/dynamic-font-texture-error.163237/ | Dynamic Font Texture error - Unity Forum
+https://blog.csdn.net/wangxiong_zh/article/details/114085488 | astc纹理压缩格式_长和宽都是2的整数次幂的长方形图片可以正常使用astc压缩吗-CSDN博客
+https://www.cnblogs.com/bylle/p/12212823.html | ASTC图片纹理压缩探讨 - bylle - 博客园
+https://www.cnblogs.com/bylle/p/11809624.html | 学习Unity 2019 ECS 框架（一） - bylle - 博客园
+https://flowgame.feishu.cn/wiki/GZIMwr4oMi7YdmklYShclZyknGh | 海外替换工具使用说明 - 飞书云文档
+https://blog.csdn.net/Sator1/article/details/126550160 | 关于Unity Meta文件的简单理解-CSDN博客
+https://github.com/miloyip?tab=following | miloyip (Milo Yip) / Following
+https://docs.unity3d.com/Manual/editor-EditorWindows.html | Unity - Manual: Editor Windows
+https://www.xuanyusong.com/archives/4263 | Unity3D研究院编辑器之脚本获取资源内存和硬盘大小（二十五） | 雨松MOMO程序研究院
+https://tonytang1990.github.io/2016/10/13/Unity%E8%B5%84%E6%BA%90/ | Unity资源管理 | 走停人生路
+https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-copy-directories | How to: Copy directories - .NET | Microsoft Learn
+https://stackoverflow.com/questions/7064864/copying-files-recursively | c# - Copying Files Recursively - Stack Overflow
+https://discussions.unity.com/t/how-to-highlight-or-select-an-asset-in-project-window-from-editor-script/11257 | How to highlight or select an asset in project window from editor script? - Questions & Answers - Unity Discussions
+https://www.cnblogs.com/Xiang-gu/p/16953932.html | 【Unity】按Text文本内容自适应背景大小 - 香菇0_0 - 博客园
+https://docs.unity3d.com/Packages/com.unity.ugui@2.0/manual/HOWTO-UIFitContentSize.html | Making UI elements fit the size of their content | Unity UI | 2.0.0
+https://forum.unity.com/threads/ui-image-sorting-layer.470896/ | UI Image sorting layer? - Unity Forum
+https://godoter.cn/ | GodoterCN——一个温馨友爱的Godot游戏引擎中文社区
+https://learn.microsoft.com/en-us/dotnet/api/system.string.substring?view=net-8.0 | String.Substring Method (System) | Microsoft Learn
+https://discussions.unity.com/t/how-can-i-find-all-instances-of-a-scriptable-object-in-the-project-editor/198002/2 | How can I find all instances of a Scriptable Object in the Project (Editor) - Questions & Answers - Unity Discussions
+https://qiita.com/TETTASUN/items/bbd03ad320fbc03595af | Assetを全検索する #Unity - Qiita
+https://blog.csdn.net/piai9568/article/details/96895782 | Unity3D 编辑器扩展 Editor中使用协程_unity 编辑器模式下开携程-CSDN博客
+https://flowgame.feishu.cn/wiki/IIk4wXBjWiWat9kLtphcZzGbn4u | 系统组研讨会 - 飞书云文档
+https://github.com/egametang/ET?tab=readme-ov-file | egametang/ET: Unity3D Client And C# Server Framework
+https://www.guokeyun.com/news/technology/detail/793.html?navId=22 | 一文读懂DNS解析原理和流程-国科云-技术分享
+https://blog.csdn.net/songhuanfei2017/article/details/103046439 | Unity 3D 资源导入 监听导入事件_unity 资源重新导入事件侦听-CSDN博客
+https://11wy11.github.io/2019/03/29/cplusplus-regex-note/ | 11wy11
+https://firebase.google.cn/docs/android/setup?hl=zh-cn | 将 Firebase 添加到您的 Android 项目  |  Firebase for Android
+https://www.cnblogs.com/meteoric_cry/p/7602122.html | Unity的RuntimeInitializeOnLoadMethod属性初探 - meteoric_cry - 博客园
+https://www.lfzxb.top/unity-textmeshpro-something/ | 基于Unity TextMeshPro的图文混排和超链接功能 | 登峰造极者，殊途亦同归。
+https://zhuanlan.zhihu.com/p/457041220 | [UGUI图文混排一]TextMehPro(TMP)使用手册 - 知乎
+https://blog.csdn.net/zsx157326/article/details/50985321 | 文件处理_c# filestream 覆盖-CSDN博客
+https://discussions.unity.com/t/opening-a-file-explorer-in-run-time/88124/9 | Opening a file explorer in run time? - Questions & Answers - Unity Discussions
+https://github.com/yasirkula/UnitySimpleFileBrowser | yasirkula/UnitySimpleFileBrowser: A uGUI based runtime file browser for Unity 3D (draggable and resizable)
+https://learn.microsoft.com/en-us/dotnet/standard/io/how-to-write-text-to-a-file | How to: Write text to a file - .NET | Microsoft Learn
+https://api.unity.com/v1/oauth2/authorize?client_id=unity_forum&response_type=code&redirect_uri=https%3A%2F%2Fforum.unity.com%2Fregister%2Fgenesis&state=r2b2OpkliusXKlxPNcVTEM9ZrzlLDe8fbY9BcHuQ%3B%2Fthreads%2Fapplication-openurl-on-unity-2017-2-android-7-not-working.502135%2F&prompt=NONE
+https://stackoverflow.com/questions/45012523/how-to-install-android-apk-from-code-in-unity/45012767#45012767 | c# - How to install Android apk from code in unity - Stack Overflow
+https://issuetracker.unity3d.com/issues/android-openurl-doesnt-open-local-files-on-android-6-if-target-api-level-is-23 | Unity Issue Tracker - [Android] OpenURL() doesn&#39;t open local files on &gt; Android 6 if Target API Level is &gt; 23
+https://worktile.com/kb/ask/21407.html | socket和websocket的区别 • Worktile社区
+https://www.zoucz.com/blog/2022/11/30/011a7e40-70ad-11ed-9fa0-5dbc93f9d3ee/ | unity il2cpp导出时生成符号表排查crash问题 | 邹成卓的个人网站

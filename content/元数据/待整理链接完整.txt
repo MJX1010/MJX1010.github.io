@@ -1,0 +1,131 @@
+https://www.google.com.hk/search?q=agent+cli+kanban+github&newwindow=1&sca_esv=28176cee0d949075&ei=YfG8adPFArPg4-EPyve--A8&biw=2560&bih=1271&ved=0ahUKEwiT-pvR9K2TAxUz8DgGHcq7D_8Q4dUDCBE&uact=5&oq=agent+cli+kanban+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2FnZW50IGNsaSBrYW5iYW4gZ2l0aHViSABQAFgAcAB4AJABAJgBAKABAKoBALgBA8gBAJgCAKACAJgDAJIHAKAHALIHALgHAMIHAMgHAIAIAA&sclient=gws-wiz-serp | agent cli kanban github - Google 搜索
+https://github.com/hallucinogen/agent-viewer | hallucinogen/agent-viewer: Kanban board for managing Claude Code agents in tmux
+https://github.com/HKUDS/CLI-Anything/blob/main/README_CN.md | CLI-Anything/README_CN.md at main · HKUDS/CLI-Anything
+https://www.google.com.hk/search?q=jenkins&newwindow=1&sca_esv=610e065ca637291f&source=hp&ei=evO8aaesB_OI4-EPrffWoQE&iflsig=AFdpzrgAAAAAab0Biuyeede0g6GJ2MlBqa5gy4lNtG4F&ved=0ahUKEwin0ajR9q2TAxVzxDgGHa27NRQQ4dUDCA0&uact=5&oq=jenkins&gs_lp=Egdnd3Mtd2l6IgdqZW5raW5zMgoQABiABBhDGIoFMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESMkKUABYuQRwAHgAkAEBmAHGAaABhwmqAQMwLje4AQPIAQD4AQGYAgagAt0HwgILEC4YgAQY0QMYxwHCAgUQLhiABJgDAJIHAzAuNqAHjzeyBwMwLja4B90HwgcFMS4zLjLIBxKACAA&sclient=gws-wiz | jenkins - Google 搜索
+https://hub.docker.com/r/jenkins/jenkins | jenkins/jenkins - Docker Image
+https://bytedance.larkoffice.com/minutes/obcnjkxgo1ovyg358j3qx6yc | 心光AI实践分享第4期
+https://developers.openai.com/codex/cli | Codex CLI
+https://www.nounitycn.top/component?v=unityhub://2022.3.60f1/5f63fdee6d95 | NoUnityCN | Unity国际版下载站 - 让游戏开发更加简单
+
+https://bits.bytedance.net/anywheredoor/proxy?appId=1128 | Bits
+https://www.codebuddy.cn/work/ | WorkBuddy - AI Agent 办公新范式
+https://docs.openclaw.ai/zh-CN | OpenClaw - OpenClaw
+https://web-2032388645832654851-bihij.ksai.scnet.cn:58043/chat?session=main | Error From Ingress
+https://github.com/HKUDS/CLI-Anything?tab=readme-ov-file#-opencode-experimental | HKUDS/CLI-Anything: CLI-Anything: Making ALL Software Agent-Native
+https://github.com/HKUDS | ✨Data Intelligence Lab@HKU✨
+https://www.google.com.hk/search?q=claude+cost%E7%BB%9F%E8%AE%A1+github&newwindow=1&sca_esv=d351541170fbfe96&ei=YYS3afjtOaqq4-EPxsmsmA8&biw=2560&bih=1271&ved=0ahUKEwi4ov79x6OTAxUq1TgGHcYkC_MQ4dUDCBE&uact=5&oq=claude+cost%E7%BB%9F%E8%AE%A1+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGNsYXVkZSBjb3N057uf6K6hIGdpdGh1YjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEikGVDDB1jTE3ABeAGQAQCYAfMBoAGOCqoBBTAuNy4xuAEDyAEA-AEBmAIJoAKlCsICChAAGLADGNYEGEfCAgUQIRigAcICBRAAGO8FwgIGECEYChgqmAMAiAYBkAYKkgcFMS43LjGgB8gMsgcFMC43LjG4B6EKwgcDMi43yAcLgAgA&sclient=gws-wiz-serp | claude cost统计 github - Google 搜索
+https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor?tab=readme-ov-file | Maciek-roboblog/Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings
+https://github.com/ruanyf/weekly/issues/9035 | 【开源自荐】cc-costline — Claude Code 增强状态栏，实时显示花费和用量 · Issue #9035 · ruanyf/weekly
+https://www.google.com.hk/search?q=codex&newwindow=1&sca_esv=90942679ce56a085&source=hp&ei=8pq3adywGPeH4-EPo7X94AQ&iflsig=AFdpzrgAAAAAabepAnayuZPgIpyOa4LlNnthRZY9_PvV&ved=0ahUKEwjc8bTA3aOTAxX3wzgGHaNaH0wQ4dUDCA0&uact=5&oq=codex&gs_lp=Egdnd3Mtd2l6IgVjb2RleDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARI6glQAFjABnAAeACQAQCYAcIFoAHKC6oBCzAuMi40LTEuMC4xuAEDyAEA-AEBmAIEoALWC8ICCxAuGIAEGNEDGMcBwgIFEC4YgASYAwCSBwkwLjIuNC0xLjGgB8cQsgcJMC4yLjQtMS4xuAfWC8IHBTAuMy4xyAcIgAgA&sclient=gws-wiz | codex - Google 搜索
+https://developers.openai.com/codex/cli | Codex CLI
+https://bytedance.larkoffice.com/docx/WebldvlvCohzblxShbVcrGFxnSg | 字节跳动内部 AI 工具与平台导航 - 飞书云文档
+https://bytedance.larkoffice.com/docx/R3w6dyHdzoih50xXguFcC9zXn0h | 【Mira社区】本地MCP插件: 让 AI 操作你的电脑 - 飞书云文档
+https://bytedance.larkoffice.com/docx/AR2td8ISdoAfkQxcIdxc5LeNnXe | Mira 浏览器插件安装指南 | Mira Browser Extension Installation Guide - 飞书云文档
+https://www.google.com.hk/search?q=anything+claude&newwindow=1&sca_esv=9e2784469eca2aa9&source=hp&ei=kSi5afTnE_3w4-EPpLrg0Qc&iflsig=AFdpzrgAAAAAabk2oY_s_ouX5ld6OmmGOJXw2_UdNYqN&ved=0ahUKEwi09I3a2KaTAxV9-DgGHSQdOHoQ4dUDCA0&uact=5&oq=anything+claude&gs_lp=Egdnd3Mtd2l6Ig9hbnl0aGluZyBjbGF1ZGUyBRAAGIAEMgUQABiABDIFEAAYgAQyBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yCBAAGAgYChgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeSOoiUABYoSFwAngAkAEAmAGKBKABiRSqAQgwLjE0LjUtMbgBA8gBAPgBAZgCEaACuhTCAgUQLhiABMICCxAuGIAEGNEDGMcBwgILEC4YgAQYxwEYrwHCAgcQABiABBgMwgIHEAAYgAQYE8ICBxAuGIAEGBPCAgYQABgTGB7CAggQABgTGAoYHsICCBAAGBMYBRgewgIEEAAYHsICBhAAGAoYHsICBhAAGAUYHpgDAJIHCDIuMTQuNC0xoAe4PrIHCDAuMTQuNC0xuAe1FMIHBjAuMTYuMcgHIoAIAA&sclient=gws-wiz | anything claude - Google 搜索
+https://github.com/affaan-m/everything-claude-code/blob/main/README.zh-CN.md | everything-claude-code/README.zh-CN.md at main · affaan-m/everything-claude-code
+https://bytedance.larkoffice.com/wiki/R4RYw44NwigH5vkLVPLcbO5jnDg | 14周年中区T恤领取时间&地点 Pick-up time & location for 14th Anniversary T-shirt - 飞书云文档
+https://bytedance.larkoffice.com/wiki/Qa2PwWTpkiyZYjkN71wcmcYLnng | 中国大陆_2026 14周年纪念T恤领取答疑 | China's Mainland_2026 14th Anniversary T-shirt Collection FAQ - 飞书云文档
+https://www.google.com.hk/search?q=LSP+claude+code&newwindow=1&sca_esv=119eba1c4e06741f&biw=2560&bih=1271&ei=33O6acUJxY2x4w-I2fPhCw&ved=0ahUKEwiF9bXUlKmTAxXFRmwGHYjsPLwQ4dUDCBE&uact=5&oq=LSP+claude+code&gs_lp=Egxnd3Mtd2l6LXNlcnAiD0xTUCBjbGF1ZGUgY29kZTIFEAAYgAQyBRAAGIAEMgUQABiABDIEEAAYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHkjnIlCPBVjzIXACeACQAQCYAa8BoAGtEKoBBDAuMTW4AQPIAQD4AQGYAhCgAoQRqAIAwgIIEAAYsAMY7wXCAgsQABiABBiwAxiiBMICCxAuGIAEGNEDGMcBwgIaEC4YgAQY0QMYxwEYlwUY3AQY3gQY4ATYAQHCAgoQABiABBhDGIoFwgIFEC4YgATCAgcQABiABBgMwgIHEC4YgAQYDMICBhAAGAoYHpgDAfEF8eH1kUQ-7vWIBgGQBgO6BgYIARABGBSSBwQxLjE1oAfFU7IHBDAuMTW4B_8QwgcHMC42LjguMsgHRIAIAA&sclient=gws-wiz-serp | LSP claude code - Google 搜索
+https://code.claude.com/docs/zh-CN/overview | Claude Code 概述 - Claude Code Docs
+https://zhuanlan.zhihu.com/p/2014736902331343520 | (99+ 封私信 / 80 条消息) Claude Code 支持 LSP 了，AI 编程终于不再靠 grep 找代码 - 知乎
+https://mulerun.com/chat/templates | MuleRun Chat — The AI Agent That Gets Work Done
+https://www.google.com.hk/search?q=airtest+poco&newwindow=1&sca_esv=84b4ab2849dc3d2a&source=hp&ei=KKq8afyAHsHc4-EPiteNuAI&iflsig=AFdpzrgAAAAAaby4ON3EwbLW4gEQRHGwLYVFDJmUJu1-&ved=0ahUKEwj8tKHbsK2TAxVB7jgGHYprAycQ4dUDCA0&uact=5&oq=airtest+poco&gs_lp=Egdnd3Mtd2l6IgxhaXJ0ZXN0IHBvY28yBhAAGAcYHjIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yCBAAGIAEGKIESJo8UABY0jlwCHgAkAEBmAHsAaAB0RaqAQYwLjE2LjK4AQPIAQD4AQGYAhWgAt4TqAIAwgILEC4YgAQY0QMYxwHCAgUQLhiABMICChAAGIAEGEMYigXCAhAQLhiABBjRAxhDGMcBGIoFwgIKEC4YgAQYQxiKBcICCBAAGBMYBxgemAMB8QWWWVi7MYzrZpIHBjYuMTMuMqAH4F2yBwYwLjEzLjK4B8oTwgcIMC4xNi40LjHIBzqACAA&sclient=gws-wiz | airtest poco - Google 搜索
+https://github.com/AirtestProject | Airtest Project
+https://bytetech.info/articles/7618499083480596499?from=message_bot&sender_type=101&message_id=7619153840402939954&column=follow-theme#doxcnFQMbIieVoKsgwoShC3pa7g | 🚀 别再死磕 OpenClaw 了！换上 Aime 个人助理，三大神技让 QA 生产力实现质的飞跃 - 文章 - ByteTech
+https://bytetech.info/articles/7618930195379093550?from=message_bot&sender_type=101&message_id=7619153840402939954&column=like#A35GdXbq6orIfKx0fZPl6p4rghf | Coding Agent 的 Plan Mode，到底在「计划」什么？ - 文章 - ByteTech
+
+chrome://bookmarks/?id=2 | 书签
+https://my.feishu.cn/docx/DL85d4A6IorMkgxIUllcdxvrn1b | 游戏开发笔记 - 飞书云文档
+https://my.feishu.cn/docx/KujYdzDD2oVXI8x0nzbcf1XGnkT | AI使用笔记 - 飞书云文档
+https://byteartist-beta.bytedance.net/model-experience?mode=video | byteartist-beta.bytedance.net/model-experience?mode=video
+https://www.trae.cn | TRAE - The Real AI Engineer | TRAE - The Real AI Engineer
+https://docs.trae.cn/ide/most-used-mcp-servers-in-trae | 热门 MCP Server 详解 - 文档 - TRAE CN
+https://bytedance.larkoffice.com/wiki/VxHwwHyVdiFxmwkDUDUcymCKnud | 毛局兴 - 飞书云文档
+https://www.google.com.hk/search?q=Stitch&rlz=1C1GCEA_enCN1196__1196&sourceid=chrome&ie=UTF-8 | Stitch - Google 搜索
+https://stitch.withgoogle.com | Stitch - Design with AI
+https://bytedance.larkoffice.com/drive/me/ | 云盘 - 飞书云文档
+https://bytedance.larkoffice.com/wiki/S6K7wMM0LiciI1kkTpxcJk7hngh?table=tbldGhucil4UU87Z&view=vewb1ovaJ8 | 客户端工作内容 - 飞书云文档
+https://bytedance.larkoffice.com/wiki/YsnIwnC6zi4lG8ksjEKcujA2nFe | YIUI TODO - 飞书云文档
+https://bytedance.larkoffice.com/wiki/Ox8wwwkRqiNK4BkVLajcDWeHnDf | 龙2-Luban配表TodoList - 飞书云文档
+https://bytetech.info/articles/7616244863722913842?from=message_bot&sender_type=101&message_id=7616564965753307145&column=follow-theme#KPYLdxsYHoVtNzxAEdCleQAGgfb | 基于 Aime Spec 模式的 AI Coding 链路 - 文章 - ByteTech
+https://bytedance.larkoffice.com/wiki/IMEbwkxmqil4w0koi9DcOb5Rnmb | Aime IDE 插件使用手册 - 飞书云文档
+https://mp.weixin.qq.com/s/ElpuiIh3css7XtmI9Ciwgw | 所有用OpenClaw的朋友，我都劝你先装上这个能保命的Skill。
+https://docs.aihubmix.com/cn/api/OpenClaw | AiHubMix Documentation Hub
+https://aime.bytedance.net/chat?source=3&order=6&spaceId=0e71130c-2707-42d2-822a-c913aa517c2c | Aime | 开启字节同学的异步办公新体验
+https://www.runoob.com/restfulapi/restful-api-intro.html | RESTful API 概念 | 菜鸟教程
+https://soc.bytedance.net/risk-manager/risk/69b5b1c652c895fb43d028be?temp_token=6bc139cd0b0912700351f717168f7a8f&from=bot | RiskManagement
+
+https://code.coze.cn/subscription/manage | 扣子编程，你的 AI 开发伙伴， Vibe Coding 基础设施，自然语言对话开发智能体、工作流、网页应用、移动应用，一键部署上线
+https://code.coze.cn/p/7616174821692506166 | 橘子520
+https://code.coze.cn/p/7613252912906633258 | 橘子521
+
+https://www.youtube.com | YouTube
+https://www.reddit.com | Reddit - The heart of the internet
+https://mp.weixin.qq.com/s/yu120tW0l4DJAJfWmbJYxg | 继Anthropic后，Google放出5个常用的Agent Skill设计模式
+https://www.google.com.hk/search?q=skill-creator&newwindow=1&sca_esv=fd4dacb252190647&source=hp&ei=5IO7aY-pLL2J4-EPzLDB4AE&iflsig=AFdpzrgAAAAAabuR9Eh9kZAUdmfX5-lYQ5PfdkyZIzXf&oq=skill-cr&gs_lp=Egdnd3Mtd2l6Ighza2lsbC1jcioCCAAyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESKQPUABY5AhwAHgAkAEAmAGmAaAB_QeqAQMwLje4AQPIAQD4AQGYAgegApgIwgILEC4YgAQY0QMYxwGYAwCSBwMwLjegB9EasgcDMC43uAeYCMIHBTAuNS4yyAcTgAgA&sclient=gws-wiz | skill-creator - Google 搜索
+https://github.com/anthropics/skills/tree/main/skills/skill-creator | skills/skills/skill-creator at main · anthropics/skills
+
+https://aime.bytedance.net/chat/bdc88d3e-ea03-4b94-b276-5c28c7e44104 | 基于Godot制作类似杀戮尖塔的游戏请求
+https://mira.byteintl.net/mira | Mira
+https://bytedance.larkoffice.com/file/NltFbTCA2ofBLCxA9x0c8YMWnIf | Mira_latest_stable.dmg - 飞书云文档
+https://www.anygen.io/home | Home - AnyGen
+https://cloud.bytedance.net/coze/organization/space/detail/store/plugin?cate_type=recommend&cate_value=recommend&x-resource-account=public&x-bc-region-id=bytedance&cozeAccountId=2109274892&cozeOrgId=7540239373015466003&cozeSpaceId=7541046637167624244 | 扣子编程 - 字节云
+https://fornax.bytedance.net/playground?channel=bot&activity=modelrelease&modelID=7590079092748529666 | Fornax
+https://bytedance.larkoffice.com/wiki/UWsWwdYb6i35AvkWTR8c2NwhnKZ | Fornax 客户实践案例（持续更新） - 飞书云文档
+https://bytedance.larkoffice.com/wiki/C1VLwHrkii4oI5kcu9NcsjOmnsy | Fornax(For Next)：AI Agent Ops 平台 - 飞书云文档
+
+https://aime.bytedance.net/chat/bdc88d3e-ea03-4b94-b276-5c28c7e44104 | 基于Godot制作类似杀戮尖塔的游戏请求
+https://mira.byteintl.net/mira | Mira
+https://bytedance.larkoffice.com/file/NltFbTCA2ofBLCxA9x0c8YMWnIf | Mira_latest_stable.dmg - 飞书云文档
+https://www.anygen.io/home | Home - AnyGen
+https://cloud.bytedance.net/coze/organization/space/detail/store/plugin?cate_type=recommend&cate_value=recommend&x-resource-account=public&x-bc-region-id=bytedance&cozeAccountId=2109274892&cozeOrgId=7540239373015466003&cozeSpaceId=7541046637167624244 | 扣子编程 - 字节云
+https://fornax.bytedance.net/playground?channel=bot&activity=modelrelease&modelID=7590079092748529666 | Fornax
+https://bytedance.larkoffice.com/wiki/UWsWwdYb6i35AvkWTR8c2NwhnKZ | Fornax 客户实践案例（持续更新） - 飞书云文档
+https://bytedance.larkoffice.com/wiki/C1VLwHrkii4oI5kcu9NcsjOmnsy | Fornax(For Next)：AI Agent Ops 平台 - 飞书云文档
+
+https://www.google.com.hk/search?q=claude+code+%E9%BB%98%E8%AE%A4%E5%90%8C%E6%84%8F&newwindow=1&sca_esv=4e12376ec55021c5&ei=ynOvadH7Be_hseMP7KGq4Ag&biw=2560&bih=1271&ved=0ahUKEwjRiLqEl5STAxXvcGwGHeyQCowQ4dUDCBE&uact=5&oq=claude+code+%E9%BB%98%E8%AE%A4%E5%90%8C%E6%84%8F&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGNsYXVkZSBjb2RlIOm7mOiupOWQjOaEjzIFEAAYgAQyCBAAGIAEGKIEMgUQABjvBTIIEAAYgAQYogQyCBAAGIAEGKIESIISUOgDWPgQcAF4AZABAJgBpQGgAfsIqgEDMC45uAEDyAEA-AEBmAIKoAKRCcICChAAGLADGNYEGEfCAgUQIRigAcICBBAAGB7CAgYQABgIGB6YAwCIBgGQBgqSBwMxLjmgB4wUsgcDMC45uAeOCcIHBDAuMTDIBxGACAA&sclient=gws-wiz-serp | claude code 默认同意 - Google 搜索
+https://code.claude.com/docs/zh-CN/skills | 使用 skills 扩展 Claude - Claude Code Docs
+https://platform.minimaxi.com/subscribe/coding-plan | Coding Plan - MiniMax API 平台
+https://www.kimi.com/code?track_id=03218dcf-cb0b-4b72-83eb-cbbc3c43baa3 | Kimi Code - 新一代 AI Code Agent：CLI工具与自动化编程提速
+https://www.volcengine.com | 火山引擎-你的AI云
+https://github.com/Lichas/maxclaw/blob/main/README.zh.md | maxclaw/README.zh.md at main · Lichas/maxclaw
+https://www.google.com.hk/search?q=%E6%9C%AC%E5%9C%B0%E5%B0%8F%E6%A8%A1%E5%9E%8B%E6%90%AD%E5%BB%BA&sca_esv=3d359356975f5722&sxsrf=ANbL-n4VmhBiDfy6eYpPCdPIu_1nS4nSRA%3A1773370536309&source=hp&ei=qHyzaefXEPbk5NoPtOil-QQ&iflsig=AFdpzrgAAAAAabOKuNIzvY9SRRtct408JLjGyPa7A4YL&ved=0ahUKEwjny_qG8JuTAxV2MlkFHTR0KU8Q4dUDCBg&uact=5&oq=%E6%9C%AC%E5%9C%B0%E5%B0%8F%E6%A8%A1%E5%9E%8B%E6%90%AD%E5%BB%BA&gs_lp=Egdnd3Mtd2l6IhXmnKzlnLDlsI_mqKHlnovmkK3lu7oyBRAAGO8FMgUQABjvBTIFEAAY7wUyCBAAGIAEGKIEMggQABiiBBiJBUiiKVAAWO0mcAN4AJABAZgB9gqgAZJAqgEMMy0xMy4yLjEuMS4xuAEDyAEA-AEBmAIQoAKVKagCCsICChAjGIAEGCcYigXCAgQQIxgnwgIFEAAYgATCAgsQLhiABBjRAxjHAcICBxAjGCcY6gLCAgsQLhiABBjHARivAcICBRAuGIAEmAMB8QUCiai78My6xJIHDDMuMy0xMS4xLjAuMaAH3lqyBwozLTExLjEuMC4xuAeQKcIHBjUuMTAuMcgHFIAIAA&sclient=gws-wiz | 本地小模型搭建 - Google 搜索
+
+https://mp.weixin.qq.com/s/T_LsQI_OE0W8-uGZ2qUmgQ | 科技爱好者周刊#387：你是领先的
+https://github.com/Rito-w/skills-manager/releases | Releases · Rito-w/skills-manager
+https://github.com/xingkongliang/skills-manager | xingkongliang/skills-manager: A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.
+https://codeberg.org/rossabaker/no-agents.md | rossabaker/no-agents.md: A project to reject AI agents via `AGENTS.md` - Codeberg.org
+https://poco.readthedocs.io/zh-cn/latest/source/doc/integration.html#unity3d | 如何嵌入PocoSDK(Integration Guide) — poco 1.0 文档
+https://odininspector.com/documentation | Sirenix.Config | API Documentation | Odin Inspector for Unity
+https://bytedance.larkoffice.com/wiki/RHnwwXLG4iI8c7kKiYQcINyBnZb?table=tblUL4jv1HKRTK4U&view=vewXxBNTOK&open_in_browser=true | 年后修改 - 飞书云文档
+
+https://www.scnet.cn/home/subject/modular/index737.html | OpenClaw一体机_超算互联网
+http://localhost:37777 | claude-mem viewer
+https://gemini.google.com | ‎Google Gemini
+https://ai.google.dev/gemini-api/docs/available-regions?hl=zh-cn | Google AI Studio 和 Gemini API 的适用区域  |  Google AI for Developers
+https://platform.minimaxi.com/docs/guides/pricing-coding-plan | Page Not Found
+https://platform.minimaxi.com/subscribe/coding-plan | Coding Plan - MiniMax API 平台
+
+https://www.google.com.hk/search?q=claude+skills&rlz=1C1GCEA_enCN1196__1196&oq=claude+skills&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDM2OTNqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8 | claude skills - Google 搜索
+https://claude.ai/onboarding | Claude
+https://www.google.com.hk/search?q=%E7%BE%8E%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%8F%B7%E7%9F%AD%E4%BF%A1%E6%8E%A5%E6%94%B6&newwindow=1&sca_esv=00ea9ad93175368b&source=hp&ei=oCiuad7BOdeLnesP5p3E2QY&iflsig=AFdpzrgAAAAAaa42sFak9K958BMxruVUgAAzDXWyHjPm&ved=0ahUKEwjekceb25GTAxXXRWcHHeYOMWsQ4dUDCA0&uact=5&oq=%E7%BE%8E%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%8F%B7%E7%9F%AD%E4%BF%A1%E6%8E%A5%E6%94%B6&gs_lp=Egdnd3Mtd2l6Ihvnvo7lm73miYvmnLrlj7fnn63kv6HmjqXmlLYyBRAAGIAEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESPOBAVAAWIV1cAx4AJABAZgBrgGgAb85qgEEMC41NLgBA8gBAPgBAZgCPqAC1TWoAgrCAgsQLhiABBjRAxjHAcICChAAGIAEGEMYigXCAgUQLhiABMICEBAuGIAEGNEDGEMYxwEYigXCAh0QABiABBi0AhjUAxjlAhjnBhi3AxiKBRjqAhiKA8ICCxAuGIAEGMcBGK8BwgIHEAAYgAQYDJgDAfEFzM3T30H8GUaSBwUxMi41MKAHmZECsgcEMC41MLgHxTXCBwcxNy40NC4xyAdDgAgA&sclient=gws-wiz | 美国手机号短信接收 - Google 搜索
+https://bytetech.info/activity/7612573201421140031?from=larkcalendar | OpenViking：上下文工程的数据库范式（附OpenClaw最佳实践） - 活动 - ByteTech
+https://bytedance.larkoffice.com/wiki/J3powcjKZik1qxkJPNfcvqcknyf | OpenViking：上下文工程的数据库范式 - 飞书云文档
+https://github.com/volcengine/OpenViking/tree/main | volcengine/OpenViking: OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+https://bytetech.info/articles/7614316219709325318#doxcnWutKE9M8S7TsJB3U2rTS7g | OpenClaw：MacBook 从零安装 OpenClaw - 文章 - ByteTech
+https://www.google.com.hk/search?q=%E5%92%8Cfigma+%E7%B1%BB%E4%BC%BC%E7%9A%84%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%E6%9C%89%E5%93%AA%E4%BA%9B&newwindow=1&sca_esv=98a34e30466cedc0&source=hp&ei=iX6vaciUEeuZseMPjvyD0AM&iflsig=AFdpzrgAAAAAaa-MmWbxjP81OqsTwRre7iX4rtGT2MHk&ved=0ahUKEwiI_aikoZSTAxXrTGwGHQ7-ADoQ4dUDCA0&uact=5&oq=%E5%92%8Cfigma+%E7%B1%BB%E4%BC%BC%E7%9A%84%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%E6%9C%89%E5%93%AA%E4%BA%9B&gs_lp=Egdnd3Mtd2l6IiflkoxmaWdtYSDnsbvkvLznmoTorr7orqHova_ku7bmnInlk6rkupsyCBAAGIAEGKIEMgUQABjvBTIFEAAY7wUyCBAAGIAEGKIEMgUQABjvBUiXVlAAWI1VcAV4AJABAJgBnQGgAYMsqgEEMC40MrgBA8gBAPgBAZgCLqACvCuoAgTCAgsQLhiABBjRAxjHAcICBRAAGIAEwgIFEC4YgATCAhoQABiABBi0AhjlAhjnBhi3AxiKBRjqAhiKA8ICBRAhGKABmAMB8QXf1UQ6Y4opOJIHBDUuNDGgB51rsgcEMC40MbgHtSvCBwYzOC43LjHIByeACAA&sclient=gws-wiz | 和figma 类似的设计软件有哪些 - Google 搜索
+https://www.figma.cool/article/figma-replace | 国内有哪几款软件能够替代 Figma？ Figma.cool
+https://www.zhihu.com/question/541999006/answer/2584258388 | (99+ 封私信 / 80 条消息) 原型设计工具Axure、Figma、Pixso，哪个更好用？ - 知乎
+https://modao.cc/ad/blog/figma-alternatives-ui-tools.html | 类似Figma的软件有哪些？推荐设计师最爱的8款工具
+https://www.reddit.com/r/UXDesign/comments/11veg61/open_source_alternatives_to_figma/?tl=zh-hans | 开源的Figma替代品 : r/UXDesign
+https://pixso.cn | Pixso官网 - AI原生UI设计工具_一键生成设计稿与代码_国产Figma替代
+https://blog.csdn.net/2501_94162613/article/details/156642583 | 除了Figma和Sketch，2026年还有哪些好用的UI设计软件？_类似墨刀的软件-CSDN博客
+https://www.zhihu.com/question/1961031231195034860 | 除了Figma Make，还有哪些好用的AI文生设计稿工具？ - 知乎
+https://developers.figma.com/docs/plugins/api/api-reference/ | API Reference | Developer Docs
+https://github.com/HKUDS/CLI-Anything | HKUDS/CLI-Anything: CLI-Anything: Making ALL Software Agent-Native
+
+https://bytedance.larkoffice.com/wiki/ErUGwyH2bifs1Gk0LZ3cS4RLnBf | 【玩转扣子】扣子养虾「进阶课」：一键部署OpenClaw、高级玩法分享、省钱秘诀 - 飞书云文档
+https://bytedance.larkoffice.com/wiki/Gvvjwsm6liznaNkUA4PcxrrrnQf | OpenClaw部署安全配置建议 - 飞书云文档
+https://mp.weixin.qq.com/s/DVhQ_mWNtn9P39ydlmtyUg | OpenClaw 养虾第一站，InStreet 全面开放内测！
+https://bytetech.info/articles/7613336840397357108?from=message_bot&sender_type=101&message_id=7615820700034531379&column=like#BpPfdQxMLo3anexmQ6ZlP5OVg1g | bytetech.info
+https://arxiv.org/abs/2602.11988 | [2602.11988] Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?
