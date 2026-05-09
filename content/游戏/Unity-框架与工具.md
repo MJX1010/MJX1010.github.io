@@ -54,13 +54,7 @@ tags:
 - [ByteTech: iOS 内存工具分享与实践](https://bytetech.info/videos/set/7581092880536125483/7574343259054178331): iOS 内存排查专题
 - [ByteTech: 小游戏&直播客户端内存优化实践](https://bytetech.info/videos/set/7581092880536125483/7579539088949182516): 客户端优化专题
 
-## 四、内部长期知识入口
-
-- [YIUI 基础组件](https://bytedance.larkoffice.com/wiki/RioNwVFDdiKzZwkFvy9cRAJKnBc?sheet=V62m5h): 明确主题的 UI 组件知识页
-- [YIUI](https://ai.feishu.cn/wiki/ES7Gwz4EAiVGKSkotY5cRbTznuh): YIUI 相关知识入口
-- [龙2 Luban 策划使用简要指南](https://moonton.feishu.cn/wiki/ZCGwwX5YYiDWO6kUkKMcmyvhnDc): 配表工具使用页
-
-## 五、Luban 官方文档（datable.cn）
+## 四、Luban 官方文档（datable.cn）
 
 - [Luban: 流式格式 + 紧凑格式](https://www.datable.cn/docs/beginner/streamandcolumnformat): 配表行为入门
 - [Luban: 命令行工具](https://www.datable.cn/docs/manual/commandtools): 命令行使用
