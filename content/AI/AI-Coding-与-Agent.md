@@ -11,25 +11,12 @@ tags:
 
 ## 一、Agent / AI Coding 工具入口
 
-- [TRAE Solo](https://www.trae.ai/solo): TRAE 产品能力入口
-- [MiniMax Agent](https://agent.minimaxi.com/): Agent 产品入口
-- [Google AI Studio](https://aistudio.google.com/u/0/api-keys): Gemini / API 入口
-- [AI工具集](https://ai-bot.cn/): 国内 AI 工具导航
-- [AI工具集：Codex](https://ai-bot.cn/sites/53.html): Codex 工具介绍页
-- [AI工具集：Qoder](https://ai-bot.cn/sites/60584.html): Agentic 编程工具观察页
 
 ## 二、相关开源项目
 
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): Claude Code 基础设施扩展
-- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use): Agent 操作移动端应用
-- [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance): Gemini 代理项目
-- [doocs/awesome-ai](https://github.com/doocs/awesome-ai): AI 工具聚合仓库
 
 ## 三、外部观察与行业信息
 
-- [阮一峰：TRAE SOLO](https://www.ruanyifeng.com/blog/2025/11/trae-solo.html): 针对 TRAE Solo 的外部观察
-- [AI工具集：Firebase Studio](https://ai-bot.cn/firebase-studio/): 谷歌相关 AI 编程工具观察页
-- [AI工具集：每日 AI 资讯](https://ai-bot.cn/daily-ai-news/): 可作为行业信息流入口
 
 ## 四、不建议纳入长期知识库的同类页面
 
@@ -47,3 +34,7 @@ tags:
 - 如果目标是“实际使用”，只保留：
   - 正在用的产品入口
   - 与当前工作流强相关的开源项目
+
+## 链接归档
+
+- [[AI-Coding-与-Agent链接归档]]: 外部链接已集中归档
