@@ -7,15 +7,36 @@ tags:
 ---
 > 阶段：03-AI-Coding  
 
+## 定位说明
+
+AI 编程辅助工具、开发者 API 平台、AI 工具导航站和创作类工具的入口汇总。快速迭代领域，链接有效期参差，以当前实际可访问版本为准。大模型产品入口见 [[大模型产品]]。
+
 ## 一、AI 编程工具
+
+- **GitHub Copilot**：最成熟的 AI 补全工具，IDE 插件形态，参考教程见 kdocs
+- **Gemini CLI**（google-gemini/gemini-cli）：命令行 AI 编程工具，开源，适合终端重度用户
+- **Ollama**：本地运行开源大模型，适合隐私敏感场景和离线使用
+- **TRAE**：AI 辅助开发工具，含 IDE 集成和 MCP 配置支持
 
 ## 二、API / 开发者门户
 
+- **火山引擎**（volcengine.com）：字节系 AI 云，提供模型 API 和推理基础设施
+- **Dify**：开源 Agentic Workflow 构建平台，可私有化部署，适合构建 AI 应用
+- **OpenAI Help Center**：ChatGPT 和 API 的官方支持入口
+- **AI Code With**：代码 AI 工具平台
+
 ## 三、AI 工具导航 / 排行
+
+- **ai-bot.cn**：综合 AI 工具导航站，快速找工具入口
+- **top.aibase.com**：国内 AI 产品排行榜，了解市场格局变化
 
 ## 四、AI 创作类
 
+- **civitai**：Stable Diffusion 模型社区，图像生成模型和 LoRA 资源
+
 ## 五、产品入口（订阅 / 价格页）
+
+- TRAE Pricing：订阅和权益确认入口
 
 ## 参考链接
 
