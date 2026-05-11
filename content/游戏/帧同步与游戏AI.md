@@ -6,7 +6,7 @@ tags:
   - 帧同步
   - lockstep
   - 游戏ai
-  - 长尾
+  - 补充资料
 ---
 > 阶段：02-引擎与游戏开发  
 
@@ -40,12 +40,12 @@ tags:
 ### 链接分组
 
 - [Gabriel Gambetta](https://www.gabrielgambetta.com/index.html)
-- [帧同步教程【合集】- 哔哩哔哩](https://www.bilibili.com/video/av70422751/?vd_source=5aeec11224a2dcfe0ebe94495dda445e)
-- [基于状态帧同步的战斗系统-技能预测/回滚演示_游戏热门视频](https://www.bilibili.com/video/BV11L4y1u7rS/?vd_source=5aeec11224a2dcfe0ebe94495dda445e)
-- [LT_02_LockstepDeveolpAdvice_哔哩哔哩_bilibili](https://www.bilibili.com/video/av70422751/?vd_source=5aeec11224a2dcfe0ebe94495dda445e&spm_id_from=333.788.player.switch&p=3)
+- [帧同步教程【合集】- 哔哩哔哩](https://www.bilibili.com/video/av70422751/)
+- [基于状态帧同步的战斗系统-技能预测/回滚演示_游戏热门视频](https://www.bilibili.com/video/BV11L4y1u7rS/)
+- [LT_02_LockstepDeveolpAdvice_哔哩哔哩_bilibili](https://www.bilibili.com/video/av70422751/?p=3)
 - [开放能力 / 游戏服务 / 帧同步](https://developers.weixin.qq.com/minigame/dev/guide/open-ability/lock-step.html)
 - [三种同步方式：状态同步、帧同步、状态帧同步 - 十月的大橘 - 博客园](https://www.cnblogs.com/October2018/p/16120681.html)
-- [Unity 状态帧同步+技能系统 Demo_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1XC8yejETS/?spm_id_from=333.1387.homepage.video_card.click&vd_source=5aeec11224a2dcfe0ebe94495dda445e)
+- [Unity 状态帧同步+技能系统 Demo_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1XC8yejETS/)
 - [云风的 BLOG: lockstep 网络游戏同步方案](https://blog.codingnow.com/2018/08/lockstep.html)
 - [setuppf/GameBookServer](https://github.com/setuppf/GameBookServer)
 

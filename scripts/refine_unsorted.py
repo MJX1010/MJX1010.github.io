@@ -1,6 +1,7 @@
-"""Second pass: re-classify remaining entries in 元数据/未分类长尾.md
-with refined host/title rules. Append matched entries to target files,
-keep only truly leftover in the unsorted file.
+"""Second pass: re-classify remaining entries in private/metadata/未分类素材链接归档.md.
+
+Append matched entries to target files and keep only truly leftover links in the
+unsorted archive.
 """
 from __future__ import annotations
 import re
@@ -10,7 +11,7 @@ from collections import defaultdict
 
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
-UNSORTED = CONTENT / "元数据" / "未分类长尾.md"
+UNSORTED = CONTENT / "private" / "metadata" / "未分类素材链接归档.md"
 
 ENTRY_RE = re.compile(r"^- (?:\[([^\]]+)\]\((https?://[^)]+)\)|<(https?://[^>]+)>)")
 
@@ -129,15 +130,15 @@ def classify(url: str, title: str) -> str:
 
 
 TARGETS = {
-    "workspace-tail": "工作台/工作台与控制台入口.md",
-    "ai-tail": "AI/AI-长尾.md",
-    "unity-tail": "游戏/Unity-长尾.md",
+    "workspace-tail": "private/workbench/工作台与控制台入口.md",
+    "ai-tail": "AI/AI工具与导航.md",
+    "unity-tail": "游戏/Unity-框架与工具.md",
     "game-mobile-tail": "游戏/移动端接入与平台问题.md",
     "cs-ref-tail": "计算机/C-CSharp-CPP参考.md",
     "video-tail": "资讯/视频与课程.md",
     "tools-tail": "工具/在线工具与协作.md",
-    "blog-tail": "资讯/技术博客-长尾.md",
-    "blacklist": "元数据/失效黑名单.md",
+    "blog-tail": "资讯/技术博客与社区.md",
+    "blacklist": "private/metadata/失效黑名单.md",
 }
 
 
@@ -145,14 +146,14 @@ def main() -> int:
     text = UNSORTED.read_text(encoding="utf-8")
     entries = parse_entries(text)
 
-    print(f"Loaded {len(entries)} entries from 未分类长尾.md\n")
+    print(f"Loaded {len(entries)} entries from 未分类素材链接归档.md\n")
 
     buckets: dict[str, list[tuple[str, str, str]]] = defaultdict(list)
     for url, title, raw in entries:
         bucket = classify(url, title)
         buckets[bucket].append((url, title, raw))
 
-    # For each non-unsorted bucket, append to target file under "二次分桶"
+    # For each non-unsorted bucket, append to target file under "补充资料分组"
     for bucket, items in sorted(buckets.items(), key=lambda kv: -len(kv[1])):
         if bucket == "unsorted":
             continue
@@ -161,27 +162,27 @@ def main() -> int:
             print(f"  WARN: target {TARGETS[bucket]} missing, skipping {len(items)} entries")
             continue
         contents = target.read_text(encoding="utf-8").rstrip()
-        appendix = ["", "## 长尾二次分桶", ""]
+        appendix = ["", "## 补充资料分组", ""]
         for _, _, raw in items:
             appendix.append(raw)
         target.write_text(contents + "\n" + "\n".join(appendix) + "\n", encoding="utf-8")
         print(f"  [{bucket:<18}] {len(items):>4} -> {TARGETS[bucket]}")
 
-    # Rewrite 未分类长尾.md with only the truly unsorted
+    # Rewrite 未分类素材链接归档.md with only the truly unsorted
     leftover = buckets.get("unsorted", [])
     fm = (
         "---\n"
-        "title: 未分类长尾\n"
+        "title: 未分类素材链接归档\n"
         "tags:\n"
         "  - 元数据\n"
-        "  - 长尾\n"
-        "  - 未分类\n"
+        "  - 素材归档\n"
+        "  - 待人工分类\n"
         "---\n\n"
-        "经过两轮分类后仍未归桶的长尾。每条都需要人工判断主题或确认作废。\n\n"
+        "经过再次分类后仍未归类的链接。每条都需要人工判断主题或确认作废。\n\n"
     )
     body = "\n".join(raw for _, _, raw in leftover)
     UNSORTED.write_text(fm + body + "\n", encoding="utf-8")
-    print(f"\n  [{'unsorted':<18}] {len(leftover):>4} -> 元数据/未分类长尾.md (rewritten)")
+    print(f"\n  [{'unsorted':<18}] {len(leftover):>4} -> private/metadata/未分类素材链接归档.md (rewritten)")
 
     return 0
 

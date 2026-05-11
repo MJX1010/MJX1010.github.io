@@ -54,8 +54,8 @@ C / C# / C++ 的官方 API 文档和在线参考工具汇总，作为日常开�
 - [System Namespace | Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/api/system?view=net-8.0)
 - [Maven Repository: com.google.gms » google-services](https://mvnrepository.com/artifact/com.google.gms/google-services)
 - [NuGet Gallery | Packages matching Tags:"devtoys-app" json](https://www.nuget.org/packages?q=Tags%3A%22devtoys-app%22+json&includeComputedFrameworks=true&prerel=true&sortby=relevance)
-- [NuGet Gallery | DevToys.JsonToCsharp 1.1.0](https://www.nuget.org/packages/DevToys.JsonToCsharp#readme-body-tab)
-- [NuGet Gallery | Scriban 5.11.0](https://www.nuget.org/packages/Scriban/5.11.0#releasenotes-body-tab)
+- [NuGet Gallery | DevToys.JsonToCsharp 1.1.0](https://www.nuget.org/packages/DevToys.JsonToCsharp)
+- [NuGet Gallery | Scriban 5.11.0](https://www.nuget.org/packages/Scriban/5.11.0)
 - [适用于 Visual Studio 的 .NET SDK](https://dotnet.microsoft.com/zh-cn/download/visual-studio-sdks?cid=getdotnetsdk)
 - [C# 语言参考 | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/)
 - [C++ 文档（Microsoft Learn）](https://learn.microsoft.com/zh-cn/cpp/cpp/?view=msvc-160)
@@ -122,3 +122,37 @@ C / C# / C++ 的官方 API 文档和在线参考工具汇总，作为日常开�
 - [jzyong/ugk-server](https://github.com/jzyong/ugk-server)
 - [LeahLee13 (LeahLee13) / Repositories](https://github.com/LeahLee13?tab=repositories)
 - [GameFrameX](https://github.com/GameFrameX)
+
+### 再归档补充
+
+- [Serializing Dates in JSON](https://www.newtonsoft.com/json/help/html/DatesInJSON.htm)
+- [list.cs](https://referencesource.microsoft.com/)
+
+### 再归档补充
+
+- [Does readonly make your code faster?](https://steven-giesel.com/blogPost/50b84029-4f1e-4e6d-8fd1-0311b0605562)
+- [RPC原理与Go RPC | 李文周的博客](https://www.liwenzhou.com/posts/Go/rpc/)
+- [原则2：偏爱 readonly 而不是 const | Effective C# 改善C#程序的50种方法](https://wizardforcel.gitbooks.io/effective-csharp/content/2.html)
+- [C# Online Compiler | .NET Fiddle](https://dotnetfiddle.net/)
+- [程序集 - 《C#编程指南》 - 严富坤的知识库专栏(yanfukun.com)](https://www.yanfukun.com/read/csharp/programcoll)
+- [C#中的多线程 - 高级多线程 - GKarch](https://blog.gkarch.com/threading/part4.html)
+- [1.1 Thread 基础 · C# 多线程与异步 - 痴者工良](https://threads.whuanle.cn/1.thread_basic/1.thread.html)
+- [Troubleshooting | BenchmarkDotNet](https://benchmarkdotnet.org/articles/guides/troubleshooting.html)
+- [21. 多线程渲染 | 游戏引擎 浅入浅出 | 游戏人生](https://www.thisisgame.com.cn/tutorial?book=cpp-game-engine-book&lang=zh&md=21.+multithreaded_rendering%2F21.+multithreaded_rendering.md)
+- [Installing Python Modules — Python 3.12.3 documentation](https://docs.python.org/3/installing/index.html)
+- [Params Keyword in C#](https://www.c-sharpcorner.com/UploadFile/c63ec5/use-params-keyword-in-C-Sharp/)
+- [Decimal in C# : How and Where to Use It? (2024)](https://www.bytehide.com/blog/decimal-csharp)
+- [C# |构造函数中的继承 开发文档](https://moonapi.com/news/28257.html)
+- [在 JetBrains Rider 中调试源生成器 | The .NET Tools Blog](https://blog.jetbrains.com/zh-hans/dotnet/2023/08/07/debug-source-generators-in-jetbrains-rider/)
+
+### 人工压缩补充
+
+- [sourcegen.dev](https://sourcegen.dev/)
+- [socket和websocket的区别 • Worktile社区](https://worktile.com/kb/ask/21407.html)
+- [CPU分支预测原理：if-else性能优化指南 | 性能优化 | C++ 编程指南](https://chengxumiaodaren.com/docs/performance/branch-predict/)
+- [lua 动态绑定 类似mvvm - 技术交流 - Y3编辑器论坛](https://create-bbs.reckfeng.com/forum.php?mod=viewthread&tid=413)
+- [Lua源码剖析（一）开篇 | Ty-Chen's Home](https://ty-chen.github.io/lua-linux/)
+- [CPU体系架构-DMA](https://nieyong.github.io/wiki_cpu/CPU%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84-DMA.html)
+- [第 3 章 代码的坏味道 · 重构: 改善既有代码的设计](https://book-refactoring2.ifmicro.com/docs/ch3.html)
+- [Animating in C++: Curves and Easing Functions - Tom Looman](https://www.tomlooman.com/animating-in-cpp-curves-and-easing-functions/)
+- [11wy11 正则笔记](https://11wy11.github.io/2019/03/29/cplusplus-regex-note/)

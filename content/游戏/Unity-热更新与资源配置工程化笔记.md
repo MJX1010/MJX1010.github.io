@@ -146,7 +146,7 @@ tags:
 ### 链接分组
 
 - [Luban 命令行工具](https://www.datable.cn/docs/manual/commandtools)
-- [Luban 使用列限定与紧凑格式](https://www.datable.cn/docs/beginner/streamandcolumnformat#%E6%B5%81%E5%BC%8F%E6%A0%BC%E5%BC%8F%E4%B8%80%E4%B8%AA%E5%8D%95%E5%85%83%E6%A0%BC%E4%BD%BF%E7%94%A8%E5%88%86%E5%89%B2%E7%AC%A6%E5%88%86%E5%89%B2%E5%90%8E%E6%8C%89%E9%A1%BA%E5%BA%8F%E8%AF%BB%E5%8F%96)
+- [Luban 使用列限定与紧凑格式](https://www.datable.cn/docs/beginner/streamandcolumnformat)
 - [xasset 官网](https://xasset.cc/)
 
 ### GitHub 相关链接
@@ -159,7 +159,7 @@ tags:
 
 - [YooAsset 资源构建](https://www.yooasset.com/docs/guide-editor/AssetBundleBuilder)
 - [YooAsset 官网](https://www.yooasset.com/)
-- [HybridCLR 安装](https://www.hybridclr.cn/docs/basic/install#%E4%BB%8Egit-url%E5%AE%89%E8%A3%85)
+- [HybridCLR 安装](https://www.hybridclr.cn/docs/basic/install)
 
 ### GitHub 相关链接
 

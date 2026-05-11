@@ -20,7 +20,7 @@ tags:
 - 新项目需要搭建客户端基础设施，确定资源、热更、配置、UI、异步和编辑器工具路线。
 - 老项目工具链分散，存在大量手工操作、重复脚本和不可复现构建。
 - 团队想引入 HybridCLR、YooAsset、Luban、ET、GameFramework、UniTask、MemoryPack 等工具，但需要评估边界。
-- 需要把长尾仓库筛选成真正可落地的项目规范。
+- 需要把补充仓库筛选成真正可落地的项目规范。
 
 ## 框架分层模型
 
@@ -81,7 +81,7 @@ tags:
 - 生成代码没有纳入编译校验，运行时才发现接口漂移。
 - 编辑器工具直接修改大量资源但没有日志和回滚。
 
-## 后续长尾筛选规则
+## 后续补充资料筛选规则
 
 - 保留官方仓库、项目已实用仓库、能进入 CI 的生产工具。
 - 对 Demo、教程、插件仓库，只在能转化成项目规范时吸收进正文。
@@ -120,7 +120,7 @@ tags:
 - [Unity 官方 Cinemachine 产品页](https://unity.com/cn/features/cinemachine)
 - [Unity 手册：事件函数执行顺序](https://docs.unity3d.com/cn/2022.3/Manual/ExecutionOrder.html)
 - [Unity 手册总入口](https://docs.unity3d.com/Manual/index.html)
-- [Android Developers: 使用 Unity 制作游戏](https://developer.android.com/games/engines/unity/unity-on-android?hl=zh-cn#16-kb-page-support)
+- [Android Developers: 使用 Unity 制作游戏](https://developer.android.com/games/engines/unity/unity-on-android?hl=zh-cn)
 - [ByteTech: Unity il2cpp 编译流程分享](https://bytetech.info/videos/7134694941254483976)
 - [ByteTech: Unity il2cpp 编译流程分享（下）](https://bytetech.info/videos/7134657562808418340)
 - [catlikecoding tutorials](https://catlikecoding.com/unity/tutorials/)
@@ -130,7 +130,7 @@ tags:
 
 ### AI 相关链接
 
-- [Unity Android 要求与兼容性](https://docs.unity3d.com/6000.1/Documentation/Manual/android-requirements-and-compatibility.html?utm_source=chatgpt.com)
+- [Unity Android 要求与兼容性](https://docs.unity3d.com/6000.1/Documentation/Manual/android-requirements-and-compatibility.html)
 
 ### GitHub 相关链接
 
@@ -143,9 +143,9 @@ tags:
 - [Siccity/Dialogue](https://github.com/Siccity/Dialogue)
 - [ad313/SourceGenerator.Template](https://github.com/ad313/SourceGenerator.Template)
 
-### 补充归档（Unity 长尾资源）
+### 补充归档（Unity 补充资料）
 
-- [Feel | Particles/Effects | Unity Asset Store](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370?aid=1011lKhG#description)
+- [Feel | Particles/Effects | Unity Asset Store](https://assetstore.unity.com/packages/tools/particles-effects/feel-183370?aid=1011lKhG)
 - [Feel Documentation | Feel Documentation](https://feel-docs.moremountains.com/)
 - [Feel: Lofelt.NiceVibrations Namespace Reference](https://feel-docs.moremountains.com/API/namespace_lofelt_1_1_nice_vibrations.html)
 - [How to install Feel? | Feel Documentation](https://feel-docs.moremountains.com/how-to-install.html)
@@ -233,3 +233,58 @@ tags:
 - [ikamei/GameMechanic](https://github.com/ikamei/GameMechanic)
 - [GameFrameX](https://github.com/GameFrameX)
 - [killop/anything_about_game: A wonderful list of Game Development resources.](https://github.com/killop/anything_about_game)
+
+### 再归档补充
+
+- [https://www.luban3d.com/](https://www.luban3d.com/)
+- [Luban 适配 MemoryPack | L's Blog](https://www.liuocean.com/archives/luban-gua-pei-memorypack)
+- [Bolt可视化编程工具 | Unity 中文课堂](https://learn.u3d.cn/tutorial/bolt-mstudio?chapterId=63562b29edca72001f21d183&sectionId=60389634bed13a002239eabd)
+- [数据驱动类技能 - Valve Developer Community](https://developer.valvesoftware.com/wiki/Zh/Dota_2_Workshop_Tools/Scripting/Abilities_Data_Driven)
+- [Unity Now Forcing Cloud Projects – GameFromScratch.com](https://gamefromscratch.com/unity-now-forcing-cloud-projects/)
+- [Guide to Extending Unity Editor’s Menus | by Edward Rowe | Red Blue Games](https://blog.redbluegames.com/guide-to-extending-unity-editors-menus-b2de47a746db)
+- [如何把unity 5提供的YAML merge tool 整合至TortoriseSVN – mattchen730](https://mattchen730.wordpress.com/2016/12/09/%E5%A6%82%E4%BD%95%E6%8A%8Aunity-5%E6%8F%90%E4%BE%9B%E7%9A%84yaml-merge-tool-%E6%95%B4%E5%90%88%E8%87%B3tortorisesvn/)
+- [猫都能学会的Unity3D Shader入门指南（一） | OneV's Den](https://onevcat.com/2013/07/shader-tutorial-1/)
+- [UGUI中的anchor和canvas(屏幕适配) - 雁过留声](https://blogml.top/2023/01/17/ugui-anchor-and-canvas/)
+- [UGUI TextMeshPro 控件详解 | Unity3D 学习汇总](https://jsdocunity.jsopy.com/UGUI/U7.html)
+- [Unity Luban - ReubenSun](https://reubensun.com/engine/UnityLuban/)
+- [Unity-Technologies / Repositories — Bitbucket](https://bitbucket.org/Unity-Technologies/workspace/repositories/)
+- [UGUI源码分析(一): Image的渲染 - 杨世玲的博客](https://www.young40.com/post/2021-12-26-ugui-source-reading-01/)
+- [在Unity游戏中使用LINQ技术 | WN Hub](https://wnhub.io/zh/news/engines/item-44558)
+- [Unity游戏内存优化——以TileMatch为例](https://www.potatoyz.tech/Posts/Unity%E6%B8%B8%E6%88%8F%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96%E2%80%94%E2%80%94%E4%BB%A5TileMatch%E4%B8%BA%E4%BE%8B)
+- [【Unity3D开发小游戏】《贪吃蛇》Unity开发教程 · 764424567](https://itmonon.github.io/posts/unity3d-game/Unity3D%E5%BC%80%E5%8F%91%E5%B0%8F%E6%B8%B8%E6%88%8F-%E8%B4%AA%E5%90%83%E8%9B%87-Unity%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B)
+- [Unity编辑器的扩展，MenuItem的使用整理 | 禾文的博客](https://unique849997563.github.io/2019/03/06/Unity%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E6%89%A9%E5%B1%95%EF%BC%8CMenuItem%E7%9A%84%E4%BD%BF%E7%94%A8%E6%95%B4%E7%90%86/)
+- [Unity3D通过反射实现安卓的代码热更新 | 六饼](https://bbbbbbion.github.io/2015/09/16/Unity3D%E9%80%9A%E8%BF%87%E5%8F%8D%E5%B0%84%E5%AE%9E%E7%8E%B0%E5%AE%89%E5%8D%93%E7%9A%84%E4%BB%A3%E7%A0%81%E7%83%AD%E6%9B%B4%E6%96%B0/)
+- [UGUI性能优化总结 | 无境](https://www.drflower.top/posts/aad79bf1/)
+- [Unity UI Extensions README | Unity-UI-Extensions.GitHub.io](https://unity-ui-extensions.github.io/)
+- [Unity3D：关于Texture2D和byte字节互转的坑 | 大腿Plus](https://www.zhaoshijun.com/archives/2043)
+- [Unity怎么改界面字体大小 - 3D天堂网(i3dtt.com)](https://www.i3dtt.com/104248.html)
+- [Unity-Serialization理解 | StoneのBLOG](https://stonelzp.github.io/unity-serialization/)
+- [Unity SerializeField和Serializable - DullSword's Blog](https://dullsword.github.io/2021/03/03/Unity-SerializeField%E5%92%8CSerializable/)
+- [Unity编辑器扩展：使用xNode制作自己的可视化工具（2） | ydwj的游戏开发日记](https://auniquepig.com/2021/06/27/Story-Editor2/)
+- [Warl-G's Blog - Unity手册—Attribute汇总说明](https://warl.top/posts/Unity-Manual-Attribute/)
+- [CodeGize-Unity编辑器开发，使用CustomPropertyDrawer实现枚举中文显示](http://www.codegize.com/post/38.html)
+- [事件函数执行顺序 · Unity-Manual](https://nuysoft.gitbooks.io/unity-manual/content/Manual/ExecutionOrder.html)
+- [游戏引擎 / Unity WebGL微信小游戏适配](https://developers.weixin.qq.com/minigame/dev/guide/game-engine/unity-webgl-transform.html)
+- [《Unity性能优化》-- 5. 性能优化实战 | 不特别周のBlog](https://1024114.xyz/posts/4a5d44c0/)
+- [TinaX Framework - Delightful Unity-based Framework](https://tinax.corala.space/)
+- [Unity 解决包体过大问题记录和纹理相关知识点-云社区-华为云](https://bbs.huaweicloud.com/blogs/293517)
+- [Visual Studio crashes when debugging mixed mode and hitting a breakpoint in native code - Developer Community](https://developercommunity.visualstudio.com/t/visual-studio-crashes-when-debugging-mixed-mode-an/1356008)
+- [Assetを全検索する #Unity - Qiita](https://qiita.com/TETTASUN/items/bbd03ad320fbc03595af)
+- [Holopix AI: AI Game Art Creation Platform & Community](https://app.holopixai.art/)
+- [YouWare | First AI Coding Community Where Creators Build](https://www.youware.com/home)
+
+### 再归档补充
+
+- [DOTween - Documentation](https://dotween.demigiant.com/documentation.php)
+- [纹理贴图资源（Texture） | Cocos Creator](https://docs.cocos.com/creator/3.8/manual/zh/asset/texture.html)
+- [MoonSharp](https://www.moonsharp.org/)
+- [Using ASTC Texture Compression for Game Assets | NVIDIA Developer](https://developer.nvidia.com/astc-texture-compression-for-game-assets)
+- [Wwise 教学 | Audiokinetic](https://www.audiokinetic.com/zh/learning/teach-wwise/)
+- [在EditorWindow上显示自定义类型列表 - 雪千渔Blog](https://www.imxqy.com/gdev/unity/ueditor-clst.html)
+- [ILRuntime中的反射 — ILRuntime](https://ourpalm.github.io/ILRuntime/public/v1/guide/reflection.html)
+- [Odin Inspector 系列教程 - Odin工具箱【一键批量更改Raycast Target选项】 - 个人技术笔记](https://aihailan.com/archives/912)
+
+### 人工压缩补充
+
+- [如何使用及维护Github的LayaAir引擎源码__LAYABOX技术文档](https://ldc2.layabox.com/doc/?language=zh&nav=zh-ts-0-3-4)
+- [代码哲学官网](https://code-philosophy.com/)

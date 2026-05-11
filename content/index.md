@@ -58,9 +58,9 @@ tags:
 
 ## 维护规则
 
-1. **新增链接**：先放进对应主题文件的“长尾（未审核）”小节，确认长期价值后再提升到主题正文
+1. **新增链接**：先放进对应主题文件的“补充资料”小节，确认长期价值后再提升到主题正文
 2. **失效链接**：抓取时如果显示 `403/404/账号已迁移/访客不可达/错误/超时/域名不可访问`，跳过主分类，记录到私有元数据
 3. **专题膨胀**：主题文件超过 ~50 条精选时再拆子文件；同一主题保留集中度
 4. **登录态页面**：需要 token、公司账号、内网或个人账号才能访问的页面归 `content/private/`，不进入公开目录
 5. **批次区分**：[[Unity-框架与工具]] 是早期 OneTab 批的官方框架/工具入口；[[Unity-UI与优化]] 是后续 urls2 批的 UGUI/PureMVC/优化文章
-6. **批量分类**：定期运行 `python scripts/classify_cleaned.py` + `python scripts/refine_unsorted.py` 把 cleaned.txt 新增长尾分桶到对应主题
+6. **批量分类**：定期运行 `python scripts/classify_cleaned.py` + `python scripts/refine_unsorted.py` 把 cleaned.txt 新增补充资料分组到对应主题

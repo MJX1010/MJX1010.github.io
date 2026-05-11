@@ -31,7 +31,6 @@ KEY_SECTIONS = [
 ]
 
 SKIP_NAMES = {
-    "Unity-长尾.md",
     "Unity-知识索引.md",
 }
 
@@ -126,7 +125,7 @@ def find_notes(content_dir: Path) -> list[Path]:
     for path in sorted(content_dir.glob("Unity-*.md")):
         if path.name in SKIP_NAMES:
             continue
-        if path.name.endswith("链接归档.md") or path.name.endswith("长尾链接归档.md"):
+        if path.name.endswith("链接归档.md") or path.name.endswith("素材链接归档.md"):
             continue
         notes.append(path)
     return notes

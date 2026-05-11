@@ -1,11 +1,11 @@
-"""Classify cleaned.txt long-tail URLs into per-topic markdown files.
+"""Classify supplemental URLs into topic notes or private metadata files.
 
 Reads:
-- content/元数据/cleaned.txt (URL | TITLE per line, 1703 lines)
-- content/元数据/selected.txt (already-curated URLs, skip these)
+- content/private/metadata/cleaned.txt (URL | TITLE per line)
+- content/private/metadata/selected.txt (already-curated URLs, skip these)
 
 Bucket each remaining URL by host pattern + title keywords, then append a
-"## 长尾（未审核）" section to the target markdown (or create a new long-tail file).
+"## 补充资料" section to the target markdown (or write to the private metadata pool).
 """
 from __future__ import annotations
 import re
@@ -15,8 +15,8 @@ from collections import defaultdict
 
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
-CLEANED = CONTENT / "元数据" / "cleaned.txt"
-SELECTED = CONTENT / "元数据" / "selected.txt"
+CLEANED = CONTENT / "private" / "metadata" / "cleaned.txt"
+SELECTED = CONTENT / "private" / "metadata" / "selected.txt"
 
 
 def parse_line(line: str) -> tuple[str, str] | None:
@@ -180,21 +180,21 @@ GREY_HOSTS = (
 
 # Output buckets and their target markdown files
 TARGETS: dict[str, dict] = {
-    "ai-tail": {"file": "AI/AI-长尾.md", "title": "AI 长尾", "tags": ["ai-coding", "长尾", "未审核"]},
-    "unity-tail": {"file": "游戏/Unity-长尾.md", "title": "Unity 长尾仓库", "tags": ["unity", "游戏开发", "长尾", "未审核"]},
-    "unreal-tail": {"file": "游戏/Unreal-长尾.md", "title": "Unreal 长尾", "tags": ["unreal-engine", "长尾", "未审核"]},
-    "framesync-tail": {"file": "游戏/帧同步与游戏AI.md", "section": "## 长尾（未审核）", "append": True, "tags_add": ["长尾"]},
-    "game-mobile-tail": {"file": "游戏/移动端接入与平台问题.md", "section": "## 长尾（未审核）", "append": True, "tags_add": ["长尾"]},
-    "cs-ref-tail": {"file": "计算机/C-CSharp-CPP参考.md", "section": "## 长尾（未审核）", "append": True, "tags_add": ["长尾"]},
-    "github-tail": {"file": "计算机/GitHub-长尾.md", "title": "GitHub 长尾仓库", "tags": ["github", "长尾", "未审核"]},
-    "blog-tail": {"file": "资讯/技术博客-长尾.md", "title": "技术博客 长尾", "tags": ["博客", "长尾", "未审核"]},
-    "video-tail": {"file": "资讯/视频与课程.md", "section": "## 长尾（未审核）", "append": True, "tags_add": ["长尾"]},
-    "tools-tail": {"file": "工具/在线工具与协作.md", "section": "## 长尾（未审核）", "append": True, "tags_add": ["长尾"]},
-    "proxy-tail": {"file": "工具/网络与代理.md", "section": "## 长尾（未审核）", "append": True, "tags_add": ["长尾"]},
-    "workspace-tail": {"file": "工作台/工作台与控制台入口.md", "section": "## 六、长尾（未审核）", "append": True, "tags_add": ["长尾"]},
-    "internal-tail": {"file": "工作台/内部长期项目页.md", "section": "## 长尾（未审核）", "append": True, "tags_add": ["长尾"]},
-    "blacklist": {"file": "元数据/失效黑名单.md", "section": "## 十二、长尾扫出的失效（未审核）", "append": True, "tags_add": []},
-    "unsorted": {"file": "元数据/未分类长尾.md", "title": "未分类长尾", "tags": ["元数据", "长尾", "未分类"]},
+    "ai-tail": {"file": "AI/AI工具与导航.md", "section": "## 补充资料", "append": True, "tags_add": []},
+    "unity-tail": {"file": "游戏/Unity-框架与工具.md", "section": "## 补充资料", "append": True, "tags_add": []},
+    "unreal-tail": {"file": "游戏/Unreal-Engine.md", "section": "## 补充资料", "append": True, "tags_add": []},
+    "framesync-tail": {"file": "游戏/帧同步与游戏AI.md", "section": "## 补充资料", "append": True, "tags_add": ["补充资料"]},
+    "game-mobile-tail": {"file": "游戏/移动端接入与平台问题.md", "section": "## 补充资料", "append": True, "tags_add": ["补充资料"]},
+    "cs-ref-tail": {"file": "计算机/C-CSharp-CPP参考.md", "section": "## 补充资料", "append": True, "tags_add": ["补充资料"]},
+    "github-tail": {"file": "计算机/平台与规范.md", "section": "## 补充资料", "append": True, "tags_add": []},
+    "blog-tail": {"file": "资讯/技术博客与社区.md", "section": "## 补充资料", "append": True, "tags_add": []},
+    "video-tail": {"file": "资讯/视频与课程.md", "section": "## 补充资料", "append": True, "tags_add": ["补充资料"]},
+    "tools-tail": {"file": "工具/在线工具与协作.md", "section": "## 补充资料", "append": True, "tags_add": ["补充资料"]},
+    "proxy-tail": {"file": "工具/网络与代理.md", "section": "## 补充资料", "append": True, "tags_add": ["补充资料"]},
+    "workspace-tail": {"file": "private/workbench/工作台与控制台入口.md", "section": "## 六、补充资料", "append": True, "tags_add": ["补充资料"]},
+    "internal-tail": {"file": "private/workbench/内部长期项目页.md", "section": "## 补充资料", "append": True, "tags_add": ["补充资料"]},
+    "blacklist": {"file": "private/metadata/失效黑名单.md", "section": "## 十二、补充资料扫出的失效", "append": True, "tags_add": []},
+    "unsorted": {"file": "private/metadata/未分类素材池.md", "title": "未分类素材池", "tags": ["元数据", "素材池", "未分类"]},
 }
 
 
@@ -277,7 +277,7 @@ def write_new_file(path: Path, title: str, tags: list[str], entries: list[str]) 
     for tg in tags:
         fm.append(f"  - {tg}")
     fm.append("---")
-    body = ["", f"自动从 `元数据/cleaned.txt` 长尾分类入桶；未审核，按需提升到主分类。", "", *entries, ""]
+    body = ["", f"自动从 `content/private/metadata/cleaned.txt` 分类入桶；待人工整理后再吸收到正式主题正文。", "", *entries, ""]
     path.write_text("\n".join(fm + body), encoding="utf-8")
 
 

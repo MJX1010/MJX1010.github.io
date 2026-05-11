@@ -81,7 +81,7 @@ tags:
 - [FMOD User Guide](https://www.fmod.com/docs/2.00/unity/user-guide.html)
 - [FMOD 热更新在安卓下的堆内存占用](https://blog.uwa4d.com/archives/TechSharing_202.html)
 - [ERR_EVENT_NOTFOUND 讨论](https://qa.fmod.com/t/err-event-notfound-the-requested-event-bus-or-vca-could-not-be-found/15391/6)
-- [StudioEventEmitter isPlaying](https://www.fmod.com/docs/2.00/unity/api-studioeventemitter.html#studioeventemitter_isplaying)
+- [StudioEventEmitter isPlaying](https://www.fmod.com/docs/2.00/unity/api-studioeventemitter.html)
 
 ### AI 相关链接
 
