@@ -11,12 +11,9 @@ tags:
 
 ## 一、Agent / AI Coding 工具入口
 
-
 ## 二、相关开源项目
 
-
 ## 三、外部观察与行业信息
-
 
 ## 四、不建议纳入长期知识库的同类页面
 
@@ -35,6 +32,27 @@ tags:
   - 正在用的产品入口
   - 与当前工作流强相关的开源项目
 
-## 链接归档
+## 参考链接
 
-- [[AI-Coding-与-Agent链接归档]]: 外部链接已集中归档
+> 以下链接作为本笔记的资料来源保留。
+
+### 链接分组
+
+- [MiniMax Agent](https://agent.minimaxi.com/)
+
+### AI 相关链接
+
+- [TRAE Solo](https://www.trae.ai/solo)
+- [AI工具集](https://ai-bot.cn/)
+- [AI工具集：Codex](https://ai-bot.cn/sites/53.html)
+- [AI工具集：Qoder](https://ai-bot.cn/sites/60584.html)
+- [阮一峰：TRAE SOLO](https://www.ruanyifeng.com/blog/2025/11/trae-solo.html)
+- [AI工具集：Firebase Studio](https://ai-bot.cn/firebase-studio/)
+- [AI工具集：每日 AI 资讯](https://ai-bot.cn/daily-ai-news/)
+
+### GitHub 相关链接
+
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
+- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
+- [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance)
+- [doocs/awesome-ai](https://github.com/doocs/awesome-ai)

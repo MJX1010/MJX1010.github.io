@@ -23,6 +23,13 @@ tags:
 - ANR 常见于主线程阻塞、SDK 初始化、广告回调、文件 IO、网络等待和 Unity 与原生线程交互。
 - Crashlytics 上报要确认符号文件上传完整，否则 native crash 难以定位。
 
+### Android 构建链风险
+
+- AGP、Gradle、JDK、NDK 和 Unity Editor 之间存在隐性兼容关系，升级前应先在最小工程验证。
+- 多渠道包要检查 Manifest 合并结果，尤其是 `provider`、`activity`、`queries`、`uses-permission` 和 `exported`。
+- Native crash 必须保留 tombstone、Build ID、ABI、符号文件和构建产物，否则只能看到不可读地址。
+- 三方 SDK 初始化应延后、异步化并记录耗时，避免启动阶段同时初始化广告、统计、支付、推送和分享。
+
 ## iOS 关注点
 
 - iOS 崩溃排查依赖 dSYM / cSYM / 符号化流程，上传失败会导致堆栈不可读。
@@ -30,12 +37,26 @@ tags:
 - 动态字体纹理、CJK 字体、TextMeshPro fallback 在 iOS/Mac 上要做专项测试。
 - 原生 SDK 要检查 bitcode、最低系统版本、隐私清单、权限描述和 App Store 审核要求。
 
+### iOS 构建链风险
+
+- Pod 版本升级应和 Unity 导出的 Xcode 工程脚本一起验证，避免本机可编译、CI 或打包机失败。
+- Framework Search Paths、Other Linker Flags、静态库/动态库混用容易导致只在 Release 包暴露的问题。
+- 权限描述、隐私清单、URL Scheme、Associated Domains、ATS 配置都应在提审前导出复核。
+- dSYM/cSYM 上传要验证构建 UUID 是否匹配，不能只看上传命令是否成功。
+
 ## 第三方 SDK
 
 - Firebase、Crashlytics、广告 SDK、ShareSDK、TopOn、AppLovin 等都可能引入 Gradle、Manifest、权限和 native library 冲突。
 - SDK 初始化应避免阻塞主线程，必要时拆分到启动后异步流程。
 - SDK 版本升级要记录兼容矩阵：Unity 版本、Gradle、AGP、Android SDK、iOS SDK、Xcode。
 - 接入 SDK 后要新增最小复现工程或自动化冒烟测试，避免主工程里问题难以定位。
+
+## 版本矩阵
+
+- 每次平台升级至少记录：Unity 版本、Android SDK、AGP、Gradle、JDK、NDK、Xcode、Pods、三方 SDK 版本。
+- 版本矩阵要区分开发环境、CI 环境、打包机环境和线上正式包，避免只在个人电脑验证成功。
+- 对广告、支付、统计、分享、推送类 SDK 建立冒烟测试：初始化、登录态、权限、回调、前后台切换、弱网和隐私弹窗。
+- 所有三方 SDK 的 Manifest、Info.plist、权限和隐私声明都要在提审前导出并人工复核。
 
 ## 排查流程
 
@@ -59,6 +80,15 @@ tags:
 
 ## 参考链接
 
-## 链接归档
+> 以下链接作为本笔记的资料来源保留。
 
-- [[Unity-Android-iOS平台问题笔记链接归档]]: 外部链接已集中归档
+### GitHub 相关链接
+
+- [Firebase Unity cSYM 符号化问题](https://github.com/firebase/quickstart-unity/issues/745)
+
+### 链接分组
+
+- [Unity 项目支持 Android 16 KB 的方案](https://developer.unity.cn/projects/6854c4fcedbc2ada96ddb533)
+- [Android 适配 16 KB Page Size](https://developer.unity.cn/projects/687efd5fedbc2aa66b703c86)
+- [Android OpenURL 本地文件问题](https://issuetracker.unity3d.com/issues/android-openurl-doesnt-open-local-files-on-android-6-if-target-api-level-is-23)
+- [Android SDK 34 构建讨论](https://discussions.unity.com/t/cant-build-for-android-sdk-34/927940/35)

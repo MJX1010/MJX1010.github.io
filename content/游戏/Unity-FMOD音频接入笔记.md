@@ -30,6 +30,14 @@ tags:
 - 使用字符串路径播放事件时要防止拼写错误，项目中更推荐封装常量或生成代码。
 - 多 Bank 项目要明确依赖关系，避免播放事件时只加载了主 Bank，没有加载依赖 Bank。
 
+## 工程规范
+
+- FMOD Studio 工程、Unity 工程和资源发布系统要共享同一套版本号，不要各自独立发布。
+- 事件命名建议按业务域分组，例如 `ui/`、`battle/`、`music/`、`ambient/`，减少后续迁移成本。
+- 事件路径、GUID 和 Bank 依赖应生成校验报告，至少在 CI 中检查“代码引用的事件都存在”。
+- 公共音效、场景音乐、角色音效和活动音效适合拆成不同 Bank，便于按场景加载和卸载。
+- 面向策划或音频设计师的导出流程应尽量按钮化或命令化，减少手动复制 Bank 文件。
+
 ## 常见错误
 
 - `ERR_EVENT_NOTFOUND`：检查事件路径、Bank 是否加载、Bank 是否为最新导出、远端资源是否更新。
@@ -45,6 +53,15 @@ tags:
 - 卸载 Bank 前要确认事件实例已经停止，避免引用仍在播放的资源。
 - Android 上要关注 FMOD 热更新 Bank 的堆内存占用和 Native 内存，不要只看 Unity Managed Heap。
 
+## 排查流程
+
+1. 先确认问题类型：事件不存在、声音不播放、声音残留、格式错误、内存升高还是切后台异常。
+2. 检查 Bank 是否加载：Master、Strings、业务 Bank 和依赖 Bank 是否都在当前平台目录。
+3. 检查事件路径和 GUID：确认代码引用、FMOD Studio、导出的 Strings Bank 是同一版本。
+4. 检查资源发布：首包 Bank、热更新 Bank、Manifest、CDN 文件和本地缓存是否一致。
+5. 检查生命周期：事件实例是否重复创建、是否停止、是否释放、场景切换是否卸载 Bank。
+6. 在真机上验证内存和音频格式，尤其是 Android 热更新 Bank 和 iOS 前后台切换。
+
 ## 发布检查清单
 
 - FMOD Studio 工程版本和 Unity 插件版本是否匹配。
@@ -57,6 +74,15 @@ tags:
 
 ## 参考链接
 
-## 链接归档
+> 以下链接作为本笔记的资料来源保留。
 
-- [[Unity-FMOD音频接入笔记链接归档]]: 外部链接已集中归档
+### 链接分组
+
+- [FMOD User Guide](https://www.fmod.com/docs/2.00/unity/user-guide.html)
+- [FMOD 热更新在安卓下的堆内存占用](https://blog.uwa4d.com/archives/TechSharing_202.html)
+- [ERR_EVENT_NOTFOUND 讨论](https://qa.fmod.com/t/err-event-notfound-the-requested-event-bus-or-vca-could-not-be-found/15391/6)
+- [StudioEventEmitter isPlaying](https://www.fmod.com/docs/2.00/unity/api-studioeventemitter.html#studioeventemitter_isplaying)
+
+### AI 相关链接
+
+- [检查 FMOD event 是否播放](https://qa.fmod.com/t/can-unity-check-if-certain-fmod-event-is-playing/15342/7)

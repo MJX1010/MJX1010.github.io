@@ -10,4 +10,14 @@ tags:
 
 ## 归档入口
 
-- [[Unreal-长尾链接归档]]: 原始外链归档。
+## 参考链接
+
+> 以下链接作为本笔记的资料来源保留。
+
+### 待二次判断
+
+- [控制面板 — Epic Online Services | 开发者门户](https://dev.epicgames.com/portal/zh-Hans/boltray-games?trackingId=b033d258e0a14eb69a005558fbbe9b89)
+
+### 游戏与引擎 GitHub 项目
+
+- [EpicGames/UnrealEngine: Unreal Engine source code](https://github.com/EpicGames/UnrealEngine)

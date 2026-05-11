@@ -25,6 +25,13 @@ tags:
 6. CDN / 对象存储上传远端资源，客户端按版本清单下载差异资源。
 7. 客户端启动时检查版本，加载资源包、配置表、热更新程序集，再进入业务逻辑。
 
+## 适用场景
+
+- 项目需要在 IL2CPP 平台做代码热更新，同时要求配置和资源也可灰度发布。
+- 策划配置更新频繁，且客户端、服务器、工具链需要共享同一份 schema。
+- 包体要持续瘦身，需要首包/远端资源分离、增量更新和回滚能力。
+- 团队希望把“点按钮”的人工流程替换为 CI 可重复命令。
+
 ## HybridCLR
 
 ### 解决的问题
@@ -103,6 +110,15 @@ tags:
 - CDN 上传完成后要做文件存在性、Hash、Manifest、下载速度和断点续传验证。
 - 灰度发布时优先让小流量走新资源版本，确认崩溃率、下载失败率、热更加载错误后再全量。
 
+## 排查流程
+
+1. 先确认问题在代码热更、资源更新、配置导表、版本清单还是 CDN 发布。
+2. 核对版本链路：客户端版本、资源版本、配置版本、热更 DLL 版本、schema 版本是否匹配。
+3. 检查构建产物：热更 DLL、AOT 元数据、Manifest、补丁包、配置数据是否完整。
+4. 检查发布原子性：资源是否已上传完成、Manifest 是否同步刷新、旧资源是否错误覆盖。
+5. 用最小复现包验证下载、解密、加载、反序列化和热更入口加载顺序。
+6. 修复后补齐 CI 断言，避免同类问题再次进入发布流程。
+
 ## CI 检查清单
 
 - Luban 配置校验失败时是否会阻断构建。
@@ -125,6 +141,26 @@ tags:
 
 ## 参考链接
 
-## 链接归档
+> 以下链接作为本笔记的资料来源保留。
 
-- [[Unity-热更新与资源配置工程化笔记链接归档]]: 外部链接已集中归档
+### 链接分组
+
+- [Luban 命令行工具](https://www.datable.cn/docs/manual/commandtools)
+- [Luban 使用列限定与紧凑格式](https://www.datable.cn/docs/beginner/streamandcolumnformat#%E6%B5%81%E5%BC%8F%E6%A0%BC%E5%BC%8F%E4%B8%80%E4%B8%AA%E5%8D%95%E5%85%83%E6%A0%BC%E4%BD%BF%E7%94%A8%E5%88%86%E5%89%B2%E7%AC%A6%E5%88%86%E5%89%B2%E5%90%8E%E6%8C%89%E9%A1%BA%E5%BA%8F%E8%AF%BB%E5%8F%96)
+- [xasset 官网](https://xasset.cc/)
+
+### GitHub 相关链接
+
+- [DangoRyn/UnityGameFramework_HybridCLR](https://github.com/DangoRyn/UnityGameFramework_HybridCLR)
+- [It-Life/Deer_GameFramework_Wolong](https://github.com/It-Life/Deer_GameFramework_Wolong)
+- [xasset/xasset](https://github.com/xasset/xasset?tab=readme-ov-file)
+
+### 链接分组
+
+- [YooAsset 资源构建](https://www.yooasset.com/docs/guide-editor/AssetBundleBuilder)
+- [YooAsset 官网](https://www.yooasset.com/)
+- [HybridCLR 安装](https://www.hybridclr.cn/docs/basic/install#%E4%BB%8Egit-url%E5%AE%89%E8%A3%85)
+
+### GitHub 相关链接
+
+- [GameFrameX/GameFrameX](https://github.com/GameFrameX/GameFrameX)

@@ -38,6 +38,13 @@ tags:
 - Odin 适合提升开发效率，但核心数据结构不应强依赖展示层能力。
 - 工具对多人协作友好时，要优先做校验、提示和自动修复，而不是只做漂亮界面。
 
+### UI Toolkit 取舍
+
+- UI Toolkit 更适合长期维护的复杂编辑器窗口，尤其是需要样式、布局和可扩展 UI 的工具。
+- IMGUI 更适合快速原型和一次性内部工具，复杂状态管理会逐渐变难维护。
+- Odin、IMGUI、UI Toolkit 的选择应按维护周期、复杂度、团队熟悉度和授权成本决定。
+- 无论使用哪种 UI 技术，工具的数据模型和业务操作都不应绑定在绘制代码里。
+
 ## 资源与项目工具
 
 - 资源大小统计工具可以帮助定位大图、大 Mesh、重复资源和异常导入设置。
@@ -51,6 +58,14 @@ tags:
 - Compilation Visualizer / DirtyCompiler 类工具适合分析程序集依赖和局部编译策略。
 - 拆 asmdef 可以减少无关程序集重编译，但拆太细会增加依赖管理成本。
 - 自动编译可在批量改代码或生成代码时临时关闭，但要确保恢复流程明确。
+
+## 工具落地流程
+
+1. 明确工具要替代的人工流程，并记录当前耗时、错误率和涉及角色。
+2. 先做最小可用版本，只覆盖最痛的 20% 操作。
+3. 加入日志、预览、Undo、dry-run 和失败恢复，再扩大批量能力。
+4. 接入项目规范检查或 CI，让工具结果可重复验证。
+5. 收集团队反馈，优化入口、提示、默认值和错误恢复。
 
 ## 设计原则
 
@@ -72,6 +87,21 @@ tags:
 
 ## 参考链接
 
-## 链接归档
+> 以下链接作为本笔记的资料来源保留。
 
-- [[Unity-编辑器扩展与效率工具笔记链接归档]]: 外部链接已集中归档
+### 链接分组
+
+- [Editor GUI 事件拦截](https://www.xuanyusong.com/archives/3889)
+- [脚本获取资源内存和硬盘大小](https://www.xuanyusong.com/archives/4263)
+
+### GitHub 相关链接
+
+- [Editor Iteration Profiler](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler)
+- [UnityDirtyCompiler](https://github.com/GameArki/UnityDirtyCompiler)
+
+### 链接分组
+
+- [Going deep with IMGUI and Editor customization](https://blog.unity.com/engine-platform/imgui-and-editor-customization)
+- [How to Create a Custom Inspector with Odin](https://odininspector.com/tutorials/getting-started/how-to-create-a-custom-inspector-with-odin-)
+- [Odin Searchable Attribute](https://odininspector.com/attributes/searchable-attribute)
+- [雨松MOMO Unity3D 拓展编辑器](https://www.xuanyusong.com/archives/category/unity/unity3deditor)

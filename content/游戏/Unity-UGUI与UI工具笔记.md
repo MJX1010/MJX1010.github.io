@@ -30,6 +30,20 @@ tags:
 - 遮罩、半透明、粒子和复杂 Shader 会增加 Overdraw，需要配合 Frame Debugger 检查。
 - 动态字体纹理要设置合理 fallback 和字符集策略，避免字体贴图无限膨胀。
 
+### Canvas 与 Layout
+
+- Canvas 是 UI 批处理和重建边界，小范围变化也可能触发整个 Canvas 重新构建。
+- Canvas 拆分要按更新频率、层级和材质分组，不能为了“减少重建”无限拆 Canvas。
+- `LayoutGroup`、`ContentSizeFitter` 和动态文本组合使用时，要重点关注打开面板时的递归尺寸计算。
+- 聊天、公告、排行榜等动态文本界面应缓存尺寸结果，避免每帧重复计算 Preferred Size。
+
+### ScrollRect 与复用
+
+- 复用列表要明确 Cell 生命周期：创建、绑定数据、刷新、回收、点击事件解绑。
+- Cell 高度不固定时需要维护高度缓存，否则滚动定位和重排成本会很高。
+- 列表刷新要区分全量刷新、局部刷新、数据变更刷新，避免每次重新生成全部 UI。
+- 快速滑动、跳转定位、筛选排序和异步加载图片是列表工具必须覆盖的测试场景。
+
 ## 事件系统
 
 - `EventSystem` 负责输入事件分发，项目中通常只应存在一个有效事件系统。
@@ -52,6 +66,14 @@ tags:
 - 动态表情、道具图标、富文本标签要避免在运行时频繁创建材质或字体资源实例。
 - 多语言项目应提前规划字体 fallback、CJK 字符集和动态加载策略。
 
+## 排查流程
+
+1. 先明确问题是打开卡顿、滑动掉帧、内存增长、点击异常、字体膨胀还是 DrawCall 增加。
+2. 使用 Profiler 查看 CPU、UI、GC、Rendering 和内存，确认主要瓶颈。
+3. 用 Frame Debugger 分析 DrawCall、材质、图集、Mask 和 Overdraw。
+4. 检查 Canvas 拆分、Layout 嵌套、ScrollRect 复用、Raycast Target 和资源导入设置。
+5. 修复后把规则沉淀到编辑器检查工具，例如 Raycast Target 扫描、图集归属检查和字体资源检查。
+
 ## 检查清单
 
 - 是否存在一个页面多个 Canvas 无意义嵌套。
@@ -65,6 +87,23 @@ tags:
 
 ## 参考链接
 
-## 链接归档
+> 以下链接作为本笔记的资料来源保留。
 
-- [[Unity-UGUI与UI工具笔记链接归档]]: 外部链接已集中归档
+### GitHub 相关链接
+
+- [Unity uGUI EventSystem 文档](https://github.com/Unity-Technologies/uGUI/blob/main/com.unity.ugui/Documentation~/EventSystem.md)
+- [PSD2UGUI_X](https://github.com/sunsvip/PSD2UGUI_X)
+- [XCharts 文档](https://github.com/Hengle/unity-ugui-XCharts/tree/master/Documentation~/zh)
+
+### 链接分组
+
+- [基于 Unity TextMeshPro 的图文混排和超链接功能](https://www.lfzxb.top/unity-textmeshpro-something/)
+
+### AI 相关链接
+
+- [WillRenderCanvases 源码解读](https://edu.uwa4d.com/lesson-detail/79/99/0?isPreview=0)
+
+### GitHub 相关链接
+
+- [LoopScrollRect](https://github.com/qiankanglai/LoopScrollRect)
+- [UIEditor](https://github.com/gkjolin/UIEditor)
