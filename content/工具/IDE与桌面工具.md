@@ -66,3 +66,22 @@ tags:
 ### AI 相关链接
 
 - [JetBrains: 软件开发者和团队的必备工具（中文）](https://www.jetbrains.com.cn/)
+
+### 补充归档（开发工具仓库）
+
+- [Downloads | Cursor - The AI Code Editor](https://cursor.com/downloads)
+- [DevToys-app/DevToys: A Swiss Army knife for developers.](https://github.com/DevToys-app/DevToys)
+- [Devbeat-io/devtoys-extensions](https://github.com/Devbeat-io/devtoys-extensions/tree/main)
+- [821869798/excel_merge: excel merge diff tools，excel对比合并工具](https://github.com/821869798/excel_merge)
+- [focus-creative-games/Excel2TextDiff: 将xlsx转成text然后调用diff工具对比](https://github.com/focus-creative-games/Excel2TextDiff)
+- [rafal-dot/xlsxDiff: Compare two Excel .xlsx files](https://github.com/rafal-dot/xlsxDiff)
+- [zbuzhi/diff-excel: Excel文件对比工具](https://github.com/zbuzhi/diff-excel)
+- [DeviceFarmer/stf: Control and manage Android devices from your browser.](https://github.com/DeviceFarmer/stf)
+- [FlaUI/FlaUI: UI automation library for .Net](https://github.com/FlaUI/FlaUI)
+- [NaoTu/DesktopNaotu: 桌面版脑图（百度脑图离线版）](https://github.com/NaoTu/DesktopNaotu)
+- [Tyrrrz/CliWrap: Library for running command-line processes](https://github.com/Tyrrrz/CliWrap?open_in_browser=true)
+- [xoofx/kalk: kalk is a powerful command line calculator app for developers.](https://github.com/xoofx/kalk)
+- [LiuOcean/CliToolkit](https://github.com/LiuOcean/CliToolkit)
+- [Zuoqiu-Yingyi/siyuan-publish: 思源笔记在线发布工具](https://github.com/Zuoqiu-Yingyi/siyuan-publish)
+- [Releases · KiyanYang/DotVast.HashTool.WinUI](https://github.com/KiyanYang/DotVast.HashTool.WinUI/releases)
+- [Releases · google/bundletool](https://github.com/google/bundletool/releases)

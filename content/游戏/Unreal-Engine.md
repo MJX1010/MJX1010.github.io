@@ -66,3 +66,8 @@ Unreal Engine 学习与开发资料入口，以 UE4.27 为主要版本参考（�
 ### AI 相关链接
 
 - [虚幻引擎学习资源大全：从入门到精通 - CSDN 博客](https://blog.csdn.net/danshiming/article/details/125118781)
+
+### 补充归档
+
+- [控制面板 — Epic Online Services | 开发者门户](https://dev.epicgames.com/portal/zh-Hans/boltray-games?trackingId=b033d258e0a14eb69a005558fbbe9b89)
+- [EpicGames/UnrealEngine: Unreal Engine source code](https://github.com/EpicGames/UnrealEngine)

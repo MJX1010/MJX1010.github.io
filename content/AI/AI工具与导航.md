@@ -64,3 +64,16 @@ AI 编程辅助工具、开发者 API 平台、AI 工具导航站和创作类工
 ### GitHub 相关链接
 
 - [GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot/)
+
+### 补充归档
+
+- [AIbase基地 - 让更多人看到未来 通往AGI之路](https://www.aibase.com/zh)
+- [Codex | OpenAI](https://openai.com/zh-Hans-CN/codex/)
+- [ima.copilot-腾讯智能工作台](https://ima.qq.com/?utm_source=ai-bot.cn)
+- [API | xAI](https://x.ai/api)
+- [Using Management API | xAI Docs](https://docs.x.ai/docs/key-information/using-management-api)
+- [Explore GPTs](https://chatgpt.com/gpts)
+- [人工智能新闻和机器人新闻 - Unite.AI](https://www.unite.ai/zh-CN/)
+- [10 个最佳 AI 代码生成器（2025 年）- Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/)
+- [100+国内外AI大模型合集及详细介绍 - AIHub | AI导航](https://www.aihub.cn/tools/llm/)
+- [GPT-4o：OpenAI最新发布的多模态AI大模型 - AIHub | AI导航](https://www.aihub.cn/tools/chatbot/gpt-4o/)
