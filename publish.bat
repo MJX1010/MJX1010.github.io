@@ -19,9 +19,9 @@ if "%errorlevel%"=="0" (
     )
 )
 
-:: 使用 quartz sync 自动 add / commit / pull / push
+:: 使用 quartz sync 自动 add / commit / push（--no-pull 跳过拉取 Quartz 框架更新）
 echo [STEP] 同步并推送到 GitHub...
-npx quartz sync
+npx quartz sync --no-pull
 
 if %errorlevel% neq 0 (
     echo.

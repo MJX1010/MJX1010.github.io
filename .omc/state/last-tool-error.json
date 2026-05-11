@@ -1,7 +1,7 @@
 {
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"ls \\\"d:\\\\Notes\\\\MJX1010.github.io_real_me\\\\.github\\\\workflows\\\\\\\"\",\"description\":\"列出 workflows 目录内容\"}",
-  "error": "Exit code 2\n/usr/bin/bash: eval: line 1: unexpected EOF while looking for matching `\"'",
-  "timestamp": "2026-05-11T04:25:16.244Z",
-  "retry_count": 2
+  "tool_name": "PowerShell",
+  "tool_input_preview": "{\"command\":\"cd \\\"d:\\\\Notes\\\\MJX1010.github.io_real_me\\\"; git ls-files --others --exclude-standard | head -50\",\"description\":\"列出所有未被 git 追踪的文件\"}",
+  "error": "Exit code 1\nhead : The term 'head' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the\r\n spelling of the name, or if a path was included, verify that the path is correct and try again.\r\nAt line:1 char:85\r\n+ ... thub.io_real_me\"; git ls-files --others --exclude-standard | head -50\r\n+                                                                  ~~~~\r\n    + CategoryInfo          : ObjectNotFound: (head:String) [], CommandNotFoundException\r\n    + Full...",
+  "timestamp": "2026-05-11T04:59:16.038Z",
+  "retry_count": 1
 }
