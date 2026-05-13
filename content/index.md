@@ -51,7 +51,7 @@ source_count: 0
 2. **失效链接**：抓取时如果显示 `403/404/账号已迁移/访客不可达/错误/超时/域名不可访问`，跳过主分类，记录到私有元数据
 3. **专题膨胀**：主题文件超过 \~50 条精选时再拆子文件；同一主题保留集中度
 4. **登录态页面**：需要 token、公司账号、内网或个人账号才能访问的页面归 `content/private/`，不进入公开目录
-5. **元数据规范**：公开笔记按 [[Frontmatter 规范]] 维护 `status`、`confidence`、`visibility` 等字段
+5. **元数据规范**：公开笔记统一维护 `status`、`confidence`、`visibility`、`last_curated` 等字段
 6. **批次区分**：[[Unity-框架与工具]] 是早期 OneTab 批的官方框架/工具入口；[[Unity-UI与优化]] 是后续 urls2 批的 UGUI/PureMVC/优化文章
 7. **批量分类**：定期运行 `python scripts/classify_cleaned.py` + `python scripts/refine_unsorted.py` 把 cleaned.txt 新增补充资料分组到对应主题
 8. **发布前检查**：运行 `python scripts/wiki_lint.py` 检查公开区 frontmatter、wikilink、敏感入口和 manifest 状态

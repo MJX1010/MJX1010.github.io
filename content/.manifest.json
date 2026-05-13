@@ -1,54 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-13T02:59:24+00:00",
+  "generated_at": "2026-05-13T03:20:55+00:00",
   "content_root": "content",
   "policy": {
     "private_content": "content/private/ is ignored by git and Quartz publication",
     "link_format": "wikilink",
-    "frontmatter_spec": "_meta/frontmatter规范.md"
+    "frontmatter_spec": "stored in content/_meta/ and excluded from publication"
   },
   "sources": [],
   "review_queue": [],
   "notes": {
-    "00-精选/个人常用版.md": {
-      "title": "个人常用版",
-      "tags": [
-        "精选",
-        "入口",
-        "高频"
-      ],
-      "status": "reviewed",
-      "visibility": "public",
-      "confidence": 0.7,
-      "sha256": "77880292d06581d8784af9e79263180b064dfbc9731cd4734f61bd8c7e54f896",
-      "external_link_count": 17
-    },
-    "00-精选/知识清单.md": {
-      "title": "知识清单",
-      "tags": [
-        "精选",
-        "入口",
-        "主索引"
-      ],
-      "status": "reviewed",
-      "visibility": "public",
-      "confidence": 0.7,
-      "sha256": "1d33f46541257a8958b31f6e9db81963e271a3388c1e42d5d1bb9940e76160f4",
-      "external_link_count": 124
-    },
-    "_meta/frontmatter规范.md": {
-      "title": "Frontmatter 规范",
-      "tags": [
-        "元数据",
-        "维护规范",
-        "wiki-lint"
-      ],
-      "status": "reviewed",
-      "visibility": "public",
-      "confidence": 0.9,
-      "sha256": "363886034a4234a60bc815ad659f8dbf3f006f446574e152da14fb1c1e2d5ccb",
-      "external_link_count": 0
-    },
     "AI/工具与导航/AI工具与导航.md": {
       "title": "AI 工具与导航",
       "tags": [
@@ -94,7 +55,7 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "0806d67cfc1452a729a42e5e364c050468c5534cc680f0a0495f4ed676981334",
+      "sha256": "35c6add3565742ea824f512730beabff0ce2fd27d35b07db070ecc2fad834ea8",
       "external_link_count": 0
     },
     "工具/在线协作/在线工具与协作.md": {

@@ -28,7 +28,8 @@ DEFAULT_MANIFEST = DEFAULT_CONTENT_DIR / ".manifest.json"
 ALLOWED_STATUS = {"seed", "draft", "reviewed", "verified", "archived"}
 ALLOWED_VISIBILITY = {"public", "internal", "private", "pii"}
 RECOMMENDED_FIELDS = ("title", "tags", "status", "confidence", "visibility", "last_curated")
-SKIP_ORPHAN_DIRS = {"00-精选", "_meta"}
+IGNORED_PUBLIC_DIRS = {"_meta"}
+SKIP_ORPHAN_DIRS = set()
 
 WIKILINK_RE = re.compile(r"(?<!!)\[\[([^\]]+)\]\]")
 MARKDOWN_LINK_RE = re.compile(r"!?\[([^\]]*)\]\(([^)\s]+)(?:\s+\"[^\"]*\")?\)")
@@ -91,7 +92,7 @@ def iter_markdown_files(content_dir: Path) -> list[Path]:
     files: list[Path] = []
     for path in sorted(content_dir.rglob("*.md")):
         rel = path.relative_to(content_dir)
-        if rel.parts and rel.parts[0] == "private":
+        if rel.parts and rel.parts[0] in {"private", *IGNORED_PUBLIC_DIRS}:
             continue
         files.append(path)
     return files
@@ -417,7 +418,7 @@ def write_manifest(path: Path, content_dir: Path, notes: list[Note]) -> None:
         "policy": {
             "private_content": "content/private/ is ignored by git and Quartz publication",
             "link_format": "wikilink",
-            "frontmatter_spec": "_meta/frontmatter规范.md",
+            "frontmatter_spec": "stored in content/_meta/ and excluded from publication",
         },
         "sources": existing.get("sources", []) if isinstance(existing, dict) else [],
         "review_queue": existing.get("review_queue", []) if isinstance(existing, dict) else [],
