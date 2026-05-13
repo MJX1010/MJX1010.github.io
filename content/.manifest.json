@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-13T03:20:55+00:00",
+  "generated_at": "2026-05-13T03:32:51+00:00",
   "content_root": "content",
   "policy": {
     "private_content": "content/private/ is ignored by git and Quartz publication",
@@ -20,8 +20,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "5701c76621bac741ea04ed63e4297ff271a5c560b64e5ae248f02a09602c9e76",
-      "external_link_count": 29
+      "sha256": "4ddf6fdad88fe3eb74c53edf2e302cb79f01a8cda62e0f72382c07595d5fbd1c",
+      "external_link_count": 10
     },
     "AI/开发与Agent/AI-Coding-与-Agent.md": {
       "title": "AI Coding 与 Agent",
@@ -33,8 +33,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "7712daca57db2fa590286d240c58776300fcb025619c34fb58d86432b39944a4",
-      "external_link_count": 12
+      "sha256": "0b01379ace674358648a7252e88037a2e4e7d433cfa42372cc4660d04e13b840",
+      "external_link_count": 5
     },
     "AI/模型与产品/大模型产品.md": {
       "title": "大模型产品",
@@ -46,8 +46,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "202652842a672aaee8f8cfbcd1619a65019aa10a3ed6976f180b8519a90c4cc7",
-      "external_link_count": 17
+      "sha256": "6398c5b11b6e1bcaf756a03d382afcfd2aedc238be3519e1e88edceb70e01a65",
+      "external_link_count": 10
     },
     "index.md": {
       "title": "MJX1010 知识库",
@@ -69,8 +69,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "41e3d40c1e8dc7d85f58ecb7895c51d06927086bbe185765beab0fd006d8079b",
-      "external_link_count": 86
+      "sha256": "cc0c6530da0ca7caa94be37a674aada751118789500b217133db8a505685f86e",
+      "external_link_count": 10
     },
     "工具/学习与导航/学习导航.md": {
       "title": "学习导航",
@@ -95,8 +95,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "76500a583253c01ca020c69857060ba20e80b6d5ae6f9fd2133f78422f98bcb1",
-      "external_link_count": 31
+      "sha256": "25397ca4269742d9ea0298a2e4f56b4259ec0d006a62633df1a8e0a938b79ca3",
+      "external_link_count": 10
     },
     "工具/网络与连接/网络与代理.md": {
       "title": "网络与代理",
@@ -124,8 +124,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "973c6ff0c2962be351fdac49413599f1757b07d7d8d68fec4f3b0c0ad290dd8f",
-      "external_link_count": 44
+      "sha256": "ba4a80f8876139ed7c1940dbcaf28e6d2887c30b60d0042d6f2bb69e6a4e7e1a",
+      "external_link_count": 10
     },
     "游戏/引擎/Unity/Unity-Android-iOS平台问题笔记.md": {
       "title": "Unity Android iOS 平台问题笔记",
@@ -182,8 +182,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "e0b79cbd702c920719bdfe9a684df9b7a8d183418075ebb41b57122b755238ce",
-      "external_link_count": 42
+      "sha256": "e6ca3e77d58b53532f6fdc473daaec2a0880cb2345a50b65bfd1b5f2a39e6598",
+      "external_link_count": 10
     },
     "游戏/引擎/Unity/Unity-内存与性能优化笔记.md": {
       "title": "Unity 内存与性能优化笔记",
@@ -196,8 +196,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "6d4f5397bba2cb987d4dd3a9872311ebe171d9cb75a3dd457ce18749f7759c0c",
-      "external_link_count": 11
+      "sha256": "ae75aa551291191e00ec2ebfa97571ed4165afaca105abc4b150f0e85afe783a",
+      "external_link_count": 2
     },
     "游戏/引擎/Unity/Unity-框架与工具.md": {
       "title": "Unity 框架与工具",
@@ -211,8 +211,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "703c0fa053aca7c168de3b18c1f70fe08812c680d444d715fd9446d45409e788",
-      "external_link_count": 170
+      "sha256": "a3a60b4bbeaed6087529107e7e6a5519412090ca18d8763833f506b37cdd6e03",
+      "external_link_count": 10
     },
     "游戏/引擎/Unity/Unity-热更新与资源配置工程化笔记.md": {
       "title": "Unity 热更新与资源配置工程化笔记",
@@ -267,8 +267,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "75a8ccf5eacb58996e18d93e93ff4bc31284d897406fbf970c4999ad0d60e7f4",
-      "external_link_count": 24
+      "sha256": "dd66881ab81f8e4bd26bf88bb5922140f85d72ae3c7568e48bb83d6a5e32c24f",
+      "external_link_count": 10
     },
     "游戏/引擎/其他引擎/其他引擎.md": {
       "title": "其他引擎",
@@ -297,8 +297,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "0cbbb7130768e4aa664738a4f732b563a0655771f5a6f6b0dbfd020d0b7ebf81",
-      "external_link_count": 22
+      "sha256": "24e120a284ef8251f778164d1c1e4721b302d012609fb39f64de1028f6f1547a",
+      "external_link_count": 10
     },
     "计算机/基础与规范/平台与规范.md": {
       "title": "平台与规范",
@@ -312,8 +312,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "e013f6ab05d937e507f9c650123a1ea5811d54f1e49da094c5053c2d7ce4143d",
-      "external_link_count": 11
+      "sha256": "e242417b0a0a7d1ea33af9834b29399f82192d8153176e6e773bffd7c2671381",
+      "external_link_count": 10
     },
     "计算机/基础与规范/算法与计算机基础.md": {
       "title": "算法与计算机基础",
@@ -326,8 +326,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "511820f3f849f88e0e15d437ab861a9e58d7b6b6927e90151689152523e97c26",
-      "external_link_count": 12
+      "sha256": "22b947ea5a1f9ace6bb62210fbc781b4cd9452554c969f52357cb994f06b2c8f",
+      "external_link_count": 10
     },
     "计算机/语言与运行时/C-CSharp-CPP参考.md": {
       "title": "C / C# / C++ 参考",
@@ -341,8 +341,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "b3c53f0a40f692324252d1baaebda5377eb1f85974e693535927b41fca3bef3f",
-      "external_link_count": 91
+      "sha256": "4ad624ac4e8483bcbd365b25614367658704763bbaa384b67396cb86dbd181ae",
+      "external_link_count": 10
     },
     "计算机/语言与运行时/编程语言.md": {
       "title": "编程语言",
@@ -356,8 +356,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "804ab1192bfd5660b88d80b0f51d57a7db59c1b43099d2f4eac5542bfb0cbe55",
-      "external_link_count": 20
+      "sha256": "cbc219c86e93be5cf4dff838e140dab9153bed05190014f08eb3261f81001b37",
+      "external_link_count": 10
     },
     "资源/电子书与素材.md": {
       "title": "电子书与素材",
@@ -369,8 +369,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "c08e22b3e64221b0ea96669c38140ac677eedaac07203ce9f5505beb180de729",
-      "external_link_count": 17
+      "sha256": "d21e30317680a8891ca50d5704725726b1e0447af72a9d3c55a22782e70b17de",
+      "external_link_count": 10
     },
     "资源/软件与游戏资源.md": {
       "title": "软件与游戏资源",
@@ -382,8 +382,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "4fce159b40290f55ca4ff6eabc9963fed570db1aaf93d8c81a7c3859206fe767",
-      "external_link_count": 16
+      "sha256": "26e64e445b7dfca6cd57ec2878845aac76aa275a49cf96a5265f444bdf9d9788",
+      "external_link_count": 10
     },
     "资讯/媒体与观察/综合媒体.md": {
       "title": "综合媒体",
@@ -395,8 +395,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "39ce0d393c06be59f8bc78576444228bddb9667216014143b3711ee71b5cd53b",
-      "external_link_count": 12
+      "sha256": "764d66023ba5d69b99cab5c58426b2b58577ff6853c94eb0e23ee579bf825193",
+      "external_link_count": 10
     },
     "资讯/社区与博客/技术博客与社区.md": {
       "title": "技术博客与社区",
@@ -408,8 +408,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "2ce956dd37b7f9b7e063b5f33a84c2d854de7cde6eaa5893207314e1d67da2cc",
-      "external_link_count": 181
+      "sha256": "cc33e034624f2146e3b8b27b427758072d6f83648311d76109862b326542dff4",
+      "external_link_count": 10
     },
     "资讯/视频与课程/视频与课程.md": {
       "title": "视频与课程",
@@ -423,8 +423,8 @@
       "status": "reviewed",
       "visibility": "public",
       "confidence": 0.7,
-      "sha256": "49b6d307bee43c6f2aca3acbb62861e1d01568f6982fa3d4924ef3ee1e958f27",
-      "external_link_count": 55
+      "sha256": "6f334908489c6be4cc244ee1e291268d1b2ed69c96ef899e69b9b78cbff8195b",
+      "external_link_count": 10
     }
   }
 }

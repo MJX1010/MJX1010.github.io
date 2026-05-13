@@ -30,6 +30,7 @@ ALLOWED_VISIBILITY = {"public", "internal", "private", "pii"}
 RECOMMENDED_FIELDS = ("title", "tags", "status", "confidence", "visibility", "last_curated")
 IGNORED_PUBLIC_DIRS = {"_meta"}
 SKIP_ORPHAN_DIRS = set()
+MAX_REFERENCE_LINKS = 10
 
 WIKILINK_RE = re.compile(r"(?<!!)\[\[([^\]]+)\]\]")
 MARKDOWN_LINK_RE = re.compile(r"!?\[([^\]]*)\]\(([^)\s]+)(?:\s+\"[^\"]*\")?\)")
@@ -274,6 +275,23 @@ def lint_reference_sections(notes: Iterable[Note]) -> list[Finding]:
         has_external = any(url.startswith(("http://", "https://")) for _, url in MARKDOWN_LINK_RE.findall(note.text))
         if has_external and "## 参考链接" not in note.text and note.rel_path != "index.md":
             findings.append(Finding("warning", note.path, "包含外链但缺少 `## 参考链接` 小节"))
+            continue
+
+        if "## 参考链接" in note.text:
+            ref_body = note.text.split("## 参考链接", 1)[1]
+            ref_links = [
+                url
+                for _, url in MARKDOWN_LINK_RE.findall(ref_body)
+                if url.startswith(("http://", "https://"))
+            ]
+            if len(ref_links) > MAX_REFERENCE_LINKS:
+                findings.append(
+                    Finding(
+                        "warning",
+                        note.path,
+                        f"`参考链接` 过多：{len(ref_links)} 条，建议压缩到 {MAX_REFERENCE_LINKS} 条以内",
+                    )
+                )
     return findings
 
 

@@ -8,7 +8,7 @@ status: reviewed
 confidence: 0.7
 visibility: public
 last_curated: 2026-05-13
-source_count: 29
+source_count: 10
 ---
 
 > 阶段：03-AI-Coding  
@@ -44,50 +44,28 @@ AI 编程辅助工具、开发者 API 平台、AI 工具导航站和创作类工
 
 - TRAE Pricing：订阅和权益确认入口
 
+## 资料收敛说明
+
+- 本页已将原先 `29` 条参考链接压缩为 `10` 条核心引用，重复导航页、同类 API 细节页和低信噪比补充资料不再逐条公开保留。
+- 正文已优先沉淀选型标准、排查流程、风险边界和常用工具定位，后续新增资料应继续转成正文结论，而不是直接堆叠链接。
+- 文末只保留官方文档、代表性开源项目和少量仍值得回看的补充阅读。
+
 ## 参考链接
 
-> 以下链接作为本笔记的资料来源保留。
+> 以下链接仅保留正文仍需回看的核心资料入口。
 
-### 链接分组
+### 开源项目
 
-- [copilot 使用教程与问题解答 - kdocs](https://www.kdocs.cn/l/cbZGT6WcPWic)
-- [Ollama](https://ollama.com/)
 - [google-gemini/gemini-cli - GitHub](https://github.com/google-gemini/gemini-cli)
-
-### AI 相关链接
-
-- [【笔记】Windows 安装 Gemini CLI - CSDN](https://blog.csdn.net/u014451778/article/details/149072924)
-- [AI Code With 控制台](https://aicodewith.com/zh/pricing)
-- [Dify - Agentic Workflow Builder](https://dify.ai/)
-- [OpenAI Help Center](https://help.openai.com/en/)
-- [火山引擎 - 你的 AI 云](https://www.volcengine.com/)
-- [AI 工具集官网（导航）](https://ai-bot.cn/)
-- [2024 年 12 月国内 AI 产品排行榜](https://top.aibase.com/ranking/cnrank)
-- [chatgptzhinan](https://chatgptzhinan.com/)
-- [civitai](https://civitai.com/)
-- [TRAE Pricing](https://www.trae.ai/pricing)
-
-### GitHub 相关链接
-
 - [GitHub Copilot · Your AI pair programmer](https://github.com/features/copilot/)
 
-### 补充归档
+### 补充阅读
 
-- [AIbase基地 - 让更多人看到未来 通往AGI之路](https://www.aibase.com/zh)
-- [Codex | OpenAI](https://openai.com/zh-Hans-CN/codex/)
-- [ima.copilot-腾讯智能工作台](https://ima.qq.com/)
-- [API | xAI](https://x.ai/api)
-- [Using Management API | xAI Docs](https://docs.x.ai/docs/key-information/using-management-api)
-- [Explore GPTs](https://chatgpt.com/gpts)
-- [人工智能新闻和机器人新闻 - Unite.AI](https://www.unite.ai/zh-CN/)
-- [10 个最佳 AI 代码生成器（2025 年）- Unite.AI](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/)
-- [100+国内外AI大模型合集及详细介绍 - AIHub | AI导航](https://www.aihub.cn/tools/llm/)
 - [GPT-4o：OpenAI最新发布的多模态AI大模型 - AIHub | AI导航](https://www.aihub.cn/tools/chatbot/gpt-4o/)
-
-### 人工压缩补充
-
+- [AI Code With 控制台](https://aicodewith.com/zh/pricing)
 - [Google NotebookLM | AI 研究工具与思考伙伴](https://notebooklm.google/)
-- [Grok](https://grok.com/)
-- [Generating Worlds](https://www.worldlabs.ai/blog)
-- [Holopix AI - 游戏美术设计神器](https://holopix.cn/image/3634)
-- [Lovable](https://lovable.dev/)
+- [copilot 使用教程与问题解答 - kdocs](https://www.kdocs.cn/l/cbZGT6WcPWic)
+- [Dify - Agentic Workflow Builder](https://dify.ai/)
+- [OpenAI Help Center](https://help.openai.com/en/)
+- [100+国内外AI大模型合集及详细介绍 - AIHub | AI导航](https://www.aihub.cn/tools/llm/)
+- [火山引擎 - 你的 AI 云](https://www.volcengine.com/)

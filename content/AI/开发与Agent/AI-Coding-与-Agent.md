@@ -8,7 +8,7 @@ status: reviewed
 confidence: 0.7
 visibility: public
 last_curated: 2026-05-13
-source_count: 12
+source_count: 5
 ---
 
 ## 说明
@@ -38,27 +38,23 @@ source_count: 12
   - 正在用的产品入口
   - 与当前工作流强相关的开源项目
 
+## 资料收敛说明
+
+- 本页已将原先 `12` 条参考链接压缩为 `5` 条核心引用，重复导航页、同类 API 细节页和低信噪比补充资料不再逐条公开保留。
+- 正文已优先沉淀选型标准、排查流程、风险边界和常用工具定位，后续新增资料应继续转成正文结论，而不是直接堆叠链接。
+- 文末只保留官方文档、代表性开源项目和少量仍值得回看的补充阅读。
+
 ## 参考链接
 
-> 以下链接作为本笔记的资料来源保留。
+> 以下链接仅保留正文仍需回看的核心资料入口。
 
-### 链接分组
-
-- [MiniMax Agent](https://agent.minimaxi.com/)
-
-### AI 相关链接
-
-- [TRAE Solo](https://www.trae.ai/solo)
-- [AI工具集](https://ai-bot.cn/)
-- [AI工具集：Codex](https://ai-bot.cn/sites/53.html)
-- [AI工具集：Qoder](https://ai-bot.cn/sites/60584.html)
-- [阮一峰：TRAE SOLO](https://www.ruanyifeng.com/blog/2025/11/trae-solo.html)
-- [AI工具集：Firebase Studio](https://ai-bot.cn/firebase-studio/)
-- [AI工具集：每日 AI 资讯](https://ai-bot.cn/daily-ai-news/)
-
-### GitHub 相关链接
+### 开源项目
 
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
-- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
-- [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance)
-- [doocs/awesome-ai](https://github.com/doocs/awesome-ai)
+
+### 补充阅读
+
+- [MiniMax Agent](https://agent.minimaxi.com/)
+- [TRAE Solo](https://www.trae.ai/solo)
+- [AI工具集](https://ai-bot.cn/)
+- [阮一峰：TRAE SOLO](https://www.ruanyifeng.com/blog/2025/11/trae-solo.html)

@@ -9,7 +9,7 @@ status: reviewed
 confidence: 0.7
 visibility: public
 last_curated: 2026-05-13
-source_count: 11
+source_count: 2
 ---
 
 ## 结论
@@ -19,6 +19,12 @@ source_count: 11
 - 判断内存泄漏不能只看“一次进出场景后没有完全回落”，需要做同场景多轮对比、跨场景资源对比和平台内存趋势验证。
 - AssetBundle 的问题通常不是“加载失败”，而是 WebStream / SerializedFile / Bundle 对象 / 已加载资源 / 实例化对象的生命周期没有拆清楚。
 - 性能优化要形成闭环：确定设备与路径、采集基线、定位类型、修改方案、复测数据、沉淀规则。
+
+## 资料收敛说明
+
+- 本页已将原先 `11` 条参考链接压缩为 `2` 条核心引用，重复导航页、同类 API 细节页和低信噪比补充资料不再逐条公开保留。
+- 正文已优先沉淀选型标准、排查流程、风险边界和常用工具定位，后续新增资料应继续转成正文结论，而不是直接堆叠链接。
+- 文末只保留官方文档、代表性开源项目和少量仍值得回看的补充阅读。
 
 ## 适用场景
 
@@ -125,18 +131,9 @@ source_count: 11
 
 ## 参考链接
 
-> 以下链接作为本笔记的资料来源保留。
+> 以下链接仅保留正文仍需回看的核心资料入口。
 
-### 链接分组
+### 补充阅读
 
-- [纹理优化：让你的纹理也“瘦”下来 - UWA](https://blog.uwa4d.com/archives/UWA_Pipeline20.html)
-- [那些年给性能埋过的坑，你跳了吗？ - UWA](https://blog.uwa4d.com/archives/UWA_Pipeline12.html)
-- [那些年给性能埋过的坑，你跳了吗？（第二弹） - UWA](https://blog.uwa4d.com/archives/UWA_Pipeline13.html)
-- [性能黑榜：掌握了这些规则，你已经战胜了80%的对手 - UWA](https://blog.uwa4d.com/archives/UWA_Pipeline14.html)
-- [性能优化，进无止境：内存篇（上） - UWA](https://blog.uwa4d.com/archives/optimzation_memory_1.html)
-- [性能优化，进无止境：内存篇（下） - UWA](https://blog.uwa4d.com/archives/optimzation_memory_2.html)
 - [Unity性能优化大合集，All In One - UWA](https://blog.uwa4d.com/archives/allinone.html)
-- [关于Unity内存优化，你可能遇到这些问题 - UWA](https://blog.uwa4d.com/archives/QA_Memory-1.html)
-- [你应该知道的AssetBundle管理机制 - UWA](https://blog.uwa4d.com/archives/ABTheory.html)
 - [Unity移动端游戏性能优化简谱 - UWA学堂](https://edu.uwa4d.com/course-intro/0/430?purchased=false&entrance=3)
-- [Unity引擎渲染、UI、逻辑代码模块的量化分析和优化方法 - UWA学堂](https://edu.uwa4d.com/course-intro/1/93?purchased=true&entrance=4)

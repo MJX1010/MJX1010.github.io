@@ -8,7 +8,7 @@ status: reviewed
 confidence: 0.7
 visibility: public
 last_curated: 2026-05-13
-source_count: 31
+source_count: 10
 ---
 
 > 阶段：04-开发工具  
@@ -48,46 +48,31 @@ source_count: 31
 
 - **夜神模拟器**：Android 模拟器，兼容性较好，适合移动端接入和 SDK 测试
 
+## 资料收敛说明
+
+- 本页已将原先 `31` 条参考链接压缩为 `10` 条核心引用，重复导航页、同类 API 细节页和低信噪比补充资料不再逐条公开保留。
+- 正文已优先沉淀选型标准、排查流程、风险边界和常用工具定位，后续新增资料应继续转成正文结论，而不是直接堆叠链接。
+- 文末只保留官方文档、代表性开源项目和少量仍值得回看的补充阅读。
+
 ## 参考链接
 
-> 以下链接作为本笔记的资料来源保留。
+> 以下链接仅保留正文仍需回看的核心资料入口。
 
-### 链接分组
+### 官方文档
 
-- [VS Code Remote Development - Even Better](https://code.visualstudio.com/blogs/2022/12/07/remote-even-better)
-- [VS Code February 2023 (version 1.76)](https://code.visualstudio.com/updates/v1_76)
-- [Docker Hub](https://hub.docker.com/)
-- [FinalShell](https://www.hostbuf.com/c/131.html)
-- [Snappy Driver Installer](https://sdi-tool.org/)
-- [PixPin - 截图/贴图/OCR](https://pixpin.cn/)
-- [f.lux](https://justgetflux.com/)
-- [夜神安卓模拟器](https://www.yeshen.com/)
 - [Visual Studio 文档 | Microsoft Learn](https://learn.microsoft.com/zh-cn/visualstudio/windows/?view=vs-2022)
-- [VS Code 搭建 C/C++ 编译运行环境的四种方案 - 知乎](https://zhuanlan.zhihu.com/p/35178331)
-- [Gitee - 基于 Git 的代码托管平台](https://gitee.com/)
-- [AtomGit | GitCode - 全球开发者的开源社区](https://gitcode.com/)
-- [www.jenkins-zh.cn 微信版](https://www.jenkins-zh.cn/wechat/)
-- [Tampermonkey](https://www.tampermonkey.net/index.php?ext=dhdg)
+- [Docker Hub](https://hub.docker.com/)
 
-### AI 相关链接
+### 开源项目
+
+- [DeviceFarmer/stf: Control and manage Android devices from your browser.](https://github.com/DeviceFarmer/stf)
+
+### 补充阅读
 
 - [JetBrains: 软件开发者和团队的必备工具（中文）](https://www.jetbrains.com.cn/)
-
-### 补充归档（开发工具仓库）
-
-- [Downloads | Cursor - The AI Code Editor](https://cursor.com/downloads)
-- [DevToys-app/DevToys: A Swiss Army knife for developers.](https://github.com/DevToys-app/DevToys)
-- [Devbeat-io/devtoys-extensions](https://github.com/Devbeat-io/devtoys-extensions/tree/main)
-- [821869798/excel_merge: excel merge diff tools，excel对比合并工具](https://github.com/821869798/excel_merge)
-- [focus-creative-games/Excel2TextDiff: 将xlsx转成text然后调用diff工具对比](https://github.com/focus-creative-games/Excel2TextDiff)
-- [rafal-dot/xlsxDiff: Compare two Excel .xlsx files](https://github.com/rafal-dot/xlsxDiff)
-- [zbuzhi/diff-excel: Excel文件对比工具](https://github.com/zbuzhi/diff-excel)
-- [DeviceFarmer/stf: Control and manage Android devices from your browser.](https://github.com/DeviceFarmer/stf)
-- [FlaUI/FlaUI: UI automation library for .Net](https://github.com/FlaUI/FlaUI)
-- [NaoTu/DesktopNaotu: 桌面版脑图（百度脑图离线版）](https://github.com/NaoTu/DesktopNaotu)
-- [Tyrrrz/CliWrap: Library for running command-line processes](https://github.com/Tyrrrz/CliWrap?open_in_browser=true)
-- [xoofx/kalk: kalk is a powerful command line calculator app for developers.](https://github.com/xoofx/kalk)
-- [LiuOcean/CliToolkit](https://github.com/LiuOcean/CliToolkit)
-- [Zuoqiu-Yingyi/siyuan-publish: 思源笔记在线发布工具](https://github.com/Zuoqiu-Yingyi/siyuan-publish)
-- [Releases · KiyanYang/DotVast.HashTool.WinUI](https://github.com/KiyanYang/DotVast.HashTool.WinUI/releases)
-- [Releases · google/bundletool](https://github.com/google/bundletool/releases)
+- [PixPin - 截图/贴图/OCR](https://pixpin.cn/)
+- [Snappy Driver Installer](https://sdi-tool.org/)
+- [VS Code Remote Development - Even Better](https://code.visualstudio.com/blogs/2022/12/07/remote-even-better)
+- [Gitee - 基于 Git 的代码托管平台](https://gitee.com/)
+- [AtomGit | GitCode - 全球开发者的开源社区](https://gitcode.com/)
+- [VS Code 搭建 C/C++ 编译运行环境的四种方案 - 知乎](https://zhuanlan.zhihu.com/p/35178331)
