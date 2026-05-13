@@ -23,47 +23,42 @@ C / C# / C++ 的官方 API 文档和在线参考工具汇总，作为日常开�
 
 > 在线编译器 (Coliru / C++ Insights / Compiler Explorer) 见 [[在线工具与协作]]
 
-- **cppreference**（中英文）：最完整的 C++ 标准库参考，建议中英文对照查阅
-- **cplusplus.com**：对初学者更友好，示例代码更完整
-- **Microsoft C++ 文档**（learn.microsoft.com）：MSVC / Windows 开发场景专用
+- **[cppreference](https://en.cppreference.com/cpp)**（中英文）：最完整的 C++ 标准库参考，建议中英文对照查阅
+- **[cplusplus.com](https://cplusplus.com/)**：对初学者更友好，示例代码更完整
+- **[Microsoft C++ 文档](https://learn.microsoft.com/zh-cn/cpp/?view=msvc-170)**（learn.microsoft.com）：MSVC / Windows 开发场景专用
 - C++ Core Guidelines 见 [[平台与规范]]
 
 ## 二、C# / .NET 参考
 
-- **C# 语言参考**（learn.microsoft.com）：最权威的官方语法入口
-- **System Namespace**（.NET 8）：查阅基础类型和集合 API
-- **.NET 工具和诊断文档**：性能分析、dump 分析、dotnet-trace 等工具入口
-- **NuGet Gallery**：第三方包查找，DevToys.JsonToCsharp、Scriban 等常用工具包
+- **[C# 语言参考](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/)**（learn.microsoft.com）：最权威的官方语法入口
+- **[System Namespace](https://learn.microsoft.com/zh-cn/dotnet/api/system?view=net-8.0)**（.NET 8）：查阅基础类型和集合 API
+- **[.NET 工具和诊断文档](https://learn.microsoft.com/zh-cn/dotnet/core/diagnostics/)**：性能分析、dump 分析、dotnet-trace 等工具入口
+- **[NuGet Gallery](https://www.nuget.org/)**：第三方包查找，DevToys.JsonToCsharp、Scriban 等常用工具包
 
 ## 三、源代码参考
 
-- **dotnet/runtime**（GitHub）：.NET 运行时源码，查阅底层实现（如 Int128）
-- **Visual Studio SDK**（dotnet.microsoft.com）：VS 相关 SDK 下载
-- PIX on Windows：DirectX 性能分析和调试工具
+- **[dotnet/runtime](https://github.com/dotnet/runtime)**（GitHub）：.NET 运行时源码，查阅底层实现（如 Int128）
+- **[Visual Studio SDK](https://dotnet.microsoft.com/zh-cn/download/visual-studio-sdks?cid=getdotnetsdk)**（dotnet.microsoft.com）：VS 相关 SDK 下载
+- **[PIX on Windows](https://devblogs.microsoft.com/pix/download/)**：DirectX 性能分析和调试工具
 
 ## 四、相关学习参考
 
-- FP16/FP32 浮点格式解析：GPU 和 AI 推理场景必读
-- CLR Via C#（语雀笔记版）：深入理解 .NET 运行时的系统性资料
+- [FP16/FP32 浮点格式解析](https://blog.csdn.net/yuanmomoya/article/details/147327546)：GPU 和 AI 推理场景必读
+- [CLR Via C#（语雀笔记版）](https://www.yuque.com/fhlsteven/clr_via_csharp)：深入理解 .NET 运行时的系统性资料
 - Maven / NuGet 制品仓库：Android 和 .NET 依赖管理查询入口
 
 ## 资料收敛说明
 
-- 本页已将原先 `91` 条参考链接压缩为 `10` 条核心引用，重复导航页、同类 API 细节页和低信噪比补充资料不再逐条公开保留。
-- 正文已优先沉淀选型标准、排查流程、风险边界和常用工具定位，后续新增资料应继续转成正文结论，而不是直接堆叠链接。
-- 文末只保留官方文档、代表性开源项目和少量仍值得回看的补充阅读。
+- 本页属于“入口型”清单，正文中的核心文档、源码仓库和工具入口已直接绑定链接。
+- 文末只保留正文之外仍值得单独回看的源码片段或专题文章。
 
 ## 参考链接
 
-> 以下链接仅保留正文仍需回看的核心资料入口。
+> 以下链接仅保留正文之外仍值得单独回看的补充资料。
 
 ### 官方文档
 
-- [C# 语言参考 | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/)
 - [list.cs](https://referencesource.microsoft.com/)
-- [适用于 Visual Studio 的 .NET SDK](https://dotnet.microsoft.com/zh-cn/download/visual-studio-sdks?cid=getdotnetsdk)
-- [cplusplus.com](https://cplusplus.com/)
-- [cppreference EN](https://en.cppreference.com/cpp)
 
 ### 开源项目
 
@@ -73,5 +68,4 @@ C / C# / C++ 的官方 API 文档和在线参考工具汇总，作为日常开�
 
 ### 补充阅读
 
-- [FP16、FP32 等浮点格式全解析 - CSDN](https://blog.csdn.net/yuanmomoya/article/details/147327546)
 - [Animating in C++: Curves and Easing Functions - Tom Looman](https://www.tomlooman.com/animating-in-cpp-curves-and-easing-functions/)

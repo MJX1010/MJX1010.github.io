@@ -31,6 +31,18 @@ RECOMMENDED_FIELDS = ("title", "tags", "status", "confidence", "visibility", "la
 IGNORED_PUBLIC_DIRS = {"_meta"}
 SKIP_ORPHAN_DIRS = set()
 MAX_REFERENCE_LINKS = 10
+INLINE_REFERENCE_HINTS = ("本页属于“入口型”清单", "主入口已直接内联到正文")
+ENTRY_NOTE_HINTS = (
+    "直达入口汇总",
+    "入口汇总",
+    "链接汇总",
+    "导航首页",
+    "快速查阅入口",
+    "快速切换模型对话窗口",
+    "产品入口",
+    "工具入口",
+    "文档和社区入口",
+)
 
 WIKILINK_RE = re.compile(r"(?<!!)\[\[([^\]]+)\]\]")
 MARKDOWN_LINK_RE = re.compile(r"!?\[([^\]]*)\]\(([^)\s]+)(?:\s+\"[^\"]*\")?\)")
@@ -274,6 +286,8 @@ def lint_reference_sections(notes: Iterable[Note]) -> list[Finding]:
     for note in notes:
         has_external = any(url.startswith(("http://", "https://")) for _, url in MARKDOWN_LINK_RE.findall(note.text))
         if has_external and "## 参考链接" not in note.text and note.rel_path != "index.md":
+            if any(hint in note.text for hint in INLINE_REFERENCE_HINTS):
+                continue
             findings.append(Finding("warning", note.path, "包含外链但缺少 `## 参考链接` 小节"))
             continue
 
@@ -292,6 +306,41 @@ def lint_reference_sections(notes: Iterable[Note]) -> list[Finding]:
                         f"`参考链接` 过多：{len(ref_links)} 条，建议压缩到 {MAX_REFERENCE_LINKS} 条以内",
                     )
                 )
+    return findings
+
+
+def split_reference_section(text: str) -> tuple[str, str]:
+    if "## 参考链接" not in text:
+        return text, ""
+    body, ref = text.split("## 参考链接", 1)
+    return body, ref
+
+
+def note_is_entry_type(note: Note) -> bool:
+    if note.rel_path == "index.md":
+        return False
+    lead = note.body[:800]
+    hint_hits = sum(1 for hint in ENTRY_NOTE_HINTS if hint in lead)
+    short_bullets = sum(
+        1
+        for line in lead.splitlines()
+        if line.strip().startswith("- ") and len(line.strip()) <= 100
+    )
+    inline_hint = any(hint in note.text for hint in INLINE_REFERENCE_HINTS)
+    return inline_hint or (hint_hits >= 1 and short_bullets >= 3)
+
+
+def lint_entry_notes(notes: Iterable[Note]) -> list[Finding]:
+    findings: list[Finding] = []
+    for note in notes:
+        if not note_is_entry_type(note):
+            continue
+        body_text, ref_text = split_reference_section(note.text)
+        body_links = [url for _, url in MARKDOWN_LINK_RE.findall(body_text) if url.startswith(("http://", "https://"))]
+        ref_links = [url for _, url in MARKDOWN_LINK_RE.findall(ref_text) if url.startswith(("http://", "https://"))]
+        if not body_links:
+            findings.append(Finding("warning", note.path, "入口型页面应将主入口直接内联到正文，而不是只放在文末参考链接"))
+            continue
     return findings
 
 
@@ -462,6 +511,7 @@ def run_lint(content_dir: Path, manifest_path: Path) -> tuple[list[Finding], lis
     findings.extend(lint_wikilinks(notes, registry))
     findings.extend(lint_sensitive_content(notes))
     findings.extend(lint_reference_sections(notes))
+    findings.extend(lint_entry_notes(notes))
     findings.extend(lint_orphans(notes))
     findings.extend(lint_manifest(manifest_path, content_dir, notes))
     return findings, notes

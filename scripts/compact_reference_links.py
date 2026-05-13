@@ -21,6 +21,22 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content"
 MAX_KEEP = 10
+ENTRY_NOTE_HINTS = (
+    "直达入口汇总",
+    "入口汇总",
+    "链接汇总",
+    "导航首页",
+    "快速查阅入口",
+    "快速切换模型对话窗口",
+    "产品入口",
+    "工具入口",
+    "文档和社区入口",
+)
+ENTRY_NOTE_INLINE_HINT = "本页属于“入口型”清单"
+ENTRY_PLACEHOLDER_REFERENCE = (
+    "## 参考链接\n\n"
+    "> 本页主入口已直接内联到正文；后续若新增评测、专题文章、版本说明或补充资料，再单独保留到此处。\n"
+)
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n\n", re.S)
 REF_SECTION_RE = re.compile(r"\n## 参考链接\n[\s\S]*$", re.M)
@@ -140,6 +156,35 @@ def parse_reference_links(text: str) -> list[LinkItem]:
             )
         )
     return items
+
+
+def split_reference_section(text: str) -> tuple[str, str]:
+    if "## 参考链接" not in text:
+        return text.rstrip() + "\n", ""
+    body, ref = text.split("## 参考链接", 1)
+    return body.rstrip() + "\n", ref
+
+
+def body_external_urls(text: str) -> set[str]:
+    body, _ = split_reference_section(text)
+    return {
+        normalize_url(url)
+        for url in EXT_LINK_RE.findall(body)
+        if url.startswith(("http://", "https://"))
+    }
+
+
+def is_entry_note(path: Path, text: str) -> bool:
+    if path.name == "index.md":
+        return False
+    lead = text[:800]
+    hint_hits = sum(1 for hint in ENTRY_NOTE_HINTS if hint in lead)
+    short_bullets = sum(
+        1
+        for line in lead.splitlines()
+        if line.strip().startswith("- ") and len(line.strip()) <= 100
+    )
+    return hint_hits >= 1 and short_bullets >= 3
 
 
 def git_source_text(path: Path) -> str | None:
@@ -314,6 +359,20 @@ def ensure_absorb_section(body: str, original_count: int, kept_count: int) -> st
     return body[:next_heading].rstrip() + "\n\n" + section + "\n" + body[next_heading + 1 :].lstrip()
 
 
+def ensure_entry_absorb_section(body: str, original_count: int, removed_count: int) -> str:
+    section = (
+        "## 资料收敛说明\n\n"
+        "- 本页属于“入口型”清单，正文条目应直接绑定官网、产品页、文档页或项目主页。\n"
+        f"- 已从文末移除 `{removed_count}` 条正文中已有对应入口的重复链接；原参考区共检视 `{original_count}` 条链接。\n"
+        "- 文末只保留正文之外仍值得单独回看的评测、专题文章、版本说明或补充资料。\n"
+    )
+    marker = "## 资料收敛说明"
+    if marker in body:
+        body = re.sub(r"\n## 资料收敛说明\n[\s\S]*?(?=\n## |\Z)", "\n" + section + "\n", body, count=1)
+        return body.rstrip() + "\n"
+    return body.rstrip() + "\n\n" + section + "\n"
+
+
 def update_source_count(text: str) -> str:
     count = len(EXT_LINK_RE.findall(text))
     if re.search(r"^source_count:\s*\d+\s*$", text, re.M):
@@ -325,6 +384,25 @@ def process(path: Path) -> bool:
     text = path.read_text(encoding="utf-8")
     source_text = git_source_text(path) or text
     items = parse_reference_links(source_text)
+    is_entry = is_entry_note(path, source_text)
+    inline_urls = body_external_urls(source_text) if is_entry else set()
+    filtered_items = [item for item in items if item.normalized not in inline_urls]
+
+    if is_entry:
+        body, _ = split_reference_section(source_text)
+        body = ensure_entry_absorb_section(body, len(items), len(items) - len(filtered_items))
+        if len(filtered_items) > MAX_KEEP:
+            filtered_items = choose_links(filtered_items, MAX_KEEP, body)
+        if filtered_items:
+            new_text = body.rstrip() + "\n\n" + render_compact_reference(filtered_items)
+        else:
+            new_text = body.rstrip() + "\n\n" + ENTRY_PLACEHOLDER_REFERENCE
+        new_text = update_source_count(new_text)
+        if new_text != text:
+            path.write_text(new_text, encoding="utf-8")
+            return True
+        return False
+
     if len(items) <= MAX_KEEP:
         updated = update_source_count(text)
         if updated != text:

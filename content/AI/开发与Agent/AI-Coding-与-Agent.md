@@ -17,9 +17,17 @@ source_count: 5
 
 ## 一、Agent / AI Coding 工具入口
 
+- **[MiniMax Agent](https://agent.minimaxi.com/)**：通用 Agent 产品入口，可作为国产通用 Agent 体验参考
+- **[TRAE Solo](https://www.trae.ai/solo)**：AI 编程产品入口，偏向实际开发工作流体验
+- **[AI工具集](https://ai-bot.cn/)**：适合快速浏览同类产品和入口
+
 ## 二、相关开源项目
 
+- **[musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)**：Claude Code 路由与工作流增强项目
+
 ## 三、外部观察与行业信息
+
+- **[阮一峰：TRAE SOLO](https://www.ruanyifeng.com/blog/2025/11/trae-solo.html)**：偏行业观察和产品体验总结
 
 ## 四、不建议纳入长期知识库的同类页面
 
@@ -40,21 +48,12 @@ source_count: 5
 
 ## 资料收敛说明
 
-- 本页已将原先 `12` 条参考链接压缩为 `5` 条核心引用，重复导航页、同类 API 细节页和低信噪比补充资料不再逐条公开保留。
-- 正文已优先沉淀选型标准、排查流程、风险边界和常用工具定位，后续新增资料应继续转成正文结论，而不是直接堆叠链接。
-- 文末只保留官方文档、代表性开源项目和少量仍值得回看的补充阅读。
+- 本页属于“入口型”清单，正文中的产品入口、项目仓库和观察文章已直接绑定链接。
+ 
+## 参考链接
+ 
+> 本页主入口已直接内联到正文；后续若新增专题文章或对比评测，再单独保留到此处。
 
 ## 参考链接
 
-> 以下链接仅保留正文仍需回看的核心资料入口。
-
-### 开源项目
-
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)
-
-### 补充阅读
-
-- [MiniMax Agent](https://agent.minimaxi.com/)
-- [TRAE Solo](https://www.trae.ai/solo)
-- [AI工具集](https://ai-bot.cn/)
-- [阮一峰：TRAE SOLO](https://www.ruanyifeng.com/blog/2025/11/trae-solo.html)
+> 本页主入口已直接内联到正文；后续若新增专题文章或对比评测，再单独保留到此处。
