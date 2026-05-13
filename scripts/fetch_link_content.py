@@ -532,7 +532,7 @@ def main() -> int:
         epilog=textwrap.dedent(
             """
             Examples:
-              python scripts/fetch_link_content.py --from-md content/游戏/Unity-内存与性能优化笔记.md
+              python scripts/fetch_link_content.py --from-md content/游戏/引擎/Unity/Unity-内存与性能优化笔记.md
               python scripts/fetch_link_content.py --url https://example.com --refresh
             """
         ),

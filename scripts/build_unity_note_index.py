@@ -14,7 +14,7 @@ import re
 from pathlib import Path
 
 
-DEFAULT_CONTENT_DIR = Path("content") / "游戏"
+DEFAULT_CONTENT_DIR = Path("content") / "游戏" / "引擎" / "Unity"
 DEFAULT_OUTPUT = DEFAULT_CONTENT_DIR / "Unity-知识索引.md"
 DEFAULT_MAX_POINTS = 8
 

@@ -131,13 +131,13 @@ def classify(url: str, title: str) -> str:
 
 TARGETS = {
     "workspace-tail": "private/workbench/工作台与控制台入口.md",
-    "ai-tail": "AI/AI工具与导航.md",
-    "unity-tail": "游戏/Unity-框架与工具.md",
-    "game-mobile-tail": "游戏/移动端接入与平台问题.md",
-    "cs-ref-tail": "计算机/C-CSharp-CPP参考.md",
-    "video-tail": "资讯/视频与课程.md",
-    "tools-tail": "工具/在线工具与协作.md",
-    "blog-tail": "资讯/技术博客与社区.md",
+    "ai-tail": "AI/工具与导航/AI工具与导航.md",
+    "unity-tail": "游戏/引擎/Unity/Unity-框架与工具.md",
+    "game-mobile-tail": "游戏/平台与发行/移动端接入与平台问题.md",
+    "cs-ref-tail": "计算机/语言与运行时/C-CSharp-CPP参考.md",
+    "video-tail": "资讯/视频与课程/视频与课程.md",
+    "tools-tail": "工具/在线协作/在线工具与协作.md",
+    "blog-tail": "资讯/社区与博客/技术博客与社区.md",
     "blacklist": "private/metadata/失效黑名单.md",
 }
 

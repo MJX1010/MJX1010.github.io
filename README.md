@@ -8,12 +8,18 @@
 
 ## 仓库定位
 
-- `content/`：实际发布的知识库内容
+- `content/`：实际发布的知识库内容，按顶层主题和二级专题目录组织
 - `content/private/`：私有整理材料，不发布到站点
 - `scripts/`：链接整理、内容抓取、索引生成等辅助脚本
 - `quartz/`：Quartz 站点构建框架
 
 本仓库已经从“链接导航页”逐步转为“主题正文 + 文末参考链接”的结构。
+
+当前公开目录建议按以下方式维护：
+
+- 顶层大类：`00-精选`、`AI`、`游戏`、`计算机`、`工具`、`资源`、`资讯`
+- 二级专题：在大类下继续按专题拆子目录，例如 `游戏/引擎/Unity/`、`工具/在线协作/`
+- 主题正文：尽量把内容沉淀在主题笔记中，外链统一收敛到文末 `参考链接`
 
 ## 常用命令
 
@@ -41,6 +47,18 @@ npx quartz build --serve
 python scripts/build_unity_note_index.py
 ```
 
+检查公开知识库治理状态：
+
+```bash
+python scripts/wiki_lint.py
+```
+
+刷新公开内容 manifest：
+
+```bash
+python scripts/wiki_lint.py --write-manifest
+```
+
 ## 一键发布
 
 Windows 下可直接运行：
@@ -63,6 +81,7 @@ publish.bat
 - 外部链接统一保留在正文末尾的 `参考链接`
 - 需要登录态、公司账号或私有访问权限的内容放入 `content/private/`
 - 批量整理链接时，优先更新现有主题正文或补充资料分组，而不是新增孤立链接页
+- 公开笔记优先补齐 `status`、`confidence`、`visibility`、`last_curated` 等 frontmatter 字段
 
 ## 备注
 
