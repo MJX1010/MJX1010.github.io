@@ -50,9 +50,9 @@ Unreal Engine 学习与开发资料入口，以 UE4.27 为主要版本参考（�
 
 > 以下链接仅保留正文之外仍值得单独回看的补充资料。
 
-### 开源项目
+### 官方文档
 
-- [EpicGames/UnrealEngine: Unreal Engine source code](https://github.com/EpicGames/UnrealEngine)
+- [Unreal Engine 4.27 Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-4-27-documentation?application_version=4.27)
 
 ### 补充阅读
 
