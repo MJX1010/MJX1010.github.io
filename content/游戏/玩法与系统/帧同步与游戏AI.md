@@ -61,6 +61,6 @@ source_count: 10
 - [三种同步方式：状态同步、帧同步、状态帧同步 - 十月的大橘 - 博客园](https://www.cnblogs.com/October2018/p/16120681.html)
 - [Gabriel Gambetta](https://www.gabrielgambetta.com/index.html)
 - [游戏中的 AI - 行为树 | lifan's blog](https://lifan.tech/2020/02/15/game/behavior-tree/)
-- [使用行为树(Behavior Tree)实现游戏AI - 技术人生 - 编程技术 - JESSE人生](http://www.luzexi.com/2013/01/26/%E4%BD%BF%E7%94%A8%E8%A1%8C%E4%B8%BA%E6%A0%91(Behavior-Tree)
+- [Game AI Behavior Trees: Complete Implementation Tutorial](https://www.generalistprogrammer.com/tutorials/game-ai-behavior-trees-complete-implementation-tutorial)
 - [帧同步教程【合集】- 哔哩哔哩](https://www.bilibili.com/video/av70422751/)
 - [云风的 BLOG: lockstep 网络游戏同步方案](https://blog.codingnow.com/2018/08/lockstep.html)

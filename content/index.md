@@ -4,7 +4,7 @@ tags:
 status: reviewed
 confidence: 0.7
 visibility: public
-last_curated: 2026-05-13
+last_curated: 2026-05-22
 source_count: 0
 ---
 
@@ -12,7 +12,7 @@ source_count: 0
 
 当前 `content/` 采用“顶层主题 -> 二级专题目录 -> 主题笔记”的结构，公开首页只展示稳定入口，具体文件已按专题继续细分到子目录中。
 
-公开首页只保留可长期复用的知识分类。飞书、公司账号、控制台、Jenkins、个人账号等依赖登录态的入口已移动到 `content/private/`，该目录由 Quartz 配置忽略，不会发布到站点。
+公开首页只保留可长期复用的知识分类。飞书、公司账号、控制台、Jenkins、个人账号等依赖登录态的入口已移动到根目录 `private/`，不会发布到站点。
 
 ## 知识目录
 
@@ -36,7 +36,7 @@ source_count: 0
 ### 工具与资源
 
 - 开发环境：[[IDE与桌面工具]]、[[在线工具与协作]]
-- 学习与连接：[[学习导航]]、[[网络与代理]]
+- 学习与连接：[[学习导航]]、[[网络与代理]]、[[Obsidian与知识库]]
 - 资料资源：[[电子书与素材]]、[[软件与游戏资源]]
 
 ### 资讯与社区
@@ -47,11 +47,12 @@ source_count: 0
 
 ## 维护规则
 
-1. **新增链接**：先放进对应主题文件的“补充资料”小节，确认长期价值后再提升到主题正文
-2. **失效链接**：抓取时如果显示 `403/404/账号已迁移/访客不可达/错误/超时/域名不可访问`，跳过主分类，记录到私有元数据
-3. **专题膨胀**：主题文件超过 \~50 条精选时再拆子文件；同一主题保留集中度
-4. **登录态页面**：需要 token、公司账号、内网或个人账号才能访问的页面归 `content/private/`，不进入公开目录
-5. **元数据规范**：公开笔记统一维护 `status`、`confidence`、`visibility`、`last_curated` 等字段
-6. **批次区分**：[[Unity-框架与工具]] 是早期 OneTab 批的官方框架/工具入口；[[Unity-UI与优化]] 是后续 urls2 批的 UGUI/PureMVC/优化文章
-7. **批量分类**：定期运行 `python scripts/classify_cleaned.py` + `python scripts/refine_unsorted.py` 把 cleaned.txt 新增补充资料分组到对应主题
-8. **发布前检查**：运行 `python scripts/wiki_lint.py` 检查公开区 frontmatter、wikilink、敏感入口和 manifest 状态
+1. **全量整理**：导入一批链接后，必须把该批资料全部归档、并入或淘汰，不保留“待整理笔记”作为长期状态
+2. **内容先行**：不能只贴外链；应先访问原始内容，提取关键信息，合并进现有笔记，再判断是否有必要附原链接
+3. **失效链接**：抓取时如果显示 `403/404/账号已迁移/访客不可达/错误/超时/域名不可访问`，跳过主分类，记录到私有归档
+4. **专题膨胀**：主题文件超过 \~50 条精选时再拆子文件；允许增加二级、三级、四级分类，但首层分类保持简洁
+5. **登录态页面**：需要 token、公司账号、内网或个人账号才能访问的页面归根目录 `private/`，不进入公开目录
+6. **元数据规范**：公开笔记统一维护 `status`、`confidence`、`visibility`、`last_curated` 等字段
+7. **批次区分**：[[Unity-框架与工具]] 是早期 OneTab 批的官方框架/工具入口；[[Unity-UI与优化]] 是后续 urls2 批的 UGUI/PureMVC/优化文章
+8. **批量分类**：定期运行 `python scripts/classify_cleaned.py` + `python scripts/refine_unsorted.py` 把 cleaned.txt 新增补充资料分组到对应主题
+9. **发布前检查**：运行 `python scripts/wiki_lint.py` 检查公开区 frontmatter、wikilink、敏感入口和 manifest 状态

@@ -7,8 +7,8 @@ tags:
 status: reviewed
 confidence: 0.7
 visibility: public
-last_curated: 2026-05-13
-source_count: 10
+last_curated: 2026-05-22
+source_count: 16
 ---
 
 > 阶段：03-AI-Coding  
@@ -30,6 +30,7 @@ AI 编程辅助工具、开发者 API 平台、AI 工具导航站和创作类工
 - **[Dify](https://dify.ai/)**：开源 Agentic Workflow 构建平台，可私有化部署，适合构建 AI 应用
 - **[OpenAI Help Center](https://help.openai.com/en/)**：ChatGPT 和 API 的官方支持入口
 - **[AI Code With](https://aicodewith.com/zh/pricing)**：代码 AI 工具平台
+- **[Coze 扣子](https://www.coze.cn/)**：偏 Agent 化的应用平台，提供云端 IDE/CLI、模型与存储能力接入、一键部署，以及跨云电脑/云手机/IM 的运行形态
 
 ## 三、AI 工具导航 / 排行
 
@@ -40,7 +41,16 @@ AI 编程辅助工具、开发者 API 平台、AI 工具导航站和创作类工
 
 - **[civitai](https://civitai.com/)**：Stable Diffusion 模型社区，图像生成模型和 LoRA 资源
 
-## 五、产品入口（订阅 / 价格页）
+## 五、文档理解 / 研究辅助
+
+- **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)**：文档解析和 OCR 主力工具，能把 PDF、图片和 Office 文档转成 Markdown / JSON，支持 100+ 语言，也提供浏览器 SDK 和 MCP 方向能力
+- **[VibePaper](https://github.com/BachiLi/VibePaper)**：面向 SIGGRAPH/TOG 论文的推荐系统，基于 SPECTER2 embedding 按评分做相似论文推荐，适合做垂直论文阅读工作台
+
+## 六、营销 / 增长型 AI 工具
+
+- **[SoPilot](https://sopilot.net/zh#home)**：聚焦社媒内容创作、X 互动和 SEO 外链的营销智能体，特点是把选题、正文、配图、发布和互动串成一条工作流，而不只是生成单条文案
+
+## 七、产品入口（订阅 / 价格页）
 
 - [TRAE Pricing](https://www.trae.ai/pricing)：订阅和权益确认入口
 
@@ -48,6 +58,7 @@ AI 编程辅助工具、开发者 API 平台、AI 工具导航站和创作类工
 
 - 本页属于“入口型”清单，正文条目已直接绑定对应官网、产品页或项目主页。
 - 文末只保留仍有独立阅读价值的导航文章或补充资料，不再重复罗列正文已经可点开的主入口。
+- 对只看到市场页、发布页或营销页、却拿不到稳定公开文档的平台，不强行纳入正文；等有可持续访问的正式说明后再补。
 
 ## 参考链接
 

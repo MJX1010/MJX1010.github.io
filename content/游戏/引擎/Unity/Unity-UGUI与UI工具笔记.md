@@ -8,8 +8,8 @@ tags:
 status: reviewed
 confidence: 0.7
 visibility: public
-last_curated: 2026-05-13
-source_count: 7
+last_curated: 2026-05-22
+source_count: 9
 ---
 
 ## 结论
@@ -63,6 +63,8 @@ source_count: 7
 - `LoopScrollRect` 适合大列表复用，使用前要明确 Cell 尺寸、复用生命周期和数据刷新边界。
 - `XCharts` 适合做图表类 UI，需要关注动态数据刷新频率和图表元素数量。
 - `ProtoGUI` 适合原型和调试窗口，不宜直接替代正式 UI 框架。
+- `ParticleEffectForUGUI` 适合把粒子系统直接渲染进 `CanvasRenderer`，可做遮罩和排序，不需要额外 Camera / RenderTexture / Canvas；适合 UI 特效较重的项目，但要接受 UI shader 约束并关注 Mesh Sharing 和批处理策略。
+- 使用 `ParticleEffectForUGUI` 时，优先选 `UI/Additive`、`UI/Default` 这类 UI shader；如果粒子显示异常，先检查 Mask 支持、缩放、粒子数量上限和自定义 shader 顶点流。
 
 ## TextMeshPro 与图文混排
 
@@ -94,21 +96,16 @@ source_count: 7
 
 > 以下链接作为本笔记的资料来源保留。
 
-### GitHub 相关链接
+### 官方 / 项目入口
 
 - [Unity uGUI EventSystem 文档](https://github.com/Unity-Technologies/uGUI/blob/main/com.unity.ugui/Documentation~/EventSystem.md)
 - [PSD2UGUI_X](https://github.com/sunsvip/PSD2UGUI_X)
 - [XCharts 文档](https://github.com/Hengle/unity-ugui-XCharts/tree/master/Documentation~/zh)
-
-### 链接分组
-
-- [基于 Unity TextMeshPro 的图文混排和超链接功能](https://www.lfzxb.top/unity-textmeshpro-something/)
-
-### AI 相关链接
-
-- [WillRenderCanvases 源码解读](https://edu.uwa4d.com/lesson-detail/79/99/0?isPreview=0)
-
-### GitHub 相关链接
-
 - [LoopScrollRect](https://github.com/qiankanglai/LoopScrollRect)
 - [UIEditor](https://github.com/gkjolin/UIEditor)
+- [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI)
+
+### 补充阅读
+
+- [基于 Unity TextMeshPro 的图文混排和超链接功能](https://www.lfzxb.top/unity-textmeshpro-something/)
+- [WillRenderCanvases 源码解读](https://edu.uwa4d.com/lesson-detail/79/99/0?isPreview=0)

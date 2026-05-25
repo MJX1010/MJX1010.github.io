@@ -86,10 +86,10 @@ source_count: 10
 ### 补充阅读
 
 - [优化 UGUI 的 ScrollRect | Loading & Learning](https://qiankanglai.me/2015/08/15/LoopScrollRect/)
-- [理论 + 实践！如何在 Unity 中应用 PureMVC 框架？ - GameRes](https://www.gameres.com/822910.html)
+- [PureMVC Framework](https://puremvc.org/)
 - [PureMVC -- 一款多平台 MVC 框架 - 简书](https://www.jianshu.com/p/47deaced9eb3)
-- [MVC、MVP 和 MVVM 的图示 - 阮一峰](https://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
+- MVC、MVP 和 MVVM 的图示：概念对照仍值得回看，但原文站点对自动探测常返回 `403`
 - [UGUI 不消耗 DRAW CALL 的 EventTrigger 接收器 - CSDN](https://blog.csdn.net/rcfalcon/article/details/51431734)
-- [Unity 开发者社区](https://developer.unity.cn/)
+- [Unity 中文手册](https://docs.unity.cn/cn/current/Manual/index.html)
 - [关于 Unity 渲染优化，你可能遇到这些问题 - UWA](https://blog.uwa4d.com/archives/QA_Rendering.html)
 - [PureMVC 和 Unity3D 的 UGUI 制作员工管理系统实例 - 简书](https://www.jianshu.com/p/904b36ad37e2)

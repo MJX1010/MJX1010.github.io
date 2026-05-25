@@ -93,7 +93,7 @@ source_count: 5
 
 ### 链接分组
 
-- [Unity 项目支持 Android 16 KB 的方案](https://developer.unity.cn/projects/6854c4fcedbc2ada96ddb533)
-- [Android 适配 16 KB Page Size](https://developer.unity.cn/projects/687efd5fedbc2aa66b703c86)
+- [Android 开发者：支持 16 KB 页大小](https://developer.android.google.cn/guide/practices/page-sizes?hl=zh-cn)
+- [Unity 官方：Android requirements and compatibility](https://docs.unity3d.com/2022.3/Documentation/Manual/android-requirements-and-compatibility.html)
 - [Android OpenURL 本地文件问题](https://issuetracker.unity3d.com/issues/android-openurl-doesnt-open-local-files-on-android-6-if-target-api-level-is-23)
 - [Android SDK 34 构建讨论](https://discussions.unity.com/t/cant-build-for-android-sdk-34/927940/35)

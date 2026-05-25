@@ -7,8 +7,8 @@ tags:
 status: reviewed
 confidence: 0.7
 visibility: public
-last_curated: 2026-05-13
-source_count: 10
+last_curated: 2026-05-22
+source_count: 15
 ---
 
 > 阶段：04-开发工具  
@@ -31,11 +31,12 @@ source_count: 10
 ## 三、容器与运维
 
 - **[Docker Hub](https://hub.docker.com/)**：镜像仓库，`docker pull` 的默认来源
-- **[FinalShell](https://www.hostbuf.com/t/988.html)**：SSH + SFTP 图形化一体化工具，适合运维场景
 
 ## 四、终端 / 远程
 
 - **[FinalShell](https://www.hostbuf.com/t/988.html)**：SSH 客户端，带文件管理和监控面板
+- **[Wave Terminal](https://github.com/wavetermdev/waveterm)**：现代终端工作区，近版加入进程查看器、Quake Mode 和 `tab:confirmclose` 等实用配置，适合多标签和上下文工作流
+- **[Hermes Desktop](https://github.com/fathah/hermes-desktop)**：桌面化 AI CLI 工作台，支持多模型 provider、SSH tunnel、会话管理和附件输入，适合把 CLI agent 包成稳定桌面环境
 - **[Tampermonkey](https://www.tampermonkey.net/)**：浏览器脚本管理器，自动化网页操作
 
 ## 五、桌面工具
@@ -46,7 +47,15 @@ source_count: 10
 
 ## 六、移动端模拟器
 
-- **[夜神模拟器](https://www.yeshen.com/)**：Android 模拟器，兼容性较好，适合移动端接入和 SDK 测试
+- **[NoxPlayer（夜神模拟器）](https://www.bignox.com/)**：Android 模拟器，适合移动端接入、ADB 联调和 SDK 测试
+
+## 七、开发配套 / SDK
+
+- **[DB Browser for SQLite](https://sqlitebrowser.org/dl/)** / **[DBeaver Community](https://dbeaver.io/download/)**：数据库查看与调试的常用桌面工具
+- **[Apache Maven](https://maven.apache.org/download.cgi)**：Java 构建工具，处理 Android / Java 依赖时常会用到
+- **[Go](https://go.dev/dl/)** / **[Zig](https://ziglang.org/download/)**：常见编译型语言环境安装入口
+- **[Temurin JDK](https://adoptium.net/zh-CN/temurin/releases?version=21)** / **[Oracle JDK](https://www.oracle.com/java/technologies/downloads/#jdk21-windows)**：Windows 下常用 JDK 下载入口
+- **[x-cmd install](https://cn.x-cmd.com/install/)**：统一包管理入口，把跨平台安装收敛成 `x install <软件名>`，适合频繁切换系统或维护工具清单的人
 
 ## 资料收敛说明
 
@@ -60,8 +69,8 @@ source_count: 10
 ### 开源项目
 
 - [DeviceFarmer/stf: Control and manage Android devices from your browser.](https://github.com/DeviceFarmer/stf)
+- [Wave Terminal 文档](https://docs.waveterm.dev/config?ref=waveconfig)
 
 ### 补充阅读
 
 - [VS Code Remote Development - Even Better](https://code.visualstudio.com/blogs/2022/12/07/remote-even-better)
-- [VS Code 搭建 C/C++ 编译运行环境的四种方案 - 知乎](https://zhuanlan.zhihu.com/p/35178331)

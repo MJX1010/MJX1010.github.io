@@ -1,0 +1,61 @@
+{
+  "replacements": [
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/链接整理归档.md",
+      "old_url": "https://claude.ai/onboarding",
+      "new_url": "https://www.anthropic.com/claude"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/urls2.md",
+      "old_url": "https://dev.epicgames.com/community/unreal-engine",
+      "new_url": "https://dev.epicgames.com/community/unreal-engine/learning"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/urls2.md",
+      "old_url": "https://bbs.nga.cn/",
+      "new_url": "https://www.nga.cn/"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/urls2.md",
+      "old_url": "https://ngabbs.com/",
+      "new_url": "https://www.nga.cn/"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/urls2.md",
+      "old_url": "https://www.colorhexa.com/index.php",
+      "new_url": "https://color.adobe.com/"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/urls2.md",
+      "old_url": "https://www.unrealengine.com/?lang=zh-CN",
+      "new_url": "https://dev.epicgames.com/documentation/zh-cn/unreal-engine"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/urls2.md",
+      "old_url": "https://www.unrealengine.com/zh-CN",
+      "new_url": "https://dev.epicgames.com/documentation/zh-cn/unreal-engine"
+    }
+  ],
+  "audit_unlink": [
+    {
+      "audit_json": "d:/Notes/MJX1010.github.io_real_me/private/link_audit/content-link-audit-20260525-121826.json",
+      "path": "content/private/metadata/urls2.md",
+      "statuses": ["auth"]
+    },
+    {
+      "audit_json": "d:/Notes/MJX1010.github.io_real_me/private/link_audit/content-link-audit-20260525-121826.json",
+      "path": "content/private/metadata/链接整理归档.md",
+      "statuses": ["auth"]
+    },
+    {
+      "audit_json": "d:/Notes/MJX1010.github.io_real_me/private/link_audit/content-link-audit-20260525-121826.json",
+      "path": "content/private/metadata/private-account-links-archive.md",
+      "statuses": ["auth"]
+    },
+    {
+      "audit_json": "d:/Notes/MJX1010.github.io_real_me/private/link_audit/content-link-audit-20260525-121826.json",
+      "path": "content/private/metadata/失效黑名单.md",
+      "statuses": ["auth"]
+    }
+  ]
+}

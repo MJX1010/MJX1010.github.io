@@ -9,8 +9,8 @@ tags:
 status: reviewed
 confidence: 0.7
 visibility: public
-last_curated: 2026-05-13
-source_count: 8
+last_curated: 2026-05-22
+source_count: 10
 ---
 
 ## 结论
@@ -63,6 +63,8 @@ source_count: 8
 - Compilation Visualizer / DirtyCompiler 类工具适合分析程序集依赖和局部编译策略。
 - 拆 asmdef 可以减少无关程序集重编译，但拆太细会增加依赖管理成本。
 - 自动编译可在批量改代码或生成代码时临时关闭，但要确保恢复流程明确。
+- `YIUI-UnityMCP` 这类 Unity MCP 配套脚本提供了 `compile-unity-flow`、控制台日志抓取和通用工具调用入口，适合把“停止 PlayMode -> 触发编译 -> 读取结果”这类流程串成可重复脚本。
+- 如果项目里已经接入 Unity MCP，优先把编译、日志、菜单命令、断言类操作封装成统一脚本入口，而不是每次让 Agent 直接拼接临时命令。
 
 ## 工具落地流程
 
@@ -103,6 +105,7 @@ source_count: 8
 
 - [Editor Iteration Profiler](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler)
 - [UnityDirtyCompiler](https://github.com/GameArki/UnityDirtyCompiler)
+- [YIUI-UnityMCP Config README](https://github.com/LiShengYang-yiyi/YIUI-UnityMCP/blob/main/cn.etetet.yiuimcp/Config/README.md)
 
 ### 链接分组
 

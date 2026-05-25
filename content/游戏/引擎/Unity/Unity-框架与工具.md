@@ -9,8 +9,8 @@ tags:
 status: reviewed
 confidence: 0.7
 visibility: public
-last_curated: 2026-05-13
-source_count: 10
+last_curated: 2026-05-22
+source_count: 14
 ---
 
 ## 核心结论
@@ -49,6 +49,14 @@ source_count: 10
 - 资源扫描、引用查找、批量修改、Prefab 规范检查和自动修复应放入 Editor 工具或 CI。
 - 构建流水线要覆盖导表、生成代码、打包资源、构建客户端、上传资源、生成 Manifest 和验证下载。
 - 工具入口要统一，危险操作要支持 dry-run、日志、Undo 或回滚。
+- 对命令行驱动的 Unity 自动化，可优先评估 `unity-cli-loop`、`unity-cli` 这类可接入 AI/CLI 工作流的工具。
+
+### 资源审计与规则校验
+
+- `AssetRegulationManager`、`Project Auditor` 这类工具适合把贴图尺寸、顶点数、导入设置、代码问题等规则前置到编辑器或 CI，而不是等到包体或性能出问题再补救。
+- `Unity-Resource-Checker` 的价值在于“把场景里真正活跃的资源可视化”：它会按纹理内存、Mesh 顶点数、材质引用关系列出当前场景中的重资源，适合排查冗余贴图、过大 Mesh 和重复材质。
+- `unity-asset-validator` 代表的是“规则式校验”思路：通过 Editor 工具和反射去验证场景与资产。但该项目已归档，作者自己转向 Odin Validator；它更适合作为设计思路参考，而不是新项目首选依赖。
+- `Unity-Dev-Tools` 这类“大杂烩索引仓库”适合找候选工具，不适合直接当生产依赖列表。应把其中真正经过验证的能力再筛回项目规范。
 
 ## 选型原则
 
@@ -83,6 +91,7 @@ source_count: 10
 - 工具链只能在个人电脑运行，CI 或打包机无法复现。
 - 资源、代码、配置版本没有统一，线上出现兼容事故。
 - 三方仓库停止维护，Unity 升级后无法构建。
+- 依赖“工具索引仓库”而不做二次筛选，容易把过期、归档或质量未知的项目直接带入主工程。
 - 生成代码没有纳入编译校验，运行时才发现接口漂移。
 - 编辑器工具直接修改大量资源但没有日志和回滚。
 
@@ -107,7 +116,7 @@ source_count: 10
 
 - [Unity 手册总入口](https://docs.unity3d.com/Manual/index.html)
 - [Unity 手册：事件函数执行顺序](https://docs.unity3d.com/cn/2022.3/Manual/ExecutionOrder.html)
-- [Android Developers: 使用 Unity 制作游戏](https://developer.android.com/games/engines/unity/unity-on-android?hl=zh-cn)
+- [Android Developers: 使用 Unity 制作游戏](https://developer.android.google.cn/games/engines/unity/unity-on-android?hl=zh-cn)
 
 ### 开源项目
 
@@ -116,8 +125,14 @@ source_count: 10
 - [focus-creative-games/luban](https://github.com/focus-creative-games/luban)
 - [tuyoogame/YooAsset](https://github.com/tuyoogame/YooAsset)
 - [Cysharp/UniTask](https://github.com/Cysharp/UniTask)
+- [hatayama/unity-cli-loop](https://github.com/hatayama/unity-cli-loop)
+- [youngwoocho02/unity-cli](https://github.com/youngwoocho02/unity-cli)
+- [CyberAgentGameEntertainment/AssetRegulationManager](https://github.com/CyberAgentGameEntertainment/AssetRegulationManager)
+- [MarkUnity/AssetAuditor](https://github.com/MarkUnity/AssetAuditor)
+- [SolarianZ/UnityAssetChecker](https://github.com/SolarianZ/UnityAssetChecker/blob/main/README_CN.md)
 
 ### 补充阅读
 
 - [ByteTech: ECS 架构设计介绍](https://bytetech.info/videos/set/7288660699621359674/7288640177994465292)
 - [ByteTech: Unity il2cpp 编译流程分享](https://bytetech.info/videos/7134694941254483976)
+- [Project Auditor package](https://docs.unity3d.com/Packages/com.unity.project-auditor@1.1/manual/index.html)

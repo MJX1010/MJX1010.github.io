@@ -8,8 +8,8 @@ tags:
 status: reviewed
 confidence: 0.7
 visibility: public
-last_curated: 2026-05-13
-source_count: 2
+last_curated: 2026-05-22
+source_count: 3
 ---
 
 ## 结论
@@ -48,8 +48,9 @@ source_count: 2
 2. 采集基线：首包启动、主界面、核心战斗、切场景、长时间挂机、反复打开高频 UI。
 3. 粗分问题类型：先判断是资源、AssetBundle、托管堆、渲染、UI、第三方插件还是平台侧内存。
 4. 做快照对比：同一场景不同时刻对比，或主城/战斗等不同场景对比，找“不该共同存在”的资源。
-5. 查生命周期：确认资源是预加载、常驻缓存、对象池保留，还是被静态变量、容器、事件、单例错误持有。
-6. 修复后复测：必须用同一路径重新采样，比较峰值、回落值、增长趋势、GC 频率和帧耗时。
+5. 对 GPU 渲染瓶颈和移动端抓帧问题，可引入 `SnapDragonProfilerCLI` 这类无头工具链，把高通设备帧捕获、离线分析、HTTP 服务和 WebUI 浏览串成可重复流程，避免只靠本地手工点界面抓数据。
+6. 查生命周期：确认资源是预加载、常驻缓存、对象池保留，还是被静态变量、容器、事件、单例错误持有。
+7. 修复后复测：必须用同一路径重新采样，比较峰值、回落值、增长趋势、GC 频率和帧耗时。
 
 ## 高频问题
 
@@ -137,3 +138,4 @@ source_count: 2
 
 - [Unity性能优化大合集，All In One - UWA](https://blog.uwa4d.com/archives/allinone.html)
 - [Unity移动端游戏性能优化简谱 - UWA学堂](https://edu.uwa4d.com/course-intro/0/430?purchased=false&entrance=3)
+- [mysheng8/SnapDragonProfilerCLI](https://github.com/mysheng8/SnapDragonProfilerCLI)

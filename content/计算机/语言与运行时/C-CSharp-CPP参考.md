@@ -38,7 +38,7 @@ C / C# / C++ 的官方 API 文档和在线参考工具汇总，作为日常开�
 ## 三、源代码参考
 
 - **[dotnet/runtime](https://github.com/dotnet/runtime)**（GitHub）：.NET 运行时源码，查阅底层实现（如 Int128）
-- **[Visual Studio SDK](https://dotnet.microsoft.com/zh-cn/download/visual-studio-sdks?cid=getdotnetsdk)**（dotnet.microsoft.com）：VS 相关 SDK 下载
+- **[Visual Studio 扩展性文档](https://learn.microsoft.com/zh-cn/visualstudio/extensibility/?view=vs-2022)**（Microsoft Learn）：VS SDK、扩展模型和开发入口
 - **[PIX on Windows](https://devblogs.microsoft.com/pix/download/)**：DirectX 性能分析和调试工具
 
 ## 四、相关学习参考
