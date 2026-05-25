@@ -26,18 +26,26 @@ Use this skill when the user wants to update the repository and upload the curre
 1. Run `git status --short --branch` and inspect the current branch state.
 2. Review the diff summary with `git diff --stat` and `git diff --cached --stat` when needed.
 3. If there are unexpected changes unrelated to the current task, stop and ask the user how to proceed.
-4. Stage the intended files with `git add -A` unless the user requested a narrower commit.
-5. Create a commit message that summarizes the actual change set.
-6. Run `git commit -m "<message>"`.
-7. Push with `git push`.
-8. Return the branch, commit hash, and pushed scope.
+4. Confirm the commit scope before staging. Prefer explicit path staging such as `git add -- content Agent.md .claude .trae scripts` when the user only wants the current task included.
+5. Exclude unrelated directories like `_temp/`, analysis outputs, temporary reports, or config experiments unless the user explicitly approves them.
+6. Create a commit message that summarizes the actual change set.
+7. Run `git commit -m "<message>"`.
+8. Push with `git push`.
+9. Re-check `git status --short --branch` and `git log --oneline --decorate -n 3` to confirm the local branch and remote ref are aligned.
+10. Return the branch, commit hash, pushed scope, and any intentionally uncommitted files.
 
 ## Safety Rules
 
 - Never use `git push --force` unless the user explicitly asks for it.
 - Never amend an existing commit unless the user explicitly asks for it.
+- Do not stage the whole workspace by default when unrelated changes are present; ask the user to choose between current-task-only, selected extra files, or full-worktree commit.
 - If push fails because no upstream is set, use `git push -u origin <branch>` only after confirming the remote and branch are correct.
 - If the repo has no remote or authentication is missing, stop and report the exact blocker.
+
+## Practical Notes
+
+- If `git push` reports success but the state is ambiguous, always verify with `git status --short --branch` and `git log --oneline --decorate -n 3`.
+- If the user asks for "one-click sync" but the workspace is dirty, the skill still needs a scope confirmation step; "one-click" does not override safety rules.
 
 ## Output Format
 
