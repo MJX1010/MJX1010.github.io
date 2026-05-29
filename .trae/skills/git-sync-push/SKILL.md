@@ -28,11 +28,13 @@ Use this skill when the user wants to update the repository and upload the curre
 3. If there are unexpected changes unrelated to the current task, stop and ask the user how to proceed.
 4. Confirm the commit scope before staging. Prefer explicit path staging such as `git add -- content Agent.md .claude .trae scripts` when the user only wants the current task included.
 5. Exclude unrelated directories like `_temp/`, analysis outputs, temporary reports, or config experiments unless the user explicitly approves them.
-6. Create a commit message that summarizes the actual change set.
-7. Run `git commit -m "<message>"`.
-8. Push with `git push`.
-9. Re-check `git status --short --branch` and `git log --oneline --decorate -n 3` to confirm the local branch and remote ref are aligned.
-10. Return the branch, commit hash, pushed scope, and any intentionally uncommitted files.
+6. Run `python scripts/harness.py privacy-scan --path <scope>` before staging or rely on `python scripts/harness.py sync-git ...`, which includes the same preflight automatically.
+7. If the privacy scan reports personal email, phone, ID number, private key, token, or API key, stop immediately and move or redact the content before any commit.
+8. Create a commit message that summarizes the actual change set.
+9. Run `git commit -m "<message>"`.
+10. Push with `git push`.
+11. Re-check `git status --short --branch` and `git log --oneline --decorate -n 3` to confirm the local branch and remote ref are aligned.
+12. Return the branch, commit hash, pushed scope, and any intentionally uncommitted files.
 
 ## Safety Rules
 
@@ -41,6 +43,7 @@ Use this skill when the user wants to update the repository and upload the curre
 - Do not stage the whole workspace by default when unrelated changes are present; ask the user to choose between current-task-only, selected extra files, or full-worktree commit.
 - If push fails because no upstream is set, use `git push -u origin <branch>` only after confirming the remote and branch are correct.
 - If the repo has no remote or authentication is missing, stop and report the exact blocker.
+- Never bypass a privacy scan failure. Real personal information and credentials must be removed or moved to `private/` before retrying.
 
 ## Practical Notes
 

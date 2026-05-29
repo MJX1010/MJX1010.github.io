@@ -45,7 +45,7 @@ npx quartz build --serve
 生成 Unity 知识索引：
 
 ```bash
-python scripts/build_unity_note_index.py
+python scripts/harness.py build-topic-index
 ```
 
 检查公开知识库治理状态：
@@ -58,6 +58,24 @@ python scripts/wiki_lint.py
 
 ```bash
 python scripts/wiki_lint.py --write-manifest
+```
+
+执行 GitHub 仓库安全体检：
+
+```bash
+python scripts/harness.py github-account-audit --owner MJX1010 --email your_email@example.com
+```
+
+提交前执行隐私扫描：
+
+```bash
+python scripts/harness.py privacy-scan --path scripts --path .trae --path Agent.md
+```
+
+按限定范围提交并推送：
+
+```bash
+python scripts/harness.py sync-git --message "update harness" --path .trae --path scripts
 ```
 
 ## 一键发布
