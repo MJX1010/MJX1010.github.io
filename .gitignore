@@ -9,3 +9,9 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+# 本地临时验证 / 工具二进制
+_temp/
+
+# 历史资料目录（非本仓库内容）
+g/

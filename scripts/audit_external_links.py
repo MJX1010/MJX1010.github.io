@@ -17,7 +17,6 @@ import datetime as dt
 import json
 import re
 import socket
-import sys
 import urllib.error
 import urllib.parse
 import urllib.request
