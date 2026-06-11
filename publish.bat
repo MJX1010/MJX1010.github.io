@@ -34,6 +34,16 @@ if %errorlevel% neq 0 (
     exit /b 1
 )
 
+echo [STEP] 复制微信读书图书馆静态页...
+if not exist "public\weread" mkdir "public\weread"
+copy /Y "weread-analysis\index.html" "public\weread\index.html" >nul
+if %errorlevel% neq 0 (
+    echo.
+    echo [ERROR] 复制 weread-analysis\index.html 失败。
+    pause
+    exit /b 1
+)
+
 echo [STEP] 暂存所有改动...
 git add -A
 
