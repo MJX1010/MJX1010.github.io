@@ -1,0 +1,15 @@
+# 本地服务凭据，绝不能提交
+.env
+
+# 生成的 SQLite 书库（可由 build-library.py 从 JSON 重建）
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# 中间产物 / 临时文件
+output/
+*-temp.json
+all-books-details-temp.json
+last-sync-summary.json
+books-details-progress.json

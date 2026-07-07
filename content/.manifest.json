@@ -1,0 +1,430 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-13T03:32:51+00:00",
+  "content_root": "content",
+  "policy": {
+    "private_content": "content/private/ is ignored by git and Quartz publication",
+    "link_format": "wikilink",
+    "frontmatter_spec": "stored in content/_meta/ and excluded from publication"
+  },
+  "sources": [],
+  "review_queue": [],
+  "notes": {
+    "AI/工具与导航/AI工具与导航.md": {
+      "title": "AI 工具与导航",
+      "tags": [
+        "ai-coding",
+        "llm",
+        "ai-tools"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "4ddf6fdad88fe3eb74c53edf2e302cb79f01a8cda62e0f72382c07595d5fbd1c",
+      "external_link_count": 10
+    },
+    "AI/开发与Agent/AI-Coding-与-Agent.md": {
+      "title": "AI Coding 与 Agent",
+      "tags": [
+        "ai-coding",
+        "llm",
+        "agent"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "0b01379ace674358648a7252e88037a2e4e7d433cfa42372cc4660d04e13b840",
+      "external_link_count": 5
+    },
+    "AI/模型与产品/大模型产品.md": {
+      "title": "大模型产品",
+      "tags": [
+        "ai-coding",
+        "llm",
+        "chatbot"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "6398c5b11b6e1bcaf756a03d382afcfd2aedc238be3519e1e88edceb70e01a65",
+      "external_link_count": 10
+    },
+    "index.md": {
+      "title": "MJX1010 知识库",
+      "tags": [],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "35c6add3565742ea824f512730beabff0ce2fd27d35b07db070ecc2fad834ea8",
+      "external_link_count": 0
+    },
+    "工具/在线协作/在线工具与协作.md": {
+      "title": "在线工具与协作",
+      "tags": [
+        "开发工具",
+        "在线工具",
+        "协作",
+        "补充资料"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "cc0c6530da0ca7caa94be37a674aada751118789500b217133db8a505685f86e",
+      "external_link_count": 10
+    },
+    "工具/学习与导航/学习导航.md": {
+      "title": "学习导航",
+      "tags": [
+        "学习",
+        "基础",
+        "导航"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "ce74bcf980a515c62390041297532c0e8b397c462e04b6f61f1c3244db3ceb21",
+      "external_link_count": 6
+    },
+    "工具/开发环境/IDE与桌面工具.md": {
+      "title": "IDE 与桌面工具",
+      "tags": [
+        "开发工具",
+        "ide",
+        "桌面工具"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "25397ca4269742d9ea0298a2e4f56b4259ec0d006a62633df1a8e0a938b79ca3",
+      "external_link_count": 10
+    },
+    "工具/网络与连接/网络与代理.md": {
+      "title": "网络与代理",
+      "tags": [
+        "开发工具",
+        "代理",
+        "网络"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "1ccba1c1921a1aa290a531093b878c9ec6e702da74019d4cc6e16066939c2863",
+      "external_link_count": 9
+    },
+    "游戏/平台与发行/移动端接入与平台问题.md": {
+      "title": "移动端接入与平台问题",
+      "tags": [
+        "移动端",
+        "平台",
+        "android",
+        "ios",
+        "firebase",
+        "补充资料"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "ba4a80f8876139ed7c1940dbcaf28e6d2887c30b60d0042d6f2bb69e6a4e7e1a",
+      "external_link_count": 10
+    },
+    "游戏/引擎/Unity/Unity-Android-iOS平台问题笔记.md": {
+      "title": "Unity Android iOS 平台问题笔记",
+      "tags": [
+        "Unity",
+        "Android",
+        "iOS",
+        "移动端",
+        "发布"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "23272b17baff6e111b5bf6d85b61d312ea0a2ebab8e76885ff77390af8ff68e2",
+      "external_link_count": 5
+    },
+    "游戏/引擎/Unity/Unity-FMOD音频接入笔记.md": {
+      "title": "Unity FMOD 音频接入笔记",
+      "tags": [
+        "Unity",
+        "FMOD",
+        "音频",
+        "移动端"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "fe4cd6488fb965d67edf9cd4444f3dbd6f87420fe31d9da1c7988dbfc20e013e",
+      "external_link_count": 5
+    },
+    "游戏/引擎/Unity/Unity-UGUI与UI工具笔记.md": {
+      "title": "Unity UGUI 与 UI 工具笔记",
+      "tags": [
+        "Unity",
+        "UGUI",
+        "UI",
+        "工具链"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "6dd37b2f94651c766db33f901bf1f951307c504500b3d1fbbe760fa2c2ff09ca",
+      "external_link_count": 7
+    },
+    "游戏/引擎/Unity/Unity-UI与优化.md": {
+      "title": "Unity UI 与优化",
+      "tags": [
+        "游戏开发",
+        "引擎",
+        "unity",
+        "ugui",
+        "性能优化"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "e6ca3e77d58b53532f6fdc473daaec2a0880cb2345a50b65bfd1b5f2a39e6598",
+      "external_link_count": 10
+    },
+    "游戏/引擎/Unity/Unity-内存与性能优化笔记.md": {
+      "title": "Unity 内存与性能优化笔记",
+      "tags": [
+        "Unity",
+        "性能优化",
+        "内存",
+        "移动端"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "ae75aa551291191e00ec2ebfa97571ed4165afaca105abc4b150f0e85afe783a",
+      "external_link_count": 2
+    },
+    "游戏/引擎/Unity/Unity-框架与工具.md": {
+      "title": "Unity 框架与工具",
+      "tags": [
+        "游戏开发",
+        "引擎",
+        "unity",
+        "框架",
+        "工具链"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "a3a60b4bbeaed6087529107e7e6a5519412090ca18d8763833f506b37cdd6e03",
+      "external_link_count": 10
+    },
+    "游戏/引擎/Unity/Unity-热更新与资源配置工程化笔记.md": {
+      "title": "Unity 热更新与资源配置工程化笔记",
+      "tags": [
+        "Unity",
+        "热更新",
+        "资源管理",
+        "配表",
+        "工程化"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "629fe2dafed9e87778b8eca759369fd8bb4ea4e30c791eb4e412c709e152581a",
+      "external_link_count": 10
+    },
+    "游戏/引擎/Unity/Unity-知识索引.md": {
+      "title": "Unity 知识索引",
+      "tags": [
+        "Unity",
+        "索引",
+        "自动生成"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "6688926633e7ebed3a101286fbb2074e53af787d7f420600750a656a9536d90e",
+      "external_link_count": 0
+    },
+    "游戏/引擎/Unity/Unity-编辑器扩展与效率工具笔记.md": {
+      "title": "Unity 编辑器扩展与效率工具笔记",
+      "tags": [
+        "Unity",
+        "编辑器扩展",
+        "IMGUI",
+        "Odin",
+        "工具链"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "1f13da196344b318b2b489b9bdf04be77d78f4be758525124e3747ac5412fa06",
+      "external_link_count": 8
+    },
+    "游戏/引擎/Unreal/Unreal-Engine.md": {
+      "title": "Unreal Engine",
+      "tags": [
+        "游戏开发",
+        "引擎",
+        "unreal-engine"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "dd66881ab81f8e4bd26bf88bb5922140f85d72ae3c7568e48bb83d6a5e32c24f",
+      "external_link_count": 10
+    },
+    "游戏/引擎/其他引擎/其他引擎.md": {
+      "title": "其他引擎",
+      "tags": [
+        "游戏开发",
+        "引擎",
+        "godot",
+        "rpg-maker"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "c496bc9fe923a657b57c2348cb5a15c1c4dfcfd37833ab3ae3983d2263cd6375",
+      "external_link_count": 3
+    },
+    "游戏/玩法与系统/帧同步与游戏AI.md": {
+      "title": "帧同步与游戏 AI",
+      "tags": [
+        "游戏开发",
+        "引擎",
+        "帧同步",
+        "lockstep",
+        "游戏ai",
+        "补充资料"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "24e120a284ef8251f778164d1c1e4721b302d012609fb39f64de1028f6f1547a",
+      "external_link_count": 10
+    },
+    "计算机/基础与规范/平台与规范.md": {
+      "title": "平台与规范",
+      "tags": [
+        "移动端",
+        "平台",
+        "代码规范",
+        "android",
+        "apple"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "e242417b0a0a7d1ea33af9834b29399f82192d8153176e6e773bffd7c2671381",
+      "external_link_count": 10
+    },
+    "计算机/基础与规范/算法与计算机基础.md": {
+      "title": "算法与计算机基础",
+      "tags": [
+        "学习",
+        "基础",
+        "算法",
+        "数据结构"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "22b947ea5a1f9ace6bb62210fbc781b4cd9452554c969f52357cb994f06b2c8f",
+      "external_link_count": 10
+    },
+    "计算机/语言与运行时/C-CSharp-CPP参考.md": {
+      "title": "C / C# / C++ 参考",
+      "tags": [
+        "参考",
+        "文档",
+        "c++",
+        "\"c#\"",
+        "dotnet"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "4ad624ac4e8483bcbd365b25614367658704763bbaa384b67396cb86dbd181ae",
+      "external_link_count": 10
+    },
+    "计算机/语言与运行时/编程语言.md": {
+      "title": "编程语言",
+      "tags": [
+        "学习",
+        "基础",
+        "c++",
+        "\"c#\"",
+        "lua"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "cbc219c86e93be5cf4dff838e140dab9153bed05190014f08eb3261f81001b37",
+      "external_link_count": 10
+    },
+    "资源/电子书与素材.md": {
+      "title": "电子书与素材",
+      "tags": [
+        "资源",
+        "电子书",
+        "素材"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "d21e30317680a8891ca50d5704725726b1e0447af72a9d3c55a22782e70b17de",
+      "external_link_count": 10
+    },
+    "资源/软件与游戏资源.md": {
+      "title": "软件与游戏资源",
+      "tags": [
+        "资源",
+        "软件",
+        "游戏资源"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "26e64e445b7dfca6cd57ec2878845aac76aa275a49cf96a5265f444bdf9d9788",
+      "external_link_count": 10
+    },
+    "资讯/媒体与观察/综合媒体.md": {
+      "title": "综合媒体",
+      "tags": [
+        "社区",
+        "资讯",
+        "媒体"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "764d66023ba5d69b99cab5c58426b2b58577ff6853c94eb0e23ee579bf825193",
+      "external_link_count": 10
+    },
+    "资讯/社区与博客/技术博客与社区.md": {
+      "title": "技术博客与社区",
+      "tags": [
+        "社区",
+        "资讯",
+        "博客"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "cc33e034624f2146e3b8b27b427758072d6f83648311d76109862b326542dff4",
+      "external_link_count": 10
+    },
+    "资讯/视频与课程/视频与课程.md": {
+      "title": "视频与课程",
+      "tags": [
+        "社区",
+        "资讯",
+        "视频",
+        "课程",
+        "补充资料"
+      ],
+      "status": "reviewed",
+      "visibility": "public",
+      "confidence": 0.7,
+      "sha256": "6f334908489c6be4cc244ee1e291268d1b2ed69c96ef899e69b9b78cbff8195b",
+      "external_link_count": 10
+    }
+  }
+}

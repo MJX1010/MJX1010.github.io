@@ -1,0 +1,26 @@
+{
+  "replacements": [
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/游戏/引擎/Unreal/Unreal-Engine.md",
+      "old_url": "https://blog.csdn.net/danshiming/article/details/125118781",
+      "new_url": "https://dev.epicgames.com/documentation/zh-cn/unreal-engine/get-started"
+    }
+  ],
+  "audit_unlink": [
+    {
+      "audit_json": "d:/Notes/MJX1010.github.io_real_me/private/link_audit/content-link-audit-20260525-121528.json",
+      "path": "content/private/metadata/urls2.md",
+      "statuses": ["broken", "error"]
+    },
+    {
+      "audit_json": "d:/Notes/MJX1010.github.io_real_me/private/link_audit/content-link-audit-20260525-121528.json",
+      "path": "content/private/metadata/链接整理归档.md",
+      "statuses": ["broken", "error"]
+    },
+    {
+      "audit_json": "d:/Notes/MJX1010.github.io_real_me/private/link_audit/content-link-audit-20260525-121528.json",
+      "path": "content/private/metadata/未分类素材链接归档.md",
+      "statuses": ["broken", "error"]
+    }
+  ]
+}

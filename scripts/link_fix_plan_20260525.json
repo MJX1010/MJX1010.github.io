@@ -1,0 +1,106 @@
+{
+  "replacements": [
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/计算机/基础与规范/算法与计算机基础.md",
+      "old_url": "https://blog.csdn.net/quzhongxin/article/details/46654039",
+      "new_url": "https://cp-algorithms.com/dynamic_programming/knapsack.html"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/资源/软件与游戏资源.md",
+      "old_url": "https://unityassetcollection.com/",
+      "new_url": "https://assetstore.unity.com/"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/总目录-链接归档.md",
+      "old_url": "https://developer.android.com/games/engines/unity/unity-on-android?hl=zh-cn#16-kb-page-support",
+      "new_url": "https://developer.android.google.cn/games/engines/unity/unity-on-android?hl=zh-cn#16-kb-page-support"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/总目录-链接归档.md",
+      "old_url": "https://developer.android.com/studio?hl=zh-cn",
+      "new_url": "https://developer.android.google.cn/studio?hl=zh-cn"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/总目录-链接归档.md",
+      "old_url": "https://developer.android.com/studio/releases?hl=zh-cn#android_gradle_plugin_and_android_studio_compatibility",
+      "new_url": "https://developer.android.google.cn/studio/releases?hl=zh-cn#android_gradle_plugin_and_android_studio_compatibility"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/总目录-链接归档.md",
+      "old_url": "https://developer.android.com/build/agp-upgrade-assistant?hl=zh-cn",
+      "new_url": "https://developer.android.google.cn/build/agp-upgrade-assistant?hl=zh-cn"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/urls2.md",
+      "old_url": "https://zh.wikihow.com/首页",
+      "new_url": "https://zh.wikihow.com/"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/urls2.md",
+      "old_url": "https://developer.unity.cn/",
+      "new_url": "https://docs.unity.cn/cn/current/Manual/index.html"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/urls2.md",
+      "old_url": "https://www.yeshen.com/",
+      "new_url": "https://www.bignox.com/"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/urls2.md",
+      "old_url": "https://www.lizhi.io/cn",
+      "new_url": "https://lizhi.io/"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/urls2.md",
+      "old_url": "https://developer.android.com/docs",
+      "new_url": "https://developer.android.google.cn/develop?hl=zh-cn"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/urls2.md",
+      "old_url": "https://clashforandroid.org/clash-for-android-download",
+      "new_url": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/urls2.md",
+      "old_url": "https://blog.csdn.net/quzhongxin/article/details/46654039",
+      "new_url": "https://cp-algorithms.com/dynamic_programming/knapsack.html"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/链接整理归档.md",
+      "old_url": "https://ai.google.dev/gemini-api/docs/available-regions?hl=zh-cn",
+      "new_url": "https://ai.google.dev/gemini-api/docs/available-regions"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/链接整理归档.md",
+      "old_url": "https://www.codebuddy.cn/work/",
+      "new_url": "https://www.codebuddy.cn/"
+    },
+    {
+      "path": "d:/Notes/MJX1010.github.io_real_me/content/private/metadata/链接整理归档.md",
+      "old_url": "https://www.anygen.io/home",
+      "new_url": "https://www.anygen.io/"
+    }
+  ],
+  "audit_unlink": [
+    {
+      "audit_json": "d:/Notes/MJX1010.github.io_real_me/private/link_audit/content-link-audit-20260525-121223.json",
+      "path": "content/资讯/媒体与观察/综合媒体.md",
+      "statuses": ["auth"]
+    },
+    {
+      "audit_json": "d:/Notes/MJX1010.github.io_real_me/private/link_audit/content-link-audit-20260525-121223.json",
+      "path": "content/private/metadata/失效黑名单.md",
+      "statuses": ["broken", "error"]
+    },
+    {
+      "audit_json": "d:/Notes/MJX1010.github.io_real_me/private/link_audit/content-link-audit-20260525-121223.json",
+      "path": "content/private/metadata/urls2.md",
+      "statuses": ["broken", "error"]
+    },
+    {
+      "audit_json": "d:/Notes/MJX1010.github.io_real_me/private/link_audit/content-link-audit-20260525-121223.json",
+      "path": "content/private/metadata/private-account-links-archive.md",
+      "statuses": ["broken", "error"]
+    }
+  ]
+}
