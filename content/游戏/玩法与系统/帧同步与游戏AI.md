@@ -10,11 +10,9 @@ tags:
 status: reviewed
 confidence: 0.7
 visibility: public
-last_curated: 2026-05-13
-source_count: 10
+last_curated: 2026-06-11
+source_count: 21
 ---
-
-> 阶段：02-引擎与游戏开发  
 
 ## 核心结论
 
@@ -44,6 +42,30 @@ source_count: 10
 - 本页已将原先 `22` 条参考链接压缩为 `10` 条核心引用，重复导航页、同类 API 细节页和低信噪比补充资料不再逐条公开保留。
 - 正文已优先沉淀选型标准、排查流程、风险边界和常用工具定位，后续新增资料应继续转成正文结论，而不是直接堆叠链接。
 - 文末只保留官方文档、代表性开源项目和少量仍值得回看的补充阅读。
+
+
+### 参考链接
+
+- [干货！光子高级工程师揭秘帧同步游戏的技术实现细节_游戏陀螺](https://www.youxituoluo.com/528021.html)
+- [使用行为树(Behavior Tree)实现游戏AI - 技术人生 - 编程技术 - JESSE人生](http://www.luzexi.com/2013/01/26/%E4%BD%BF%E7%94%A8%E8%A1%8C%E4%B8%BA%E6%A0%91(Behavior-Tree)
+
+### 知乎文章
+
+- [(99+ 封私信 / 81 条消息) 王者荣耀游戏中帧同步如何分离逻辑和渲染？ - 知乎](https://www.zhihu.com/question/323505671)
+- [游戏AI入门及AI优化 - 知乎](https://zhuanlan.zhihu.com/p/82567889)
+- [像《红警》里的大兵那样找路（上）——全局向量场寻路 - 知乎](https://zhuanlan.zhihu.com/p/562570278)
+
+### B站视频
+
+- [帧同步教程【合集】_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av70422751/?p=3)
+- [帧同步教程【合集】_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1ZJ411F7Sn?p=1)
+
+### GitHub 项目
+
+- [JiepengTan/LockstepEngine: A lockstep solution include lots of deterministic library (Math,Collision,Navmesh,Behavior...](https://github.com/JiepengTan/LockstepEngine)
+- [JiepengTan/Lockstep-Tutorial: 帧同步 教程](https://github.com/JiepengTan/Lockstep-Tutorial)
+- [Repository search results](https://github.com/search?q=lockstep&type=repositories&s=stars&o=desc&p=1)
+- [ihaiucom/learn.AStarPathfinding: A* Pathfinding Project Pro](https://github.com/ihaiucom/learn.AStarPathfinding)
 
 ## 参考链接
 

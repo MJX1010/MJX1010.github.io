@@ -8,8 +8,8 @@ tags:
 status: reviewed
 confidence: 0.7
 visibility: public
-last_curated: 2026-05-13
-source_count: 5
+last_curated: 2026-06-11
+source_count: 6
 ---
 
 ## 结论
@@ -76,6 +76,11 @@ source_count: 5
 - 首包 Bank 与热更新 Bank 是否存在重复或版本冲突。
 - Android / iOS 音频格式是否分别验证。
 - Bank 加载、事件播放、停止、卸载是否有自动化冒烟测试。
+
+
+### 参考链接
+
+- [问答 | Audiokinetic](https://www.audiokinetic.com/qa/7918/unity-%E4%B8%AD%E4%BD%BF%E7%94%A8videoplayer%E6%92%AD%E6%94%BE%E8%A7%86%E9%A2%91%EF%BC%8C%E8%A7%86%E9%A2%91%E8%87%AA%E5%B8%A6%E7%9A%84%E9%9F%B3%E6%95%88%E6%97%A0%E6%B3%95%E6%92%AD%E6%94%BE)
 
 ## 参考链接
 

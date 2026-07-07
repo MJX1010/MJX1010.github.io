@@ -9,8 +9,8 @@ tags:
 status: reviewed
 confidence: 0.7
 visibility: public
-last_curated: 2026-05-22
-source_count: 10
+last_curated: 2026-06-11
+source_count: 97
 ---
 
 ## 结论
@@ -91,6 +91,114 @@ source_count: 10
 - 是否把 Editor-only 代码放在 Editor 目录或 Editor 程序集。
 - 是否有资源扫描结果和自动修复日志。
 - 是否衡量过工具本身对编译和 Domain Reload 的影响。
+
+
+### Odin Inspector
+
+- [云风的 BLOG: 跟踪数据结构的变更](https://blog.codingnow.com/2017/02/tracedoc.html)
+- [云风的 BLOG: 游戏数据的展示](https://blog.codingnow.com/2022/05/gameplay_viewport.html)
+- [Protocol Buffers与FlatBuffers效率对比 - coding my life - 博客园](https://www.cnblogs.com/coding-my-life/p/7296323.html)
+- [Star, a Unity C# Editor Tutorial](https://catlikecoding.com/unity/tutorials/editor/star/)
+- [Unity Odin从入门到精通（一）：定制特性详解-CSDN博客](https://blog.csdn.net/zjz520yy/article/details/119940363)
+- [Odin常用记录_odin onvaluechanged-CSDN博客](https://blog.csdn.net/weixin_45029839/article/details/130361957?spm=1001.2014.3001.5502)
+- [Unity 编辑器扩展二 Editor 自定义Inspector面板 - 简书](https://www.jianshu.com/p/27280468288c)
+- [(原创) UnityEditor-Windwos编辑器与Inspector编辑器 - 技术专栏 - Unity官方开发者社区](https://developer.unity.cn/projects/5c8a27c6edbc2a007331fc2b)
+- [Unity ContextMenu 扩展组件的环境菜单（在 Inspector 视图组件名称上的右击下拉菜单） - kingBook - 博客园](https://www.cnblogs.com/kingBook/p/14943141.html)
+- [Unity编辑器环境在Inspector面板中显示变量 - jiahuafu - 博客园](https://www.cnblogs.com/jiahuafu/p/11162574.html)
+- [How to make an enum-like Unity inspector drop-down menu from a string array with C#? - Stack Overflow](https://stackoverflow.com/questions/60864308/how-to-make-an-enum-like-unity-inspector-drop-down-menu-from-a-string-array-with)
+- [How can I custom inspector a enum like as component Light - Questions & Answers - Unity Discussions](https://discussions.unity.com/t/how-can-i-custom-inspector-a-enum-like-as-component-light/151203/2)
+- [Unity3d property drawer for automatically making enums flags into mask fields in the inspector.](https://gist.github.com/FFouetil/dd081256da0e3475d524d88b414076e3)
+- [Epic的虚幻引擎 C++ 代码规范 | 虚幻引擎5.3文档](https://docs.unrealengine.com/5.3/zh-CN/epic-cplusplus-coding-standard-for-unreal-engine/)
+- [Unity C# Editor Tutorials](https://catlikecoding.com/unity/tutorials/editor/)
+- [云风的 BLOG: lockstep 网络游戏同步方案](https://blog.codingnow.com/2018/08/lockstep.html)
+- [Road 2 Coding](https://www.r2coding.com/#/README?id=%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f)
+- [(99+ 封私信 / 80 条消息) Unity OdinInspector全特性介绍（总结篇） - 知乎](https://zhuanlan.zhihu.com/p/409479682)
+- [(99+ 封私信 / 80 条消息) Unity OdinInspector全特性介绍（五） - 知乎](https://zhuanlan.zhihu.com/p/409403629)
+- [(99+ 封私信 / 80 条消息) Unity OdinInspector全特性介绍（四） - 知乎](https://zhuanlan.zhihu.com/p/409166888)
+- [Unity OdinInspector全特性介绍（三） - 知乎](https://zhuanlan.zhihu.com/p/408785062)
+- [Unity OdinInspector全特性介绍（二） - 知乎](https://zhuanlan.zhihu.com/p/408380221)
+- [(99+ 封私信 / 80 条消息) Unity OdinInspector全特性介绍（一） - 知乎](https://zhuanlan.zhihu.com/p/408002569)
+- [云风的 BLOG](https://blog.codingnow.com/)
+- [musistudio/claude-code-router: Use Claude Code as the foundation for coding infrastructure, allowing you to decide ho...](https://github.com/musistudio/claude-code-router)
+
+### 自定义编辑器窗口
+
+- [How do I make a function delegate parameter optional? - Pipeline & Plugins / Editor Scripting - Epic Developer Commun...](https://forums.unrealengine.com/t/how-do-i-make-a-function-delegate-parameter-optional/366830)
+- [api.unity.com](https://api.unity.com/v1/oauth2/authorize?client_id=unity_forum&response_type=code&redirect_uri=https%3A%2F%2Fforum.unity.com%2Fregister%2Fgenesis&state=FCO5y0CaZER3ZJC284HcBAsIStEYogMhOERp5SUR%3B%2Fthreads%2Fhow-to-make-a-multi-line-textfield-for-editor.153995%2F&prompt=NONE)
+- [How do I add a scrolling input text box in an EditorWindow? (more info added) - Questions & Answers - Unity Discussions](https://discussions.unity.com/t/how-do-i-add-a-scrolling-input-text-box-in-an-editorwindow-more-info-added/131456)
+- [EditorWindowの分割（Editor拡張） │ 空の缶詰](https://karanokan.info/2021/01/08/editorsplitarea/)
+- [Unity之EditorUtility-DisplayDialog-五_unityeditor.editorutility.displaydialog-CSDN博客](https://blog.csdn.net/LIQIANGEASTSUN/article/details/42174671)
+- [Download Archive](https://unity.com/releases/editor/archive#download-archive-2018)
+- [UnityEditor知识 | 走停人生路](https://tonytang1990.github.io/2022/02/20/UnityEditor%E7%9F%A5%E8%AF%86/)
+- [CoderGamester/mcp-unity: MCP Server to integrate Unity Editor game engine with different AI Model clients (e.g. Claud...](https://github.com/CoderGamester/mcp-unity)
+- [arimger/Unity-Editor-Toolbox: Tools, custom attributes, drawers, hierarchy overlay, and other extensions for the Unit...](https://github.com/arimger/Unity-Editor-Toolbox)
+- [Unity 6000.0.33](https://unity.com/releases/editor/whats-new/6000.0.33#installs)
+- [XINCGer/UnityToolchainsTrick: 提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the...](https://github.com/XINCGer/UnityToolchainsTrick?tab=readme-ov-file)
+- [CodeGize-Unity编辑器开发，使用CustomPropertyDrawer实现枚举中文显示](http://www.codegize.com/post/38.html)
+- [Unity - Manual: Editor Windows](https://docs.unity3d.com/Manual/editor-EditorWindows.html)
+- [How to highlight or select an asset in project window from editor script? - Questions & Answers - Unity Discussions](https://discussions.unity.com/t/how-to-highlight-or-select-an-asset-in-project-window-from-editor-script/11257)
+- [How can I find all instances of a Scriptable Object in the Project (Editor) - Questions & Answers - Unity Discussions](https://discussions.unity.com/t/how-can-i-find-all-instances-of-a-scriptable-object-in-the-project-editor/198002/2)
+- [Unity3D 编辑器扩展 Editor中使用协程_unity 编辑器模式下开携程-CSDN博客](https://blog.csdn.net/piai9568/article/details/96895782)
+- [TopOn-Unity-Demo-test/AnyThinkUnitySDK/Assets/Editor/IOS at master · toponteam/TopOn-Unity-Demo-test](https://github.com/toponteam/TopOn-Unity-Demo-test/tree/master/AnyThinkUnitySDK/Assets/Editor/IOS)
+- [AsehesL/USubWindow: EditorWindow的多子窗口实现](https://github.com/AsehesL/USubWindow)
+- [Misaka-Mikoto-Tech/MonoHook: hook C# method at runtime without modify dll file (such as UnityEditor.dll), works on Wi...](https://github.com/Misaka-Mikoto-Tech/MonoHook)
+- [XINCGer/UnityToolchainsTrick: 提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the...](https://github.com/XINCGer/UnityToolchainsTrick)
+- [YouwantLee/Joker_Unity_SkillEditor: Joker 老师的 《ARPG系列课程》-->Unity技能编辑器源码，同步课程内容更新（已经Joker老师同意开源代码）](https://github.com/YouwantLee/Joker_Unity_SkillEditor)
+- [akof1314/Unity-EditorInternalsVisibleDemo: Unity Editor Internals Visible](https://github.com/akof1314/Unity-EditorInternalsVisibleDemo)
+
+### Editor 工具集合
+
+- [Unity Loom 插件使用 - 知乎](https://zhuanlan.zhihu.com/p/23986194)
+- [Unity中的 原生插件/平台交互 原理 - mydddfly - 博客园](https://www.cnblogs.com/jukan/p/8472959.html)
+- [Unity3D插件开发Tips](http://blog.icodeten.com/game/2016/07/20/unity-plugins/)
+- [【Unity编辑器开发】工具开发之Windows单选或多选文件踩坑记录 - 陌冉 - 博客园](https://www.cnblogs.com/moran-amos/p/11342095.html)
+- [使用Unity Localization插件进行项目本地化实战详解 - 草莓♭布丁 - 博客园](https://www.cnblogs.com/strawberryPudding/p/17869493.html)
+- [JiepengTan/GamesTanTools: 个人的 Unity 小工具箱，含一些个人比较常用的代码](https://github.com/JiepengTan/GamesTanTools?tab=readme-ov-file)
+- [ChuKuang/Unity-Dev-Tools: 收集各种Unity开发的库](https://github.com/ChuKuang/Unity-Dev-Tools?tab=readme-ov-file)
+- [needle-tools/compilation-visualizer: Unity Tool showing a timeline of assembly compilation. This is especially helpfu...](https://github.com/needle-tools/compilation-visualizer)
+- [命令行工具 | Luban](https://www.datable.cn/docs/manual/commandtools)
+- [Unity - Scripting API: AndroidExternalToolsSettings](https://docs.unity3d.com/2019.4/Documentation/ScriptReference/Android.AndroidExternalToolsSettings.html)
+- [TopOn Unity3D 插件(2.0.0+)导入说明-TopOn | 帮助中心](https://help.toponad.net/cn/docs/hd01b0)
+- [Unity-Technologies/com.unity.cinemachine: Smart camera tools for passionate creators](https://github.com/Unity-Technologies/com.unity.cinemachine)
+- [hwaet/UnityProjectCloner: A tool to let the user to create a duplicate project that links back to the original, for m...](https://github.com/hwaet/UnityProjectCloner)
+- [tinyantstudio/SimpleTimeLineWindow: Ready to Make Simple Unity's TimeLine Style Extension tools](https://github.com/tinyantstudio/SimpleTimeLineWindow)
+
+### xNode 可视化节点
+
+- [Unity编辑器扩展：使用xNode制作自己的可视化工具（2） - 知乎](https://zhuanlan.zhihu.com/p/364501563)
+- [Unity xNode节点插件入门使用介绍1_xnode unity插件-CSDN博客](https://blog.csdn.net/oKaiGuo/article/details/120305976)
+- [记一次Unity使用XNode插件时自动连线问题 - 不够自律的人 - 博客园](https://www.cnblogs.com/jbw752746541/p/14922214.html)
+- [使用xNode制作可视化剧本编辑插件(1) | ydwj的游戏开发日记](https://auniquepig.com/2021/06/27/Story-Editor/)
+- [Unity人工智能开发—基于xNode的图形化FSM教程 - 掘金](https://juejin.cn/post/7168347920184377352)
+- [CodeGize-迷宫地图编辑器：Xnode插件实践](http://www.codegize.com/post/83.html)
+- [Unity编辑器扩展：使用xNode制作自己的可视化工具（2） | ydwj的游戏开发日记](https://auniquepig.com/2021/06/27/Story-Editor2/)
+- [Home · Siccity/xNode Wiki](https://github.com/Siccity/xNode/wiki)
+- [Siccity/xNode: Unity Node Editor: Lets you view and edit node graphs inside Unity](https://github.com/Siccity/xNode)
+
+### PropertyDrawer / Attribute
+
+- [Unity - Scripting API: TextAreaAttribute.TextAreaAttribute](https://docs.unity3d.com/ScriptReference/TextAreaAttribute-ctor.html)
+- [Unity编辑器拓展学习，（1）特性更新完毕 - 知乎](https://zhuanlan.zhihu.com/p/617999684)
+- [Warl-G's Blog - Unity手册—Attribute汇总说明](https://warl.top/posts/Unity-Manual-Attribute/)
+
+### ScriptableObject 工具
+
+- [Unity - 编辑器扩展 - SouthBegonia - 博客园](https://www.cnblogs.com/SouthBegonia/p/12637261.html)
+- [ScriptableObject（可编程对象）为团队和代码带来的六个好处 | Unity Blog](https://blog.unity.com/cn/engine-platform/6-ways-scriptableobjects-can-benefit-your-team-and-your-code)
+- [Unity-Technologies/ml-agents: The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that en...](https://github.com/Unity-Technologies/ml-agents)
+
+### 其他参考
+
+- [Unity编辑器扩展_Unique_849997563的博客-CSDN博客](https://blog.csdn.net/qq_33461689/category_9529506.html)
+- [unity编辑器扩展之美（一）_51CTO博客_unity编辑器](https://blog.51cto.com/u_15273495/2914714)
+- [Unity编辑器扩展Texture显示选择框 - 盘子脸 - 博客园](https://www.cnblogs.com/plateFace/p/4282729.html)
+- [Unity中实现字段/枚举编辑器中显示中文（中文枚举、中文标签） - Flamesky - 博客园](https://www.cnblogs.com/flamesky/p/15935234.html)
+- [【Unity编辑器扩展实践】、通过代码查找所有预制_unity 代码查找所有预制体-CSDN博客](https://blog.csdn.net/qq_33461689/article/details/103773692)
+- [Unity 编辑器扩展九 SerializedObject、SerializedProperty、SerializeField - 简书](https://www.jianshu.com/p/ef8bd9d9c6ea)
+- [Unity编辑器扩展 - 慕飞 - 博客园](https://www.cnblogs.com/mufei/p/10077178.html)
+- [Unity编辑器拓展之九：SearchField_unity searchfield-CSDN博客](https://blog.csdn.net/qq_26999509/article/details/80301320)
+- [github 给力的unity编辑器扩展案例项目 - 知乎](https://zhuanlan.zhihu.com/p/563472021)
+- [Unity项目多开（同时打开多个编辑器） - 哔哩哔哩](https://www.bilibili.com/read/cv24628888/)
 
 ## 参考链接
 

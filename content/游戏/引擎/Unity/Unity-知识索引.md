@@ -7,8 +7,8 @@ tags:
 status: reviewed
 confidence: 0.7
 visibility: public
-last_curated: 2026-05-13
-source_count: 0
+last_curated: 2026-06-11
+source_count: 7
 ---
 
 > 本文件由 `scripts/build_unity_note_index.py` 自动生成，生成时间：2026-05-13。
@@ -106,3 +106,22 @@ source_count: 0
 - 项目中存在大量重复设置、手工拖引用、手工导出、手工检查。
 - 编译和 Domain Reload 时间过长，影响程序和策划迭代。
 - 需要做资源规范检查、依赖分析、内存/硬盘大小统计或批量修复。
+
+### 博客园文章
+
+- [Unity Shader入门 - jiuguang - 博客园](https://www.cnblogs.com/lixiang-share/p/5025662.html)
+
+### 参考链接
+
+- [猫都能学会的Unity3D Shader入门指南（一） | OneV's Den](https://onevcat.com/2013/07/shader-tutorial-1/)
+- [Unity 解决包体过大问题记录和纹理相关知识点-云社区-华为云](https://bbs.huaweicloud.com/blogs/293517)
+- [Bolt可视化编程工具 | Unity 中文课堂](https://learn.u3d.cn/tutorial/bolt-mstudio?chapterId=63562b29edca72001f21d183&sectionId=60389634bed13a002239eabd)
+
+### Unity 官方
+
+- [适用于资深C#和C++程序员的Unity脚本编写教程](https://unity.com/cn/how-to/programming-unity)
+
+### GitHub 项目
+
+- [SouthBegonia/Luban_Unity_Tutorial: Luban导表工具在Unity中的使用示例](https://github.com/SouthBegonia/Luban_Unity_Tutorial)
+- [Githaojiejie/unity3D-tutorial](https://github.com/Githaojiejie/unity3D-tutorial)

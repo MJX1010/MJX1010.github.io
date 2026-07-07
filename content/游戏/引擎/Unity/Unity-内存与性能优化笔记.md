@@ -8,8 +8,8 @@ tags:
 status: reviewed
 confidence: 0.7
 visibility: public
-last_curated: 2026-05-22
-source_count: 3
+last_curated: 2026-06-11
+source_count: 36
 ---
 
 ## 结论
@@ -129,6 +129,55 @@ source_count: 3
 - 同一类问题优先合并到本笔记，例如纹理、AssetBundle、GC、移动端内存。
 - 如果某个子主题超过一屏，可以拆成独立笔记，例如 `Unity 纹理压缩策略`、`Unity AssetBundle 卸载机制`。
 - 本笔记已用 `scripts/fetch_link_content.py` 抓取参考链接正文并缓存到 `private/link_cache/`，缓存不会发布到站点。
+
+
+### 渲染优化
+
+- [Justin-sky/Nice-Lua: 基于xlua的MVVM框架，支持Addressables, 统一渲染管线等Unity新特性](https://github.com/Justin-sky/Nice-Lua)
+- [Unity3d | 关于RenderTexture/Texture/2d/3d的创建、赋值、保存 - 知乎](https://zhuanlan.zhihu.com/p/110050200)
+- [解决Unity3D中RenderTexture转存png文件，颜色变暗的问题_unity3d rendertexture-CSDN博客](https://blog.csdn.net/hakukou/article/details/123247360)
+- [线渲染器 (Line Renderer) - Unity 手册](https://docs.unity3d.com/cn/2019.1/Manual/class-LineRenderer.html)
+- [Unity SortingLayer和Layer区别、相机、渲染顺序和射线检测 - 掘金](https://juejin.cn/post/6844904121753927693)
+- [Unity3d中渲染到RenderTexture的原理，几种方式以及一些问题_unity 将3d 角色渲染到render texture上-CSDN博客](https://blog.csdn.net/leonwei/article/details/54972653)
+- [UE4 Shader编译以及变种实现 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技](https://blog.uwa4d.com/archives/USparkle_UE4Shader.html)
+
+### Profiler 与性能分析
+
+- [优化性能和质量 | Unity 的性能分析工具](https://unity.com/cn/features/profiling)
+- [Memory Breakdowns | Memory Profiler | 0.7.1-preview.1](https://docs.unity3d.com/Packages/com.unity.memoryprofiler@0.7/manual/memory-breakdowns.html)
+- [Official - Introducing the Editor Iteration Profiler - Unity Forum](https://forum.unity.com/threads/introducing-the-editor-iteration-profiler.908390/)
+- [Unity-Technologies/com.unity.editoriterationprofiler: Assists in capturing frames from the Profiler of Domain Reloads...](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler)
+- [Cysharp/MemoryPack: Zero encoding extreme performance binary serializer for C# and Unity.](https://github.com/Cysharp/MemoryPack)
+- [一文读懂Unity性能分析工具：MemoryProfiler，教你轻松分析项目性能瓶颈_unity memory profiler-CSDN博客](https://blog.csdn.net/qq_42437783/article/details/137157059)
+
+### GC 与内存管理
+
+- [Unity - Scripting API: Scripting.GarbageCollector.GCMode](https://docs.unity3d.com/2019.4/Documentation/ScriptReference/Scripting.GarbageCollector.GCMode.html)
+- [Using custom Editor tools - Unity Manual](https://docs.unity3d.com/es/2019.4/Manual/UsingCustomEditorTools.html)
+- [关于Unity内存优化，你可能遇到这些问题 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技](https://blog.uwa4d.com/archives/QA_Memory-1.html)
+- [Unity3D研究院编辑器之脚本获取资源内存和硬盘大小（二十五） | 雨松MOMO程序研究院](https://www.xuanyusong.com/archives/4263)
+- [(99+ 封私信 / 80 条消息) 【笔记】Unity内存分配和回收的底层原理 - 知乎](https://zhuanlan.zhihu.com/p/381859536)
+- [Unity教程｜从零开始构建《杀戮尖塔》｜系列视频-P1_游戏热门视频](https://www.bilibili.com/video/BV1k9JtzUEfF/?buvid=XUD3EA0D4638DB0CF3A5EFF30DBE362F5CF18&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=tYAtzRqVuOL8Gd1dLNXLvg%3D%3D&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=4e138af6-e545-4fad-88d7-cba502f7b870&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1747865860&unique_k=sE1Y0gM&up_id=173991951&vd_source=5aeec11224a2dcfe0ebe94495dda445e)
+- [Cysharp/NativeMemoryArray: Utilized native-memory backed array for .NET and Unity - over the 2GB limitation and suppo...](https://github.com/Cysharp/NativeMemoryArray)
+- [focus-creative-games/hybridclr: HybridCLR是一个特性完整、零成本、高性能、低内存的Unity全平台原生c#热更新解决方案。 HybridCLR is a fully featured, zero...](https://github.com/focus-creative-games/hybridclr)
+
+### 加载与资源优化
+
+- [你应该知道的AssetBundle管理机制 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技](https://blog.uwa4d.com/archives/ABTheory.html)
+
+### 其他参考
+
+- [Unity手游实战：逻辑与表现分离以及实战ECS架构和优化 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技](https://blog.uwa4d.com/archives/USparkle_ECS2.html)
+- [Unity ECS 架构与交通模拟的实现 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技](https://blog.uwa4d.com/archives/Usparkle_ECS.html)
+- [Unity3d中的细节优化 第一篇 - 知乎](https://zhuanlan.zhihu.com/p/101430350)
+- [【Unity】引擎编译时间优化 - 知乎](https://zhuanlan.zhihu.com/p/601065788)
+- [使用静态织入技术（Fody）简化和优化你的Unity代码 - 知乎](https://zhuanlan.zhihu.com/p/667866773)
+- [Unity性能优化分析思路 - UWA问答 | 博客 | 游戏及VR应用性能优化记录分享 | 侑虎科技](https://blog.uwa4d.com/archives/TechSharing_294.html)
+- [《Unity性能优化》-- 5. 性能优化实战 | 不特别周のBlog](https://1024114.xyz/posts/4a5d44c0/)
+- [Unity JSON性能对比(LitJson、NewtonsoftJson、SimpleJSON) - 锤子猫 - 博客园](https://www.cnblogs.com/moegarn/p/15655979.html)
+- [c# - Unity JSON性能对比(LitJson、NewtonsoftJson、SimpleJSON) - 冰封百度的学习笔记 - SegmentFault 思否](https://segmentfault.com/a/1190000019731298)
+- [UPR - Unity专业性能优化工具](https://upr.unity.cn/instructions/test-automation)
+- [Unity着色器编译全流程与优化指南_着色器编译技术-CSDN博客](https://blog.csdn.net/qq_33060405/article/details/136463570)
 
 ## 参考链接
 

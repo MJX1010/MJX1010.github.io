@@ -44,6 +44,15 @@ if %errorlevel% neq 0 (
     exit /b 1
 )
 
+echo [STEP] 隐私预检扫描...
+python scripts\harness.py privacy-scan --path content
+if %errorlevel% neq 0 (
+    echo.
+    echo [ERROR] 隐私扫描发现敏感内容，请先修复后再发布。
+    pause
+    exit /b 1
+)
+
 echo [STEP] 暂存所有改动...
 git add -A
 

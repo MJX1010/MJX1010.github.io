@@ -9,8 +9,8 @@ tags:
 status: reviewed
 confidence: 0.7
 visibility: public
-last_curated: 2026-05-13
-source_count: 10
+last_curated: 2026-06-11
+source_count: 29
 ---
 
 ## 结论
@@ -143,6 +143,41 @@ source_count: 10
 - Bundle 分组过细导致请求数量过多，分组过粗又导致更新包过大。
 - 加密策略只考虑安全，没有评估加载耗时和内存峰值。
 - 版本清单和 CDN 资源不是原子发布，客户端可能读到半发布状态。
+
+
+### Lua 热更方案
+
+- [基于xlua和mvvm的unity框架_51CTO博客_mvvm框架](https://blog.51cto.com/u_15127577/2727374)
+- [unity lua mvvm-掘金](https://juejin.cn/s/unity%20lua%20mvvm)
+- [tolua/README.md at master · topameng/tolua](https://github.com/topameng/tolua/blob/master/README.md)
+- [unity lua使用 mvvm 简述 - 知乎](https://zhuanlan.zhihu.com/p/523481872)
+- [tenvick/hugula: unity3d lua databinding mvvm](https://github.com/tenvick/hugula/tree/master)
+- [【Happy 指南】在 Unity3D 中使用 Lua 版的 PureMVC 实现一个完整的功能 - 匡 振 荣](http://zerokuang.com/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/%E3%80%90happy-%E6%8C%87%E5%8D%97%E3%80%91%E5%9C%A8-unity3d-%E4%B8%AD%E4%BD%BF%E7%94%A8-lua-%E7%89%88%E7%9A%84-puremvc-%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E7%9A%84%E5%8A%9F%E8%83%BD/)
+- [云风的 BLOG: Lua int64 的支持](https://blog.codingnow.com/2012/04/lua_int64.html)
+- [yukuyoulei/ConfigAuto: 【ConfigAuto】Unity编辑器下通过配置匿名类，自动生成C#类并填充数据，省去序列化和反序列化的消耗。以前是不能热更，不往这方面想，能热更了为啥lua能当配置表C#就不行](https://github.com/yukuyoulei/ConfigAuto)
+
+### HybridCLR / huatuo
+
+- [(99+ 封私信 / 80 条消息) 如何评价C#热更框架HybridCLR? - 知乎](https://www.zhihu.com/question/519548488/answer/2551892061)
+- [sunsvip/GF_X: Unity GameFramework + HybridCLR，简洁、高效、规范的开发工作流。从业十年的工作流积累，直击开发痛点，大量自动化编辑器扩展工具, 高效的自动化开发工作流](https://github.com/sunsvip/GF_X)
+- [1｜HybridCLR——划时代的Unity原生C#热更新技术_HybridCLR(wolong) C# 热更新_UWA学堂](https://edu.uwa4d.com/lesson-detail/432/2122/0?isPreview=false)
+- [XuToWei/GameDevelopmentKit: Unity双端开发工具，UnityGameFramework+ET+Luban+HybridCLR+UniTask，努力提供方便开发的工具](https://github.com/XuToWei/GameDevelopmentKit)
+- [focus-creative-games/hybridclr_trial: HybridCLR 示例项目](https://github.com/focus-creative-games/hybridclr_trial)
+- [focus-creative-games/hybridclr_unity: Unity package for HybridCLR](https://github.com/focus-creative-games/hybridclr_unity)
+
+### 热更原理与对比
+
+- [Unity C#热更新系列(2)-通用MonoBehaviourAdapter实现 - 知乎](https://zhuanlan.zhihu.com/p/455622312)
+
+### ILRuntime
+
+- [(99+ 封私信 / 80 条消息) 如何评价Unity的C#热更方案huatuo与ILRuntime的区别和优缺点？ - 知乎](https://www.zhihu.com/question/534297314/answer/2817560398)
+
+### Addressable / AssetBundle
+
+- [Unity资源管理 | 走停人生路](https://tonytang1990.github.io/2016/10/13/Unity%E8%B5%84%E6%BA%90/)
+- [CDN 资源管理 YooAsset](https://uos.unity.cn/doc/cdn/yoo-asset)
+- [(Unity 3D) 盘点 Github 上的那些 AssetBundle 框架_yooasset xasset-CSDN博客](https://blog.csdn.net/weixin_41292299/article/details/137928358)
 
 ## 参考链接
 

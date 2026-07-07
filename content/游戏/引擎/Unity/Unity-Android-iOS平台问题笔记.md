@@ -9,8 +9,8 @@ tags:
 status: reviewed
 confidence: 0.7
 visibility: public
-last_curated: 2026-05-13
-source_count: 5
+last_curated: 2026-06-11
+source_count: 37
 ---
 
 ## 结论
@@ -82,6 +82,51 @@ source_count: 5
 - iOS dSYM 是否上传并能还原堆栈。
 - Framework、Pods、权限描述和隐私清单是否符合当前商店要求。
 - OpenURL、文件分享、相册、相机、通知等系统能力是否真机验证。
+
+
+### Android 构建与适配
+
+- [Unity - Scripting API: .AndroidJavaRunnable](https://docs.unity3d.com/ScriptReference/AndroidJavaRunnable.html)
+- [浅谈Unity与Android原生的桥接](https://juejin.cn/post/6844904165760565261#heading-3)
+- [android | 西瓜SDK](https://www.xgsdk.com/doc/section2/Unity3d.html)
+- [Unity - Scripting API: AndroidJavaProxy](https://docs.unity.cn/2018.4/Documentation/ScriptReference/AndroidJavaProxy.html)
+- [浅谈Unity与Android原生的桥接](https://juejin.cn/post/6844904165760565261#heading-12)
+- [zhOrange/AndroidvsUnity: Android与unity通信Demo](https://github.com/zhOrange/AndroidvsUnity)
+- [android - 通过android DLL的Unity android wifi套接字通信 - IT工具网](https://www.coder.work/article/3511953)
+- [unity桥接iOS和Android - 游戏编程 🕹️](https://www.233tw.com/unity/12684)
+- [Unity Android Plugin开发指南 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1033592)
+- [Unity2020 使用VideoPlayer播放视频Android平台播放失败问题 - 知乎](https://zhuanlan.zhihu.com/p/634207417)
+- [Unity VideoPlayer使用url方式，Android平台下无法播放http链接的视频（黑屏、无反应、无报错、无log输出） - kingBook - 博客园](https://www.cnblogs.com/kingBook/p/16405893.html)
+- [api.unity.com](https://api.unity.com/v1/oauth2/authorize?client_id=unity_forum&response_type=code&redirect_uri=https%3A%2F%2Fforum.unity.com%2Fregister%2Fgenesis&state=r2b2OpkliusXKlxPNcVTEM9ZrzlLDe8fbY9BcHuQ%3B%2Fthreads%2Fapplication-openurl-on-unity-2017-2-android-7-not-working.502135%2F&prompt=NONE)
+- [c# - How to install Android apk from code in unity - Stack Overflow](https://stackoverflow.com/questions/45012523/how-to-install-android-apk-from-code-in-unity/45012767#45012767)
+- [Unity 项目支持 Android 16 KB 的方案 - 技术专栏 - Unity官方开发者社区](https://developer.unity.cn/projects/6854c4fcedbc2ada96ddb533)
+- [Android适配16 KB Page Size，看这一篇就够了！ | 优测云真 - 技术专栏 - Unity官方开发者社区](https://developer.unity.cn/projects/687efd5fedbc2aa66b703c86)
+
+### IL2CPP 与 Mono
+
+- [Unity3d 中如何自定义编译宏 - 简书](https://www.jianshu.com/p/cd11e097a142)
+- [Unity Prefab中MonoBehaviour脚本修改带来的序列化问题_monobehaviour 序列化-CSDN博客](https://blog.csdn.net/n5/article/details/113756982)
+- [Unity - Scripting API: MonoBehaviour](https://docs.unity3d.com/ScriptReference/MonoBehaviour.html)
+- [Unity下的测试一：节省时间的小技巧——Unity关闭自动刷新编译功能，到需要的时候再手动刷新_unity 自动编译-CSDN博客](https://blog.csdn.net/qinglingLS/article/details/109480569)
+- [停止Unity在运行时脚本修改重新编译的情况 - 三页菌 - 博客园](https://www.cnblogs.com/sanyejun/p/14845428.html)
+- [Unity编译报错Copying Assembly-CSharp.dll问题解决_unity copying assembly from-CSDN博客](https://blog.csdn.net/sindyra/article/details/134614650)
+- [如何从脚本停止自动编译 – Unity](https://support.unity.com/hc/zh-cn/articles/210452343-%E5%A6%82%E4%BD%95%E4%BB%8E%E8%84%9A%E6%9C%AC%E5%81%9C%E6%AD%A2%E8%87%AA%E5%8A%A8%E7%BC%96%E8%AF%91)
+- [GameArki/UnityDirtyCompiler: 🛠 【UnityDirtyCompiler 脏脚本编译工具】修改脚本后，使用此工具进行编译，Unity只会编译脚本所在的程序集。编译速度大约能快8秒以上。](https://github.com/GameArki/UnityDirtyCompiler)
+- [unity il2cpp导出时生成符号表排查crash问题 | 邹成卓的个人网站](https://www.zoucz.com/blog/2022/11/30/011a7e40-70ad-11ed-9fa0-5dbc93f9d3ee/)
+- [Unity加速编译小技巧_unity 脚本即时编译-CSDN博客](https://blog.csdn.net/qq_34035956/article/details/126033776)
+- [Unity il2cpp 编译流程分享 - 视频 - ByteTech](https://bytetech.info/videos/7134694941254483976)
+- [Unity il2cpp 编译流程分享 （下） - 视频 - ByteTech](https://bytetech.info/videos/7134657562808418340)
+
+### 平台 SDK 接入
+
+- [googleads/googleads-mobile-unity: Official Unity Plugin for the Google Mobile Ads SDK](https://github.com/googleads/googleads-mobile-unity)
+
+### 其他参考
+
+- [UWA学堂 | Unity和Unreal游戏引擎的从业者学习交流平台](https://edu.uwa4d.com/)
+- [搜索unreal - 蛮牛教育 - 国内最大的Unity在线学习平台|Unity培训|Unity3d培训|Unity视频学习|Unity教程 Unreal 虚幻 AR VR - Powered By EduSoho](https://edu.manew.com/cloud/search?q=unreal&type=course&page=2)
+- [(21条消息) Unity宏定义判断运行平台和Application.platform_苦逼的程序员！！！的博客-CSDN博客_application.platform](https://blog.csdn.net/qq_42898629/article/details/83576641)
+- [泰课在线 -- 志存高远，稳如泰山 - 国内专业的在线学习平台|Unity3d培训|Unity教程|Unity教程 Unreal 虚幻 AR|移动开发|美术CG - Powered By EduSoho](https://www.taikr.com/)
 
 ## 参考链接
 
